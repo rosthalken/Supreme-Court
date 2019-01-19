@@ -1,0 +1,57 @@
+﻿
+A juvenile informed by police that he has a right to counsel may understand that right to include one or more of three options: (1) that he has a right to have a lawyer represent him if he or his parents are able and willing to hire one; (2) that, if he cannot afford to hire an attorney, he has a right to have a lawyer represent him without charge at trial, even if his parents are unwilling to spend money on his behalf; or (3) that, if he is unable to afford an attorney, he has a right to consult a lawyer without charge before he decides whether to talk to the police, even if his parents decline to pay for such legal representation. 1Link to the text of the note All three of these options are encompassed within the right to counsel possessed by a juvenile charged with a crime. In this case, the first two options were explained to respondent,     but the third was not.
+
+In Miranda v. Arizona, 384 U.S. 436, this Court held that in order to protect an accused's privilege against self-incrimination, certain procedural safeguards must be employed.     In particular, an individual taken into police custody and subjected to questioning must be given the Miranda warnings:
+
+
+
+"He must be warned prior to any questioning that he has the right to remain silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an attorney,     and that if he cannot afford an attorney one will be appointed for him prior to any questioning if he so desires." Id., at 479.
+
+See also Rhode Island v. Innis, 446 U.S. 291, 297. This formulation makes it clear beyond any doubt that an indigent accused has the right to the presence of an attorney and the right to have that attorney appointed to represent him prior to any questioning. While it is certainly true, as the Court emphasizes today, that the Federal Constitution does not require a "talismanic incantation" of the language of the Miranda opinion, ante, at 359, it is also indisputable that it requires that an accused be adequately informed of his right to have counsel appointed prior to any police questioning.
+
+The California Court of Appeal in this case analyzed the warning given respondent, quoted ante, at 356-357, and concluded that he had not been adequately     informed of this crucial right. The police sergeant informed respondent that he had the right to have counsel present during questioning and, after a brief interlude, informed him that he had the right to appointed counsel. See ibid. The Court    of Appeal concluded that this warning was constitutionally inadequate, not because it deviated from the precise language of Miranda, but because
+
+"[unfortunately,] the minor was not given the crucial information that the services of the free attorney were available prior to the impending questioning." App. A to Pet. for Cert. 15 (emphasis in original). 2Link to the text of the note
+
+       There can be no question that Miranda requires, as a matter of federal constitutional law, that an accused effectively be provided with this "crucial information" in some form. The Court's demonstration that the Constitution does not require that the precise language of Miranda be recited to an accused simply fails to come to terms with the express finding of the California Court of Appeal that respondent was not given this information. The warning recited by the police sergeant is sufficiently ambiguous on its face to provide adequate support for the California court's finding. That court's conclusion is at least reasonable, and is clearly not so patently erroneous as to warrant summary reversal.
+
+    The ambiguity in the warning given respondent is further demonstrated by the colloquy between the police sergeant and respondent's parents that occurred after respondent was told that he had the "right to have a lawyer appointed to represent you at no cost to yourself." Because lawyers are normally "appointed" by judges, and not by law enforcement officers, the reference to appointed counsel could reasonably have been understood to refer to trial counsel. 3Link to the text of the note    That is what     respondent's parents must have assumed, because their ensuing colloquy with the sergeant related to their option "to hire a lawyer." 4Link to the text of the note
+
+    The     judges on the California Court of Appeal and on the California Supreme Court, all of whom are presumably more familiar with the procedures followed by California police officers than we are, concluded that respondent was not adequately informed of his right to have a lawyer present without charge during the questioning. This Court is not at all fair to those judges when it construes their conscientious appraisal of a somewhat ambiguous record as requiring "a virtual incantation of the precise language contained in the     Miranda opinion." Ante, at 355. It seems clear to me that it is this Court, rather than the state courts, that is guilty of attaching greater importance to the form of the Miranda ritual than to the substance of the message it is intended to convey.
+
+I respectfully dissent.
+
+In his dissenting opinion in Miranda v. Arizona, 384 U.S. 436, 504, Justice Harlan accurately summarized the four essential elements of the warning that must be given a person in custody before he is questioned, "namely, that he has a right to remain silent, that anything he says may be used against him, that he has a right to have present an attorney during the questioning, and that if indigent he has a right to a lawyer without charge."
+
+2Link to the location of the note in the document
+According to the Court of Appeal, the principal defect in the warning was that the police sergeant, in a "needless excursion," inserted a discussion of respondent's right to have his parents present between the description of the right to have counsel present during questioning and the description of the right of an indigent to have counsel appointed to represent him. See App. A to Pet. for Cert. 14-15. The subsequent untaped converation "obfuscated, rather than clarified" the matter. Id., at 15. The warnings given respondent were defective, not because "the officer did not parrot the language of Miranda," ante, at 361, n. 3, but because, in the form in which the warnings were given, they failed to convey the essential information required by Miranda.
+
+3Link to the location of the note in the document
+The fact that the reference also might have been understood to refer to the appointment of counsel prior to questioning does not undercut the Court of Appeal's conclusion. Miranda requires "meaningful advice to the unlettered and unlearned in language which he can comprehend and on which he can knowingly act." Coyote v. United States, 380 F.2d 305, 308 (CA10 1967), cert. denied, 389 U.S. 992. Such meaningful advice is not provided by a warning which requires that an accused choose among several reasonable interpretations of the language employed by a police officer in a custodial situation.
+
+4Link to the location of the note in the document
+The Court simply ignores the significance of the references to hiring a lawyer in the colloquy which it quotes ante, at 357-358, n. 1. The colloquy bears repeating:
+
+"Sgt. Byrd: . . . Okay, Mrs. Prysock, you asked to get off the tape . . . . During that time you asked, decided you wanted some time to think about getting, whether to hire a lawyer or not.
+
+"Mrs. P.: 'Cause I didn't understand it.
+
+"Sgt. Byrd: And you have decided now that you want to go ahead and you do not wish a lawyer present at this time?
+
+"Mrs. P.: That's right.
+
+"Sgt. Byrd: And I have not persuaded you in any way, is that correct?
+
+"Mrs. P.: No, you have not.
+
+"Sgt. Byrd: And, Mr. Prysock is that correct that I have done nothing to persuade you not to, to hire a lawyer or to go on with this?
+
+"Mr. P.: That's right.
+
+"Sgt. Byrd: Okay, everything we're doing here is strictly in accordance with Randall and yourselves, is that correct?
+
+"Mr. P.: That is correct.
+
+"Sgt. Byrd: Okay. Uh, all right, Randy, I can't remember where I left off, I think I asked you, uh, with your legal rights in mind, do you wish to talk to me at this time? This is with everything I told you, all your legal rights, your right to an attorney, your right, and your right to remain silent, and all these, I mean do you wish to talk to me at this time about the case?
+
+"Randall P.: Yes." App. A to Pet. for Cert. iii-iv (emphasis added).

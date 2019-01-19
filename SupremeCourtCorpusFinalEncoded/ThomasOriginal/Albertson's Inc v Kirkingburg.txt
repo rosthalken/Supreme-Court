@@ -1,0 +1,30 @@
+﻿
+
+
+119 S.Ct. 2162
+Supreme Court of the United States
+ALBERTSON’S, INC., Petitioner,
+v.
+Hallie KIRKINGBURG.
+No. 98-591.
+|
+Argued April 28, 1999.
+|
+Decided June 22, 1999.
+Justice THOMAS, concurring.
+
+As the Government reads the Americans with Disabilities Act of 1990 (ADA or Act), **2175 104 Stat. 327, as amended, 42 U.S.C. § 12101 et seq. (1994 ed. and Supp. III), it requires that petitioner justify the Department of Transportation’s (DOT) visual acuity standards as job related, consistent with business necessity, and required to prevent employees from imposing a direct threat to the health and safety of others in the workplace. The Court assumes, for purposes of this case, that the Government’s reading is, for the most part, correct. Ante, at 2170, and n. 15. I agree with the Court’s decision that, even when the case is analyzed through the Government’s proposed lens, petitioner was entitled to summary judgment in this case. As the Court explains, ante, at 2174, it would be unprecedented and nonsensical to interpret § 12113 to require petitioner to defend the application of the Government’s regulation to respondent when petitioner has an unconditional obligation to enforce the federal law.
+ 
+As the Court points out, though, ante, at 2169, DOT’s visual acuity standards might also be relevant to the question whether respondent was a “qualified individual with a disability” under 42 U.S.C. § 12112(a). That section provides that no covered entity “shall discriminate against a qualified individual with a disability because of the disability of such individual.” Presumably, then, a plaintiff claiming a cause of action under the ADA bears the burden of proving, inter alia, that he is a qualified individual. The phrase “qualified individual with a disability” is defined to mean:
+*579 “an individual with a disability who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires. For the purposes of this subchapter, consideration shall be given to the employer’s judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job.” § 12111(8) (emphasis added).
+ 
+In this case, respondent sought a job driving trucks in interstate commerce. The quintessential function of that job, it seems to me, is to be able to drive a commercial truck in interstate commerce, and it was respondent’s burden to prove that he could do so.
+ 
+As the Court explains, ante, at 2171, DOT’s Motor Carrier Safety Regulations have the force of law and bind petitioner-it may not, by law, “permit a person to drive a commercial motor vehicle unless that person is qualified to drive.” 49 CFR § 391.11 (1999). But by the same token, DOT’s regulations bind respondent, who “shall not drive a commercial motor vehicle unless he/she is qualified to drive a commercial motor vehicle.” Ibid.; see also § 391.41 (“A person shall not drive a commercial motor vehicle unless he/she is physically qualified to do so”). Given that DOT’s regulation equally binds petitioner and respondent, and that it is conceded in this case that respondent could not meet the federal requirements, respondent surely was not “qualified” to perform the essential functions of petitioner’s truckdriver job without a reasonable accommodation. The waiver program might be thought of as a way to reasonably accommodate respondent, but for the fact, as the Court explains, ante, at 2171-2174, that the program did nothing to modify the regulation’s unconditional requirements. *580 For that reason, requiring petitioner to make such an accommodation most certainly would have been unreasonable.
+ 
+The result of this case is the same under either view of the statute. If forced to choose between these alternatives, however, I would prefer to hold that respondent, as a matter of law, was not qualified to perform the job he sought within the meaning of the ADA. I nevertheless join the Court’s opinion. The Ninth Circuit below viewed respondent’s ADA claim on the Government’s terms and petitioner’s argument here appears to be tailored around the Government’s view. In these circumstances, I agree with the Court’s approach. I join the Court’s opinion, however, only on the understanding that it leaves open the argument that federal laws such as DOT’s visual acuity standards might be critical in determining whether a plaintiff is a “qualified individual with a disability.”
+ 
+
+
+
+

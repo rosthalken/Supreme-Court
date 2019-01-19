@@ -1,0 +1,13 @@
+﻿501 U.S. 529
+JAMES B. BEAM DISTILLING CO. v. GEORGIA et al.
+Supreme Court of the United States
+October 30, 1990, Argued ; June 20, 1991, Decided
+No. 89-680
+
+JUSTICE SCALIA, with whom JUSTICE MARSHALL and JUSTICE BLACKMUN join, concurring in the judgment.
+
+I think I agree, as an abstract matter, with JUSTICE SOUTER's reasoning,  [***497]  but that is not what leads me  [****34]  to agree with his conclusion. I would no more say that what he calls "selective prospectivity" is impermissible because it produces inequitable results than I would say that the coercion of confessions is impermissible for that reason. I believe that the one, like the other, is impermissible simply because it is not allowed by the Constitution. Deciding between a constitutional course and an unconstitutional one does not pose a question of choice of law.
+
+ [*549]  If the division of federal powers central to the constitutional scheme is to succeed in its objective, it seems to me that the fundamental nature of those powers must be preserved as that nature was understood when the Constitution was enacted. The Executive, for example, in addition to "taking Care that the Laws be faithfully executed," Art. II, § 3, has no power to bind private conduct in areas not specifically committed to his control by Constitution or statute; such a perception of "the Executive power" may be familiar to other legal systems, but is alien to our own. So also, I think, "the judicial Power of the United States" conferred upon this Court and such inferior courts as Congress may establish, Art.  [****35]  III,  [**2451]  § 1, must be deemed to be the judicial power as understood by our common-law tradition. That is the power "to say what the law is," Marbury v. Madison, 5 U.S. 137, 1 Cranch 137, 177, 2 L. Ed. 60 (1803), not the power to change it. I am not so naive (nor do I think our forebears were) as to be unaware that judges in a real sense "make" law. But they make it as judges make it, which is to say as though they were "finding" it -- discerning what the law is, rather than decreeing what it is today changed to, or what it will tomorrow be. Of course this mode of action poses "difficulties of a . . . practical sort," ante, at 536, when courts decide to overrule prior precedent. But those difficulties are one of the understood checks upon judicial lawmaking; to eliminate them is to render courts substantially more free to "make new law," and thus to alter in a fundamental way the assigned balance of responsibility and power among the three branches.
+
+For this reason, and not reasons of equity, I would find both "selective prospectivity" and "pure prospectivity" beyond our power.

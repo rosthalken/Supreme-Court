@@ -1,0 +1,25 @@
+﻿CONNECTICUT NATIONAL BANK, PETITIONER v. THOMAS M. GERMAIN, TRUSTEE FOR THE ESTATE OF O'SULLIVAN'S FUEL OIL CO., INC.
+
+No. 90-1791
+
+SUPREME COURT OF THE UNITED STATES
+
+503 U.S. 249
+
+January 21, 1992, Argued 
+March 9, 1992, Decided 
+
+[*255]  JUSTICE STEVENS, concurring in the judgment.
+Whenever there is some uncertainty about the meaning of a statute, it is prudent to examine its legislative history. 1 In this case, such an examination is appropriate because petitioner's interpretation of 28 U. S. C. § 158(d) creates an unusual overlap with 28 U. S. C. § 1291.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 See Wisconsin Public Intervenor v. Mortier 501 U.S. 597, 611, n. 4, 115 L. Ed. 2d 532, 111 S. Ct. 2476 (1991) ("Common sense suggests that inquiry benefits from reviewing additional information rather than ignoring it"). As Judge Learned Hand advised, statutes "should be construed, not as theorems of Euclid, but with some imagination of the purposes which lie behind them." Lehigh Valley Coal Co. v. Yensavage, 218 F. 547, 553 (CA2 1914), cert. denied, 235 U.S. 705, 59 L. Ed. 434, 35 S. Ct. 282 (1915). Legislative history helps to illuminate those purposes.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Rejecting petitioner's position, the Court of Appeals concluded that in enacting the current system of bankruptcy appeals, Congress limited the scope of § 1292(b), excluding review by the courts of appeals of certain interlocutory bankruptcy orders. If Congress had intended such a significant change in the scheme of appellate jurisdiction, some indication of this purpose would almost certainly have found its way into the legislative history. The legislative record, however, contains no mention of an intent to limit the scope of § 1292(b). This silence tends to support the conclusion that no such change was intended. 2
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+2 See American Hospital Assn. v. NLRB, 499 U.S. 606, 613-614, 113 L. Ed. 2d 675, 111 S. Ct. 1539 (1991); Edmonds v. Compagnie Generale Transatlantique, 443 U.S. 256, 266-267, 61 L. Ed. 2d 521, 99 S. Ct. 2753 (1979); see also Harrison v. PPG Industries, Inc., 446 U.S. 578, 602, 64 L. Ed. 2d 525, 100 S. Ct. 1889 (1980) (REHNQUIST, J., dissenting) ("In a case where the construction of legislative language such as this makes so sweeping and so relatively unorthodox a change as that made here, I think judges as well as detectives may take into consideration the fact that a watchdog did not bark in the night"). Similarly, Justice Frankfurter's scholarly observation concerning the interpretation of a statutory text also applies to the analysis of legislative history: "One must . . . listen attentively to what it does not say." Frankfurter, Some Reflections on the Reading of Statutes, 47 Colum. L. Rev. 527, 536 (1947).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Accordingly, notwithstanding the inferences drawn by the Court of Appeals, the legislative history is not only consistent  [*256]  with petitioner's interpretation of the statute, but also actually supports it. For this reason, and because I agree with the Court's textual analysis, I concur in its judgment.

@@ -1,0 +1,24 @@
+﻿
+
+
+134 S.Ct. 1126
+Supreme Court of the United States
+Walter FERNANDEZ, Petitioner
+v.
+CALIFORNIA.
+No. 12–7822.
+|
+Argued Nov. 13, 2013.
+|
+Decided Feb. 25, 2014.
+Justice THOMAS, concurring.
+
+I join the opinion of the Court, which faithfully applies Georgia v. Randolph, 547 U.S. 103, 126 S.Ct. 1515, 164 L.Ed.2d 208 (2006). I write separately to make clear the extent of my disagreement with Randolph.
+ 
+I dissented in Randolph because the facts of that case did not implicate a Fourth Amendment search and never should have been analyzed as such. Id., at 145, 126 S.Ct. 1515 (THOMAS, J., dissenting) (“[N]o Fourth Amendment search occurs where ... the spouse of an accused voluntarily leads the police to potential evidence of wrongdoing by the accused”). Instead of deciding the case on that narrow ground, the majority in Randolph looked to “widely shared social expectations” to resolve whether the wife’s consent to a search should control over her husband’s objection. Id., at 111, 126 S.Ct. 1515. I find no support for that novel analytical approach in the Fourth Amendment’s text or history, or in this Court’s jurisprudence. See id., at 128–131, 126 S.Ct. 1515 (ROBERTS, C.J., dissenting). Accordingly, given a blank slate, I would analyze this case consistent with THE CHIEF JUSTICE’s dissent in Randolph : “A warrantless search is reasonable if police obtain the voluntary consent of a person authorized to give it.” Id., at 128, 126 S.Ct. 1515. That is because “[c]o-occupants have ‘assumed the risk that one of their number might permit [a] common area to be searched.’ ” Ibid. (quoting United States v. Matlock, 415 U.S. 164, 171, n. 7, 94 S.Ct. 988, 39 L.Ed.2d 242 (1974)). In this case, the trial court found that Rojas’ consent was voluntary, see ante, at n. 2, and petitioner does not contest that Rojas had common authority over the premises. That should be the end of the matter.
+ 
+
+
+
+
+

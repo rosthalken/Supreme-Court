@@ -1,0 +1,13 @@
+﻿
+        
+        Warner-Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17, 117 S. Ct. 1040 (1997)
+        
+
+
+      
+
+JUSTICE GINSBURG, with whom JUSTICE KENNEDY joins, concurring.
+
+I join the opinion of the Court and write separately to add a cautionary note on the rebuttable presumption the Court announces  [**1055]  regarding prosecution history estoppel. I address in particular the application of the presumption in this case and others in which patent prosecution has already been completed. The new presumption, if applied woodenly, might in some instances unfairly discount the expectations of a patentee who had no notice at the time of patent prosecution that such a presumption would apply. Such a patentee would have had little incentive to insist that the reasons for all modifications be memorialized in the file wrapper as they were made. Years after the fact, the patentee may find it difficult to establish an evidentiary basis that would overcome the new presumption. The Court's opinion is sensitive to this problem, noting that "the PTO may have relied upon a flexible rule of estoppel when deciding whether to ask for a change" during patent prosecution. 1997 U.S. LEXIS 1476 at *29, n.6 at 13, n. 6.
+
+Because respondent [****47]  has not presented to this Court any explanation for the addition of the lower pH limit, I concur in the decision to remand the matter to the Federal Circuit.  [*42]  On remand, that court can determine--bearing in mind the  [***169]  prior absence of clear rules of the game--whether suitable reasons for including the lower pH limit were earlier offered or, if not, whether they can now be established.

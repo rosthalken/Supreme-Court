@@ -1,0 +1,17 @@
+﻿
+        
+        Vt. Agency of Nat. Res. v. United States ex rel. Stevens, 529 U.S. 765, 120 S. Ct. 1858 (2000)
+        
+
+
+      
+
+JUSTICE GINSBURG, with whom JUSTICE BREYER joins, concurring in the judgment.
+
+I join the Court's judgment and here state the extent to which I subscribe to the Court's opinion.
+
+I agree with the Court that the [****36]  qui tam relator is properly regarded as an assignee of a portion of the Government's claim for damages. See ante, at 6. And I agree, most vitally, that "Article III's restriction of the judicial power to 'Cases' and 'Controversies' is properly understood to mean 'cases and controversies of the sort traditionally amenable to, and resolved by, the judicial process.'" Ante, at 7. On that key matter, I again agree that history's pages place the qui tam suit safely within the "case" or "controversy" category. See ante, at 7-11.
+
+In Steel Co. v. Citizens for Better Environment, 523 U.S. 83, 140 L. Ed. 2d 210, 118 S. Ct. 1003 (1998), I reasoned that if Congress did not authorize a citizen suit, a court should dismiss the citizen suitor's complaint without opining "on the constitutionality of what Congress might have done, but did not do." Id., at 134 (opinion concurring in judgment). I therefore agree that the Court properly turns first to the statutory question here presented: Did Congress authorize qui tam suits against the States. Concluding that Congress did not authorize such suits, the Court has no cause to engage in an Eleventh Amendment inquiry, and appropriately [****37]  leaves that issue open.
+
+I do not find in the False Claims Act any clear statement subjecting the States to qui tam suits brought by private  [*789]  parties, and therefore concur in the Court's resolution of the statutory question. See ante, at 21. I note, however, that the clear statement rule applied to private suits against a State has not been applied when the United States is the plaintiff. See, e.g., Sims v. United States, 359 U.S. 108, 112, 3 L. Ed. 2d 667, 79 S. Ct. 641 (1959) (state agency ranks as a "person" subject to suit by the United States under federal tax levy provision); United States v. California, 297 U.S. 175, 186-187, 80 L. Ed. 567, 56 S.  [***856]  Ct. 421 (1936) (state-owned railway ranks as a "common carrier" under Federal Safety Appliance Act subject suit for penalties by the United States). I read the Court's decision to leave open the question whether the word "person" encompasses States when the United States itself sues under the False Claims Act.

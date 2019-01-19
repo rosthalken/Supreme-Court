@@ -1,0 +1,51 @@
+﻿
+        
+        W. & S. Life Ins. Co. v. State Bd. of Equalization, 451 U.S. 648, 101 S. Ct. 2070 (1981)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom JUSTICE BLACKMUN joins, dissenting.
+
+The practice of holding hostages to coerce another sovereign to change its policies is not new; nor, in my opinion, is it legitimate. California acknowledges that its discrimination  [*675]  against Ohio citizens within its jurisdiction is specifically intended to coerce the Ohio Legislature into enacting legislation favored by California. Today the Court holds that this state purpose is legitimate. In my opinion that coercive motivation is not an acceptable justification for California's discriminatory treatment of nonresidents.
+
+The discrimination disclosed by this record is much more irregular than a simple preference for domestic corporations over foreign corporations. Some foreign insurance companies pay the same tax that domestic companies pay. Those that pay higher taxes than California companies do not all pay the same tax. Thus, for example, California  [****49]  taxes insurance companies incorporated in Ohio at a 2.5% rate, Montana companies at a 2.75% rate, and West Virginia and Idaho companies at a 3% rate. 1Link to the text of the note The prevailing tax rate in California for domestic companies and most foreign companies is 2.35%. 2Link to the text of the note Thus the insurance companies competing in the California market are subjected to flagrant discrimination.
+
+A desire to eliminate discrimination in other States does not justify the discrimination practiced by California. All insurance companies that do business in Ohio are taxed at the 2.5% rate and all those that compete in the West Virginia market pay the 3% rate.  [****50]  Neither of those States has meddled in California's affairs or taken any  [**2087]  action that has a special impact in California. California's justification for its retaliatory tax scheme is simply to apply pressure on other States to lower their tax rates to the level that California considers acceptable. The possibility that different States  [*676]  may have different fiscal needs is a matter of no concern to California. 3Link to the text of the note
+
+ [****51]  [***536]  Furthermore, the discrimination is not justified by any actions taken in California. The State has not pointed to any significant difference in the way different taxpayers conduct their business in California. No administrative problems justify charging residents of some States higher taxes than others. The mere difference in residence is admittedly an insufficient reason for disparate treatment, 4Link to the text of the note [****52]  and the incremental tax collected from out-of-state companies is not justified as a revenue measure. 5Link to the text of the note Thus the retaliatory increment  [*677]  is in the nature of a monetary penalty imposed on foreign citizens to apply pressure to their sovereign. Analytically, pressure of that kind is comparable to ransom. 6Link to the text of the note
+
+ [****53]  The Fourteenth Amendment to the United States Constitution provides that no State may "deny to any person within its jurisdiction the equal protection of the laws." The federal interest vindicated by this provision requires every State to respect the individuality and the essential equality of every person subject to its jurisdiction; it forbids disparate treatment that is unrelated to any difference in the character or the behavior of persons subject to the State's jurisdiction. California's disapproval of the official policies of the State of Ohio cannot justify the exaction of special payments from individuals who come from that State, even though such exactions may  [**2088]  cause them to plead with their legislature to conform to California's will. 7Link to the text of the note
+
+ [****54]  [*678]  [***537]  In my opinion the federal interest in the impartial administration of the laws of the several States is unquestionably paramount to any one State's parochial interest in applying pressure to its neighbors by use of "retaliatory" legislation. This discriminatory legislation is not justified by a legitimate purpose and therefore violates the Equal Protection Clause.
+
+I respectfully dissent.
+
+See Cal. Ins. Code Ann. § 685 (West 1972); Idaho Code § 41-402 (1977); Ohio Rev. Code Ann. § 5729.03 (1973); Mont. Code Ann. § 33-2-705 (1979); W. Va. Code §§ 33-3-14 and 33-3-14a (Supp. 1980). As the Court's opinion indicates, ante, at 651, the amount of retaliatory taxes reflected by these small percentage differences is significant.
+
+2Link to the location of the note in the document
+Cal. Rev. & Tax. Code Ann. §§ 12201, 12202 (West 1970).
+
+3Link to the location of the note in the document
+The United States, as amicus curiae, takes the position that California has no legitimate interest in Ohio's level of taxation or fiscal structure when no discriminatory action against California citizens or corporations is involved. It states:
+
+"The several states have different resources, populations, social and economic conditions, levels of public service, fiscal structures, methods and sources of raising revenue, and tax burdens, both in gross and per capita. With respect to other states, where no discriminatory or hostile action is involved, the states are largely autonomous in these matters. And even if another state has engaged in discriminatory action, the Constitution, as this Court has pointed out, does not contemplate the economic warfare of reprisal and retaliation. A&P Tea Co. v. Cottrell, 424 U.S. 366 (1976)." Brief for United States as Amicus Curiae 10.
+
+4Link to the location of the note in the document
+As the Court states:
+
+"We consider it now established that, whatever the extent of a State's authority to exclude foreign corporations from doing business within its boundaries, that authority does not justify imposition of more onerous taxes or other burdens on foreign corporations than those imposed on domestic corporations, unless the discrimination between foreign and domestic corporations bears a rational relation to a legitimate state purpose." Ante, at 667-668.
+
+See also Wheeling Steel Corp. v. Glander, 337 U.S. 562, 572:
+
+"It seems obvious that appellants are not accorded equal treatment, and the inequality is not because of the slightest difference in Ohio's relation to the decisive transaction, but solely because of the different residence of the owner."
+
+5Link to the location of the note in the document
+"[It] is clear that the purpose is not to generate revenue at the expense of out-of-state insurers, but to apply pressure on other States to maintain low taxes on California insurers." See ante, at 669-670.
+
+6Link to the location of the note in the document
+California's objective is to confer a limited benefit on a limited group of companies that are incorporated under its laws. This case involves the special interest of insurance companies in paying taxes at a rate no higher than the rate California requires for its budgetary purposes. The next case may involve a different industry with a different special interest. Thus, for example, the trucking industry or the motorcoach industry might favor high speed limits, loose safety inspection laws, and lax emission standards. If their lobbyists could persuade the legislature of a powerful State to adopt rules favorable to their interests, then under today's holding they may also seek retaliatory programs that would apply pressure to neighboring States to adopt similar rules. Although such a statute might violate other constitutional provisions, such as the Commerce Clause, under today's holding the Equal Protection Clause would present no impediment.
+
+7Link to the location of the note in the document
+In holding that California's purpose in enacting the discriminatory tax is legitimate, the Court compares this case to state attempts to maintain the profit level of a domestic industry, Parker v. Brown, 317 U.S. 341, 363-367, and efforts to "protect and enhance the reputation" of a domestic industry, enabling it to compete more effectively in the interstate market. Pike v. Bruce Church, Inc., 397 U.S. 137, 143. The enactment of a statute designed to confer a direct benefit or to provide protection for domestic corporations is surely not comparable to California's imposition of a burden on foreign corporations designed to coerce foreign States to enact legislation which will benefit California corporations at the expense of the interest which motivated the foreign State's original tax rate.

@@ -1,0 +1,17 @@
+﻿
+        
+        Fry v. Pliler, 551 U.S. 112, 127 S. Ct. 2321 (2007)
+        
+
+
+      
+
+Justice Breyer, concurring in part and dissenting in part.
+
+I agree with the Court that Brecht v. Abrahamson, 507 U.S. 619, 113 S. Ct. 1710, 123 L. Ed. 2d 353 (1993), sets forth the proper standard of review. Cf. id., at 643, 113 S. Ct. 1710, 123 L. Ed. 2d 353 (Stevens, J., concurring).  [***27] At the same time, I agree with Justice Stevens that we should consider the application of the standard, that the error was not harmless, and that "Chambers [****25]  error is by nature prejudicial." Ante, at 124, 168 L. Ed. 2d, at 25 (opinion concurring in part and dissenting in part) (citing Chambers v. Mississippi, 410 U.S. 284, 93 S. Ct. 1038, 35 L. Ed. 2d 297 (1973)). Cf. Kyles v. Whitley, 514 U.S. 419, 435, 115 S. Ct. 1555, 131 L. Ed. 2d 490 (1995) (similar statement as to errors under Brady v. Maryland, 373 U.S. 83, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963)). Nonetheless, I would remand this case rather than reversing the Court of Appeals.
+
+My reason arises out of the fact that here, for purposes of deciding whether Chambers error exists, the question of harm is inextricably tied to other aspects of the trial court's determination. The underlying evidentiary judgment at issue involved a weighing of the probative value [**2331]  of proffered evidence against, e.g., its cumulative nature, its tendency to confuse or to prejudice the jury, or the likelihood that it will simply waste the jury's time. See App. 96-97; Cal. Evid. Code Ann. § 352 (West 1995); cf. Fed. Rule Evid. 403. In this context, to find a Chambers error a court must take account both of the way in which (and extent to which) the trial court misweighed the relevant admissibility factors and of the extent to which doing so harmed [****26]  the defendant. Moreover, to find this kind of error harmless, as the Court of Appeals found it, should preclude the possibility of a Chambers error; but to find this kind of error harmful does not guarantee the contrary. A garden-variety nonharmless misapplication of evidentiary principles normally will not rise to the level of a constitutional, Chambers, mistake. Cf., e.g., United States v. Scheffer, 523 U.S. 303, 308, 118 S. Ct. 1261, 140 L. Ed. 2d 413 (1998).
+
+All this, it seems to me, requires reconsideration by the Court of Appeals of its Chambers determination. I would  [*127]  not consider the question whether that exclusion of evidence amounted to Chambers error because that question is not before us, see ante, at 116-117, n 1, 168 L. Ed. 2d, at 24 (opinion of the Court). But the logically inseparable question of harm is before us; and that, I believe, is sufficient.
+
+I would remand the case to the Ninth Circuit so that, taking account of the points Justice Stevens raises, ante, at 122-125, 168 L. Ed. 2d, at 24-26, it can reconsider whether there was an error of admissibility sufficiently serious to violate Chambers. I therefore join the Court's opinion except as to footnote 1 and Part II-B, and I join Justice Stevens' opinion [****27]  in part.

@@ -1,0 +1,83 @@
+﻿
+
+
+126 S.Ct. 2873
+Supreme Court of the United States
+Juan RANGEL-REYES, Petitioner,
+v.
+UNITED STATES; Apolonio Reyna-Mata, Petitioner,
+v.
+United States; Gilberto Estrada Sanchez, aka Gilberto Estrada-Sanchez, Petitioner,
+v.
+United States; Jose Alberto Peralta-Barajas, Petitioner,
+v.
+United States; Jaime Morin-Garcia, aka Juan Morales-Garcia, Petitioner,
+v.
+United States; Ricardo Alberto Reyes-Najera, Petitioner,
+v.
+United States; Salvador Osorto-Fortin, aka Salvador Fortin, aka Jose Osorto Martinez, aka Hugo Ortiz Solis, aka Salvador Osorto, aka Pedro Gonzalez, aka Salvador Osorto Fortin, Petitioner,
+v.
+United States; Elmer David Espina-Moscoso, Petitioner,
+v.
+United States; Rigoberto Avalos-Cortez, aka Rigoberto Cortez-Avalos, Petitioner,
+v.
+United States; Carlos Alvizo-Corpuz, Petitioner,
+v.
+United States; Carlos Isaac Rodriguez-Maradiaga, Petitioner,
+v.
+United States; Lorenzo Macias-Leon, Petitioner,
+v.
+United States; Antonio Ortiz-Cervantes, Petitioner,
+v.
+United States; Anibal Garcia-Gonzalez, Petitioner,
+v.
+United States; Hugo Alberto Arvizu-Garcia, Petitioner,
+v.
+United States; Calixto Silva-Espinoza, Petitioner,
+v.
+United States; Gerardo Huerta-Martinez, Petitioner,
+v.
+United States; Bayardo Jose Gaytan-Perez, Petitioner,
+v.
+United States; and Jeronimo Garay-Orellana, Petitioner,
+v.
+United States; Mark Lee Shuman, Petitioner,
+v.
+United States; Antonio Banegas-Hernandez, Petitioner,
+v.
+United States; Jose Guadalupe Cano-Rodriguez, Petitioner,
+v.
+United States; Martin Garcia-Gallegos, Petitioner,
+v.
+United States; Miguel Rodriguez-Mercado, aka Miguel Villafranco-Ponce, Petitioner,
+v.
+United States; Juan Rodriguez-Del Campo, Petitioner,
+v.
+United States; Juan Herrera-Martinez, Petitioner,
+v.
+United States; and Ignacio Gonzalez-Macias, Petitioner,
+v.
+United States.
+Nos. 05-10706, 05-10743, 05-10815.
+|
+June 12, 2006.
+Case below, 168 Fed.Appx. 616; 169 Fed.Appx. 198; 168 Fed.Appx. 611; 169 Fed.Appx. 188; 169 Fed.Appx. 284; 169 Fed.Appx. 279; 169 Fed.Appx. 359; 169 Fed.Appx. 356; 169 Fed.Appx. 355; 169 Fed.Appx. 296; 169 Fed.Appx. 186; 169 Fed.Appx. 354; 169 Fed.Appx. 305; 169 Fed.Appx. 325; 171 Fed.Appx. 460; 176 Fed.Appx. 495; 176 Fed.Appx. 522; 176 Fed.Appx. 512; 169 Fed.Appx. 302; 165 Fed.Appx. 250; 169 Fed.Appx. 255; 169 Fed.Appx. 229; 169 Fed.Appx. 267; 169 Fed.Appx. 202; 168 Fed.Appx. 676; 168 Fed.Appx. 664; 169 Fed.Appx. 287.
+ 
+ 
+
+Justice THOMAS, dissenting from the denial of certiorari.
+
+Under our Constitution, a person accused of a crime is entitled to a “trial, by an impartial jury of the State and district wherein the crime shall have been committed,” Amdt. 6, pursuant to an indictment for that offense by a grand jury, Amdt. 5. See also Art. III, § 2, cl. 3 (“The Trial of all Crimes ... shall be by Jury”). Determining the proper scope of these constitutional rights requires a definition of the term “crime.” As I have previously written, “a ‘crime’ includes every fact that is by law a basis for imposing or increasing punishment.” Apprendi v. New Jersey, 530 U.S. 466, 501, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000) (concurring opinion) (emphasis added).
+ 
+Notwithstanding the broad meaning of the term “crime,” this Court has qualified the protections of the Fifth and Sixth Amendments by holding that, “[o]ther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.” Id., at 490, 120 S.Ct. 2348 (emphasis added). But the exception to trial by jury for establishing “the fact of a prior conviction” finds its basis not in the Constitution, but in a precedent of this Court. See Almendarez-Torres v. United States, 523 U.S. 224, 118 S.Ct. 1219, 140 L.Ed.2d 350 (1998). Moreover, it has long been clear that a majority of this Court now rejects that exception. See Shepard v. United States, 544 U.S. 13, 27-28, 125 S.Ct. 1254, 161 L.Ed.2d 205 (2005) (THOMAS, J., concurring in part and concurring in judgment); see also Almendarez-Torres, supra, at 248-249, 118 S.Ct. 1219 (SCALIA, J., joined by STEVENS, SOUTER, and GINSBURG, JJ., dissenting); Apprendi, supra, at 520-521, 120 S.Ct. 2348 (THOMAS, J., concurring).
+ 
+In our previous cases, the parties have not asked this Court to overrule Almendarez-Torres. Apprendi, supra, at 489-490, 120 S.Ct. 2348; Shepard, supra, at 28, 125 S.Ct. 1254 (THOMAS, J., concurring in part and concurring in judgment). Last *2875 Term, I indicated that the Court should address the ongoing validity of the Almendarez-Torres exception in an appropriate case.  Shepard, supra, at 28, 125 S.Ct. 1254. Petitioners, like many other criminal defendants, have done their part by specifically presenting this Court with opportunities to reconsider Almendarez-Torres. It is time for this Court to do its part.
+ 
+The Court’s duty to resolve this matter is particularly compelling, because we are the only court authorized to do so. See State Oil Co. v. Khan, 522 U.S. 3, 20, 118 S.Ct. 275, 139 L.Ed.2d 199 (1997) (“[I]t is this Court’s prerogative alone to overrule one of its precedents”). And until we do so, countless criminal defendants will be denied the full protection afforded by the Fifth and Sixth Amendments, notwithstanding the agreement of a majority of the Court that this result is unconstitutional. There is no good reason to allow such a state of affairs to persist.
+ 
+Accordingly, I dissent from the Court’s denial of certiorari.
+ 
+
+
+
+

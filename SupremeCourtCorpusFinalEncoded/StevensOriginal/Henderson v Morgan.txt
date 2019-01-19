@@ -1,0 +1,128 @@
+﻿
+        
+        Henderson v. Morgan, 426 U.S. 637, 96 S. Ct. 2253 (1976)
+        
+
+
+      
+
+ [*638]   [***111]   [**2254]  MR. JUSTICE STEVENS delivered the opinion of the Court.
+
+LEdHN[1A] [1A]The question presented is whether a defendant may enter a voluntary plea of guilty to a charge of second-degree murder without being informed that intent to cause the death of his victim was an element of the offense.
+
+The case arises out of a collateral attack on a judgment entered by a state trial court in Fulton County, N.Y., in 1965. Respondent, having been indicted on a charge of first-degree murder, pleaded guilty to  [**2255]  second-degree murder and was sentenced to an indeterminate [****4]  term of imprisonment of 25 years to life. He did not appeal.
+
+In 1970, respondent initiated proceedings in the New York courts seeking to have his conviction vacated on  [*639]  the ground that his plea of guilty was involuntary. 1Link to the text of the note The state courts denied relief on the basis of the written record. 2Link to the text of the note Having exhausted his state remedies, 3Link to the text of the note in 1973, respondent filed a petition for writ of habeas corpus in the United States District Court for the Northern District of New York. 4Link to the text of the note He alleged that his guilty plea was involuntary because he was not aware (1) of the sentence that might be imposed upon conviction of second-degree murder, or (2) that intent to cause death was an element of the offense. Based on the state-court record, the Federal District Court denied relief. The Court of Appeals reversed summarily and directed the District Court "to conduct an evidentiary hearing on the issues raised by petitioner, including whether, at the time of his entry of his guilty plea, he was aware that intent was an essential element of the crime and was advised of the scope of the punishment that might be imposed."
+
+ [****5]  Upon remand the District Judge heard the testimony of several witnesses including respondent, the two lawyers who had represented him in 1965, the prosecutor,  [*640]  and respondent's mother. In addition, the transcript of the relevant state-court proceedings and certain psychological evaluations of respondent were made a part of the record.
+
+ [***112]  At the conclusion of the hearing, the District Court made only two specific findings of fact. 5Link to the text of the note First, contrary to respondent's testimony, the court expressly found that he was advised that a 25-year sentence would be imposed if he pleaded guilty. Second, the court found that respondent "was not advised by counsel or court, at any time, that an intent to cause the death or a design to effect the death of the victim was an essential element of Murder 2nd degree." On the basis of the latter finding, the District Court held "as a matter of law" that the plea of guilty was involuntary and had to be set aside. 6Link to the text of the note
+
+ [*641]  This holding was  [**2256]  affirmed, without opinion, by the Court of Appeals. 7Link to the text of the note
+
+ [****6]  Before addressing the question whether the District Court correctly held the plea invalid as a matter of law, we review some of the facts developed at the evidentiary hearing.
+
+I
+
+On April 6, 1965, respondent killed Mrs. Ada Francisco in her home.
+
+When he was in seventh grade, respondent was committed to the Rome State School for Mental Defectives where he was classified as "retarded." He was released to become a farm laborer and ultimately went to work on Mrs. Francisco's farm. Following an argument, she threatened to return him to state custody. He then decided to abscond. During the night he entered Mrs. Francisco's bedroom with a knife, intending to collect his earned wages before leaving; she awoke, began to scream, and he stabbed her. 8Link to the text of the note He took a small amount of money, fled in her car, and became involved in an accident about 80 miles away. The knife was found in the glove compartment of her car. He was promptly arrested and made a statement to the police.  [***113]  He was  [*642]  then 19 years old and substantially below average intelligence. 9Link to the text of the note
+
+ [****7]  Respondent was indicted for first-degree murder and arraigned on April 15, 1965. Two concededly competent attorneys were appointed to represent him. The indictment, which charged that he "willfully" stabbed his victim, was read in open court. His lawyers requested, and were granted, access to his written statement and to earlier psychiatric reports. A new psychiatric examination was requested and ordered.
+
+Respondent was found competent to stand trial. Defense counsel held a series of conferences with the prosecutors, with the respondent, and with members of his family. The lawyers "thought manslaughter first would satisfy the needs of justice." 10Link to the text of the note They therefore endeavored to have the charge reduced to manslaughter, but the prosecution would agree to nothing less than second-degree murder and a minimum sentence of 25 years. The lawyers gave respondent advice about the different sentences which could be imposed for the different offenses, but, as the District Court found, did not explain the required element of intent.
+
+ [****8]  On June 8, 1965, respondent appeared in court with his attorneys and entered a plea of guilty to murder in the second degree in full satisfaction of the first-degree murder charge made in the indictment. In direct colloquy with the trial judge respondent stated that his plea was based on the advice of his attorneys, that he understood he was accused of killing Mrs. Francisco in Fulton County, that he was waiving his right to a jury trial, and that he would be sent to prison. There was no discussion of the elements of the offense of  [*643]  second-degree murder, no indication that the nature of the offense had ever been discussed with respondent, and no reference of any kind to the requirement of intent to cause the death of the victim.
+
+At the sentencing hearing a week later his lawyers made a statement explaining his version of the offense, particularly noting that respondent "meant no harm to that lady" when he entered her room with the  [**2257]  knife. 11Link to the text of the note The prosecutor disputed defense counsel's version of the matter,  [***114]  but did not discuss it in detail. After studying the probation officer's report, the trial judge pronounced sentence.
+
+ [****9]  LEdHN[2A] [2A]At the evidentiary hearing in the Federal District Court, respondent testified that he would not have pleaded guilty if he had known that an intent to cause  [*644]  the death of his victim was an element of the offense of second-degree murder. The District Judge did not indicate whether or not he credited this testimony. 12Link to the text of the note
+
+LEdHN[2B] [2B]
+
+ [****10]  II
+
+LEdHN[1B] [1B] LEdHN[3A] [3A]Petitioner contends that the District Court applied an unrealistically rigid rule of law. Instead of testing the voluntariness of a plea by determining whether a ritualistic litany of the formal legal elements of an offense was read to the defendant, petitioner argues that the court should examine the totality of the circumstances and determine whether the substance of the charge, as opposed to its technical elements, was conveyed to the accused. We do not disagree with the thrust of petitioner's argument, but we are persuaded that even under the test which he espouses, this judgment finding respondent guilty of second-degree murder was defective.
+
+We assume, as petitioner argues, that the prosecutor had overwhelming evidence of guilt available. We also accept petitioner's characterization of the competence of respondent's counsel and of the wisdom of their advice to plead guilty to a charge of second-degree murder. Nevertheless, such HN2 a plea cannot support a judgment of  [*645]  guilt unless it was voluntary in a constitutional sense. 13Link to the text of the note And clearly the plea could not be voluntary in the sense that it constituted an intelligent admission that he committed the offense  [****11]  unless the defendant received "real notice of the true nature of the charge against him, the first and most  [**2258]  universally recognized requirement of due process." Smith v. O'Grady, 312 U.S. 329, 334. 
+
+LEdHN[3B] [3B]
+
+LEdHN[4A] [4A] LEdHN[5] [5]The charge of second-degree murder was never formally made. Had it been made, it necessarily would have included a charge that respondent's assault was "committed with a design to effect the death of  [***115]  the person killed." 14Link to the text of the note That element of the offense might have been proved by [****12]  the objective evidence even if respondent's actual state of mind was consistent with innocence 15Link to the text of the note or manslaughter. 16Link to the text of the note But even if such a design to effect death would almost inevitably have been inferred from evidence that respondent repeatedly stabbed Mrs. Francisco, it is nevertheless also true that a jury  [*646]  would not have been required to draw that inference. 17Link to the text of the note The jury would have been entitled to accept defense counsel's appraisal of the incident as involving only manslaughter in the first degree. Therefore, an admission by respondent that he killed Mrs. Francisco does not necessarily also admit that he was guilty of second-degree murder
+
+LEdHN[4B] [4B]
+
+ [****13]  There is nothing in this record that can serve as a substitute for either a finding after trial, or a voluntary admission, that respondent had the requisite intent. Defense counsel did not purport to stipulate to that fact; they did not explain to him that his plea would be an admission of that fact; and he made no factual statement or admission necessarily implying that he had such intent. In these circumstances it is impossible to conclude that his plea to the unexplained charge of second-degree murder was voluntary.
+
+LEdHN[6A] [6A]Petitioner argues that affirmance of the Court of Appeals will invite countless collateral attacks on judgments entered on pleas of guilty, since frequently the record will not contain a complete enumeration of the  [*647]  elements of the offense to which an accused person pleads guilty. 18Link to the text of the note We think petitioner's fears are exaggerated.
+
+LEdHN[6B] [6B]
+
+ [****14]  LEdHN[7] [7]Normally the record contains either an explanation of the charge by the trial judge, or at least a representation by defense counsel that the nature of the offense has been explained to the accused. Moreover,  [***116]  even without such an express representation, it may be appropriate to presume that in most cases defense counsel routinely explain the nature of the offense in sufficient detail to give the accused notice of what he is being asked to admit. This case is unique because the trial judge found as a fact that the element of intent was not  [**2259]  explained to respondent. Moreover, respondent's unusually low mental capacity provides a reasonable explanation for counsel's oversight; it also forecloses the conclusion that the error was harmless beyond a reasonable doubt, for it lends at least a modicum of credibility to defense counsel's appraisal of the homicide as a manslaughter rather than a murder.
+
+LEdHN[1C] [1C]Since respondent did not receive adequate notice of the offense to which he pleaded guilty, his plea was involuntary and the judgment of conviction was entered without due process of law.
+
+Affirmed.
+
+On August 7, 1970, he filed both a "Notice of Motion to Withdraw Guilty Plea" and a "Petition for Writ of Error Coram Nobis."
+
+2Link to the location of the note in the document
+The written record included the transcript of his original arraignment on the first-degree-murder charge on April 15, 1965, transcript of proceedings relating to the impaneling of a jury on June 7, 1965, transcript of the proceedings on June 8, 1965, when he pleaded guilty to second-degree murder, the sentencing hearing on June 15, 1965, an affidavit by the prosecutor, and certain psychological evaluations of respondent.
+
+3Link to the location of the note in the document
+The order denying his petition for a writ of error coram nobis was entered by the Trial Division of the Supreme Court of New York on May 29, 1971. On March 7, 1972, the Appellate Division affirmed without opinion, People v. Morgan, 38 App. Div. 2d 1012, 330 N.Y.S. 2d 1018; on July 6, 1972, the New York Court of Appeals denied permission to appeal.
+
+4Link to the location of the note in the document
+Federal jurisdiction was invoked under 28 U.S.C. § 2241 et seq.
+
+5Link to the location of the note in the document
+Memorandum Decision and Order dated Oct. 29, 1974, pp. 4-5, App. 116a-117a.
+
+6Link to the location of the note in the document
+"In connection with petitioner's second claim however, I find that he was not advised by court or counsel prior to his plea of the elements required to be established for any degree of homicide nor was he aware of the same; particularly, I find that petitioner was not advised by counsel or court, at any time, that an intent to cause the death or a design to effect the death of the victim was an essential element of Murder 2nd degree. As stated by the Supreme Court, HN1 'a guilty plea is an admission of all the elements of a formal criminal charge, it cannot be truly voluntary unless the defendant possesses an understanding of the law in relation to the facts.' McCarthy v. United States, 394 U.S. 459, 466 (1969). Based upon the foregoing, I hold as a matter of law that petitioner's plea of guilty was not intelligently or knowingly entered and was, therefore, involuntary. Accordingly, petitioner's plea of guilty to Murder 2nd degree must be set aside as involuntary and unconstitutional." The District Court ordered that respondent be discharged from custody "unless the State of New York takes such steps as are necessary to return [him] to Fulton County for rearraignment; said rearraignment is to be held within 60 days of the date hereof…." App. 117a-118a.
+
+7Link to the location of the note in the document
+516 F. 2d 897 (CA2 1975).
+
+8Link to the location of the note in the document
+At the evidentiary hearing in the District Court respondent's attorney testified:
+
+"The Court: I inferred that he struck her, not cut her, didn't use the knife?
+
+"The Witness: Not at first. She didn't stop screaming and then he used the knife many times. He didn't tell me that, but the allegation was that he hit her forty-five times with the knife." (Emphasis added.) App. 67a.
+
+Apart from that hearsay, there is no evidence in the record to indicate whether the respondent struck or stabbed Mrs. Francisco many times. The indictment charged that respondent "stabbed and cut Ada Francisco with a dangerous knife, thereby inflicting divers wounds and injuries…." Id., at 85a.
+
+9Link to the location of the note in the document
+His functioning I.Q. was reported by examiners as in the range between 68 and 72.
+
+10Link to the location of the note in the document
+Id., at 52a.
+
+11Link to the location of the note in the document
+The attorney described the incident, in part, in these words:
+
+"He awakened Mrs. Francisco for the purpose of obtaining the money which was rightfully his, and which he had a right to. Of course it was an unusual hour to do it, but he had returned home late, and he had been threatened with that other thing on the part of Mrs. Francisco of returning him to the Rome School. So I assume, putting all of those factors together, the one idea in his mind was to take his money and get away as far as he could to avoid being transferred back.
+
+"Now, Mrs. Francisco was awakened. Apparently he had stayed there in the house, and she had no fear of him because her bedroom was open. There was no door on it. No locks at all. So when he awakened her, instead of responding to him, she merely started to scream. Now, I assume if she had talked to him that night in a normal tone, this thing would never have happened. But the minute she screamed, of course with his uncontrollable and ungovernable temper, and the idea in mind of perhaps she may awaken the people who were living in the other apartment of the house - there was a man and his wife who were working there for Mrs. Francisco and living in the house - in order to stop the screaming and in the excitement and tension of it all, the assault occurred and as a result Mrs. Francisco met her death." Record on Appeal 32-33.
+
+12Link to the location of the note in the document
+Of course, respondent's testimony on this point was hypothetical. The lawyers were certainly familiar with the intent requirement and evidently were satisfied that the objective evidence available to the prosecutor was sufficiently strong that the requisite intent could be proved beyond a reasonable doubt; accordingly, had this precise issue been discussed with respondent, his lawyers no doubt would have persisted in their advice to plead guilty. It follows that even if respondent's testimony at the hearing was given in complete good faith, there is no way one can be sure that he would have refused to enter the plea following advice expressly including a discussion of this precise question. Indeed, we assume that he probably would have pleaded guilty anyway. Such an assumption is, however, an insufficient predicate for a conviction of second-degree murder.
+
+13Link to the location of the note in the document
+HN3 A plea may be involuntary either because the accused does not understand the nature of the constitutional protections that he is waiving, see, e.g., Johnson v. Zerbst, 304 U.S. 458, 464-465, or because he has such an incomplete understanding of the charge that his plea cannot stand as an intelligent admission of guilt. Without adequate notice of the nature of the charge against him, or proof that he in fact understood the charge, the plea cannot be voluntary in this latter sense. Smith v. O'Grady, 312 U.S. 329.
+
+14Link to the location of the note in the document
+In 1965 murder in the second degree was defined as follows by former New York Penal Law § 1046: "Such killing of a human being is murder in the second degree, when committed with a design to effect the death of the person killed, or of another, but without deliberation and premeditation."
+
+15Link to the location of the note in the document
+Although respondent was found competent to stand trial, that finding would not, of course, foreclose a defense of temporary insanity.
+
+16Link to the location of the note in the document
+The offense of manslaughter in the first degree was defined to include a killing "[i] n the heat of passion, but in a cruel and unusual manner, or by means of a dangerous weapon." See § 1050.
+
+17Link to the location of the note in the document
+"The fact that the prisoner plunged this pointed knife into what he knew to be a vital part of the body must raise a presumption that he intended to take life. Its natural result would be to destroy life, and he must be presumed to have intended the natural consequence of his act just as if he had aimed at the heart of the deceased and fired a gun. It was not charged that the evidence was conclusive, but simply that it was presumptive, and it was left to the jury to determine the fact upon the evidence under the charge as given." Thomas v. People, 67 N.Y. 218, 225 (1876). "The intention may be inferred from the act, but this, in principle, is an inference of fact to be drawn by the jury, and not an implication of law to be applied by the court." Stokes v. People, 53 N. Y. 164, 179 (1873). HN4 "[The] jury has the right to find from the results produced an intention to effect it." People v. Cooke, 292 N. Y. 185, 189, 54 N.E.2d 357, 359 (1944). "[T] he jury was not bound to presume an intent to kill from the intentional stabbing." Id., at 190, 54 N.E. 2d, at 360.
+
+18Link to the location of the note in the document
+There is no need in this case to decide whether notice of the true nature, or substance, of a charge always requires a description of every element of the offense; we assume it does not. Nevertheless, intent is such a critical element of the offense of second-degree murder that notice of that element is required.

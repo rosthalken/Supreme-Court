@@ -1,0 +1,27 @@
+﻿
+Petitioner Charles Holster filed this suit in federal court seeking actual and statutory damages—on behalf of himself and a class of others similarly situated—for alleged violations of the Telephone Consumer Protection Act of 1991, 47 U.S.C. § 227. The District Court dismissed the suit, holding that the rule of Erie R. Co. v. Tompkins, 304 U.S. 64, 58 S.Ct. 817, 82 L.Ed. 1188 (1938), applies to federal suits under the Act, and that N.Y. Civ. Prac. Law Ann. § 901(b) (West 2006)—which bars class actions in suits seeking statutory damages—is “substantive” under Erie. 485 F.Supp.2d 179, 184–186 (E.D.N.Y.2007). Federal Rule of Civil Procedure 23 had no bearing, it added, because “§ 901(b) is a matter not covered by [Rule] 23.” Id., at 185, n. 3.
+ 
+The Second Circuit summarily affirmed on the basis of its decision (issued the same day by the same panel) in Bonime v. Avaya, Inc., 547 F.3d 497 (2008). Bonime held that § 901(b) applies to suits brought under the Act in federal court for two reasons. First, it read the Act to require that federal courts treat claims under the Act as though they arise under state law and therefore are subject to Erie. 547 F.3d, at 501. Second, Bonime held that § 227(b)(3)’s text—which provides that “[a] person or entity may, if otherwise permitted by the laws or rules of court of a State, bring in an appropriate court of that State” a suit for actual and statutory damages—forbids federal courts from hearing suits under the Act that would be barred in state court. 547 F.3d, at 502.
+ 
+Shady Grove Orthopedic Associates, P.A. v. Allstate Ins. Co., 559 U.S. 393, 130 S.Ct. 1431 (2010), held that, irrespective of Erie, § 901(b) does not apply to state-law claims in federal court because it is validly pre-empted by Rule 23. Id., at –––– – ––––, 130 S.Ct., at 1436–1442; id., at –––– – ––––, 130 S.Ct. 1431, at 1442–1444 (plurality opinion); id., at –––– – ––––, 130 S.Ct., at 1455–1460 (STEVENS, J., concurring in part and concurring in judgment). That holding assuredly affects—and in all likelihood eliminates—Bonime’s primary basis for applying § 901(b) in federal court. The dissent insists, however, that Bonime’s second ground remains unaffected. Post, at –––– (opinion of GINSBURG, J.).
+ 
+On one reading of Bonime’s opaque second ground, that is true: If the Second Circuit meant that § 227(b)(3) requires federal courts hearing claims under the Act to apply all state procedural rules that would effectively bar a suit, then Shady Grove has no bearing. That is, however, a highly implausible reading of the Act. Besides effecting an implied partial repeal of the Rules Enabling Act, 28 U.S.C. § 2072, it would require federal courts to enforce any prerequisite to suit state law makes *1576 mandatory—a state rule limiting the length of the complaint, for example, or specifying the color and size of the paper.
+ 
+A more probable meaning of Bonime’s second ground is that when a State closes its doors to claims under the Act § 227(b)(3) requires federal courts in the State to do so as well; but when such claims are allowed, the federal forum may apply its own procedures in processing them. See 547 F.3d, at 502 (“This statutory language is unambiguous—a claim under the [Act] cannot be brought if not permitted by state law”). Nothing in Bonime suggests, for example, that a federal court could not consolidate two suits under the Act for its own convenience, see Fed. Rule Civ. Proc. 42(a), even if the State’s courts did not allow consolidation. Although that logic applies equally to Rule 23’s method of combining claims, Bonime may simply have assumed—as the appellee urged it to conclude,1 as a number of district courts had held,2 and as the Second Circuit itself held three weeks later3—that Rule 23 does not address whether class actions are available for specific claims. If that is what Bonime had in mind, Shady Grove will likely affect the Second Circuit’s analysis.
+ 
+Shady Grove would also affect the outcome if the Bonime court believed that even if Rule 23 would otherwise allow a federal court to entertain a class action, § 227(b)(3) supersedes Rule 23 by precluding suits that cannot be brought in state courts, including class actions barred by § 901(b). Shady Grove reveals the error in this analysis: Section 901(b) does not prevent a plaintiff from bringing “an action to recover a penalty, or minimum measure of recovery created or imposed by statute”—as would be necessary to implicate § 227(b)(3)—but only from “maintain[ing]” such a suit “as a class action” (emphasis added). Shady Grove, 559 U.S., at ––––, 130 S.Ct., at 1443 (plurality opinion); see also id., at –––– – ––––, 130 S.Ct., at 1437–1440.
+ 
+For these reasons, I concur in the Court’s order.
+ 
+
+
+Brief for Defendant–Appellee in No. 07–1136(CA2), pp. 35–36.
+2
+See, e.g., Leider v. Ralfe, 387 F.Supp.2d 283, 290 (S.D.N.Y.2005); In re Relafen Antitrust Litigation, 221 F.R.D. 260, 284–285 (D.Mass.2004); Dornberger v. Metropolitan Life Ins. Co., 182 F.R.D. 72, 84 (S.D.N.Y.1998).
+3
+See Shady Grove Orthopedic Assocs., P.A. v. Allstate Ins. Co., 549 F.3d 137, 143–145 (2008).
+*
+ 
+Holster, however, arguably forfeited the argument, accepted in Shady Grove, that Federal Rule of Civil Procedure 23 preempts § 901(b); the District Court concluded that Rule 23 and § 901(b) did not conflict and noted that Holster “d[id] not dispute” that point. 485 F.Supp.2d 179, 185, n. 3 (E.D.N.Y.2007).
+
+

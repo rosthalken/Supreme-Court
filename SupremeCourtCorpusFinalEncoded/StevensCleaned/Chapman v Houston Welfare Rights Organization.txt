@@ -1,0 +1,255 @@
+﻿
+LEdHN    LEdHN   HN1 The United States District Courts have jurisdiction over civil actions claiming a deprivation of rights secured by the Constitution of the United States or by Acts of Congress providing        for equal rights or for the protection of civil rights, including the right to vote. 1Link to the text of the note The question     presented by these cases is whether that jurisdiction encompasses     a claim that a state welfare regulation is invalid because it conflicts with the Social Security Act. We conclude that it does not.
+
+    In the Social Security Amendments of 1967, Congress authorized partial federal funding of approved state programs providing emergency assistance for certain needy persons. 2Link to the text of the note In February 1976, Julia Gonzalez, the petitioner in No. 77-5324, requested the Hudson County, N. J., Welfare Board to pay her $ 163 in emergency assistance funds to cover her rent and utility bills. 3Link to the text of the note    The Board denied her request because     petitioner and her children were not "in a state of homelessness" as required by the relevant New Jersey regulations. 4Link to the text of the note
+
+Petitioner brought suit in the United States District Court for the District of New Jersey alleging that the emergency payment was "necessary to avoid destitution" within the meaning of § 406 (e)(1) of the federal Social Security Act, 5Link to the text of the note and she was therefore entitled to the payment notwithstanding the more stringent New Jersey regulation. In her federal     complaint she sought damages of $ 163 and an injunction     commanding the New Jersey Welfare Director to conform his administration of the State's emergency assistance program to federal statutory standards. In essence, petitioner claimed    that the New Jersey officials had deprived her of a right to emergency assistance protected by § 406 (e)(1) of the Social Security Act.
+
+    The District Court held that the complaint stated a claim under 42 U. S. C. § 1983. 6Link to the text of the note    Without deciding whether the "secured     by the Constitution" language in § 1343 (3) should be construed to include Supremacy Clause claims, 7Link to the text of the note the District Court concluded that it had jurisdiction under both subparagraphs (3) and (4) of § 1343. But in doing so, the court did not explain whether it was § 1983 or § 406 (e)(1) of the Social Security Act that it viewed as the Act of Congress securing "equal rights" or "civil rights." On the merits, the District Court found no conflict between the state regulation and the federal statute and entered summary judgment for respondents.
+
+The Court of Appeals for the Third Circuit did not address the merits because it concluded that the District Court should have dismissed the complaint for want of jurisdiction. 8Link to the text of the note In     reaching this conclusion, the Court of Appeals first noted that HN7 § 1983 "is not a jurisdictional statute; it only fashions a remedy." 560 F.2d 160, 164 (1977). Nor could jurisdiction be founded on 28 U. S. C. § 1331, 9Link to the text of the note    the general federal-question jurisdictional statute, since the amount in controversy did not exceed $ 10,000. The court recognized that when a constitutional claim is of sufficient substance to support federal jurisdiction, a district court has power to    consider other claims which might not provide an independent basis for federal jurisdiction. 10Link to the text of the note But it concluded that the constitutional claim must involve more than a contention that the Supremacy Clause requires that a federal statute be given effect over     conflicting state law. It then went on to hold that the Social Security Act is not an Act of Congress securing either "equal rights" or "civil rights" as those terms are used in § 1343. And those terms, the court concluded, limit the grant of federal jurisdiction conferred by § 1343 even if § 1983 creates a remedy for a broader category of statutory claims.
+
+The petitioners in No. 77-719 are Commissioners of the Texas Department of Human Resources, which administers the State's program of Aid to Families with Dependent Children (AFDC). Respondents represent a class of AFDC recipients who share living quarters with a nondependent relative. HN9 Under the Texas regulations, the presence in the household of a nondependent person results in a reduction in the level of payments to the beneficiaries even if their level of actual need is unchanged. In a suit brought in the United     States District Court for the Southern District of Texas, respondents claimed that the Texas regulations violate § 402 (a)(7) of the Social Security Act, 42 U. S. C. § 602 (a)(7), and the federal regulations promulgated pursuant thereto. 11Link to the text of the note
+
+    The District Court upheld the Texas regulations. 12Link to the text of the note While respondents' appeal was pending, this Court decided Van Lare v. Hurley, 421 U.S. 338. On the authority of that case, the Court of Appeals for the Fifth Circuit reversed. 13Link to the text of the note    Following earlier Fifth Circuit     cases, the Court of Appeals concluded that federal jurisdiction was conferred by the language in 28 U. S. C. § 1343 (4) describing actions seeking relief "under any Act of Congress providing for the protection of civil rights . . . ." The court reasoned that HN10 statutory rights concerning food and shelter are "'rights of an essentially personal nature,'" Houston Welfare Rights Org. v. Vowell, 555 F.2d 1219, 1221 n. 1 (1977); that 42 U. S. C. § 1983 provides a remedy which may be invoked to protect such rights; and that § 1983 is an Act of Congress providing for the protection of civil rights within the meaning of that jurisdictional grant. 14Link to the text of the note
+
+We granted certiorari to resolve the conflict between that conclusion and the holding of the Third Circuit in No. 77-5324. 434 U.S. 1061. We have previously reserved the jurisdictional question we decide today, see Hagans v. Lavine, 415 U.S. 528, 533-534, n. 5. We preface our decision with a review of the history of the governing statutes.
+
+I
+
+LEdHN[3] [3]Our decision turns on the construction of the two jurisdictional provisions, 28 U. S. C. §§ 1343 (3) and (4), and their     interrelationship with 42 U. S. C. § 1983 and the Social Security Act. HN11 As in all cases of statutory construction, our task is to interpret the words of these statutes in light of the purposes Congress sought to serve.
+
+HN12 Section 1 of the Civil Rights Act of 1871 is the source of both the jurisdictional     grant now codified in 28 U. S. C. § 1343 (3) and the remedy now authorized by 42 U. S. C. § 1983. 15Link to the text of the note Section     1 authorized individual suits in federal court to vindicate the deprivation, under color of state law, "of any rights, privileges, or immunities secured by the Constitution of the United States." No authorization was given for suits based on any federal statute.
+
+    In 1874, Congress enacted the Revised Statutes of the United States. At that time, the remedial and jurisdictional provisions of § 1 were modified and placed in separate sections. The words "and laws," as now found in § 1983, were included in the remedial provision of Rev. Stat. § 1979, 16Link to the text of the note    and two quite     different formulations of the jurisdictional grant were included in Rev. Stat. §§ 563 and 629. The former granted the district courts jurisdiction of all actions to redress a deprivation under color of state law of any right secured by the Constitution or "by any law of the United States." 17Link to the text of the note    The latter defined the jurisdiction of the circuit courts and included the limiting phrase -- "by any law providing for equal rights" -- which is now found in § 1343 (3). 18Link to the text of the note
+
+In the Judicial Code of 1911, Congress abolished circuit courts and transferred their authority to the district courts. 19Link to the text of the note The Code's definition    of the jurisdiction of the district courts to redress the deprivation of civil rights omitted the broad language referring to "any law of the     United States" which had defined district court jurisdiction under § 563, and provided instead for jurisdiction over claims arising under federal laws "providing for equal rights" -- the language which had been used to describe circuit court jurisdiction under § 629,     and which is now a part of § 1343 (3). 20Link to the text of the note No significant change in either the remedial or jurisdictional language has been made since 1911. 21Link to the text of the note
+
+Subsection 4 of § 1343, providing jurisdiction for claims "under any Act of Congress providing for the protection of civil rights, including the right to vote," is of more recent origin. Part III of the Civil Rights Act of 1957, as proposed, authorized the Attorney General to institute suits for injunctive relief against conspiracies    to deprive citizens of the civil rights specified in 42 U. S. C. § 1985, which includes voting rights. 22Link to the text of the note Part III conferred jurisdiction on the United States district courts to entertain proceedings instituted pursuant to this section of the Act. 23Link to the text of the note While the substantive authorization of suits by the Attorney General was defeated, the amendment of § 1343, which had been termed a technical amendment to comply with the authority conferred by Part III, 24Link to the text of the note was enacted into law.
+
+    With the exception of this most recent enactment, the legislative history of the provisions at issue in these cases ultimately provides us with little guidance as to the proper resolution of the question presented here. Section 1 of the 1871 Act was the least controversial provision of that Act; 25Link to the text of the note            and what little debate did take place as to § 1 centered largely on the question of what protections the Constitution in fact afforded. 26Link to the text of the note The relevant changes in the Revised Statutes were adopted virtually without comment, as was the definition of civil rights jurisdiction in the 1911 Code. The latter provision was described as simply merging the existing     jurisdiction of the district and circuit courts, 27Link to the text of the note a statement which may be read either as reflecting a view that the broader "and laws" language was intended to be preserved in the more limited "equal rights" language or as suggesting that "and laws" was itself originally enacted with reference to laws providing for equal rights, and was never thought to be any broader.
+
+Similar ambiguity is found in discussions of the basic policy of the legislation. While there is weight to the claim that Congress, from 1874 onward, intended to create a broad right of action in federal court for deprivations by a State of any federally secured right, it is also clear that the prime focus of Congress in all of the relevant legislation was ensuring a right of action to enforce the protections of the Fourteenth Amendment and the federal laws enacted pursuant thereto.
+
+LEdHN   We cannot say that any of these arguments is ultimately     right or wrong, or that one policy is more persuasive than others in reflecting the intent of Congress. It may well be that, at least as to § 1343 (3), the Congresses that enacted the 1871 Act and its subsequent amendments never considered the question of federal jurisdiction of claims arising under    the broad scope of federal substantive authority that emerged many years later. This does not mean that jurisdiction cannot be found to encompass claims nonexistent in 1871 or 1874, but it cautions us to be hesitant in finding jurisdiction for new claims which do not clearly fit within the terms of the statute. 28Link to the text of the note
+
+LEdHN   
+
+II
+
+The statutory language suggests three different approaches to the jurisdictional issue. The first involves a consideration of the words "secured by the Constitution of the United States" as used in § 1343. The second focuses on the remedy authorized by § 1983 and raises the question whether    that section is a statute that secures "equal rights" or "civil rights" within the meaning of § 1343. The third approach makes the jurisdictional issue turn on whether the Social Security Act is a statute that secures "equal rights" or "civil rights." We consider these approaches in turn.
+
+1. The Supremacy Clause
+
+LEdHN[5] [5]HN14 Under § 1343 (3), Congress has created federal jurisdiction of any civil action authorized by law to redress the deprivation under color of state law "of any right, privilege or immunity secured [1] by the Constitution of the United States or [2] by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United     States." Claimants correctly point out that the first prepositional phrase can be fairly read to describe rights secured by the Supremacy Clause. For even though that Clause is not a source of any federal rights, it does "secure" federal rights by     according them priority whenever they come in conflict with state law. 29Link to the text of the note In that sense all federal rights,     whether created by treaty, by statute, or by regulation, are "secured" by the Supremacy Clause.
+
+    In Swift & Co. v. Wickham, 382 U.S. 111, the Court was confronted with an analogous choice between two interpretations of the statute defining the jurisdiction of three-judge district courts. 30Link to the text of the note The comprehensive language of that statute, 28 U. S. C. § 2281 (1970 ed.), 31Link to the text of the note could have been broadly read to     encompass statutory claims secured by the Supremacy Clause or narrowly read to exclude claims that involve no federal constitutional provision except that Clause. After acknowledging that the broader reading was consistent not only with the statutory language but also with the policy of the statute, the Court accepted the more restrictive reading. Its reasoning is persuasive and applicable to the problems confronting us in this case.
+
+"This restrictive view of the application of § 2281 is more consistent with a discriminating reading of the statute itself than is the first and more embracing interpretation. The statute requires a three-judge court in order to restrain the enforcement of a state statute 'upon the ground of the unconstitutionality of such statute.' Since all federal actions to enjoin a state enactment rest ultimately on the     Supremacy Clause, the words 'upon the ground of the unconstitutionality of such statute' would appear to be superfluous unless they are read to exclude some types of such injunctive suits. For a simple provision prohibiting the restraint of the enforcement of any state statute except by a three-judge court would manifestly have sufficed to embrace every such suit whatever its particular constitutional ground. It is thus     quite permissible to read the phrase in question as one of limitation, signifying a congressional purpose to confine the three-judge court requirement to injunction suits depending directly upon a substantive provision of the Constitution, leaving cases of conflict with a federal statute (or treaty) to follow their normal course in a single-judge court." Swift & Co. v. Wickham, supra, at 126-127 (footnotes omitted).
+
+    Z3Just as the phrase in § 2281 -- "upon the ground of the     unconstitutionality of such statute" -- would have been superfluous unless read as a limitation on three-judge-court jurisdiction, so is it equally clear that the entire reference in § 1343 (3) to rights secured by an Act of Congress would be unnecessary if the earlier reference to constitutional claims embraced those resting solely on the Supremacy Clause. More importantly, the additional language which describes a limited category of Acts of Congress --     those "providing for equal rights of citizens" -- plainly negates the notion that jurisdiction over all statutory claims had already been conferred by the preceding reference to constitutional claims.
+
+LEdHN[6] [6]Thus, while we recognize that there is force to claimants' argument that the remedial purpose of the civil rights legislation supports an expansive interpretation of the phrase "secured by the Constitution," it would make little sense for Congress to have drafted the statute as it did if it had intended to confer jurisdiction over every conceivable federal claim against a state agent. HN15 In order to give meaning to the entire statute as written by     Congress, we must conclude that an allegation of incompatibility between federal and state statutes and regulations does not, in itself, give rise to a claim "secured by the Constitution" within the meaning of § 1343 (3).
+
+2. Section 1983
+
+Claimants next argue that the "equal rights" language of § 1343 (3) should not be read literally or, if it is, that § 1983, the source of their asserted cause of action, should be considered an Act of Congress "providing for equal rights" within the meaning of § 1343 (3) or "providing for the protection of civil rights" within § 1343 (4). In support of this position, they point to the common origin of §§ 1983 and 1343 (3) in the Civil Rights Act of 1871 and this Court's recognition that the latter is the jurisdictional counterpart of the former. 32Link to the text of the note     Since broad language describing statutory claims was used in both provisions during the period between 1874 and 1911 and has been retained in § 1983, and since Congress in the Judicial Code of 1911 purported to be making no changes in the existing law as to jurisdiction in this area, the "equal rights" language of § 1343 (3) must be construed to encompass all statutory claims arising     under the broader language of § 1983. Moreover, in view of its origin in the Civil Rights Act of 1871 and its function in modern litigation, § 1983 does "[provide] for the protection of civil rights" within the meaning of § 1343 (4).
+
+In practical effect, this argument     leads to the same result as claimants' Supremacy Clause argument: jurisdiction over all challenges to state action based on any federal ground. Although the legislative history does not forbid this result, the words and structure of the statute, as well as portions of the legislative history, support a more limited construction.
+
+The common origin of §§ 1983 and 1343 (3) unquestionably implies that their coverage is, or at least originally was, coextensive. It is not, however, necessary in this case to decide whether the two provisions have the same scope. For even if they do,     there would still be the question whether the "and laws" language in § 1983 should be narrowly read to conform with the "equal rights" language in § 1343 (3), or, conversely, the latter phrase should be broadly read to parallel the former. And, in all events, whether or not we assume that there is a difference between "any law of the United States" on the one hand and "any Act of Congress providing for equal rights" on the other, the fact is that the more limited language was used when Congress last amended the jurisdictional provision. In order to construe the broad language of § 1983 to cover any statutory claim, and at the same time to construe the language of § 1343 (3) as coextensive with such a cause of action, it would be necessary to ignore entirely Congress' most recent limiting amendment and the words of the provision as currently in force.
+
+    LEdHN[7] [7]We cannot accept claimants' argument that we should reach this result by holding that § 1983 is an Act of Congress "providing for equal rights" within the meaning of § 1343 (3). Unlike the 1866 and     1870 Acts, 33Link to the text of the note    HN16 § 1 of the Civil Rights Act of 1871 did not provide for any substantive rights -- equal or otherwise.     As introduced and enacted, it served only to ensure that an individual had a cause of action for violations of the Constitution, which in the Fourteenth Amendment embodied and extended to all individuals as against state action the substantive protections afforded by § 1 of the 1866 Act. 34Link to the text of the note No matter how broad the § 1 cause of action may be, the breadth of its coverage does not alter its procedural character. Even if claimants are correct in asserting that § 1983 provides a cause of action for all federal statutory claims, it remains true that HN17 one cannot go into court and claim a "violation of § 1983" -- for § 1983 by itself does not protect anyone against anything. As Senator Edmunds recognized in the 1871 debate: "All civil suits, as every lawyer understands, which this act     authorizes, are not based upon it;     they are based upon the right of the citizen. The act only gives a remedy." 35Link to the text of the note
+
+HN18 Under § 1343 (3), a civil action must be both "authorized by law" and brought to redress the deprivation of rights "secured by the Constitution of the United States or by any Act of Congress providing for equal rights." Section 1983, when properly invoked, satisfies the first requirement: It ensures that the suit will not be dismissed because not "authorized by law." But it cannot satisfy the second, since by its terms, as well as its history, it does not provide any rights    at all.
+
+LEdHN[8] [8]We reach a similar conclusion with respect to the argument that § 1983 is a statute "providing for the protection of civil rights, including the right to vote." HN19 Standing alone, § 1983 clearly provides no protection for civil rights since, as we have just concluded, § 1983 does not provide any substantive rights at all. To be sure, it may be argued that § 1983 does in some sense "[provide] for the protection of civil rights" when it authorizes a cause of action based on the deprivation of civil rights guaranteed by other Acts of Congress. But in such cases, there is no question as to jurisdiction, and no need to invoke § 1983 to meet the "civil rights" requirement of § 1343 (4); the Act of Congress which is the actual substantive basis of the suit clearly suffices to meet the requisite test. 36Link to the text of the note It is only when the underlying statute is not a civil rights Act that § 1983 need be invoked by those in claimants' position to support jurisdiction. And in such cases, by hypothesis, § 1983 does not "[provide] for the protection of civil rights."
+
+    To construe § 1343 (4), moreover, as encompassing all federal statutory suits, as claimants here propose, would seem plainly inconsistent with the congressional intent in passing that statute. As noted earlier, the provision's HN21 primary purpose     was to ensure federal-court jurisdiction over suits which the bill authorized the Attorney General to bring against conspiracies to deprive individuals of the civil rights enumerated in 42     U. S. C. § 1985. 37Link to the text of the note    The statute, of course, is     broader than that: It encompasses suits brought by private individuals as well, and thus retained some significance even after the provisions authorizing suit by the Attorney General were defeated. But to the extent that § 1343 (4) was thought to expand existing federal jurisdiction, it was only because it does not require that the claimed deprivation be "under color of any State law." 38Link to the text of the note One would expect that if Congress sought     not only to eliminate any state-action requirement but also to allow jurisdiction without respect to the amount in controversy for claims which in fact have nothing to do with "civil rights," there would be some indication of such an intent.     But there is none, either in the legislative history or in the words of the statute itself.
+
+3. The Social Security Act
+
+LEdHN[9] [9]It follows from what we have said thus far that HN22 § 1343 does not confer federal jurisdiction over    the claims based on the Social Security Act unless that Act may fairly be characterized as a statute securing "equal rights" within § 1343 (3) or "civil rights" within § 1343 (4). The Social Security Act provisions at issue here authorize federal assistance to participating States in the provision of a wide range of monetary benefits to needy individuals, including emergency assistance and payments necessary to provide food and shelter. Arguably, a statute that is intended to provide at least a minimum level of subsistence for all individuals could be regarded as securing either "equal rights" or "civil rights." 39Link to the text of the note We are persuaded,     however, that both of these terms have a more restrictive meaning as used in the jurisdictional statute.
+
+HN23 The Social Security Act does not deal with the concept of "equality"     or with the guarantee of "civil rights," as those terms are commonly understood. The Congress     that enacted § 1343 (3) was primarily concerned with providing jurisdiction for cases dealing with racial equality; the Congress that enacted § 1343 (4) was primarily concerned with providing jurisdiction for actions dealing with the civil rights enumerated in 42 U. S. C. § 1985, and most notably the     right to vote. While the words of these statutes are not limited to the precise claims which motivated their passage, 40Link to the text of the note it is inappropriate to read the jurisdictional provisions to encompass new claims which fall well outside the common understanding of their terms.
+
+
+LEdHN[10A] [10A] LEdHN[11A] [11A]Our conclusion that the Social Security Act does not fall within the terms of either § 1343 (3) or (4) is    supported by this Court's construction of similar phrases in the removal statute, 28 U. S. C. § 1443. The removal statute makes reference to "any law providing for the equal civil rights of citizens" and "any law providing for equal rights." In construing these phrases in Georgia v. Rachel, 384 U.S. 780, this Court concluded:
+
+"The present language 'any law providing for . . . equal civil rights' first appeared in § 641 of the Revised Statutes of 1874. When the Revised Statutes were compiled, the substantive and removal provisions of the Civil Rights Act of 1866 were carried forward in separate sections. Hence, Congress could no longer identify the rights for which removal was available by using the language of the original Civil Rights Act -- 'rights secured to them by the first section of this act.' The new     language it chose, however, does not suggest that it intended to limit the scope of removal to rights recognized in statutes existing in 1874. On the contrary, Congress' choice of the open-ended phrase 'any law providing for . . . equal civil rights' was clearly appropriate to permit removal in cases involving 'a right under' both existing    and future statutes that provided for equal civil rights.
+
+"There is no substantial indication, however, that the general language of § 641 of the Revised Statutes was intended to expand the kinds of 'law' to which the removal section referred. In spite of the potential breadth of the phrase 'any law providing for . . . equal civil rights,' it seems clear that in enacting § 641, Congress intended in that phrase only to include laws comparable in nature to the Civil Rights Act of 1866. . . .
+
+. . . .
+
+". . . As the Court of Appeals for the Second Circuit has concluded, HN24 § 1443 'applies only to rights that are granted in terms of equality and not to the whole gamut of constitutional rights . . . .' 'When the removal statute speaks of "any law providing for equal rights," it refers to those laws that are couched in terms of equality, such as the historic and the recent equal rights statutes, as distinguished from laws, of which the due process clause and 42 U. S. C. § 1983 are sufficient examples, that confer equal rights in the sense, vital to our way of life, of bestowing them upon all.' New York v. Galamison, 342 F.2d 255, 269, 271. See also Gibson v. Mississippi, 162 U.S. 565, 585-586;     Kentucky v. Powers, 201 U.S. 1, 39-40;     City of Greenwood v. Peacock, [384 U.S. 808,] 825." Id., at 789-790, 792 (footnotes omitted).
+
+In accord with Georgia v. Rachel, 41Link to the text of the note the Courts of Appeals have     consistently held     that the Social Security Act is not a statute providing for "equal rights." See Andrews v. Maher, 525 F.2d 113 (CA2 1975); Aguayo v. Richardson, 473 F.2d 1090, 1101 (CA2 1973), cert. denied sub nom. Aguayo v. Weinberger, 414 U.S. 1146 (1974). We endorse those holdings, and find that a similar conclusion is warranted with respect to § 1343 (4) as well. See McCall v. Shapiro, 416 F.2d 246, 249 (CA2 1969).
+
+LEdHN[10B] [10B] LEdHN[11B] [11B]
+
+    LEdHN   We therefore hold that the District Court did not have jurisdiction in either of these cases. Accordingly, the judgment in No. 77-5324 is affirmed, and the judgment in No. 77-719 is reversed and the case is remanded for further proceedings consistent with this opinion.
+
+It is so ordered.
+
+HN2 "The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person:
+
+. . . .
+
+"(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage of any right, privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
+
+"(4) To recover damages or to secure equitable or other relief under any Act of Congress providing for the protection of civil rights, including the right to vote." 28 U. S. C. §§ 1343 (3) and (4).
+
+LEdHN   Jurisdiction under § 1343 (4), it should be noted, is not limited to actions against state officials or individuals acting under color of state law.
+
+2Link to the location of the note in the document
+§ 206, 81 Stat. 893; see 42 U. S. C. § 606 (e)(1). The program is fully described in Quern v. Mandley, 436 U.S. 725.
+
+3Link to the location of the note in the document
+"[Petitioner] resides with her two children in Jersey City, New Jersey. Each month, she receives $ 235.00 under the Aid to Families with Dependent Children program (AFDC), 42 U. S. C. § 601 et seq., as well as $ 157.00 under the Social Security Administration's disability program for her one retarded son. On February 2, 1976, Gonzalez received and cashed both checks at a neighborhood food market. Upon leaving the store, she was accosted by a robber who stole the cash. The following day she explained her situation to the Hudson County Welfare Board, requesting $ 163.00 in emergency assistance funds to cover her rent and utility bills." 560 F.2d 160, 163 (CA3 1977).
+
+4Link to the location of the note in the document
+HN3 "When because of an emergent situation over which they have had no control or opportunity to plan in advance, the eligible unit is in a state of homelessness; and the County Welfare Board determines that the providing of shelter and/or food and/or emergency clothing, and/or minimum essential house furnishings are necessary for health and safety, such needs may be recognized in accordance with the regulations and limitations in the following sections." N. J. Admin. Code § 10:82-5.12 (1976).
+
+5Link to the location of the note in the document
+HN4 Section 406 (e)(1), as set forth in 42 U. S. C. § 606 (e)(1), provides:
+
+"The term 'emergency assistance to needy families with children' means any of the following, furnished for a period not in excess of 30 days in any 12-month period, in the case of a needy child under the age of 21 who is (or, within such period as may be specified by the Secretary, has been) living with any of the relatives specified in subsection (a)(1) of this section in a place of residence maintained by one or more of such relatives as his or their own home, but only where such child is without available resources, the payments, care, or services involved are necessary to avoid destitution of such child or to provide living arrangements in a home for such child, and such destitution or need for living arrangements did not arise because such child or relative refused without good cause to accept employment or training for employment --
+
+"(A) money payments, payments in kind, or such other payments as the State agency may specify with respect to, or medical care or any other type of remedial care recognized under State law on behalf of, such child or any other member of the household in which he is living, and
+
+"(B) such services as may be specified by the Secretary;
+
+"but only with respect to a State whose State plan approved under section 602 of this title includes provision for such assistance."
+
+6Link to the location of the note in the document
+418 F.Supp. 566, 569 (1976).
+
+HN5 Section 1983 provides:
+
+"Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress."
+
+7Link to the location of the note in the document
+HN6 Article VI, cl. 2, of the United States Constitution provides:
+
+"This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding."
+
+8Link to the location of the note in the document
+560 F.2d, at 169.
+
+9Link to the location of the note in the document
+HN8 Section 1331 (a) provides:
+
+"The district courts shall have original jurisdiction of all civil actions wherein the matter in controversy exceeds the sum or value of $ 10,000, exclusive of interest and costs, and arises under the Constitution, laws, or treaties of the United States, except that no such sum or value shall be required in any such action brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity."
+
+10Link to the location of the note in the document
+See, e. g., King v. Smith, 392 U.S. 309; Townsend v. Swank, 404 U.S. 282.
+
+11Link to the location of the note in the document
+45 CFR, §§ 233.20 (a)(3)(ii)(C), 233.90 (a) (1974).
+
+12Link to the location of the note in the document
+Houston Welfare Rights Org. v. Vowell, 391 F.Supp. 223 (1975).
+
+13Link to the location of the note in the document
+Houston Welfare Rights Org. v. Vowell, 555 F.2d 1219 (1977).
+
+14Link to the location of the note in the document
+It will be noted that the Court of Appeals did not hold that the Social Security Act was itself an Act of Congress of the kind described in the jurisdictional statute.
+
+15Link to the location of the note in the document
+The first section of "An Act to enforce the Provisions of the Fourteenth Amendment to the Constitution of the United States, and for other Purposes" reads as follows:
+
+"That any person who, under color of any law, statute, ordinance, regulation, custom, or usage of any State, shall subject, or cause to be subjected, any person within the jurisdiction of the United States to the deprivation of any rights, privileges, or immunities secured by the Constitution of the United States, shall, any such law, statute, ordinance, regulation, custom, or usage of the State to the contrary notwithstanding, be liable to the party injured in any action at law, suit in equity, or other proper proceeding for redress; such proceeding to be prosecuted in the several district or circuit courts of the United States, with and subject to the same rights of appeal, review upon error, and other remedies provided in like cases in such courts, under the provisions of the act of the ninth of April, eighteen hundred and sixty-six, entitled 'An Act to protect all persons in the United States in their civil rights, and to furnish the means of their vindication'; and the other remedial laws of the United States which are in their nature applicable in such cases." 17 Stat. 13.
+
+16Link to the location of the note in the document
+"Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress." Rev. Stat. § 1979.
+
+17Link to the location of the note in the document
+Subparagraph "Twelfth" of § 563 authorized district court jurisdiction "[of] all suits at law or in equity authorized by law to be brought by any person to redress the deprivation, under color of any law, ordinance, regulation, custom, or usage of any State, of any right, privilege, or immunity secured by the Constitution of the United States, or of any right secured by any law of the United States to persons within the jurisdiction thereof."
+
+18Link to the location of the note in the document
+Subparagraph "Sixteenth" of § 629 granted the circuit courts original jurisdiction "[of] all suits authorized by law to be brought by any person to redress the deprivation, under color of any law, statute, ordinance, regulation, custom, or usage of any State, of any right, privilege, or immunity, secured by the Constitution of the United States, or of any right secured by any law providing for equal rights of citizens of the United States, or of all persons within the jurisdiction of the United States."
+
+19Link to the location of the note in the document
+36 Stat. 1087, 1167.
+
+20Link to the location of the note in the document
+See § 24 (14), 36 Stat. 1092.
+
+21Link to the location of the note in the document
+The sections have, of course, been renumbered.
+
+22Link to the location of the note in the document
+H. R. 6127, § 121, 85th Cong., 1st Sess. (1957).
+
+23Link to the location of the note in the document
+Ibid. In addition to conferring federal jurisdiction, the bill also provided that such suits should be entertained without regard to exhaustion by the aggrieved party of administrative or other judicial remedies.
+
+24Link to the location of the note in the document
+See H. R. Rep. No. 291, 85th Cong., 1st Sess., 11 (1957) ("Section 122 amends section 1343 of title 28, United States Code. These amendments are merely technical amendments to the Judicial Code so as to conform it with amendments made to existing law by the preceding section of the bill").
+
+25Link to the location of the note in the document
+The Act of 1871, known as the Ku Klux Klan Act, was directed at the organized terrorism in the Reconstruction South led by the Klan, and the unwillingness or inability of state officials to control the widespread violence. Section 1 of the Act generated the least concern; it merely added civil remedies to the criminal penalties imposed by the 1866 Civil Rights Act. See Cong. Globe, 42d Cong., 1st Sess., 568 (1871) (remarks of Sen. Edmunds); id., at App. 68 (remarks of Rep. Shellabarger). The focus of the heated debate was on the succeeding sections of the Act, which included provisions imposing criminal and civil penalties for conspiracies to deprive individuals of constitutional rights, and authorizing the President to suspend the writ of habeas corpus and use armed forces to suppress "insurrection." §§ 2-5, 17 Stat. 13; see Cong. Globe, 42d Cong., 1st Sess., App. 220 (1871) (remarks of Sen. Thurman). See generally Developments in the Law -- Section 1983 and Federalism, 90 Harv. L. Rev. 1133, 1153-1156 (1977).
+
+26Link to the location of the note in the document
+See Cong. Globe, 42d Cong., 1st Sess., 577 (1871) (remarks of Sen. Trumbull); Developments, supra n. 25, at 1155.
+
+27Link to the location of the note in the document
+See S. Rep. No. 388, 61st Cong., 2d Sess., pt. 1, p. 15 (1910); H. R. Doc. No. 783, 61st Cong., 2d Sess., pt. 1, p. 19 (1910).
+
+28Link to the location of the note in the document
+This caution is also mandated by the settled rule that HN13 the party claiming that a court has power to grant relief in his behalf has the burden of persuasion on the jurisdictional issue, McNutt v. General Motors Acceptance Corp., 298 U.S. 178, 189, especially when he is proceeding in a court of limited jurisdiction. Turner v. Bank of North America, 4 Dall. 8, 11.
+
+29Link to the location of the note in the document
+"The argument that the phrase in the statute 'secured by the Constitution' refers to rights 'created,' rather than 'protected' by it, is not persuasive. The preamble of the Constitution, proclaiming the establishment of the Constitution in order to 'secure the Blessings of Liberty,' uses the word 'secure' in the sense of 'protect' or 'make certain.' That the phrase was used in this sense in the statute now under consideration was recognized in Carter v. Greenhow, 114 U.S. 317, 322, where it was held as a matter of pleading that the particular cause of action set up in the plaintiff's pleading was in contract and was not to redress deprivation of the 'right secured to him by that clause of the Constitution' [the contract clause], to which he had 'chosen not to resort.' See, as to other rights protected by the Constitution and hence secured by it, brought within the provisions of R. S. § 5508, Logan v. United States, 144 U.S. 263; In re Quarles and Butler, 158 U.S. 532; United States v. Mosley, 238 U.S. 383." Hague v. CIO, 307 U.S. 496, 526-527 (opinion of Stone, J.).
+
+30Link to the location of the note in the document
+The three-judge court statute, including the language at issue in Swift & Co. v. Wickham, was originally enacted in 1910, 36 Stat. 557, at a time when the Judicial Code of 1911 was under active consideration.
+
+31Link to the location of the note in the document
+When Swift & Co. was decided, § 2281 provided:
+
+"An interlocutory or permanent injunction restraining the enforcement, operation or execution of any State statute by restraining the action of any officer of such State in the enforcement or execution of such statute or of an order made by an administrative board or commission acting under State statutes, shall not be granted by any district court or judge thereof upon the ground of the unconstitutionality of such statute unless the application thereof is heard and determined by a district court of three judges under section 2284 of this title." (Emphasis added.)
+
+32Link to the location of the note in the document
+See Lynch v. Household Finance Corp., 405 U.S. 538, 540, 543; Examining Board v. Flores de Otero, 426 U.S. 572, 583.
+
+33Link to the location of the note in the document
+The Act of April 9, 1866, 14 Stat. 27, the forerunner to the Fourteenth Amendment, in its first section declared all persons born in the United States to be citizens and provided that all citizens should have the same rights to make and enforce contracts, to sue, to purchase, lease, sell, or hold property, and to full and equal benefit of all laws as is enjoyed by white citizens. The Act of May 31, 1870, 16 Stat. 140, which followed the passage of the Fifteenth Amendment, was directed at enforcing the declared right of every citizen to vote in all elections without regard to race.
+
+34Link to the location of the note in the document
+Indeed, the view that § 1 of the 1871 Act was "merely carrying out the principles of the civil rights bill [of 1866] which have since become a part of the Constitution" may well explain why it was subject to the least debate of any section of that Act. Cong. Globe, 42d Cong., 1st Sess., 568 (1871) (remarks of Sen. Edmunds). See also id., at 429 (remarks of Rep. McHenry). Section 1 of the 1871 Act was modeled after § 2 of the 1866 Act, which provided criminal sanctions for violations of the rights declared by that Act.
+
+35Link to the location of the note in the document
+Cong. Globe, 42d Cong., 1st Sess., 568 (1871). See also 560 F.2d, at 169.
+
+36Link to the location of the note in the document
+HN20 Where the underlying right is based on the Constitution itself, rather than an Act of Congress, § 1343 (3) obviously provides jurisdiction.
+
+37Link to the location of the note in the document
+See H. R. Rep. No. 291, 85th Cong., 1st Sess., 10 (1957):
+
+"Section 1985 of title 42, United States Code, often referred to as the Ku Klux Act, provides a civil remedy in damages to a person damaged as a result of conspiracies to deprive one of certain civil rights. The law presently is comprised of three subsections; the first establishes liability for damages against any person who conspires to interfere with an officer of the United States in the discharge of his duties and as a result thereof injures or deprives another of rights or privileges of a citizen of the United States; the second subsection establishes liability for damages against any person who conspires to intimidate or injure parties, witnesses, or jurors involved in any court matter or who conspires to obstruct the due process of justice in any State court made with the intent to deny to any citizen the equal protection of the laws as the result of the conspiracies for injury or deprivation of another's rights or privileges as a citizen of the United States; the third subsection establishes liability for damages against any person who conspires to deprive another of equal protections of the laws or of equal privileges and immunities under the laws, or of the right to vote in elections affecting Federal offices if the result is to injure or deprive another of rights and privileges of a citizen of the United States.
+
+"The effect of the provisions of the proposed bill on existing law as contained in title 42, United States Code, section 1985 is not to expand the rights presently protected but merely to provide the Attorney General with the right to bring a civil action or other proper proceeding for relief to prevent acts or practices which would give rise to a cause of action under the three existing subsections."
+
+38Link to the location of the note in the document
+See 103 Cong. Rec. 12559 (1957) (remarks of Sen. Case):
+
+"My intent in proposing the idea of leaving in the bill section 122, renumbered as section 121, was to strengthen the so-called right to vote. The section would amend existing law so as to clarify the jurisdiction of the district courts in the entertainment of suits to recover damages, or to secure equitable or other relief under any act of Congress providing for the protection of civil rights, including the right to vote. . . .
+
+. . . .
+
+"[The] addition of a subparagraph 4 in section 1343 is not limited by the clause 'under color of any statute, ordinance, regulation, custom, or order of any State or Territory,' to which the preceding paragraph is subject.
+
+"So in that sense the new subparagraph 4, which would be left in Part III, is complementary to, and is perhaps somewhat broader than existing law. So it does not limit the suit to recover damages to a case in which the injury occurs under color of law."
+
+39Link to the location of the note in the document
+Cf. Gomez v. Florida State Employment Service, 417 F.2d 569, 580 n. 39 (CA5 1969) (rights secured by the Social Security Act are "rights of an essentially personal nature").
+
+40Link to the location of the note in the document
+As to § 1343 (4), see Jones v. Alfred H. Mayer Co., 392 U.S. 409, 412 n. 1 (Civil Rights Act of 1866); Allen v. State Board of Elections, 393 U.S. 544, 554 (Voting Rights Act of 1965).
+
+41Link to the location of the note in the document
+The removal statute was enacted in the Civil Rights Act of 1866 under the authority of the Thirteenth Amendment; §§ 1343 (3) and (4), on the other hand, are based upon the authority of the Fourteenth Amendment which, unlike the Thirteenth Amendment, is not limited to racially based claims of inequality. As a result, while an Act of Congress must in fact deal with equal rights or civil rights to support jurisdiction under § 1343, it need not be stated only in terms of racial equality. Cf. Georgia v. Rachel, 384 U.S., at 792.

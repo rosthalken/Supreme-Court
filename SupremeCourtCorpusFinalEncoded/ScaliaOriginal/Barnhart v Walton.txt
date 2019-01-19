@@ -1,0 +1,30 @@
+﻿
+
+
+122 S.Ct. 1265
+Supreme Court of the United States
+Jo Anne B. BARNHART, Commissioner of Social Security, Petitioner,
+v.
+Cleveland B. WALTON.
+No. 00–1937.
+|
+Argued Jan. 16, 2002.
+|
+Decided March 27, 2002.
+
+*226 Justice SCALIA, concurring in part and concurring in the judgment.
+
+I join all but Part II of the Court’s opinion.
+ 
+I agree that deference is owed to regulations of the Social Security Administration (SSA) interpreting the definition of “disability,” 42 U.S.C. §§ 423(d)(1)(A), 1382c(a)(3)(A) (1994 ed. and Supp. V). See 65 Fed.Reg. 42774 (2000). As the Court acknowledges, the recency of these regulations is irrelevant, see ante, at 1270–1271 (citing Smiley v. Citibank (South Dakota), N. A., 517 U.S. 735, 741, 116 S.Ct. 1730, 135 L.Ed.2d 25 (1996); United States v. Morton, 467 U.S. 822, 835–836, n. 21, 104 S.Ct. 2769, 81 L.Ed.2d 680 (1984)). I would therefore not go on, as the Court does, ante, at 1270–1272, to address the SSA’s prior interpretation of the definition of “disability” in a 1982 Social Security Ruling, a 1965 Disability Insurance State Manual, and a 1957 OASI Disability Insurance Letter.
+ 
+I do not believe, to begin with, that “particular deference” is owed “to an agency interpretation of ‘longstanding’ duration,” ante, at 1270. That notion is an anachronism—a relic of the pre-Chevron days, when there was thought to be only one “correct” interpretation of a statutory text. A “longstanding” agency interpretation, particularly one that dated back to the very origins of the statute, was more likely to reflect the single correct meaning. See, e.g., Watt v. Alaska, 451 U.S. 259, 272–273, 101 S.Ct. 1673, 68 L.Ed.2d 80 (1981). But once it is accepted, as it was in Chevron, that there is a range of permissible interpretations, and that the agency is free to move from one to another, so long as the most recent interpretation is reasonable its antiquity should make no difference. Cf. Rust v. Sullivan, 500 U.S. 173, 186–187, 111 S.Ct. 1759, 114 L.Ed.2d 233 (1991); Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 863–864, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984).
+ 
+If, however, the Court does wish to credit the SSA’s earlier interpretations—both for the purpose of giving the agency’s position “particular deference” and for the purpose of relying upon congressional reenactment with presumed knowledge *227 of the agency position, see ante, at 1270—then I think the Court should state why those interpretations were authoritative enough (or whatever-else-enough Mead requires) to qualify for deference. See United States v. Mead Corp., 533 U.S. 218, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001). I of course agree that more than notice-and-comment rulemaking qualifies, see ante, at 1271, but that concession alone does not validate the Social Security Ruling, the Disability Insurance State Manual, and the OASI Disability Insurance Letter. (Only the latter two, I might point out, antedate the congressional reenactments upon which the Court relies.)
+ 
+The SSA’s recently enacted regulations emerged from notice-and-comment rulemaking and merit deference. No more need be said.
+ 
+
+
+
+

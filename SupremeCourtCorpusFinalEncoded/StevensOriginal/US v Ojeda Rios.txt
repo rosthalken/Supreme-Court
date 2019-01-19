@@ -1,0 +1,36 @@
+﻿UNITED STATES v. OJEDA RIOS ET AL.
+
+No. 89-61
+
+SUPREME COURT OF THE UNITED STATES
+
+495 U.S. 257
+
+February 28, 1990, Argued 
+April 30, 1990, Decided
+
+JUSTICE STEVENS, with whom JUSTICE BRENNAN and JUSTICE MARSHALL join, dissenting.
+The failure to comply with the sealing requirements of Title III was the unfortunate consequence of a Government lawyer's good-faith, but incorrect, understanding of the law. Whether such a mistake should constitute a "satisfactory explanation" for the failure, is, as both the District Court and the Court of Appeals recognized, a close question. Both of those courts resolved their doubts in favor of requiring strict compliance  [***238]  with a statute that was carefully drawn to protect extremely sensitive privacy interests. I think their resolution of the issue was correct. 1
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 The Court acknowledges that the prosecutor's understanding of the law was incorrect. Ante at 266. However, the Court posits that, at the time of this investigation, it was "objectively reasonable" to interpret 18 U.S.C. § 2518(8)(a) to treat wiretap orders issued after an order covering the same suspects or locations expired as extensions of the earlier order. The legal sufficiency of this excuse, which relies on United States v. Principie, 531 F. 2d 1132 (CA2 1976), cert. denied, 430 U.S. 905 (1977), and United States v. Scafidi, 564 F. 2d 633 (CA2 1977), cert. denied, 436 U.S. 903 (1978), is debatable for three reasons.
+First, Principie addressed a different provision of Title III, § 2518(8)(d), which requires written notice to suspects within 90 days of "the termination of the period of an order or extensions thereof." The Principie court treated a wiretap order that was issued four days after the expiration of an order directed at the same suspects at a previous location to be "an extension" within the meaning of this section. While enforcing notice under § 2518(8)(d) is informed by concerns for prematurely exposing an investigation, sealing under § 2518(8)(a) carries no such risk. To the contrary, the underlying concern for the integrity of tapes and accurate recordkeeping supports sealing as early as possible. The Scafidi court applied Principie's definition of extension to a sealing delay, but held alternatively that if the later orders could not be considered extensions, the reasons for the brief delay met the rigorous reading of § 2518(8)(a) established in United States v. Gigante, 538 F. 2d 502 (CA2 1976).
+Second, because a judge of the United States District Court for the District of Puerto Rico issued the surveillance and sealing orders, the District Court below held that the "law of the first circuit controlled where a material difference exists between the sealing requirements in the first and second circuits." United States v. Gerena, 695 F. Supp. 649, 657-658 (Conn. 1988). The First Circuit has not applied Principie to subsequent orders in Title III notice or sealing cases. It has construed § 2518(8)(a)'s sealing requirement strictly and identified a series of factors to measure the sufficiency of an explanation of delay. United State v. Mora, 821 F. 2d 860 (CA1 1987). Both the District Court and Second Circuit used the Mora factors in sustaining the suppression of the Levittown and Baja Vega tapes. 695 F. Supp., at 657-658; 875 F. 2d 17, 22-23 (CA2 1989).
+Finally, the general rule -- as stated in the treatise used by the prosecutor in this case -- is that "[a]lthough Title III delays the sealing and notice deadline when the initial warrant is extended, it does not postpone those deadlines when a new warrant is obtained on a different phone or premises." C. Fishman, Wiretapping and Eavesdropping § 190 (1978); id., at 282, n. 8 (acknowledging Principie as an exception to notice deadlines in a footnote). Prosecutor Bove did not recall what cases he consulted, but did recall using the Fishman treatise. App. 35, 40, 42-44.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [*269]  The ordinary citizen is often charged with presumptive knowledge of laws even when they are complex and confusing. A similar presumption should apply to a federal prosecutor responsible for insuring that a prolonged and extensive program of electronic surveillance is conducted in compliance with the law. Moreover, when issues turn on the details of such an investigation -- in this case involving 1,011 tapes made pursuant to 8 separate orders and 17 extensions -- I believe  [**1853]  we should give special deference to the consistent evaluations of the record by the District Court and the Court of Appeals. Chief Judge Oakes succinctly stated the concern that is decisive for me:
+
+ 
+ [*270]  "We think that unfortunately the failure to seal the Levittown tapes here resulted from a disregard of the sensitive nature of the activities undertaken. The danger here is, of course, that today's dereliction becomes tomorrow's conscious avoidance of the requirements of law. The privacy and other interests affected by the electronic surveillance statutes are sufficiently  [***239]  important, we believe, to hold the Government to a reasonably high standard of at least acquaintance with the requirements of law." 875 F. 2d 17, 23 (CA2 1989). 2
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+2 Cf. United States v. Giordano, 416 U.S. 505, 527 (1974) ("Congress intended to require suppression where there is failure to satisfy any of those statutory requirements that directly and substantially implement the congressional intention to limit the use of intercept procedures to those situations clearly calling for the employment of this extraordinary investigative device").
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Accordingly, while I agree with the Court's rejection of the Government's construction of Section 2518(8)(a), I would affirm the judgment of the Court of Appeals. 3
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+3 If a "satisfactory explanation" did exist, I would agree that a remand to determine that it was in fact "the actual reason for the delay" would be required. Ante, at 267 (O'CONNOR, J., concurring).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -

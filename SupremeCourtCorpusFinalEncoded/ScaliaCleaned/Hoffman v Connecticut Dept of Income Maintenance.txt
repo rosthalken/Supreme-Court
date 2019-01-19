@@ -1,0 +1,7 @@
+﻿I concur in the Court’s judgment that “petitioner’s actions in United States Bankruptcy Court under §§ 542(b) and 547(b) of the [Bankruptcy] Code are barred by the Eleventh Amendment.” Ante, at 2824. I reach this conclusion, however, not on the plurality’s basis that “Congress did not abrogate Eleventh Amendment immunity” of the States, ibid., but on the ground that it had no power to do so. As I explained in my opinion concurring in part and dissenting in part in Pennsylvania v. Union Gas Co., 491 U.S. 1, 35–42, 109 S.Ct. 2273, 2299–2303, 105 L.Ed.2d 1 (1989), it makes no sense to affirm the constitutional principle established **2825 by Hans v. Louisiana, 134 U.S. 1, 10 S.Ct. 504, 33 L.Ed. 842 (1890), that “ ‘a suit directly against a State by one of its own citizens is not one to which the judicial power of the United States extends, unless the State itself consents to be sued,’ ” Welch v. Texas Dept. of Highways and Public Transp., 483 U.S. 468, 486, 107 S.Ct. 2941, 2952, 97 L.Ed.2d 389 (1987) (plurality opinion), quoting Hans, supra, 134 U.S., at 21, 10 S.Ct., at 509 (Harlan, J., concurring), and to hold at the same time that Congress can override this principle by statute in the exercise of its Article I powers. Union Gas involved Congress’ powers under the Commerce Clause, but there is no basis for treating its powers under the Bankruptcy Clause any differently. Accordingly, I would affirm the judgment of the Court of Appeals without the necessity of considering whether Congress intended to exercise a power it did not possess.
+ 
+
+
+
+
+

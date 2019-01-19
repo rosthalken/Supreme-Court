@@ -1,0 +1,49 @@
+﻿
+
+
+93 S.Ct. 848
+Supreme Court of the United States
+Gene HAM, Petitioner,
+v.
+State of SOUTH CAROLINA.
+No. 71—5139.
+|
+Argued Nov. 6, 1972.
+|
+Decided Jan. 17, 1973.
+Mr. Justice REHNQUIST delivered the opinion of the Court.
+
+Petitioner was convicted in the South Carolina trial court of the possession of marihuana in violation of state law.1 He was sentenced to 18 months’ confinement, and on appeal his conviction was affirmed by a divided *525 South Carolina Supreme Court. 256 S.C. 1, 180 S.E.2d 628 (1971). We granted certiorari limited to the question of whether the trial judge’s refusal to examine jurors on voir dire as to possible prejudice against petitioner violated the latter’s federal constitutional rights. 404 U.S. 1057, 92 S.Ct. 744, 30 L.Ed.2d 745 (1972).
+Petitioner is a young, bearded Negro who has lived most of his life in Florence County, South Carolina. He appears to have been well known locally for his work in such civil rights activities as the Southern Christian Leadership Conference and the Bi-racial Committee of the City of Florence. He has never previously been convicted of a crime. His basic defense at the trial was that law enforcement officers were ‘out to get him’ because of his civil rights activities, and that he had been framed on the drug charge.
+Prior to the trial judge’s voir dire examination of prospective jurors, petitioner’s counsel requested the judge to ask jurors four questions relating to possible prejudice *526 against petitioner.2 The **850 first two questions sought to elicit any possible racial prejudice against Negroes; the third question related to possible prejudice against beards; and the fourth dealt with pretrial publicity relating to the drug problem. The trial judge, while putting to the prospective jurors three general questions as to bias, prejudice, or partiality that are specified in the South Carolina statutes,3 declined to ask any of the four questions posed by petitioner.
+The dissenting justices in the Supreme Court of South Carolina thought that this Court’s decision in Aldridge v. United States, 283 U.S. 308, 51 S.Ct. 470, 75 L.Ed. 1054 (1931), was binding on the State. There a Negro who was being tried for the murder of a white policeman requested that prospective jurors be asked whether they entertained any racial prejudice. This Court reversed the judgment of conviction because of the trial judge’s refusal to make such an inquiry. Mr. Chief Justice Hughes, writing for the Court, stated that the ‘essential demands of fairness’ required the trial judge under the circumstances of that case to interrogate the veniremen with respect to racial prejudice upon the request of counsel for a Negro criminal defendant. Id., at 310, 51 S.Ct., at 471.
+[1] [2] The Court’s opinion relied upon a number of state court holdings throughout the country to the same effect, but it was not expressly grounded upon any constitutional requirement. Since one of the purposes of the Due Process Clause of the Fourteenth Amendment is to insure these ‘essential demands of fairness,’ e.g., Lisenba v. California, 314 U.S. 219, 236, 62 S.Ct. 280, 289, 86 L.Ed. 166 (1941), and since a principal purpose of the adoption of the Fourteenth Amendment was to prohibit the States from *527 invidiously discriminating on the basis of race, Slaughter-House Cases, 16 Wall. 36, 81, 21 L.Ed. 394 (1873), we think that the Fourteenth Amendment required the judge in this case to interrogate the jurors upon the subject of racial prejudice. South Carolina law permits challenges for cause, and authorizes the trial judge to conduct voir dire examination of potential jurors. The State having created this statutory framework for the selection of juries, the essential fairness required by the Due Process Clause of the Fourteenth Amendment requires that under the facts shown by this record the petitioner be permitted to have the jurors interrogated on the issue of racial bias. Cf. Groppi v. Wisconsin, 400 U.S. 505, 508, 91 S.Ct. 490, 492, 27 L.Ed.2d 571 (1971); Bell v. Burson, 402 U.S. 535, 541, 91 S.Ct. 1586, 1590, 29 L.Ed.2d 90 (1971).
+ 
+[3] We agree with the dissenting justices of the Supreme Court of South Carolina that the trial judge was not required to put the question in any particular form, or to ask any particular number of questions on the subject, simply because requested to do so by petitioner. The Court in Aldridge was at pains to point out, in a context where its authority within the federal system of courts allows a good deal closer supervision than does the Fourteenth Amendment, **851 that the trial court ‘had a broad discretion as to the questions to be asked,’ 283 U.S., at 310, 51 S.Ct., at 471. The discretion as to form and number of questions permitted by the Due Process Clause of the Fourteenth Amendment is at least as broad. In this context, either of the brief, general questions urged by the petitioner would appear sufficient to focus the attention of prospective jurors on any racial prejudice they might entertain.
+ 
+[4] The third of petitioner’s proposed questions was addressed to the fact that he wore a beard. While we cannot say that prejudice against people with beards might not have been harbored by one or more of the potential jurors in this case, this is the beginning and *528 not the end of the inquiry as to whether the Fourteenth Amendment required the trial judge to interrogate the prospective jurors about such possible prejudice. Given the traditionally broad discretion accorded to the trial judge in conducting voir dire, Aldridge v. United States, supra, and our inability to constitutionally distinguish possible prejudice against beards from a host of other possible similar prejudices, we do not believe the petitioner’s constitutional rights were violated when the trial judge refused to put this question. The inquiry as to racial prejudice derives its constitutional stature from the firmly established precedent of Aldridge and the numerous state cases upon which it relied, and from a principal purpose as well as from the language of those who adopted the Fourteenth Amendment. The trial judge’s refusal to inquire as to particular bias against beards, after his inquiries as to bias in general, does not reach the level of a constitutional violation.
+ 
+[5] Petitioner’s final question related to allegedly prejudicial pretrial publicity. But the record before us contains neither the newspaper articles nor any description of the television program in question. Because of this lack of material in the record substantiating any pretrial publicity prejudicial to this petitioner, we have no occasion to determine the merits of his request to have this question posed on voir dire.4
+ 
+*529 Because of the trial court’s refusal to make any inquiry as to racial bias of the prospective jurors after petitioner’s timely request therefor, the judgment of the Supreme Court of South Carolina is reversed.
+Judgment reversed.
+
+
+
+1
+S.C. Code s 32—1506 (1962).
+2
+The four questions sought to be asked are the following:
+‘1. Would you fairly try this case on the basis of the evidence and disregarding the defendant's race?
+‘2. You have no prejudice against negroes? Against black people? You would not be influenced by the use of the term ‘black’?
+‘3. Would you disregard the fact that this defendant wears a beard in deciding this case?
+‘4. Did you watch the television show about the local drug problem a few days ago when a local policeman appeared for a long time? Have you heard about that show? Have you read or heard about recent newspaper articles to the effect that the local drug problem is bad? Would you try this case solely on the basis of the evidence presented in this courtroom? Would you be influenced by the circumstances that the prosecution's witness, a police officer, has publicly spoken on TV about drugs?’
+3
+S.C. Code s 38—202 (1962). The three questions asked of all prospective jurors in this case were, in substance, the following:
+‘1. Have you formed or expressed any opinion as to the guilt or innocence of the defendant, Gene Ham?
+‘2. Are you conscious of any bias or prejudice for or against him?
+‘3. Can you give the State and the defendant a fair and impartial trial?’
+4
+The record indicates that there was a brief colloquy between petitioner's counsel and the trial judge, in which the former apparently offered newspaper accounts and an editorial in support of his request that the question be propounded; the judge responded that he did not consider the items submitted prejudicial. The Supreme Court of South Carolina, discussing prejudicial publicity in the context of petitioner's claim that he was entitled to a change of venue, stated that ‘(t)he two newspaper clippings and one editorial concerning drug abuse did not name the defendant or refer in any way to his trial.’
+
+

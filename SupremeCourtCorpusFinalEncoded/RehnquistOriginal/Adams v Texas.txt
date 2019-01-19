@@ -1,0 +1,46 @@
+﻿
+
+
+100 S.Ct. 2521
+Supreme Court of the United States
+Randall Dale ADAMS, Petitioner,
+v.
+State of TEXAS.
+No. 79-5175.
+|
+Argued March 24, 1980.
+|
+Decided June 25, 1980.
+Mr. Justice REHNQUIST, dissenting.
+
+The Court today holds that, under Witherspoon v. Illinois, 391 U.S. 510, 88 S.Ct. 1770, 20 L.Ed.2d 776 (1968), the State of Texas may not excuse from service on a **2530 jury considering a capital case persons who are unwilling or unable to swear that the possibility that the defendant will be executed will not affect their deliberations on any issue of fact. Thus, at a time when this Court should be re-examining the doctrinal underpinnings of Witherspoon in light of our intervening decisions in capital cases, it instead expands that precedent as if those underpinnings had remained wholly static and would benefit from expansion of the holding. I find myself constrained to dissent.
+ 
+At the time Witherspoon was decided, Illinois, like many States, gave the juries in capital cases complete and unbridled discretion in considering the death penalty. In the words of Witherspoon itself, “the State of Illinois empowered the jury . . . to answer ‘yes’ or ‘no’ to the question whether this defendant was fit to live.” 391 U.S., at 521, n. 20, 88 S.Ct., at 1776, n. 20. This feature of the capital-sentencing scheme under consideration in that case was perhaps the single most important factor in this Court’s ultimate decision:
+“[I]n Illinois . . . the jury is given broad discretion to decide whether or not death is “the proper penalty” in a given case, and a juror’s general views about capital punishment play an inevitable role in any such decision.
+ 
+“A man who opposes the death penalty, no less than one who favors it, can make the discretionary judgment entrusted to him by the State and can thus obey the oath he takes as a juror. But a jury from which all such men have been excluded cannot perform the task demanded of it. Guided by neither rule nor standard, *53 ‘free to select or reject as it [sees] fit,’ a jury that must choose between life imprisonment and capital punishment can do little more-and must do nothing less-than express the conscience of the community on the ultimate question of life or death.” Id., at 519, 88 S.Ct., at 1775 (emphasis in original; footnote omitted).
+ 
+ 
+However one feels about the constitutionality of excluding persons with qualms about the death penalty from such a jury, one has to admit that the conditions that formed the predicate for Witherspoon no longer exist. Our recent decisions on the constitutionality of the death penalty leave little doubt that, contrary to this Court’s only slightly less recent decision in McGautha v. California, 402 U.S. 183, 91 S.Ct. 1454, 28 L.Ed.2d 711 (1971), a State may not leave the decision whether to impose capital punishment upon a particular defendant solely to the untrammeled discretion of a jury. See Furman v. Georgia, 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972); Gregg v. Georgia, 428 U.S. 153, 96 S.Ct. 2909, 49 L.Ed.2d 859 (1976); Proffitt v. Florida, 428 U.S. 242, 96 S.Ct. 2960, 49 L.Ed.2d 913 (1976); Jurek v. Texas, 428 U.S. 262, 96 S.Ct. 2950, 49 L.Ed.2d 929 (1976); Roberts v. Louisiana, 428 U.S. 325, 96 S.Ct. 3001, 49 L.Ed.2d 974 (1976).
+ 
+The statute presently in force in Texas requires imposition of the death penalty if the jury in a capital case answers three questions in the affirmative:
+“(1) whether the conduct of the defendant that caused the death of the deceased was committed deliberately and with the reasonable expectation that the death of the deceased or another would result;
+ 
+“(2) whether there is a probability that the defendant would commit criminal acts of violence that would constitute a continuing threat to society; and
+ 
+“(3) if raised by the evidence, whether the conduct of the defendant in killing the deceased was unreasonable in response to the provocation, if any, by the deceased.” Tex.Code Crim.Proc.Ann., Art. 37.071(b) (Vernon Supp.1979).
+ 
+*54 If the jury answers any of these inquiries in the negative, capital punishment cannot be imposed.
+ 
+It is hard to imagine a system of capital sentencing that leaves less discretion in the hands of the jury while at the same time allowing them to consider the particular circumstances of each case-that is, to perform their assigned task at all. In upholding this system against constitutional challenge in Jurek v. Texas, supra, the opinion **2531 announcing the judgment stressed that this procedure “guides and focuses the jury’s objective consideration of the particularized circumstances of the individual offense and the individual offender before it can impose a sentence of death.” Id., 428 U.S., at 274, 96 S.Ct., at 2957 (emphasis added). Given this mandate to a jury in a capital case to answer certain specific questions on the basis of the evidence submitted, I see no reason why Texas should not be entitled to require each juror to swear that he or she will answer those questions without regard to their possible cumulative consequences.
+ 
+In holding otherwise, the Court seems to recognize that the jury’s role in this case is fundamentally different from that considered in Witherspoon. It nevertheless dismisses this difference on the grounds that the sentencing process employed by Texas “is not an exact science” and that “the jurors under the Texas bifurcated procedure unavoidably exercise a range of judgment and discretion while remaining true to their instructions and their oaths.”  Ante, at 2527. I would suggest that the Court’s observations in this regard are as true when applied to the initial determination of guilt as they are when applied to the sentencing proceeding. In either determination, a juror is required to make “unscientific” determinations and to exercise a good deal of discretion within the bounds of his or her oath. In fact, I can see no plausible distinction between the role of the jury in the guilt/innocence phase of the trial and its role, as defined by the State of Texas, in the sentencing phase. No one would suggest, however, that jurors could not be excused for cause *55 if they declined to swear that the possibility of capital punishment would not affect their determination of the defendant’s guilt or innocence. Cf. Witherspoon v. Illinois, 391 U.S., at 523, n. 21, 88 S.Ct., at 1777, n. 21 (“Nor . . . does today’s holding render invalid the conviction, as opposed to the sentence, in this or any other case”).
+ 
+In his dissent in Witherspoon, Mr. Justice Black pointed out that society, as much as the defendant, has a right to an impartial jury. Id., at 535, 88 S.Ct., at 1784. He also observed that, if a person could not be excluded from a jury for being “too soft” on the death penalty, then a court would be without a basis for excluding someone who was “too hard.” As he wrote, “I would not dream of foisting on a criminal defendant a juror who admitted that he had conscientious or religious scruples against not inflicting the death sentence on any person convicted of murder (a juror who claims, for example, that he adheres literally to the Biblical admonition of ‘an eye for an eye’).” Id., at 536, 88 S.Ct., at 1784 (emphasis added). I cannot believe that the Court would question the excusal of a juror who would not take the challenged oath for those same reasons. To dismiss this possibility, as does the Court here, because “such jurors will be few indeed,” ante, at 2528, is not only to engage in unsupportable speculation, but also to miss the point of Mr. Justice Black’s argument. The question is not one of statistical parity, but of logical consistency.
+ 
+Like the Texas Court of Criminal Appeals, I do not read Witherspoon as casting any doubt upon the constitutionality of the oath required by Tex. Penal Code Ann. § 12.31(b) (1974). See Hughes v. State, 563 S.W.2d 581 (1978); Freeman v. State, 556 S.W.2d 287 (1977); Burns v. State, 556 S.W.2d 270 (1977); Boulware v. State, 542 S.W.2d 677 (1976). I therefore would affirm the judgment of the court below.
+ 
+
+
+
+

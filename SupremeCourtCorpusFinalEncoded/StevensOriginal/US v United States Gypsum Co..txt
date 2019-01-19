@@ -1,0 +1,47 @@
+﻿
+        
+        United States v. United States Gypsum Co., 438 U.S. 422, 98 S. Ct. 2864 (1978)
+        
+
+
+      
+
+ MR. JUSTICE STEVENS, concurring in part [****93]  and dissenting in part.
+
+There are three reasons why I am unable to subscribe to the bifurcated construction of § 1 of the Sherman Act which the Court adopts in Part II of its opinion.
+
+In 1955 I subscribed to the view that criminal enforcement of the Sherman Act is inappropriate unless the defendants have deliberately violated the law. 1Link to the text of the note I adhere to that view today. But since 1890 when the Sherman Act was enacted, the statute has had the same substantive reach in criminal and civil cases. No matter how wise the new rule that the Court adopts today may be, I believe it is an amendment only Congress may enact.
+
+If I were fashioning a new test of criminal liability, I would require proof of a specific purpose to violate the law rather than mere knowledge that the defendants' agreement has had  [*475]  an adverse effect on the market. 2Link to the text of the note Under the lesser standard adopted by the Court, I believe MR. JUSTICE [****94]  REHNQUIST is quite right in viewing the error in the trial judge's instructions as harmless. Ante, at 471-473. There is, of course, a theoretical possibility that defendants could engage in a practice of exchanging current price information that was sufficiently prevalent to have had a marketwide impact that they did not know about, but as a practical matter that possibility is surely remote.
+
+Finally, I am afraid that the new civil-criminal dichotomy may work mischief in the civil enforcement of the prohibition against tampering with prices in a free  [**2893]  market. Conclusive presumptions play a central role in the enforcement, both civil and criminal, of the Sherman Act. Thus,  [****95]  an agreement to charge the same price, 3Link to the text of the note [****96]  or to adopt a common purchasing policy that determines the market price, 4Link to the text of the note is unreasonable, and therefore unlawful, without any proof of the purpose or the actual effect of the agreement. The law presumes that those who entered the price-fixing agreement knew that forbidden effects would follow, and it also presumes, conclusively, that those effects will follow. In a criminal prosecution for price fixing in violation of the Sherman Act it is, therefore, irrelevant whether the prices fixed were reasonable or whether the defendant's intentions were good. 5Link to the text of the note See United States v.  [*476]  Trenton Potteries Co., 273 U.S. 392.  [***894]  As Mr. Justice Stone explained for the Court in that case, "the Sherman law is not only a prohibition against the infliction of a particular type of public injury. It 'is a limitation of rights, . . . which may be pushed to evil consequences and therefore restrained.'" Id., at 398 (citation omitted).
+
+To be sure, cases such as Trenton Potteries involved conduct that was determined to be illegal on its face, while in this case the trial court appraised respondents' agreement under "rule of reason" analysis. 6Link to the text of the note But properly understood, rule-of-reason analysis is not distinct from "per se" analysis. On the contrary, agreements that are illegal per se are merely a species within the broad category of agreements that unreasonably restrain trade; less proof is required to [****97]  establish their illegality, but they nonetheless violate the basic rule of reason. 7Link to the text of the note
+
+As applied to an agreement among major producers to exchange current price information, the rule of reason requires an element in addition to proof of the agreement itself -- either an actual market effect or an express purpose to affect market price -- but once that element is shown, any additional showing of intent is unnecessary. See United States v. Container Corp., 393 U.S. 333. [****98]  The rule is premised on the assumption that if the practice of exchanging current price information is sufficiently prevalent to affect the market price, then there is  [*477]  an extremely high probability that the sales representatives of these companies had actual knowledge of that fact. Given the language of § 1, that premise is as valid in the context of a criminal prosecution as it is in the context of a treble-damages civil action.
+
+Accordingly, although I agree with much of the abstract discussion in Part II of the Court's opinion, I concur only in Parts I, III, IV, and V, and in the judgment.
+
+Report of the Attorney General's National Committee to Study the Antitrust Laws 349-351 (1955).
+
+2Link to the location of the note in the document
+The distinction between the two standards is explained ante, at 444-445. The Report of the Attorney General's Committee recommended that "criminal process should be used only where the law is clear and the facts reveal a flagrant offense and plain intent unreasonably to restrain trade." Report, supra n. 1, at 349.
+
+3Link to the location of the note in the document
+United States v. Trenton Potteries Co., 273 U.S. 392.
+
+4Link to the location of the note in the document
+United States v. Socony-Vacuum Oil Co., 310 U.S. 150.
+
+5Link to the location of the note in the document
+In fact, early in the development of criminal enforcement of the Sherman Act, this Court stated:
+
+"[The] conspirators must be held to have intended the necessary and direct consequences of their acts and cannot be heard to say the contrary. In other words, by purposely engaging in a conspiracy which necessarily and directly produces the result which the statute is designed to prevent, they are, in legal contemplation, chargeable with intending that result." United States v. Patten, 226 U.S. 525, 543.
+
+6Link to the location of the note in the document
+An argument can be made that an agreement among the major producers in the market to exchange current price information should be considered illegal on its face. As the Court points out, "[exchanges] of current price information . . . have the greatest potential for generating anticompetitive effects and . . . have consistently been held to violate the Sherman Act." Ante, at 441 n. 16.
+
+7Link to the location of the note in the document
+Rahl, Price Competition and the Price Fixing Rule -- Preface and Perspective, 57 Nw. L. Rev. 137, 139 (1962).
+
+Shepard's®

@@ -1,0 +1,28 @@
+﻿
+In United States v. DiFrancesco, 449 U.S. 117 (1980), this Court upheld the constitutionality of a federal statute that permitted Government appeals from certain sentences. Today, the Court summarily reverses because it finds that the "Pennsylvania Supreme Court's rationale is inconsistent with the rationale of the holding of this Court in DiFrancesco." Ante, at 29.
+
+The Pennsylvania Supreme Court opinion does not mention DiFrancesco. The appellate briefs before the Pennsylvania court did consider that case, however. 1Link to the text of the note Indeed, Mr. Goldhammer argued that DiFrancesco     did not govern precisely because no Pennsylvania statute authorized government appeals of sentences at the time of his conviction and sentencing. 2Link to the text of the note Mr. Goldhammer has     raised the same argument     before this Court in his response    to the Commonwealth's petition. 3Link to the text of the note Moreover, it should be noted that, unlike the situation in DiFrancesco, the Pennsylvania prosecutor made no attempt to take an appeal from the sentences imposed by the trial court. The Commonwealth, in its petition and in its reply, has not adequately addressed these points.
+
+The majority recognizes that the Pennsylvania court's judgment may ultimately be supported by state-law grounds. See ante, at 30-31. In view of that uncertainty, and in view     of the Commonwealth's failure to address this important issue, I would simply deny certiorari. 4Link to the text of the note I would presume that the Pennsylvania Supreme Court determined that DiFrancesco did not govern for the plausible state-law reason that had been argued to it.
+
+Three factors support this presumption. First, Pennsylvania's current statutory framework for permitting government appeals from sentences was not in place at the time of Mr. Goldhammer's conviction and sentencing. 5Link to the text of the note Second, Pennsylvania courts are now applying the new statutory framework, 6Link to the text of the note with full knowledge of DiFrancesco. 7Link to the text of the note Third,     and perhaps most importantly, we should assume that a State Supreme Court is familiar with this Court's precedents and with its own State's law. Because    the majority's summary reversal reflects a contrary assumption, I respectfully dissent.
+
+See Brief for Appellant in No. CR 84-1852, p. 13, n. 3; Brief for Appellee in No. CR 84-1852, pp. 13-15.
+
+2Link to the location of the note in the document
+See id., at 14 ("At the time the instant case arose in Pennsylvania, the Commonwealth did not have the right to appeal from a sentence. That right did not exist until the sentencing guidelines were approved in July, 1982. See 42 Pa. C. S. A. § 9781").
+
+3Link to the location of the note in the document
+See Brief in Opposition 9, n. 6 ("At the time of the trial and sentence here, there was no statutory provision in Pennsylvania for appeal of sentences").
+
+4Link to the location of the note in the document
+See this Court's Rule 21.5 ("The failure of a petitioner to present with accuracy, brevity, and clearness whatever is essential to a ready and adequate understanding of the points requiring consideration will be a sufficient reason for denying his petition").
+
+5Link to the location of the note in the document
+See 42 Pa. Cons. Stat. § 9781 (1982); 204 Pa. Code § 303.1 et seq. (1982), reproduced following Pa. Stat. Ann., Tit. 42, § 9721 (Purdon 1982).
+
+6Link to the location of the note in the document
+See, e. g., Commonwealth v. Dixon, 344 Pa. Super. 293, 496 A. 2d 802 (1985); Commonwealth v. Hutchinson, 343 Pa. Super. 596, 495 A. 2d 956 (1985); Commonwealth v. Drumgoole, 341 Pa. Super. 468, 491 A. 2d 1352 (1985).
+
+7Link to the location of the note in the document
+See Commonwealth v. Drumgoole, supra, at 477, n. 2, 491 A. 2d, at 1356, n. 2 ("Appellee also suggests that to grant the relief sought by the Commonwealth 'would appear to be a violation of the Fifth Amendment Constitutional guarantee against double jeopardy.' This argument has been resolved contrary to appellee's claim. United States v. DiFrancesco, 449 U.S. 117 . . .").

@@ -1,0 +1,23 @@
+﻿
+
+
+99 S.Ct. 1667
+Supreme Court of the United States
+DOUGLAS OIL COMPANY OF CALIFORNIA et al., Petitioners,
+v.
+PETROL STOPS NORTHWEST et al.
+No. 77-1547.
+|
+Argued Dec. 5, 1978.
+|
+Decided April 18, 1979.
+Mr. Justice REHNQUIST, concurring.
+
+I join the Court’s opinion because I agree with its conclusions on the merits of the issue of the availability of the grand jury transcripts to these private treble-damages action plaintiffs. I do not feel that the Court can leave *232 entirely unnoticed, however, the total absence of any reference by either of the parties or by the Court of Appeals to the basis upon which that court took jurisdiction of the petitioners’ “appeal” from the order of the District Court granting access to the grand jury minutes. At the same time, I am handicapped in formulating a view of my own on the subject, because of the absence of any assistance from the parties or any consideration of the question by the Court of Appeals or by this Court. But in order for us to have jurisdiction over the case, the case must be properly “in” the Court of Appeals for purposes of 28 U.S.C. § 1254. Liberty Mutual Life Ins. Co. v. Wetzel, 424 U.S. 737, 96 S.Ct. 1202, 47 L.Ed.2d 435 (1976). And it may well be that the availability to the losing party of a right to appeal an order such as this may be a factor in deciding whether the proceedings should ultimately be treated as part of the discovery in the court in which the treble-damages action is pending, or as a separate proceeding in the court which conducted the grand jury proceeding.
+This case is not like United States v. Procter & Gamble Co., 356 U.S. 677, 78 S.Ct. 983, 2 L.Ed.2d 1077 (1958). In Procter & Gamble, the defendants in a civil action brought by the Government sought discovery of grand jury minutes pursuant to Fed.Rule Civ.Proc. 34.* The District Court granted discovery, and the Government deliberately took a default in order to obtain review of the discovery ruling in the course of its appeal from a “final judgment” of the District Court pursuant to 15 U.S.C. § 29. 356 U.S., at 680, 78 S.Ct., at 985. But absent such extraordinary circumstances, our cases and those of the Courts of Appeals hold that review of the granting or denial of discovery is not immediately reviewable, **1680 except perhaps by way of mandamus for gross abuse of discretion on the part of the trial court. See, e. g., Cobbledick v. United States, 309 U.S. 323, 60 S.Ct. 540, 84 L.Ed. 783 (1940).
+*233 Two Courts of Appeals have taken different approaches to the issue of appealability of orders regarding disclosure of grand jury minutes. Compare Baker v. United States Steel Corp., 492 F.2d 1074 (CA2 1974), with Illinois v. Sarbaugh, 552 F.2d 768 (CA7), cert. denied sub nom. J. L. Simmons Co. v. Illinois, 434 U.S. 889, 98 S.Ct. 262, 54 L.Ed.2d 174 (1977). Since all that is presented to us in this case is an effort to obtain appellate review of an order by the court having custody of the grand jury transcript directing that the transcript be turned over to a party applying for it, different factual permutations which might raise and require different analysis in terms of appealability need not be decided. For example, I am not at all sure that an order of the grand jury court transferring the transcripts to the civil court, as contemplated by the Court’s decision, ante, at 1678, would be appealable. See Baker v. United States Steel Corp., supra. Nor am I certain that I would agree with the analysis of the Court of Appeals for the Seventh Circuit in Illinois v. Sarbaugh, supra, as to the authority under which the district court exercises jurisdiction in this type of case. Nonetheless, I believe that since an order such as is involved in this case disposes of all of the contentions of the parties and terminates a separate proceeding pending before the grand jury court, it is therefore appealable as a “final decision” under 28 U.S.C. § 1291. See Illinois v. Sarbaugh, supra, at 773. If I am correct in this conclusion, this case was “in the court of appeals” from the time that petitioners filed their notice of appeal from the order of the District Court, and we may therefore exercise our certiorari jurisdiction granted by 28 U.S.C. § 1254. Satisfied at least for now with this analysis of the jurisdictional predicate to the case, I join the Court’s opinion on the merits.
+
+
+
+Only one defendant moved for discovery of the minutes under Fed.Rule Crim.Proc. 6(e). 356 U.S., at 678 n. 1, 78 S.Ct., at 984 n. 1. The Court's discussion of the merits of the defendants' claims was based on Fed.Rule Civ.Proc. 34. 356 U.S., at 681, 78 S.Ct., at 985.
+

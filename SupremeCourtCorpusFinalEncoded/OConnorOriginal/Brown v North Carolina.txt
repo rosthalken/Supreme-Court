@@ -1,0 +1,20 @@
+﻿
+        
+        Brown v. North Carolina, 479 U.S. 940, 107 S. Ct. 423 (1986)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+I write briefly in support of the Court's denial of the petition for certiorari in this case, and to respond to JUSTICE BRENNAN'S suggestion that the limits on the prosecutor's right to peremptorily challenge  [***374]  jurors found in Batson v. Kentucky, 476 U.S. 79  [*941]  (1986), apply outside the context of racial discrimination forbidden by the Equal Protection Clause. Batson does not touch, indeed, it clearly reaffirms, id., at 89, the ordinary rule that a prosecutor may exercise his peremptory  [**424]  strikes for any reason at all. Batson, in my view, depends upon this Nation's profound commitment to the ideal of racial equality, a commitment that refuses to permit the State to act on the premise that racial differences matter. It is central to Batson that a "person's race simply 'is unrelated to his fitness as a juror.'" Id., at 87 (citation omitted).
+
+There is no basis for declaring that a juror's attitudes towards the death penalty are similarly irrelevant to the outcome of a capital sentencing proceeding. Indeed, Witherspoon [****2]  v. Illinois, 391 U.S. 510 (1968), upon which JUSTICE BRENNAN's dissent so heavily relies, itself recognizes the relevance of this attitudinal factor. Categorical exclusion of jurors with moral qualms over capital punishment is forbidden precisely because such a practice would produce "a jury uncommonly willing to condemn a man to die." Id., at 521.
+
+Moreover, JUSTICE BRENNAN's dissent ignores a fundamental distinction between peremptory challenges of jurors and challenges for cause. Challenges for cause permit the categorical and unlimited exclusion of jurors exhibiting an inability to serve fairly and impartially in the case to be tried, as noted in Wainwright v. Witt, 469 U.S. 412 (1985). In Witherspoon, the Court held that the Constitution does not tolerate such a categorical exclusion of jurors who merely express moral scruples about or general objections to capital punishment unless it would "'prevent or substantially impair the performance of his duties as a juror in accordance with his instructions and his oath.'" Wainwright v. Witt, supra, at 424 (citation omitted).
+
+Peremptory challenges are limited in number. Each party, the prosecutor, and [****3]  the defense counsel, must balance a host of considerations in deciding which jurors should be peremptorily excused. Permitting prosecutors to take into account the concerns expressed about capital punishment by prospective jurors, or any other factor, in exercising peremptory challenges simply does not implicate the concerns expressed in Witherspoon.
+
+We ought not delude ourselves that the deep faith that race should never be relevant has completely triumphed over the painful social reality that, sometimes, it may be. That the Court will not tolerate prosecutors' racially discriminatory use of the peremptory  [*942]  challenge, in effect, is a special rule of relevance, a statement about what this Nation stands for, rather than a statement of fact. In my view, that special rule is a product of the unique history of racial discrimination in this country; it should not be divorced from that context. Outside the uniquely sensitive area of race the ordinary rule that a prosecutor may strike a juror without giving any reason applies.  [***375]  Because a juror's attitudes towards the death penalty may be relevant to how the juror judges, while, as a matter of law, his race is not, this  [****4]  case is not like Batson.
+

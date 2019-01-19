@@ -1,0 +1,38 @@
+﻿
+
+
+103 S.Ct. 2856
+Supreme Court of the United States
+MOTOR VEHICLE MANUFACTURERS ASSOCIATION OF the UNITED STATES, INC., et al., Petitioners
+v.
+STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY et al.
+CONSUMER ALERT, et al., Petitioners
+v.
+STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY et al.
+UNITED STATES DEPARTMENT OF TRANSPORTATION, et al., Petitioners
+v.
+STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY et al.
+Nos. 82–354, 82–355 and 82–398.
+|
+Argued April 26, 1983.
+|
+Decided June 24, 1983.
+Justice REHNQUIST, with whom THE CHIEF JUSTICE, Justice POWELL, and Justice O’CONNOR join, concurring in part and dissenting in part.
+
+I join parts I, II, III, IV, and V–A of the Court’s opinion. In particular, I agree that, since the airbag and continuous *58 spool automatic seatbelt were explicitly approved in the standard the agency was rescinding, the agency should explain why it declined to leave those requirements intact. In this case, the agency gave no explanation at all. Of course, if the agency can provide a rational explanation, it may adhere to its decision to rescind the entire standard.
+ 
+I do not believe, however, that NHTSA’s view of detachable automatic seatbelts was arbitrary and capricious. The agency adequately explained its decision to rescind the standard insofar as it was satisfied by detachable belts.
+ 
+The statute that requires the Secretary of Transportation to issue motor vehicle safety standards also requires that “[e]ach such ... standard shall be practicable [and] shall meet the need for motor vehicle safety.” 15 U.S.C. § 1392(a). The Court rejects the agency’s explanation for its conclusion that there is substantial uncertainty whether requiring installation of detachable automatic belts would substantially increase seatbelt usage. The agency chose not to rely on a study showing a substantial increase in seatbelt usage in cars equipped with automatic seatbelts and an ignition interlock to prevent the car from being operated when the belts were not in place and which were voluntarily purchased with this equipment by consumers. See ante, at 2870, n. 15. It is reasonable for the agency to decide that this study does not support any conclusion concerning the effect of automatic seatbelts that are installed in all cars whether the consumer wants them or not and are not linked to an ignition interlock system.
+ 
+The Court rejects this explanation because “there would seem to be grounds to believe that seatbelt use by occasional users will be substantially increased by the detachable passive belts,” ante, at 2872, and the agency did not adequately explain its rejection of these grounds. It seems to me that the agency’s explanation, while by **2875 no means a model, is adequate. The agency acknowledged that there would probably be some increase in belt usage, but concluded that the increase would be small and not worth the cost of mandatory *59 detachable automatic belts. 46 F.R. 53421–54323 (1981). The agency’s obligation is to articulate a “rational connection between the facts found and the choice made.” Ante, at 2866–2867, 2871, quoting Burlington Truck Lines v. United States, 371 U.S. 156, 168, 83 S.Ct. 239, 246, 9 L.Ed.2d 207 (1962). I believe it has met this standard.
+ 
+The agency explicitly stated that it will increase its educational efforts in an attempt to promote public understanding, acceptance, and use of passenger restraint systems. 46 F.R. 53425 (1981). It also stated that it will “initiate efforts with automobile manufacturers to ensure that the public will have [automatic crash protection] technology available. If this does not succeed, the agency will consider regulatory action to assure that the last decade’s enormous advances in crash protection technology will not be lost.”  Id., at 53426.
+ 
+The agency’s changed view of the standard seems to be related to the election of a new President of a different political party. It is readily apparent that the responsible members of one administration may consider public resistance and uncertainties to be more important than do their counterparts in a previous administration. A change in administration brought about by the people casting their votes is a perfectly reasonable basis for an executive agency’s reappraisal of the costs and benefits of its programs and regulations. As long as the agency remains within the bounds established by Congress,* it is entitled to assess administrative records and evaluate priorities in light of the philosophy of the administration.
+ 
+
+
+
+*
+Of course, a new administration may not choose not to enforce laws of which it does not approve, or to ignore statutory standards in carrying out its regulatory functions. But in this case, as the Court correctly concludes, ante, at 2867 – 2868, Congress has not required the agency to require passive restraints.

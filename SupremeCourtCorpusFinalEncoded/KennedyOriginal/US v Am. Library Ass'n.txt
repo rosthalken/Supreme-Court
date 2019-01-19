@@ -1,0 +1,17 @@
+﻿
+        
+        United States v. Am. Library Ass'n, 539 U.S. 194, 123 S. Ct. 2297 (2003)
+        
+
+
+      
+
+Justice Kennedy, concurring in the judgment.
+
+If, on the request of an adult user, a librarian will unblock filtered material or disable the Internet software filter without significant delay, there is little to this case. The Government represents this is indeed the fact. Tr. of Oral Arg. 11; ante, at 156 L. Ed. 2d, at 235.
+
+The District Court, in its "Preliminary Statement," did say that "the unblocking may take days, and may be unavailable, especially in branch libraries, which are often less well staffed than main libraries." 201 F. Supp. 2d 401, 411 (ED Pa. 2002). See also post, at 156 L. Ed. 2d, at 249-250 (Souter, J., dissenting). That statement, however, does not appear to be a specific finding. It was not the basis for the District Court's decision in any event, as the court assumed [****37]  that "the disabling provisions permit public libraries to allow a patron access to any speech that is constitutionally protected [**2310]  with respect to that patron." Id., at 485-486.
+
+ [*215]  If some libraries do not have the capacity to unblock specific Web sites or to disable the filter or if it is shown that an adult user's election to view constitutionally protected Internet material is burdened in some other substantial way, that would be the subject for an as-applied challenge, not the facial challenge made in this case. See post, at 156 L. Ed. 2d, at 241-242 (Breyer, J., concurring in judgment).
+
+LEdHN[1D] [1D] There are, of course, substantial Government interests at stake here. The interest in protecting young library users from material inappropriate for minors is legitimate, and even compelling, as all Members of the Court appear to agree. Given this interest, and the failure to show that the ability of adult library users to have access to the material is burdened in any significant degree, the statute is not unconstitutional on its face. For these reasons, I concur in the judgment of the Court.

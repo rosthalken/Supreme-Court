@@ -1,0 +1,20 @@
+﻿
+        
+        Montana v. Hall, 481 U.S. 400, 107 S. Ct. 1825 (1987)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+ [****20]   [***364]  "Respect for the independence of state courts, as well as avoidance of rendering advisory opinions, have been the cornerstones of this Court's refusal to decide cases where there is an adequate and independent state ground." Michigan v. Long, 463 U.S. 1032, 1040 (1983).
+
+Perhaps the Court is correct in assuming that the decision of the Supreme Court of Montana does not rest on an adequate and independent state ground. Nevertheless, it is worthy of note that the state court expressly relied on Article II, § 25, of the Montana Constitution 1Link to the text of the note and cited four decisions of the Montana Supreme Court in support of its double jeopardy holding. 2Link to the text of the note Furthermore, after concluding that "the double jeopardy clause prohibits [respondent's] retrial," 224 Mont. 187, 192, 728 P. 2d 1339, 1342 (1986), the Montana court  [**1831]  advanced an alternative ground for its decision that is supported only by the Montana case of State v. Hembd, 197 Mont. 438, 643 P. 2d 567 (1982), namely that retrial would be impermissible because respondent was convicted of an offense  [*411]  that did not exist when he committed [****21]  the acts in question; this state-law doctrine has no federal counterpart of which I am aware.
+
+My respect for the independence of state courts, as well as the desirability of not rendering opinions that may turn out to be wholly advisory, therefore persuades me that the Court's summary disposition is unwise. See, e. g., People v. P.J. Video, Inc., 68 N. Y. 2d 296, 501 N. E. 2d 556 (1986) (declining to follow New York v. P. J. Video, Inc., 475 U.S. 868 (1986)),  [****22]  cert. denied, 479 U.S. 1091 (1987); Commonwealth v. Upton, 394 Mass. 363, 476 N. E. 2d 548 (1985) (declining to follow Massachusetts v. Upton, 466 U.S. 727 (1984)); Bellanca v. New York State Liquor Authority, 54 N. Y. 2d 228, 429 N. E. 2d 765 (1981) (declining to follow New York State Liquor Authority v. Bellanca, 452 U.S. 714 (1981)), cert. denied, 456 U.S. 1006 (1982); State v. Opperman, 247 N. W. 2d 673 (S. D. 1976) (declining to follow South Dakota v. Opperman, 428 U.S. 364 (1976)).
+
+I would simply deny MoArticle II, § 25, of the Montana Constitution provides: "No person shall be again put in jeopardy for the same offense previously tried in any jurisdiction."
+
+2Link to the location of the note in the document
+State v. Lindseth, 203 Mont. 115, 659 P. 2d 844 (1983); State v. Wells, 202 Mont. 337, 658 P. 2d 381 (1983); State v. Hembd, 197 Mont. 438, 643 P. 2d 567 (1982); State v. Parmenter, 112 Mont. 312, 116 P. 2d 879 (1941).ntana's petition for a writ of certiorari.

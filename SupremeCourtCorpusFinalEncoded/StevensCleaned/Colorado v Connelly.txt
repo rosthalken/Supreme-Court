@@ -1,0 +1,32 @@
+﻿
+Respondent made incriminatory statements both before and after he was handcuffed and taken into custody. The only question presented by the Colorado District Attorney in his certiorari petition concerned the admissibility of respondent's precustodial statements. Pet. for Cert. i, 14-15. 1Link to the text of the note I     agree with the State of Colorado that the United States Constitution does not require suppression of those statements, but in reaching that conclusion, unlike the Court, I am perfectly willing to accept the state trial court's finding that the statements were involuntary.
+
+    The state trial court found that, in view of the "overwhelming evidence presented by the Defense," the prosecution did not meet its burden of demonstrating that respondent's initial statements to Officer Anderson were voluntary. App. 47-48. Nevertheless, in my opinion, the use of these involuntary precustodial statements does not violate the Fifth Amendment because they were not     the product of state compulsion. Although they may well be so unreliable that they could not support a conviction, at this stage of the proceeding I could not say that they have no probative force whatever. The fact that the statements were involuntary -- just as the product of Lady Macbeth's nightmare was involuntary 2Link to the text of the note -- does not mean that their use for whatever evidentiary value they may have is fundamentally unfair or a denial of due process.
+
+    The postcustodial statements raise an entirely distinct question. When the officer whom respondent approached elected to handcuff him and to take him into custody, the police assumed a fundamentally different relationship with him. Prior to that moment, the police had no duty to give respondent Miranda warnings and had every right to continue their exploratory conversation with him. 3Link to the text of the note    Once the custodial relationship was established, however, the     questioning assumed     a presumptively coercive character. Miranda v. Arizona, 384 U.S. 436, 467 (1966). In my opinion the questioning could not thereafter go forward in the absence of a valid waiver of respondent's constitutional rights unless he was provided with counsel. Since it is undisputed that respondent was not then competent to stand trial, I would also conclude that he was not competent to waive his constitutional right to remain silent. 4Link to the text of the note
+
+The Court seems to believe that a waiver can be voluntary even if it is not the product of an exercise of the defendant's "'free will.'" Ante, at 169. The Court's position is not only incomprehensible to me; it is also foreclosed by the Court's recent pronouncement in Moran v. Burbine, 475 U.S. 412, 421 (1986), that "the relinquishment of the right must have been voluntary in the sense that it was the product of a free and deliberate choice. . . ." 5Link to the text of the note Because respondent's waiver     was not voluntary in that sense, his custodial interrogation was presumptively coercive. The Colorado Supreme Court was unquestionably correct in     concluding that his post-custodial incriminatory statements were inadmissible.
+
+Accordingly, I concur in the judgment insofar as it applies to respondent's precustodial statements but respectfully dissent     from the Court's disposition of the question that was not presented by the certiorari petition.
+
+The petition states: "[Respondent's] later confession, which involves a Miranda issue, is not an issue in this petition." Pet. for Cert. 15.
+
+2Link to the location of the note in the document
+"What, will these hands ne'er be clean?
+
+. . . .
+
+"Here's the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand." W. Shakespeare, Macbeth, Act V, scene 1, lines 41, 47.
+
+Lady Macbeth's "eyes are open," "but their sense is shut." Id., at line 23.
+
+3Link to the location of the note in the document
+See Schneckloth v. Bustamonte, 412 U.S. 218, 247 (1973) ("Miranda, of course, did not reach investigative questioning of a person not in custody . . .").
+
+4Link to the location of the note in the document
+The trial court found:
+
+"Here, in the Court's estimation, there's no question that the Defendant did not exercise free will in choosing to talk to the police. He exercised a choice both [sic] of which were mandated by auditory hallucination, had no basis in reality, and were the product of a psychotic break with reality. The Defendant at the time of the confession had absolutely in the Court's estimation no volition or choice to make. He was compelled by his illness to do that which he did, and he did so in a manner which is not unusual for people who suffer schizophrenia." App. 47.
+
+5Link to the location of the note in the document
+The Court relies on the further statement in Moran v. Burbine, 475 U.S., at 421, that the waiver must result from "free and deliberate choice rather than intimidation, coercion, or deception. . . ." Ante, at 170. Obviously this dichotomy does not exhaust the possibilities; the mere absence of police misconduct does not establish that the suspect has made a free and deliberate choice when the suspect is not competent to stand trial.

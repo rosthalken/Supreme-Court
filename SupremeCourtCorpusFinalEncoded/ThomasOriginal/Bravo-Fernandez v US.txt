@@ -1,0 +1,16 @@
+﻿JUAN BRAVO-FERNANDEZ AND HECTOR MARTÍNEZ-MALDONADO, PETITIONERS v. UNITED STATES
+
+No. 15-537.
+
+SUPREME COURT OF THE UNITED STATES
+
+137 S. Ct. 352
+
+October 4, 2016, Argued 
+November 29, 2016, Decided
+
+Justice Thomas, concurring.
+The question presented in this case is whether, under Ashe v. Swenson, 397 U. S. 436, 90 S. Ct. 1189, 25 L. Ed. 2d 469 (1970), and Yeager v. United States, 557 U. S. 110, 129 S. Ct. 2360, 174 L. Ed. 2d 78 (2009), a vacated conviction can nullify    the preclusive effect of an acquittal under the issue-preclusion prong of the Double Jeopardy Clause.
+As originally understood, the Double Jeopardy Clause does not have an issue-preclusion prong. “The English common-law pleas of auterfoits acquit and auterfoits convict, on  [**258]  which the Clause was  [*367]  based, barred only repeated ‘prosecution for the same identical act and crime.’” Id., at 128, 129 S. Ct. 2360, 174 L. Ed. 2d 78 (Scalia, J., dissenting) (quoting 4 W. Blackstone, Commentaries on the Laws of England 330 (1769); emphasis added by dissent); see also Grady v. Corbin, 495 U. S. 508, 530-535, 110 S. Ct. 2084, 109 L. Ed. 2d 548 (1990) (Scalia, J., dissenting). But “[i]n Ashe the Court departed from the original meaning of the Double Jeopardy Clause, holding that it precludes successive prosecutions on distinct crimes when facts essential to conviction of the second crime have necessarily been resolved in the defendant’s favor by a verdict of acquittal of the first crime.” Yeager, supra, at 128, 129 S. Ct. 2360, 174 L. Ed. 2d 78 (Scalia, J., dissenting).
+In Yeager, this Court erroneously and illogically extended Ashe. See 557 U. S., at 128-131, 129 S. Ct. 2360, 174 L. Ed. 2d 78. “Ashe held only that the Clause sometimes bars successive prosecution of facts found during ‘a prior proceeding.’” Id., at 129, 129 S. Ct. 2360, 174 L. Ed. 2d 78 (quoting Ashe, supra, at 444, 90 S. Ct. 1189, 25 L. Ed. 2d 469). Yeager, however, “bar[red] retrial on hung counts after what was not . . . a prior proceeding but simply an earlier stage of the same proceeding.” 557 U. S., at 129, 129 S. Ct. 2360, 174 L. Ed. 2d 78 (Scalia, J.,    dissenting).
+In an appropriate case, we should reconsider the holdings of Ashe and Yeager. Because the Court today properly declines to extend those cases, and indeed reaches the correct result under the Clause’s original meaning, I join its opinion.

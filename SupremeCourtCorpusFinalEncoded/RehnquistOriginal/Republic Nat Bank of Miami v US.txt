@@ -1,0 +1,42 @@
+﻿
+
+
+113 S.Ct. 554
+Supreme Court of the United States
+REPUBLIC NATIONAL BANK OF MIAMI, Petitioner,
+v.
+UNITED STATES.
+No. 91–767.
+|
+Argued Oct. 5, 1992.
+|
+Decided Dec. 14, 1992.
+\
+ 
+
+Chief Justice REHNQUIST delivered the opinion of the Court in part, concurred in part, and concurred in the judgment.*
+
+I join the Court’s judgment and Parts I, II, and IV of its opinion. I write separately, however, because I do not agree with the Appropriations Clause analysis set forth in Part III. Justice BLACKMUN “would hold that the Constitution does not forbid the return without an appropriation of funds held in the Treasury during the course of an in rem forfeiture proceeding to the party determined to be their owner.” Ante, at 561. Justice BLACKMUN reaches this result because he concludes that funds deposited in the Treasury in the course of a proceeding to determine their ownership are not “public money.” I have difficulty accepting the proposition that funds which have been deposited into the Treasury are not public money, regardless of whether the Government’s ownership of those funds is disputed. Part of my difficulty stems from the lack of any support in our cases for this theory.
+ 
+*94 In Knote v. United States, 95 U.S. 149, 154, 24 L.Ed. 442 (1877), we stated: “[I]f the proceeds have been paid into the treasury, the right to them has so far become vested in the United States that they can only be secured to the former owner of the property through an act of Congress. Moneys once in the treasury can only be withdrawn by an appropriation by law.” Knote is distinguishable in that the forfeiture proceeding in that case was final at the time the appropriations question arose. But the principle that once funds are deposited into the Treasury, they become public money—and thus may only be paid out pursuant to a statutory appropriation—would seem to transcend the facts of Knote. That there exists a specific appropriation for “ ‘Refund of Moneys Erroneously Received and Covered’ and other collections erroneously deposited that are not properly chargeable to another appropriation,” 31 U.S.C. § 1322(b)(2), supports this understanding.†
+ 
+Justice BLACKMUN relies principally on language from Tyler v. Defrees, 78 U.S. (11 Wall.) 331, 349, 20 L.Ed. 161 (1871), to the effect that once a seizure of forfeitable property has occurred, “[n]o change of the title or possession [can] be made, pending the judicial proceedings, which would defeat the final decree.” See ante, at 561. This language is dictum rendered in the course of deciding a dispute over the sufficiency of the marshal’s seizure of the property subject to forfeiture. But even if it were the holding of the case, it would have no application to the present **563 case, because here there was a *95 final decree entered by the District Court in favor of the Government. It is petitioner’s failure to post a bond or obtain a stay of that judgment which has brought the present controversy to this Court.
+ 
+[8] In any event, even if there are circumstances in which funds that have been deposited into the Treasury may be returned absent an appropriation, I believe it unnecessary to plow that uncharted ground here. The general appropriation for payment of judgments against the United States provides in part:
+“(a) Necessary amounts are appropriated to pay final judgments, awards, compromise settlements, and interest and costs specified in the judgments or otherwise authorized by law when—
+“(1) payment is not otherwise provided for;
+“(2) payment is certified by the Comptroller General; and
+“(3) the judgment, award, or settlement is payable—
+“(A) under section 2414, 2517, 2672, or 2677 of title 28....” 31 U.S.C. § 1304.
+Title 28 U.S.C. § 2414, in turn, authorizes the payment of “final judgments rendered by a district court ... against the United States.” Together, §§ 1304 and 2414 would seem to authorize the return of funds in this case in the event petitioner were to prevail in the underlying forfeiture action.
+ 
+But further inquiry is required, for we have said that § 1304 “does not create an all-purpose fund for judicial disbursement.... Rather, funds may be paid out only on the basis of a judgment based on a substantive right to compensation based on the express terms of a specific statute.” Office of Personnel Management v. Richmond, 496 U.S. 414, 432, 110 S.Ct. 2465, 2475, 110 L.Ed.2d 387 (1990). The question, then, is whether petitioner would have a “substantive right to compensation” if it were to prevail in this forfeiture proceeding. I believe 28 U.S.C. § 2465 provides such a right here. That section provides: “Upon *96 the entry of judgment for the claimant in any proceeding to ... forfeit property seized under any Act of Congress, such property shall be returned forthwith to the claimant or his agent.” Although § 2465 speaks of forfeitable “property” and not public money, the property subject to forfeiture in this case has been converted to proceeds now resting in the Assets Forfeiture Fund of the Treasury. I see no reason why § 2465 should not be construed as authorizing the return of proceeds in such a case. Therefore, I would hold that 31 U.S.C. § 1304, together with 28 U.S.C. § 2465, provide the requisite appropriation.
+ 
+Because I believe there exists a specific appropriation authorizing the payment of funds in the event petitioner were to prevail in the underlying forfeiture action, I agree with Justice BLACKMUN that a judgment for petitioner below would not be “useless.” Accordingly, I concur in the judgment of the Court.
+ 
+
+
+
+†
+As Justice BLACKMUN points out, where funds have been accidently deposited into the wrong account, the Comptroller General has assumed that a deposit may be corrected without an express appropriation. Ante, at 561. So, too, reasons Justice BLACKMUN, would it be “unrealistic ... to require congressional authorization before a data processor who misplaces a decimal point can ‘undo’ an inaccurate transfer of Treasury funds.” Ibid. This may be so, but this is not our case. For the funds at issue were not accidently deposited into the Treasury, but rather intentionally transferred there once a valid judgment of forfeiture had been entered by the District Court.
+

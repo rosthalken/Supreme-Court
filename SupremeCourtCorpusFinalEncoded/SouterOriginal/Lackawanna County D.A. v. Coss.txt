@@ -1,0 +1,22 @@
+﻿LACKAWANNA COUNTY DISTRICT ATTORNEY, ET AL., PETITIONERS v. EDWARD R. COSS, JR.
+
+No. 99-1884
+
+SUPREME COURT OF THE UNITED STATES
+
+121 S. Ct. 1567
+
+February 20, 2001, Argued 
+April 25, 2001, Decided
+
+JUSTICE SOUTER, with whom JUSTICE STEVENS and JUSTICE GINSBURG join, dissenting.
+The error of Daniels v. United States, No. 99-9136, ante, p.    , is repeated once more, and I respectfully dissent for reasons set out in my dissenting opinion in that case. There is a further reason to disagree with the majority here.
+Although state law theoretically provided a procedure for respondent Coss to challenge his 1986 convictions, the provision has proven to be a mirage; Coss's challenge was filed and answered by the District Attorney, only to disappear in the state court system for almost 14 years, so far. This failure of state process leads the Court to qualify its general rule against attacking predicates to enhanced sentences, by raising the possibility of such a challenge when the opportunity for attack under provisions of state law, timely invoked, has proven to be imaginary. Ante, at 10. The majority then goes on to  [**1577]  deny Coss the benefit of this exception on the ground that he cannot demonstrate that "the challenged prior conviction . . . adversely affected the sentence that is  [*409]  the subject of the habeas petition." Ante, at 11. This conclusion is premature.
+The issue of adverse effect was by no means adequately raised and considered by the Court of Appeals. The earlier convictions could have affected the later sentence in either of two ways: by subjecting Coss to a higher sentencing range or by being considered as a reason to give him a higher sentence than he would otherwise have received within a given range. It appears that the sentencing court did not treat the convictions as subjecting Coss to a higher range of potential sentence, but the District Court expressly found that the sentencing court considered the challenged convictions in sentencing Coss to the maximum sentence within the applicable range. App. to Pet. for Cert. 107a ("The sentencing judge, however, did make reference to the 1986 convictions in sentencing Coss to the top of the standard range for his 1990 aggravated assault conviction"). This finding was never challenged in the Court of Appeals, * which appeared to accept the District Court's finding as a matter of course. Id. at 11a ("We are satisfied that the  [***622]  sentencing judge . . . took into consideration [Coss's 1986 conviction]").
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+* The District Attorney made no mention of the causal connection between the 1986 conviction and the 1990 sentence either in his brief before the Third Circuit panel, or in his petition for rehearing. That petition claimed only that the panel had improperly applied the principle of United States v. Tucker, 404 U.S. 443, 30 L. Ed. 2d 592, 92 S. Ct. 589 (1972), to the facts of this case.
+Even the so-called "Epilogue" included in petitioner's brief before the en banc Court of Appeals argued only that the 1986 conviction did not subject Coss to a higher sentencing range in 1990. Supplemental Brief [on Rehearing] For Appellee in No. 98-7416 (CA3), pp. 15-18. It did not challenge the District Court's finding that the 1990 sentencing court considered the challenged convictions in sentencing Coss to the maximum sentence within the applicable range.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+In holding the District Court's finding to be clearly erroneous, the majority is thus ruling on a matter in the first instance in derogation of this Court's proper role as a court of review. E.g., Glover v. United States, 531 U.S. 198, 148 L. Ed. 2d 604, 121 S. Ct. 696 (2001);  [*410]  National Collegiate Athletic Assn. v. Smith, 525 U.S. 459, 142 L. Ed. 2d 929, 119 S. Ct. 924 (1999); United States v. Bestfoods, 524 U.S. 51, 72-73, 141 L. Ed. 2d 43, 118 S. Ct. 1876 (1998). The only responsible course for the majority would be to remand to the Court of Appeals, which could determine whether the District Attorney may challenge the District Court's finding of a causal link between the unconstitutional convictions and the later, maximum sentence, or whether this issue has already been waived.

@@ -1,0 +1,34 @@
+﻿
+        
+        Juidice v. Vail, 430 U.S. 327, 97 S. Ct. 1211 (1977)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, concurring in the judgment.
+
+The major premise underlying the Court's holding in Younger v. Harris, 401 U.S. 37, is that a court of equity should not act when the moving party has an adequate remedy at law. 1Link to the text of the note Consistently with Younger, a court of equity may have a duty to act if the alternative legal remedy is inadequate. Indeed, the major premise underlying the Court's holding in Mitchum v. Foster, 407 U.S. 225, is a recognition of the unfortunate fact that state proceedings are sometimes inadequate to vindicate federal rights. 2Link to the text of the note
+
+ [****24]  [*340]  The ultimate question in this case concerns the constitutionality of New York procedures designed to discover the assets of delinquent judgment debtors. If, as appellees' contend, these procedures violate the Due Process Clause of the Fourteenth Amendment, they cannot provide an adequate  [**1220]  remedy for appellees' federal claim. 3Link to the text of the note For the federal remedy that appellees seek is protection against being required to participate in an unconstitutional judicial  [***388]  proceeding. Even  [*341]  ultimate success in such a proceeding would not protect them from the harm they seek to avoid. The challenged state procedures, therefore, cannot themselves provide an adequate remedy for the alleged federal wrong. 4Link to the text of the note By hypothesis, in a case such as this, Younger abstention is inappropriate.
+
+ [****25]  I am less certain about the possible applicability of Pullman abstention, Railroad Comm'n v. Pullman Co., 312 U.S. 496, on which MR. JUSTICE STEWART relies. I am persuaded, however, that we know enough about the way the New York procedure is actually administered to form a reliable opinion about its validity. I believe, therefore, we have a duty to reach the merits.
+
+As the Court's recitation of the facts demonstrates, the New York procedure provides for adequate notice and gives the debtor adequate opportunities to be heard. Moreover, there is no denial of the impecunious debtor's right to counsel because proof of indigency, which would necessarily precede any appointment of counsel, would also provide a defense to a contempt charge. The New York procedure does not, therefore, deny the judgment debtor due process of law. Accordingly, I concur in the Court's judgment.
+
+"The precise reasons for this longstanding public policy against federal court interference with state court proceedings have never been specifically identified but the primary sources of the policy are plain. One is the basic doctrine of equity jurisprudence that courts of equity should not act, and particularly should not act to restrain a criminal prosecution, when the moving party has an adequate remedy at law and will not suffer irreparable injury if denied equitable relief." Younger v. Harris, 401 U.S., at 43-44.
+
+2Link to the location of the note in the document
+"Those who opposed the Act of 1871 [the forerunner of 42 U.S.C. § 1983] clearly recognized that the proponents were extending federal power in an attempt to remedy the state courts' failure to secure federal rights. The debate was not about whether the predecessor of § 1983 extended to actions of state courts, but whether this innovation was necessary or desirable.
+
+"This legislative history makes evident that Congress clearly conceived that it was altering the relationship between the States and the Nation with respect to the protection of federally created rights; it was concerned that state instrumentalities could not protect those rights; it realized that state officers might, in fact, be antipathetic to the vindication of those rights; and it believed that these failings extended to the state courts." Mitchum v. Foster, 407 U.S., at 241-242.
+
+In a footnote the Court quoted this comment by Congressman Coburn:
+
+"'The United States courts are further above mere local influence than the county courts; their judges can act with more independence, cannot be put under terror, as local judges can; their sympathies are not so nearly identified with those of the vicinage; the jurors are taken from the State, and not the neighborhood; they will be able to rise above prejudices or bad passions or terror more easily….' Cong. Globe, 42d Cong., 1st Sess., 460 (1871)." Id., at 241 n. 31.
+
+3Link to the location of the note in the document
+The appellees argue that the procedures violate their due process rights because no proper notice of the fact that the noncooperating debtor is subject to incarceration for his actions is provided, because the procedures do not require a hearing with the debtor present prior to a finding of contempt and incarceration, and because the procedures do not provide for the right to counsel. If we assume that appellees are correct in their claim that they have a constitutional right to an actual hearing prior to incarceration, and that defects in the notice prevent the merits of that claim from being adjudicated in the state courts until after the incarceration has occurred, by hypothesis the state procedure cannot be adequate because appellees will have suffered the harm they seek to avoid before the state proceeding is concluded. Cf. Gerstein v. Pugh, 420 U.S. 103, 108 n. 9.
+
+4Link to the location of the note in the document
+Perhaps another way to make the same point is to suggest that fidelity to the rationale of Younger would require the District Court to decide the merits of appellees' claims in order to decide whether to abstain.

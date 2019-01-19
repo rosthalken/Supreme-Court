@@ -1,0 +1,41 @@
+﻿
+        
+        Landreth Timber Co. v. Landreth, 471 U.S. 681, 105 S. Ct. 2297 (1985)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting. *Link to the text of the note
+
+In my opinion, Congress did not intend the antifraud provisions of the federal securities laws to apply to every transaction in a security described in § 2(1) of the 1933 Act: 1Link to the text of the note
+
+"The term 'security' means any note, stock, treasury stock, bond, debenture, evidence of indebtedness,  [****29]  certificate of interest or participation  [***705]  in any profit-sharing agreement, . . . investment contract, voting-trust certificate, . . . or, in general, any interest or instrument commonly known as a 'security.'" 15 U. S. C. § 77b(1).
+
+See also ante, at 686, n. 1. Congress presumably adopted this sweeping definition "to prevent the financial community from evading regulation by inventing new types of financial instruments rather than to prevent the courts from interpreting the Act in light of its purposes." Sutter v. Groen, 687 F.2d 197, 201 (CA7 1982). Moreover, the "broad statutory  [*698]  definition is preceded . . . by the statement that the terms mentioned are not to be considered securities if 'the context otherwise requires . . . .'" Marine Bank v. Weaver, 455 U.S. 551, 556 (1982).
+
+ [****30]  The legislative history of the 1933 and 1934 Securities Acts makes clear that Congress was primarily concerned with transactions in securities that are traded in a public market. In United Housing Foundation, Inc. v. Forman, 421 U.S. 837 (1975), the Court observed:
+
+"The primary purpose of the Acts of 1933 and 1934 was to eliminate serious abuses in a largely unregulated securities market. The focus of the Acts is on the capital market of the enterprise system: the sale of securities to raise capital for profit-making purposes, the exchanges on which securities are traded, and the need for regulation to prevent fraud and protect the interest of investors. Because securities transactions are economic in character Congress intended the application of these statutes to turn on the economic realities underlying a transaction, and not on the name appended thereto." Id., at 849.
+
+I believe that Congress wanted to protect investors who do not have access to inside information and who are not in a position to protect themselves from fraud by obtaining appropriate contractual warranties.
+
+At some level of analysis, the policy of Congress must [****31]  provide the basis for placing limits on the coverage of the Securities Acts. The economic realities of a transaction may determine whether "unusual instruments" fall within the scope of the Acts, ante, at 690, and whether an ordinary commercial "note" is covered, ante, at 693-694. The negotiation of an individual mortgage note, for example, surely would not be covered by the Acts, although a note is literally a "security" under the definition. Cf. Chemical Bank v. Arthur Andersen & Co., 726 F.2d 930, 937 (CA2), cert. denied, 469 U.S. 884 
+
+ [**2313contd]  [EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.] (1984).  [*699]  The marketing to the public of a large portfolio of mortgage loans, however, might well be. See Sanders v. John Nuveen & Co., 463 F.2d 1075, 1079-1080 (CA7), cert. denied, 409 U.S. 1009 (1972).
+
+I believe that the characteristics of the entire transaction are as relevant in determining whether a transaction in "stock" is covered by the Acts [****32]  as they are in transactions involving "notes," "investment contracts," or the more hybrid securities. Providing regulations for the trading of publicly listed stock -- whether on an exchange or in the over-the-counter market -- was the heart of Congress' legislative program, and even private sales of such  [***706]  securities are surely covered by the Acts. I am not persuaded, however, that Congress intended to cover negotiated transactions involving the sale of control of a business whose securities have never been offered or sold in any public market. In the latter cases, it is only a matter of interest to the parties whether the transaction takes the form of a sale of stock or a sale of assets, and the decision usually hinges on matters that are irrelevant to the federal securities laws such as tax liabilities, the assignability of Government licenses or other intangible assets, and the allocation of the accrued or unknown liabilities of the going concern. If Congress had intended to provide a remedy for every fraud in the sale of a going concern or its assets, it would not have permitted the parties to bargain over the availability of federal jurisdiction.
+
+In short, I would [****33]  hold that the antifraud provisions of the federal securities laws are inapplicable unless the transaction involves (i) the sale of a security that is traded in a public market; or (ii) an investor who is not in a position to negotiate appropriate contractual warranties and to insist on access to inside information before consummating the transaction. Of course, until the precise contours of such a standard could be marked out in a series of litigated proceedings, some uncertainty in the coverage of the statutes would be unavoidable. Nevertheless, I am persuaded that the interests in certainty  [*700]  and predictability that are associated with a simple "bright-line" rule are not strong enough to "justify expanding liability to reach substantive evils far outside the scope of the legislature's concern." 2Link to the text of the note Sutter v. Groen, 687 F.2d, at 202.
+
+ [****34]  Both of these cases involved a sale of stock in a closely held corporation. In each case the transaction was preceded by comprehensive negotiations between the buyer and seller. There is no suggestion that the buyers were unable to obtain appropriate warranties or to insist on the exchange and independent evaluation of relevant financial information before entering into the transactions. 3Link to the text of the note I do not believe Congress intended the federal securities laws to govern the private sale of a substantial ownership interest in  [***707]  these operating businesses simply because the transactions were structured as sales of stock instead of assets.
+
+I would affirm the judgment of the Court of Appeals in No. 83-1961 and reverse the judgment in No. 84-165.
+
+Cf. Milnarik v. M-S Commodities, Inc., 457 F.2d 274, 275-276 (CA7) (Stevens, J., for the court) ("we do not believe every conceivable arrangement that would fit a dictionary definition of an investment contract was intended to be included within the statutory definition of a security"), cert. denied, 409 U.S. 887 (1972).
+
+2Link to the location of the note in the document
+In final analysis, the Court relies on its own evaluation of the relevant "policy considerations." See ante, at 694-697, and especially n. 7. While I agree that policy considerations are relevant in construing the Securities Acts, I would prefer to rely principally on the policies of Congress as reflected in the legislative history. If extrinsic considerations are to be given effect, I would place a far different evaluation on the weight of the conflicting policies, because I strongly believe that this Court should presume that federal legislation is not intended to displace state authority unless Congress has plainly indicated an intent to do so. See, e. g., Bennett v. New Jersey, 470 U.S. 632, 654-655, n. 16 (1985) (STEVENS, J., dissenting); Garcia v. United States, 469 U.S. 70, 89-90 (1984) (STEVENS, J., dissenting); Michigan v. Long, 463 U.S. 1032, 1067 (1983) (STEVENS, J., dissenting); United States v. Altobella, 442 F.2d 310, 316 (CA7 1971) (Stevens, J., for the court). Cf. Minnesota v. Clover Leaf Creamery Co., 449 U.S. 456, 477 (1981) (STEVENS, J., dissenting).
+
+3Link to the location of the note in the document
+Indeed, in No. 83-1961, the parties entered into a lengthy Stock Purchase Agreement containing extensive warranties and other protections for the purchasers. App. 206-263.

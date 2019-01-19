@@ -1,0 +1,20 @@
+﻿512 U.S. 1301
+EDWIN EDWARDS, GOVERNOR OF LOUISIANA, ET AL., v. HOPE MEDICAL GROUP FOR WOMEN, ET AL.
+Supreme Court of the United States
+August 17, 1994, Decided
+No. A-124
+
+JUSTICE SCALIA, Circuit Justice.
+
+Applicants, officers of the State of Louisiana, ask that I stay an order entered by the United States District Court for the Eastern District of Louisiana which enjoins them from enforcing La. Rev. Stat. Ann. § 40:1299.34.5 (West 1994) while at the same time accepting federal Medicaid  [**905]  funds pursuant to Title XIX of the Social Security Act, 42 U.S.C. § 1396 et seq. The District Court stayed its judgment until 5:00 p.m. on August 19, 1994. Yesterday, the Court of Appeals for the Fifth Circuit unanimously denied the applicants' motion for stay pending appeal.
+
+Section 40:1299.34.5 provides in relevant part:
+
+No public funds [***2]  . . . shall be used in any way for, to assist in, or to provide facilities for an abortion, except when the abortion is medically necessary to prevent the death of the mother.
+
+The District Court concluded that this statute was inconsistent with what it determined to be the requirement of Title XIX. as modified by the 1994 version of the Hyde Amendment, Pub. L. No. 103-112 § 509, 107 Stat. 1082, 1113 (1993), that States participating in the Medicaid program fund medically necessary abortions upon fetuses conceived by acts of rape or incest. Accordingly, it ordered applicants either to cease enforcing section 40:1299.34.5 or to withdraw from participation in the Medicaid program. Hope Medical Group for Women v. Edwards, No. 94-1129 (E.D. La. July 28, 1994). 
+
+ The practice of the Justices has consistently been to grant a stay only when three conditions obtain. There must be a reasonable probability that certiorari will be granted, a significant possibility that the judgment below will be reversed, and a likelihood of irreparable harm (assuming the applicant's position is correct) if the judgment below is not stayed.  [***3]  Barnes v. E-Systems, Inc. Group Hosp. Medical & Surgical Ins. Plan,    U.S.   ,    , 112 S. Ct. 1, 2 (1991) (Scalia, J., in chambers). Moreover, when a District Court judgment is reviewable by a Court of Appeals that has denied a motion for a stay, the applicant seeking an overriding stay from this Court bears "an especially heavy burden," Packwood v. Senate Select Comm. on Ethics,     U.S.    ,    , 114 S. Ct. 1036, 1037 (1994) (Rehnquist, C.J., in chambers). 
+
+Under this standard, I have no authority to stay the judgment here. The only issue potentially worthy of certiorari is the premise underlying the District Court's decision: that Title XIX requires States participating in the Medicaid program to fund abortions (at least "medically necessary" ones) unless federal funding for those procedures is proscribed by the Hyde Amendment. The Courts of Appeals to address this question have uniformly supported that premise. See  [***4]  Roe v. Casey, 623 F.2d 829, 831, 834 (CA3 1980); Hodgson v. Board of County Comm'rs, 614 F.2d 601, 611 (CA8 1980); Zbaraz v. Quern, 596 F.2d 196, 199 (CA7 1979), cert. denied, 448 U.S. 907 (1980); Preterm, Inc. v. Dukakis, 591 F.2d 121, 126-27, 134 (CA1), cert. denied, 441 U.S. 952 (1979). We have already denied certiorari in two of those cases, and it is in my view a certainty that four Justices will not be found to vote for certiorari on the Title XIX question unless and until a conflict in the Circuits appears.
+Accordingly, the application for a stay of the judgment of the District Court for the Eastern District of Louisiana is denied.

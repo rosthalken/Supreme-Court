@@ -1,0 +1,35 @@
+﻿ALBERT HESS AND CHARLES F. WALSH, PETITIONERS v. PORT AUTHORITY TRANS-HUDSON CORPORATION
+
+No. 93-1197 
+
+SUPREME COURT OF THE UNITED STATES
+
+513 U.S. 30
+
+October 3, 1994, Argued 
+November 14, 1994, Decided 
+
+[**407]  JUSTICE STEVENS, concurring.
+JUSTICE GINSBURG's thorough opinion demonstrates why the Court's answer to the open question this case presents is entirely faithful to precedent. I join her opinion without reservation, but believe it appropriate to identify an additional consideration that has motivated my vote.
+Most of this Court's Eleventh Amendment jurisprudence is the product of judge-made law unsupported by the text of the Constitution. The Amendment provides as follows:
+"The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State."
+As Justice Brennan explained in his dissent in Atascadero State Hospital v. Scanlon, 473 U.S. 234, 259-302, 87 L. Ed. 2d 171, 105 S. Ct. 3142 (1985), this language, when read in light of the historical evidence, is properly understood to mean that the grant of diversity jurisdiction found in Article III, § 2, does not extend to actions brought by individuals against States. See also Welch v. Texas Dept. of Highways and Public Transp., 483 U.S. 468, 509-516, 97 L. Ed. 2d 389, 107 S. Ct. 2941 (1987) (Brennan, J., dissenting). Yet since Hans v. Louisiana, 134 U.S. 1, 33 L. Ed. 842, 10 S. Ct. 504 (1890), the Court has interpreted the Eleventh Amendment as injecting broad notions of sovereign  [***264]  immunity into the whole corpus of federal jurisdiction. The Court's decisions have given us "two Eleventh Amendments," one narrow and textual and the other -- not truly a constitutional doctrine at all -- based on prudential considerations of comity and federalism. See Pennsylvania v. Union Gas Co., 491 U.S. 1, 23-29, 105 L. Ed. 2d 1, 109 S. Ct. 2273 (1989) (STEVENS, J., concurring).
+
+ [*54]  This Court's expansive Eleventh Amendment jurisprudence is not merely misguided as a matter of constitutional law; it is also an engine of injustice. The doctrine of sovereign immunity has long been the subject of scholarly criticism. 1 And rightly so, for throughout the doctrine's history, it has clashed with the just principle that there should be a remedy for every wrong. See, e. g., Marbury v. Madison, 5 U.S. 137, 1 Cranch 137, 163, 2 L. Ed. 60 (1803). Sovereign immunity inevitably places a lesser value on administering justice to the individual than on giving government a license to act arbitrarily.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 See, e. g., Borchard, Government Liability in Tort, 34 Yale L. J. 1 (1924); Davis, Sovereign Immunity Must Go, 22 Admin. L. Rev. 383 (1970). The criticism has not abated in recent years, but rather has focused on this Court's adherence to an unjustifiably broad interpretation of the Eleventh Amendment. See, e. g., Marshall, Fighting the Words of the Eleventh Amendment, 102 Harv. L. Rev. 1342 (1989); Jackson, The Supreme Court, the Eleventh Amendment, and State Sovereign Immunity, 98 Yale L. J. 1 (1988); Amar, Of Sovereignty and Federalism, 96 Yale L. J. 1425 (1987).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Arising as it did from the peculiarities of political life in feudal England, 1 F. Pollock & F. Maitland, History of English Law 515-518 (2d ed. 1909), sovereign immunity is a doctrine better suited to a divinely ordained monarchy than to our democracy. 2 Chief Justice John Jay recognized as much over two centuries ago. See Chisholm v. Georgia, 2 U.S. 419, 2 Dall. 419, 471-472, 1 L. Ed. 440 (1793). Despite the doctrine's genesis in judicial decisions, ironically it has usually been the Legislature that has seen fit to curtail its reach. See Scalia, Sovereign Immunity and Nonstatutory Review of Federal Administrative Action: Some Conclusions from the Public-Lands Cases, 68 Mich. L. Rev. 867, 867-868 (1970).
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+2 Stevens, Is Justice Irrelevant?, 87 Nw. U. L. Rev. 1121, 1124-1125 (1993).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+In my view, when confronted with the question whether a judge-made doctrine of this character should be extended or contained, it is entirely appropriate for a court to give  [*55]  controlling weight to the Founders' purpose to "establish Justice." 3 Today's decision is faithful to that purpose.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+3 "We the People of the United States, in Order to form a more perfect Union, establish Justice . . . do ordain and establish this Constitution for the United States of America." U.S. Const. Preamble.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -

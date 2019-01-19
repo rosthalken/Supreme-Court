@@ -1,0 +1,29 @@
+﻿
+        
+        Texas v. Cobb, 532 U.S. 162, 121 S. Ct. 1335 (2001)
+        
+
+
+      
+
+JUSTICE KENNEDY, with whom JUSTICE SCALIA and JUSTICE THOMAS join, concurring.
+
+The Court's opinion is altogether sufficient to explain why the decision of the Texas Court of Criminal Appeals  [***333]  should be reversed for failure to recognize the offense-specific nature of the Sixth Amendment right to counsel. It seems advisable, however, to observe that the Court has reached its conclusion without the necessity to reaffirm or give approval to the decision in Michigan v. Jackson, 475 U.S. 625, 89 L. Ed. 2d 631, 106 S. Ct. 1404 (1986). This course is wise, in my [****22]  view, for the underlying theory of Jackson seems questionable.
+
+As the facts of the instant case well illustrate, it is difficult to understand the utility of a Sixth Amendment rule that operates to invalidate a confession given by the free  [*175]  choice of suspects who have received proper advice of their Miranda rights but waived them nonetheless. The Miranda rule, and the related preventative rule of Edwards v. Arizona, 451 U.S. 477, 68 L. Ed. 2d 378, 101 S. Ct. 1880 (1981), serve to protect a suspect's voluntary choice not to speak outside his lawyer's presence. The parallel rule announced in Jackson, however, supersedes the suspect's voluntary choice to speak with investigators. After Jackson had been decided, the Court made the following observation with respect to Edwards:
+
+"Preserving the integrity of an accused's choice to communicate with police only through counsel is the essence of Edwards and its progeny -- not barring an accused from making an initial election as to whether he will face the State's officers during questioning with the aid of counsel, or go it alone. If an accused 'knowingly and intelligently' pursues the latter course, we see no reason why [****23]  the uncounseled statements he then makes must be excluded at his trial." Patterson v. Illinois, 487 U.S. 285, 291, 101 L. Ed. 2d 261, 108 S. Ct. 2389 (1988).
+
+There is little justification for not applying the same course of reasoning with equal force to the court-made preventative rule announced in Jackson; for Jackson, after all, was a wholesale importation of the Edwards rule into the Sixth Amendment.
+
+In the instant case, Cobb at no time indicated to law enforcement authorities that he elected to remain silent about the double murder. By all indications, he made the voluntary choice to give his own account. Indeed, even now Cobb does not assert that he had no wish to speak at the time he confessed. While the Edwards rule operates to preserve the free choice of a suspect to remain silent, if Jackson were to apply it would override that choice.
+
+There is further reason to doubt the wisdom of the Jackson holding. Neither Miranda nor Edwards enforces the  [*176]   [**1345]  Fifth Amendment right unless the suspect makes a clear and unambiguous assertion of the right to the presence of counsel during custodial interrogation. Davis v. United States, 512 U.S. 452, 459, 129 L. Ed. 2d 362, 114 S. Ct. 2350 (1994). [****24]  Where a required Miranda warning has been given, a suspect's later confession, made outside counsel's presence, is suppressed to protect the Fifth Amendment right of silence only if a reasonable officer should have been certain that the suspect expressed the unequivocal election of the right.
+
+The Sixth Amendment right to counsel attaches quite without reference to the suspect's choice to speak with investigators after a Miranda warning. It is the commencement of  [***334]  a formal prosecution, indicated by the initiation of adversary judicial proceedings, that marks the beginning of the Sixth Amendment right. See ante, at 4 (quoting McNeil v. Wisconsin, 501 U.S. 171, 175, 115 L. Ed. 2d 158, 111 S. Ct. 2204 (1991)). These events may be quite independent of the suspect's election to remain silent, the interest which the Edwards rule serves to protect with respect to Miranda and the Fifth Amendment, and it thus makes little sense for a protective rule to attach absent such an election by the suspect. We ought to question the wisdom of a judge-made preventative rule to protect a suspect's desire not to speak when it cannot be shown that he had that intent.
+
+Even if Jackson is to remain [****25]  good law, its protections should apply only where a suspect has made a clear and unambiguous assertion of the right not to speak outside the presence of counsel, the same clear election required under Edwards. Cobb made no such assertion here, yet JUSTICE BREYER's dissent rests upon the assumption that the Jackson rule should operate to exclude the confession no matter. There would be little justification for this extension of a rule that, even in a more limited application, rests on a doubtful rationale.
+
+JUSTICE BREYER defends Jackson by arguing that, once a suspect has accepted counsel at the commencement of adversarial  [*177]  proceedings, he should not be forced to confront the police during interrogation without the assistance of counsel. See post, at 3-5 (dissenting opinion). But the acceptance of counsel at an arraignment or similar proceeding only begs the question: acceptance of counsel for what? It is quite unremarkable that a suspect might want the assistance of an expert in the law to guide him through hearings and trial, and the attendant complex legal matters that might arise, but nonetheless might choose to give on his own a forthright account of the events [****26]  that occurred. A court-made rule that prevents a suspect from even making this choice serves little purpose, especially given the regime of Miranda and Edwards.
+
+With these further remarks, I join in full the opinion of the Court.

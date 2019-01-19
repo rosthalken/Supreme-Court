@@ -1,0 +1,30 @@
+﻿
+        
+        Eddings v. Oklahoma, 455 U.S. 104, 102 S. Ct. 869 (1982)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+I write separately to address more fully the reasons why this case must be remanded in light of Lockett v. Ohio, 438 U.S. 586 (1978), which requires the trial court to consider and weigh all of the mitigating evidence concerning the petitioner's family background and personal history. *Link to the text of the note
+
+ [****25]  Because  [***13]  sentences of death are "qualitatively different" from prison sentences, Woodson v. North Carolina, 428 U.S. 280, 305 (1976) (opinion of Stewart, POWELL, and  [*118]  STEVENS, JJ.), this Court has gone to extraordinary measures to ensure that the prisoner sentenced to be executed is afforded process that will guarantee, as much as is humanly possible, that the sentence was not imposed out of whim, passion, prejudice, or mistake. Surely, no less can be required when the defendant is a minor. One example of the measures taken is in Lockett v. Ohio, supra, where a plurality of this Court wrote:
+
+"There is no perfect procedure for deciding in which cases governmental authority should be used to impose death. But a statute that prevents the sentencer in all capital cases from giving independent mitigating weight to aspects of the defendant's character and record and to circumstances of the offense proffered in mitigation creates the risk that the death penalty will be imposed in spite of factors which may call for a less severe penalty. When the choice is between life and death, that risk is unacceptable and incompatible [****26]  with the commands of the Eighth and Fourteenth Amendments." Id., at 605 (opinion of BURGER, C. J.).
+
+In order to ensure that the death penalty was not erroneously imposed, the Lockett plurality concluded that "the Eighth and Fourteenth Amendments require that the sentencer, in all but the rarest kind of capital case, not be precluded from considering, as a mitigating factor, any aspect  [**879]  of a defendant's character or record and any of the circumstances of the offense that the defendant proffers as a basis for a sentence less than death." Id., at 604 (emphasis in original) (footnote omitted).
+
+In the present case, of course, the relevant Oklahoma statute permits the defendant to present evidence of any mitigating circumstance. See Okla. Stat., Tit. 21, § 701.10 (1980). Nonetheless, in sentencing the petitioner (which occurred about one month before Lockett was decided), the judge remarked that he could not "in following the law . . . consider  [*119]  the fact of this young man's violent background." App. 189. Although one can reasonably argue that these extemporaneous remarks are of no legal significance, I believe  [****27]  that the reasoning of the plurality opinion in Lockett compels a remand so that we do not "risk that the death penalty will be imposed in spite of factors which may call for a less severe penalty." 438 U.S., at 605.
+
+I disagree with the suggestion in the dissent that remanding this case may serve no useful purpose. Even though the petitioner had an opportunity to present evidence in mitigation  [***14]  of the crime, it appears that the trial judge believed that he could not consider some of the mitigating evidence in imposing sentence. In any event, we may not speculate as to whether the trial judge and the Court of Criminal Appeals actually considered all of the mitigating factors and found them insufficient to offset the aggravating circumstances, or whether the difference between this Court's opinion and the trial court's treatment of the petitioner's evidence is "purely a matter of semantics," as suggested by the dissent. Woodson and Lockett require us to remove any legitimate basis for finding ambiguity concerning the factors actually considered by the trial court.
+
+THE CHIEF JUSTICE may be correct in concluding that the Court's opinion reflects  [****28]  a decision by some Justices that they would not have imposed the death penalty in this case had they sat as the trial judge. See post, at 127. I, however, do not read the Court's opinion either as altering this Court's opinions establishing the constitutionality of the death penalty or as deciding the issue of whether the Constitution permits imposition of the death penalty on an individual who committed a murder at age 16. Rather, by listing in detail some of the circumstances surrounding the petitioner's life, the Court has sought to emphasize the variety of mitigating information that may not have been considered by the trial court in deciding whether to impose the death penalty or some lesser sentence.
+
+*Link to the location of the note in the document
+Despite THE CHIEF JUSTICE's argument that we may not consider the Lockett issue because it was never fairly presented to the court below, there is precedent for this Court to consider the merits of the issue. In Wood v. Georgia, 450 U.S. 261, 265, n. 5 (1981), this Court wrote:
+
+"Even if one considers that the conflict-of-interest question was not technically raised below, there is ample support for a remand required in the interests of justice. See 28 U. S. C. § 2106 (authorizing this Court to 'require such further proceedings to be had as may be just under the circumstances')."
+
+Because the trial court's failure to consider all of the mitigating evidence risks erroneous imposition of the death sentence, in plain violation of Lockett, it is our duty to remand this case for resentencing.

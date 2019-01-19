@@ -1,0 +1,62 @@
+﻿
+        
+        City of Cleburne v. Cleburne Living Ctr., 473 U.S. 432, 105 S. Ct. 3249 (1985)
+        
+
+
+      
+
+[*451]  JUSTICE STEVENS, with whom THE CHIEF JUSTICE joins, concurring.
+
+The Court of Appeals disposed of this case as if a critical question to be decided were which of three clearly defined [****34]  standards of equal protection review should be applied to a legislative classification discriminating against the mentally retarded. 1Link to the text of the note In fact, our cases have not delineated three -- or even one or two -- such well-defined standards. 2Link to the text of the note [****35]   [***328]  Rather, our cases reflect a continuum of judgmental responses to differing classifications which have been explained in opinions by terms ranging from "strict scrutiny" at one extreme to "rational basis" at the other. I have never been persuaded that these so-called "standards" adequately explain the decisional process. 3Link to the text of the note Cases involving classifications based on alienage,  [*452]  illegal residency, illegitimacy, gender, age, or -- as in this case -- mental retardation, do not fit well into sharply defined classifications.
+
+"I am inclined to believe that what has become known as the [tiered] analysis of equal protection claims does not describe a completely logical method of deciding cases, but rather is a method the Court has employed to explain decisions that actually apply a single standard in a reasonably consistent fashion." Craig v. Boren, 429 U.S. 190, 212 (1976) (STEVENS, J., concurring). In my own approach to these cases, I have always asked myself whether I could find a "rational basis" for the classification at issue. The term "rational," of course, includes  [**3261]  a requirement that an impartial lawmaker could logically believe that the classification would serve a legitimate public purpose that transcends the harm to the members of the disadvantaged class. 4Link to the text of the note Thus, the word "rational" -- for me at least -- includes elements of legitimacy and  [****36]  neutrality that must always characterize the performance of the sovereign's duty to govern impartially. 5Link to the text of the note
+
+The rational-basis test, properly understood, adequately explains why a law that deprives a person [****37]  of the right to vote because his skin has a different pigmentation than that of other voters violates the Equal Protection Clause. It would be utterly irrational to limit the franchise on the basis of height or weight; it is equally invalid to limit it on the basis of skin color. None of these attributes has any bearing at all  [*453]  on the citizen's willingness or ability to exercise that civil right. We do not need to apply a special standard, or to apply "strict scrutiny," or even "heightened scrutiny," to decide such cases.
+
+In every equal protection case, we have to ask certain basic questions. What class is harmed by the legislation, and has it been subjected to a " [***329]  tradition of disfavor" by our laws? 6Link to the text of the note [****39]  What is the public purpose that is being served by the law? What is the characteristic of the disadvantaged class that justifies the disparate treatment? 7Link to the text of the note In most cases the answer to these questions will tell us whether the statute has a "rational basis." The answers will result in the virtually automatic invalidation of racial classifications and in the validation of most economic classifications, but they will provide differing results in cases involving [****38]  classifications based on alienage, 8Link to the text of the note gender, 9Link to the text of the note or illegitimacy. 10Link to the text of the note But that is not because we  [*454]  apply an "intermediate standard of review" in these cases; rather it is because the characteristics of these groups are sometimes relevant and sometimes irrelevant  [**3262]  to a valid public purpose, or, more specifically, to the purpose that the challenged laws purportedly intended to serve. 11Link to the text of the note
+
+ [****40]  Every law that places the mentally retarded in a special class is not presumptively irrational. The differences between mentally retarded persons and those with greater mental capacity are obviously relevant to certain legislative decisions. An impartial lawmaker -- indeed, even a member of a class of persons defined as mentally retarded -- could rationally vote in favor of a law providing funds for special education and special treatment for the mentally retarded. A mentally retarded person could also recognize that he is a member of a class that might need special supervision in some situations, both to protect himself and to protect others. Restrictions on his right to drive cars or to  [***330]  operate hazardous equipment might well seem rational even though they deprived him of employment opportunities and the kind of freedom of travel enjoyed by other citizens. "That a civilized and decent society expects and approves such legislation indicates that governmental consideration of those differences in the vast majority of situations is not only legitimate but also desirable." Ante, at 444.
+
+Even so, the Court of Appeals correctly observed that through ignorance and prejudice [****41]  the mentally retarded "have been subjected to a history of unfair and often grotesque mistreatment." 726 F.2d 191, 197 (CA5 1984). The discrimination  [*455]  against the mentally retarded that is at issue in this case is the city's decision to require an annual special use permit before property in an apartment house district may be used as a group home for persons who are mildly retarded. The record convinces me that this permit was required because of the irrational fears of neighboring property owners, rather than for the protection of the mentally retarded persons who would reside in respondent's home. 12Link to the text of the note
+
+Although the city argued in the Court of Appeals that legitimate interests of the neighbors justified the restriction, the court unambiguously rejected that argument. Id., at 201.  [****42]  In this Court, the city has argued that the discrimination was really motivated by a desire to protect the mentally retarded from the hazards presented by the neighborhood. Zoning ordinances are not usually justified on any such basis, and in this case, for the reasons explained by the Court, ante, at 447-450, I find that justification wholly unconvincing. I cannot believe that a rational member of this disadvantaged class could ever approve of the discriminatory application of the city's ordinance in this case.
+
+Accordingly, I join the opinion of the Court.
+
+The three standards -- "rationally related to a legitimate state interest," "somewhat heightened review," and "strict scrutiny" are briefly described ante, at 440, 441.
+
+2Link to the location of the note in the document
+In United States Railroad Retirement Board v. Fritz, 449 U.S. 166, 176-177, n. 10 (1980), after citing 11 cases applying the rational-basis standard, the Court stated: "The most arrogant legal scholar would not claim that all of these cases applied a uniform or consistent test under equal protection principles." Commenting on the intermediate standard of review in his dissent in Craig v. Boren, 429 U.S. 190, 220-221 (1976), JUSTICE REHNQUIST wrote:
+
+"I would think we have had enough difficulty with the two standards of review which our cases have recognized -- the norm of 'rational basis,' and the 'compelling state interest' required where a 'suspect classification' is involved -- so as to counsel weightily against the insertion of still another 'standard' between those two. How is this Court to divine what objectives are important? How is it to determine whether a particular law is 'substantially' related to the achievement of such objective, rather than related in some other way to its achievement? Both of the phrases used are so diaphanous and elastic as to invite subjective judicial preferences or prejudices relating to particular types of legislation, masquerading as judgments whether such legislation is directed at 'important' objectives or, whether the relationship to those objectives is 'substantial' enough."
+
+3Link to the location of the note in the document
+Cf. San Antonio Independent School District v. Rodriguez, 411 U.S. 1, 98 (1973) (MARSHALL, J., dissenting, joined by Douglas, J.) (criticizing "the Court's rigidified approach to equal protection analysis").
+
+4Link to the location of the note in the document
+"I therefore believe that we must discover a correlation between the classification and either the actual purpose of the statute or a legitimate purpose that we may reasonably presume to have motivated an impartial legislature. If the adverse impact on the disfavored class is an apparent aim of the legislature, its impartiality would be suspect. If, however, the adverse impact may reasonably be viewed as an acceptable cost of achieving a larger goal, an impartial lawmaker could rationally decide that that cost should be incurred." United States Railroad Retirement Board v. Fritz, 449 U.S., at 180-181 (STEVENS, J., concurring in judgment).
+
+5Link to the location of the note in the document
+See Lehr v. Robertson, 463 U.S. 248, 265 (1983); Hampton v. Mow Sun Wong, 426 U.S. 88, 100 (1976).
+
+6Link to the location of the note in the document
+The Court must be especially vigilant in evaluating the rationality of any classification involving a group that has been subjected to a "tradition of disfavor [for] a traditional classification is more likely to be used without pausing to consider its justification than is a newly created classification. Habit, rather than analysis, makes it seem acceptable and natural to distinguish between male and female, alien and citizen, legitimate and illegitimate; for too much of our history there was the same inertia in distinguishing between black and white. But that sort of stereotyped reaction may have no rational relationship -- other than pure prejudicial discrimination -- to the stated purpose for which the classification is being made." Mathews v. Lucas, 427 U.S. 495, 520-521 (1976) (STEVENS, J., dissenting). See also New York Transit Authority v. Beazer, 440 U.S. 568, 593 (1979).
+
+7Link to the location of the note in the document
+See Foley v. Connelie, 435 U.S. 291, 308 (1978) (STEVENS, J., dissenting).
+
+8Link to the location of the note in the document
+See Mathews v. Diaz, 426 U.S. 67, 78-80 (1976); compare Sugarman v. Dougall, 413 U.S. 634 (1973), and In re Griffiths, 413 U.S. 717 (1973), with Ambach v. Norwick, 441 U.S. 68 (1979), and Foley v. Connelie, 435 U.S. 291 (1978).
+
+9Link to the location of the note in the document
+Compare Reed v. Reed, 404 U.S. 71 (1971), and Califano v. Goldfarb, 430 U.S. 199 (1977), with Personnel Administrator of Mass. v. Feeney, 442 U.S. 256 (1979), and Heckler v. Mathews, 465 U.S. 728 (1984).
+
+10Link to the location of the note in the document
+Compare Lalli v. Lalli, 439 U.S. 259 (1978), with Trimble v. Gordon, 430 U.S. 762 (1977).
+
+11Link to the location of the note in the document
+See Michael M. v. Superior Court of Sonoma County, 450 U.S. 464, 497-498, and n. 4 (1981) (STEVENS, J., dissenting). See also Caban v. Mohammed, 441 U.S. 380, 406-407 (1979) (STEVENS, J., dissenting) ("But as a matter of equal protection analysis, it is perfectly obvious that at the time and immediately after a child is born out of wedlock, differences between men and women justify some differential treatment of the mother and father in the adoption process").
+
+12Link to the location of the note in the document
+In fact, the ordinance provides that each applicant for a special use permit "shall be required to obtain the signatures of the property owners within two hundred (200) feet of the property to be used." App. 63.

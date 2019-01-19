@@ -1,0 +1,51 @@
+﻿
+        
+        Conn. Bd. of Pardons v. Dumschat, 452 U.S. 458, 101 S. Ct. 2460 (1981)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom JUSTICE MARSHALL joins, dissenting.
+
+"Liberty from bodily restraint always has been recognized as the core of the liberty protected by the Due Process Clause from arbitrary governmental action." Greenholtz v. Nebraska Penal Inmates, 442 U.S. 1, 18 (opinion  [***168]  of POWELL, J.).
+
+ [*469]  The liberty that is worthy of constitutional protection is not merely "a statutory creation of the State," Wolff v. McDonnell, 418 U.S. 539, 558. Surely the Court stumbles when it states that liberty "must be found in statutes or other rules defining the obligations of the authority charged with exercising clemency," ante, at 465, or when it implies that liberty has "its roots in state law," Meachum v. Fano, 427 U.S. 215, 226.
+
+To some of us, it is "self-evident" that individual liberty has far deeper roots. 1Link to the text of the note [****22]   [**2467]  Moreover, the deprivation of liberty that follows conviction of a criminal offense is not total; the individual possesses [****21]  a residuum of constitutionally protected liberty even while he is in the legal custody of the State. 2Link to the text of the note The question this case presents is not whether these respondents are mere slaves, wholly divested of any constitutionally protected interest in liberty; rather, the question is whether the decision by the Connecticut Board of Pardons refusing to commute their life sentences constitutes a deprivation of liberty entitling respondents to the protection of the Due Process Clause.
+
+ [*470]  The facile answer to that question is that the distinction between a refusal to grant freedom on the one hand and the imposition of a sentence or the revocation of a parole on the other forms the basis for a determination whether due process is implicated. Only the imposition of sentence or revocation of parole is obviously a deprivation of liberty. But in practice, as JUSTICE POWELL has explained, that distinction is far less satisfactory than it first appears. 3Link to the text of the note In my judgment, it provides  [***169]  an insufficient answer to the question presented by this case because the distinction does not correctly evaluate the character of the deprivation of liberty that occurs when a person is convicted of a crime.
+
+ [****23]  If the conviction were effective to terminate the defendant's liberty, he would thereafter retain no constitutional right to procedural safeguards against arbitrary action. The process of sentencing, parole release, parole revocation, and ultimate discharge could all be totally arbitrary. But no State asserts such total control over the convicted offender, and this Court has unequivocally held that the Constitution affords protection at different stages of the postconviction  [*471]  process. 4Link to the text of the note The basic reason  [**2468]  the constitutional protection applies at these stages is that liberty itself survives to some extent and its deprivation is a continuous process rather than an isolated event.
+
+ [****24]  This case involves the State of Connecticut's process for determining when a relatively small group of serious offenders will be released from custody. Routinely that process includes three determinations: the judge imposes a life sentence; the Board of Pardons in due course commutes that sentence; and finally the Board of Parole discharges the prisoner from custody. Each of these three decisions is a regular and critical component of the decisionmaking process employed by the State of Connecticut to determine the magnitude of its deprivation of the prisoner's liberty. 5Link to the text of the note In my opinion the Due Process Clause applies to each step and denies the State the power to act arbitrarily. 6Link to the text of the note
+
+ [****25]  [*472]  Whether the refusal to provide the inmates with a statement of reasons  [***170]  is a procedural shortcoming of constitutional magnitude is, admittedly, fairly debatable. Judges often decide difficult and important cases without explaining their reasons, and I would not suggest that they thereby commit constitutional error. But the ordinary litigant has other substantial procedural safeguards against arbitrary decisionmaking in the courtroom. The prison inmate has few such protections. Indeed, as in this case, often he is not even afforded the protection of written standards to govern the exercise of the powers of the Board of Pardons. His protection is somewhat analogous to that of the litigant in the earliest days of our common-law history. The judges then were guided by few written laws, but developed a meaningful set of rules by the process of case-by-case adjudication. Their explanations of why they decided cases as they did provided guideposts for future decisions and an assurance to litigants that like cases were being decided in a similar way. Many of us believe that those statements of reasons provided a better guarantee of justice than could possibly  [****26]  have been described in a code written in sufficient detail to be fit for Napoleon.
+
+As JUSTICE MARSHALL has pointed out, "the obligation to justify a decision publicly would provide the assurance, critical to the appearance of fairness that the Board's decision is not capricious," see Greenholtz, 442 U.S., at 40 (dissenting opinion). I therefore believe the Court of Appeals correctly concluded that in this context a brief statement of reasons is an essential element of the process that is due these respondents.
+
+Accordingly, I respectfully dissent.
+
+
+
+
+"It is self-evident that all individuals possess a liberty interest in being free from physical restraint." Greenholtz v. Nebraska Penal Inmates, 442 U.S. 1, 23 (MARSHALL, J., dissenting).
+
+"If man were a creature of the State, the analysis would be correct. But neither the Bill of Rights nor the laws of sovereign States create the liberty which the Due Process Clause protects. The relevant constitutional provisions are limitations on the power of the sovereign to infringe on the liberty of the citizen. The relevant state laws either create property rights, or they curtail the freedom of the citizen who must live in an ordered society. Of course, law is essential to the exercise and enjoyment of individual liberty in a complex society. But it is not the source of liberty, and surely not the exclusive source.
+
+"I had thought it self-evident that all men were endowed by their Creator with liberty as one of the cardinal unalienable rights. It is that basic freedom which the Due Process Clause protects, rather than the particular rights or privileges conferred by specific laws or regulations." Meachum v. Fano, 427 U.S. 215, 230 (STEVENS, J., dissenting).
+
+2Link to the location of the note in the document
+See Meachum v. Fano, supra, at 231-233.
+
+3Link to the location of the note in the document
+"The Court today, however, concludes that parole release and parole revocation 'are quite different,' because 'there is a . . . difference between losing what one has and not getting what one wants,' ante, at 9, 10. I am unpersuaded that this difference, if indeed it exists at all, is as significant as the Court implies. Release on parole marks the first time when the severe restrictions imposed on a prisoner's liberty by the prison regimen may be lifted, and his behavior in prison often is molded by his hope and expectation of securing parole at the earliest time permitted by law. Thus, the parole-release determination may be as important to the prisoner as some later, and generally unanticipated, parole-revocation decision. Moreover, whatever difference there may be in the subjective reactions of prisoners and parolees to release and revocation determinations is not dispositive. From the day that he is sentenced in a State with a parole system, a prisoner justifiably expects release on parole when he meets the standards of eligibility applicable within that system. This is true even if denial of release will be a less severe disappointment than revocation of parole once granted." Greenholtz v. Nebraska Penal Inmates, supra, at 19-20 (opinion of POWELL, J.).
+
+4Link to the location of the note in the document
+Thus the Court has held that the Due Process Clause protects the prisoner at the sentencing stage, Mempa v. Rhay, 389 U.S. 128, in probation revocation proceedings, Gagnon v. Scarpelli, 411 U.S. 778, and in parole revocation proceedings, Morrissey v. Brewer, 408 U.S. 471. Moreover, the Constitution has been applied to other issues affecting prisoners. See, e. g., Bounds v. Smith, 430 U.S. 817 (right to assistance in the filing of legal papers); Pell v. Procunier, 417 U.S. 817, 822 (First Amendment rights); Cruz v. Beto, 405 U.S. 319 (right to practice religious faith); Wilwording v. Swenson, 404 U.S. 249 (right to file petition for writ of habeas corpus); Cooper v. Pate, 378 U.S. 546; (right to purchase religious materials); Ex parte Hull, 312 U.S. 546 (right to petition federal court for writ of habeas corpus). Cf. Weems v. United States, 217 U.S. 349 (sentence may violate Eighth Amendment).
+
+5Link to the location of the note in the document
+As the Court recognizes, ante, at 461, at least 75% of all life inmates receive some favorable action from the Board of Pardons. The Board of Parole paroles approximately 90% of these inmates during the first year after the Board of Pardons commutes their minimum sentences, and all are paroled within a few years. Ante, at 461, n. 4.
+
+6Link to the location of the note in the document
+The fact that the petitioner agency is given the title "Board of Pardons" does not, of course, make its work the equivalent of the exercise by a chief executive of the occasional totally discretionary power to grant pardons in isolated cases. As the record in this case makes clear, the petitioner commutes sentences with roughly the same frequency that parole boards make parole release determinations.

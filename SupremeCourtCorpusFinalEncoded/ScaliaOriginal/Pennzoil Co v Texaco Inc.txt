@@ -1,0 +1,23 @@
+﻿
+
+
+107 S.Ct. 1519
+Supreme Court of the United States
+PENNZOIL COMPANY, Appellant
+v.
+TEXACO, INC.
+No. 85–1798.
+|
+Argued Jan. 12, 1987.
+|
+Decided April 6, 1987.
+Justice SCALIA, with whom Justice O’CONNOR joins, concurring.
+
+I join the opinion of the Court. I write separately only to indicate that I do not believe that the so-called Rooker-Feldman doctrine deprives the Court of jurisdiction to decide Texaco’s challenge to the constitutionality of the Texas stay and lien provisions. **1530 In resolving that challenge, the Court need not decide any issue either actually litigated in the Texas courts or inextricably intertwined with issues so litigated. Under these circumstances, I see no jurisdictional bar to the Court’s decision in this case.
+ 
+
+
+*
+Although the Court's opinion is based on a rather diffuse rationale, I read the opinion as narrowly limited by the unique factual circumstances of the case. The Court is responding to “an unusual fact situation, never before addressed by the Texas courts,” ante, at 1529, or by this Court. The Court bases its holding on several interdependent considerations. First, the Court acknowledges that today's extension of the Younger doctrine applies only “when certain civil proceedings are pending, if the State's interests in the proceeding are so important that exercise of the federal judicial power would disregard the comity between the States and the National Government.” Ante, at 1526. Second, the Court emphasizes that in this instance “it is impossible to be certain that the governing Texas statutes and procedural rules actually raise [Texaco's] claims,” and that the Texas Constitution contains an “open courts” provision “that appears to address Texaco's claims more specifically” than the Federal Constitution. Ante, at 1526. Third, the Court heavily relies on the State's particular interest in enforcing bond and lien requirements to prevent state-court judgments, which have been already pronounced, from being rendered “nugatory.” Ante, at 1527. The unique and extraordinary circumstances of this case should limit its influence in determining the outer limits of the Younger doctrine.
+
+

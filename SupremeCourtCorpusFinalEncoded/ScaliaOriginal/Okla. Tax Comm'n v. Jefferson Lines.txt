@@ -1,0 +1,11 @@
+﻿514 U.S. 175
+OKLAHOMA TAX COMMISSION, PETITIONER v. JEFFERSON LINES, INC.
+Supreme Court of the United States
+November 28, 1994, Argued ; April 3, 1995, Decided
+No. 93-1677
+
+JUSTICE SCALIA, with whom JUSTICE THOMAS joins, concurring in the judgment.
+
+I agree with the [****48]  Court's conclusion that Oklahoma's sales tax does not facially discriminate against interstate commerce. See ante, at 198-199. That seems to me the most we can demand to certify compliance with the "negative Commerce Clause" -- which is "negative" not only because it negates state regulation of commerce, but also because it does not appear in the Constitution. See Amerada Hess Corp. v. Director, Div. of Taxation, N. J. Dept. of Treasury, 490 U.S. 66, 80, 104 L. Ed. 2d 58, 109 S. Ct. 1617 (1989) (SCALIA, J., concurring in judgment); Tyler Pipe Industries, Inc. v. Washington State Dept. of  [*201]  Revenue, 483 U.S. 232, 254, 259-265, 107 S. Ct. 2810, 97 L. Ed. 2d 199 (1987) (SCALIA, J., concurring in part and dissenting in part).
+
+I would not apply the remainder of the eminently unhelpful, so-called "four-part test" of Complete Auto Transit, Inc. v. Brady, 430 U.S. 274, 279, 51 L. Ed. 2d 326, 97 S. Ct. 1076  [***282]  (1977). Under the real Commerce Clause ("The Congress shall have Power . . . To regulate Commerce . . . among the several States," U.S. Const., Art. I, § 8), it is for Congress to make the [****49]  judgment that interstate commerce must be immunized from certain sorts of nondiscriminatory state action -- a judgment that may embrace (as ours ought not) such imponderables as how much "value [is] fairly attributable to economic activity within the taxing State," and what constitutes "fair relation between a tax and the benefits conferred upon the taxpayer by the State." Ante, at 185, 199 (emphases added). See Tyler Pipe, supra, at 259. I look forward to the day when Complete Auto will take its rightful place in Part II of the Court's opinion, among the other useless and discarded tools of our negative Commerce Clause jurisprudence.

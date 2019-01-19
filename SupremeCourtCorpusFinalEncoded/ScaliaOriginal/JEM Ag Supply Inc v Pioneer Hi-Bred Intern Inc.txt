@@ -1,0 +1,28 @@
+﻿
+
+
+122 S.Ct. 593
+Supreme Court of the United States
+J.E.M. AG SUPPLY, INC., dba Farm Advantage, Inc., et al., Petitioners,
+v.
+PIONEER HI–BRED INTERNATIONAL, INC.
+No. 99–1996.
+|
+Argued Oct. 3, 2001.
+|
+Decided Dec. 10, 2001. Rehearing Denied April 15, 2002. See 535 U.S. 1013, 122 S.Ct. 1600.
+ 
+
+Justice SCALIA, concurring.
+
+This case presents an interesting and difficult point of statutory construction, seemingly pitting against each other two perfectly valid canons of interpretation: (1) that statutes must be construed in their entirety, so that the meaning of one provision sheds light upon the meaning of another; and (2) that repeals by implication are not favored. I think these sensible canons are reconcilable only if the first of them is limited by the second. That is to say, the power of a provision of law to give meaning to a previously enacted ambiguity comes to an end once the ambiguity has been authoritatively resolved. At that point, use of the later enactment produces not clarification (governed by the first canon) but amendment (governed by the second).
+ 
+In the present case, the only ambiguity that could have been clarified by the words added to the utility patent statute by the Plant Patent Act of 1930(PPA) is whether the term “composition of matter” included living things. The newly enacted provision for plants invited the conclusion that this term which preceded it did not include living things. (The term “matter,” after all, is sometimes used in a sense that excludes living things. See Webster’s New International Dictionary 1515 (2d ed. 1950): “Physical substance as made up of chemical elements and distinguished from incorporeal substance, action, qualities, etc .... ‘ Matter is inert, senseless, and lifeless.’ Johnson.”) It is important to note that this is the only way in which the new PPA language could have clarified the ambiguity: There was no way in which “composition of matter” could be regarded as a *147 category separate from plants, but not separate from other living things.
+ 
+Stare decisis, however, prevents us from any longer regarding as an open question—as ambiguous—whether “composition of matter” includes living things. Diamond v. Chakrabarty, 447 U.S. 303, 312–313, 100 S.Ct. 2204, 65 L.Ed.2d 144 (1980), holds that it does. As the case comes before us, therefore, the language of the PPA—if it is to have any effect on the outcome—must do so by way of amending what we have held to be a statute that covers living things (and hence covers plants). At this point the canon against repeal by implication comes into play, and I agree with the Court that it determines the outcome. I therefore join the opinion of the Court.
+ 
+
+
+
+
+

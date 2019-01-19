@@ -1,0 +1,19 @@
+﻿
+        
+        Raygor v. Regents of the Univ. of Minn., 534 U.S. 533, 122 S. Ct. 999 (2002)
+        
+
+
+      
+
+JUSTICE GINSBURG,  [****28]  concurring in part and concurring in the judgment.
+
+I join the Court's judgment and its opinion in principal part. I agree with the decision's twin rulings. First, prevailing precedent supports the view that, in the absence of a clear statement of congressional intent to abrogate the States' Eleventh Amendment immunity, 28 U.S.C. § 1367(a)'s extension of federal jurisdiction does not reach claims against nonconsenting state defendants. See ante, at 6-7. Second, absent "affirmative indication" by Congress, see Vermont Agency of Natural Resources v. United States ex rel. Stevens, 529 U.S. 765, 787, 120 S. Ct. 1858, 146 L. Ed. 2d 836 (2000), § 1367(d)'s tolling provision does not reach claims "asserted," but not maintainable, under § 1367(a) against nonconsenting state defendants. See ante, at 7-11.
+
+ [**1009]  The pathmarking decision, it appears to me, is Vermont Agency. 1Link to the text of the note There, the Court declined to read the word "person," for purposes of qui tam liability, to include a nonconsenting State. Bolstering the Court's conclusion in Vermont Agency were the two reinforcements pivotal here:  [*549]  first, "'the ordinary rule of statutory construction' that 'if Congress intends [****29]  to alter the usual constitutional balance between States and the Federal Government, it must make its intention to do so unmistakably  [***42]  clear in the language of the statute,'" 529 U.S. at 787 (quoting Will v. Michigan Dep't of State Police, 491 U.S. 58, 65, 105 L. Ed. 2d 45, 109 S. Ct. 2304 (1989)); and second, "the doctrine that statutes should be construed so as to avoid difficult constitutional questions," 529 U.S. at 787. I would not venture further into the mist surrounding § 1367 to inquire, generally, whether § 1367(d) "applies to dismissals for reasons unmentioned by the statute," ante, at 11. 2Link to the text of the note
+
+1Link to the location of the note in the document
+This Court's majority, in contrast to the Minnesota Supreme Court, does not invoke Alden v. Maine, 527 U.S. 706, 144 L. Ed. 2d 636, 119 S. Ct. 2240 (1999), in support of today's decision. I joined the dissent in Alden and, in a suitable case, would join a call to reexamine that decision. Cf. post, at 6-7 (STEVENS, J., dissenting).
+
+2Link to the location of the note in the document
+The supplemental jurisdiction statute, well-reasoned commentary indicates, "is clearly flawed and needs repair." Oakley, Prospectus for the American Law Institute's Federal Judicial Code Revision Project, 31 U. C. D. L. Rev. 855, 936 (1998); see generally id. at 936-945 (canvassing problems with 28 U.S.C. § 1367). For a proposed repair of § 1367, see ALI, Federal Judicial Code Revision Project (Tent. Draft No. 2, Apr. 14, 1998).

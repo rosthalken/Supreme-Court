@@ -1,0 +1,39 @@
+﻿
+
+
+117 S.Ct. 2130
+Supreme Court of the United States
+Dan GLICKMAN, Secretary of Agriculture, Petitioner,
+v.
+WILEMAN BROTHERS & ELLIOTT, INC., et al.
+No. 95-1184.
+|
+Argued Dec. 2, 1996.
+|
+Decided June 25, 1997.
+|
+Rehearing Denied Sept. 12, 1997. See 521 U.S. 1145, 118 S.Ct. 25.
+Justice THOMAS, with whom Justice SCALIA joins as to Part II, dissenting.
+
+I
+I join Justice SOUTER’s dissent, with the exception of Part II. My join is thus limited because I continue to disagree with the use of the Central Hudson balancing test and the discounted weight given to commercial speech generally. See 44 Liquormart, Inc. v. Rhode Island, 517 U.S. 484, 518-528, 116 S.Ct. 1495, 1515-1520, 134 L.Ed.2d 711 (1996) (THOMAS, J., concurring in part and concurring in judgment) (criticizing Central Hudson Gas & Elec. Corp. v. Public Serv. Comm’n of N. Y., 447 U.S. 557, 100 S.Ct. 2343, 65 L.Ed.2d 341 (1980)). Because the regulation at issue here fails even the more lenient Central Hudson test, however, it, a fortiori, would fail the higher standard that should be applied to all speech, whether commercial or not.
+ 
+
+II
+I write separately to note my disagreement with the majority’s conclusion that coerced funding of advertising by others does not involve “speech” at all and does not even raise a First Amendment “issue.” See ante, at 2138-2141. It is one thing to differ about whether a particular regulation involves an “abridgment” of the freedom of speech, but it is entirely another matter-and a complete repudiation of our precedent-for the majority **2156 to deny that “speech” is even at issue in this case.
+ 
+*505 In numerous cases, this Court has recognized that paying money for the purposes of advertising involves speech.1 The Court also has recognized that compelling speech raises a First Amendment issue just as much as restricting speech.2 Given these two elemental principles of our First Amendment jurisprudence, it is incongruous to suggest that forcing fruitgrowers to contribute to a collective advertising campaign does not even involve speech, while at the same time effectively conceding that forbidding a fruitgrower to make those same contributions voluntarily would violate the First Amendment. Compare ante, at 2138 (promotional regulations should be scrutinized under the same standard as other anticompetitive aspects of the marketing orders), with ante, at 2138, and n. 12 (distinguishing this case as not involving a “restraint” on any producer’s freedom to communicate with any audience). Yet, that is precisely what the majority opinion does.3
+ 
+*506 What we are now left with, if we are to take the majority opinion at face value, is one of two disturbing consequences: Either (1) paying for advertising is not speech at all, while such activities as draft card burning, flag burning, armband wearing, public sleeping, and nude dancing are,4 or (2) compelling payment for third-party communication does not implicate speech, and thus the Government would be free to force payment for a whole variety of expressive conduct that it could not restrict. In either case, surely we have lost our way.
+ 
+
+
+
+1
+See Central Hudson Gas & Elec. Corp. v. Public Serv. Comm'n of N. Y., 447 U.S. 557, 100 S.Ct. 2343, 65 L.Ed.2d 341 (1980) (advertising to promote the use of electricity is speech); First Nat. Bank of Boston v. Bellotti, 435 U.S. 765, 98 S.Ct. 1407, 55 L.Ed.2d 707 (1978) (corporate advertising regarding referendum); Abood v. Detroit Bd. of Ed., 431 U.S. 209, 97 S.Ct. 1782, 52 L.Ed.2d 261 (1977) (per curiam) (payment of dues used to engage in speech); Buckley v. Valeo, 424 U.S. 1, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976) (contributions for political advertising).
+2
+See Turner Broadcasting System, Inc. v. FCC, 520 U.S. 180, 117 S.Ct. 1174, 137 L.Ed.2d 369 (1997) (coerced carriage of broadcast signals over cable television facilities); Pacific Gas & Elec. Co. v. Public Util. Comm'n of Cal., 475 U.S. 1, 106 S.Ct. 903, 89 L.Ed.2d 1 (1986) (coerced inclusion of private messages in utility bill envelopes); PruneYard Shopping Center v. Robins, 447 U.S. 74, 100 S.Ct. 2035, 64 L.Ed.2d 741 (1980) (coerced creation of a speaker's forum on private property); Abood v. Detroit Bd. of Ed., supra (coerced payment of dues used to engage in speech); Wooley v. Maynard, 430 U.S. 705, 97 S.Ct. 1428, 51 L.Ed.2d 752 (1977) (coerced display of state license plate); Miami Herald Publishing Co. v. Tornillo, 418 U.S. 241, 94 S.Ct. 2831, 41 L.Ed.2d 730 (1974) (coerced right of reply to newspaper editorials); West Virginia State Bd. of Ed. v. Barnette, 319 U.S. 624, 63 S.Ct. 1178, 87 L.Ed. 1628 (1943) (coerced Pledge of Allegiance).
+3
+The majority's grounds for distinguishing certain of our precedents are, to say the least, unpersuasive and contradictory, as Justice SOUTER's dissent amply demonstrates. Moreover, the majority's excessive emphasis on the supposed collectivization of the fruit industry, ante, at 2138, 2141-2142, likewise fails to support its conclusion. Although the Constitution may not “enact Mr. Herbert Spencer's Social Statics,” Lochner v. New York, 198 U.S. 45, 75, 25 S.Ct. 539, 546, 49 L.Ed. 937 (1905) (Holmes, J., dissenting), and thus the Government has a considerable range of authority in regulating the Nation's economic structure, part of the Constitution-the First Amendment-does enact a distinctly individualistic notion of “the freedom of speech,” and Congress may not simply collectivize that aspect of our society, regardless of what it may do elsewhere.
+4
+See United States v. O'Brien, 391 U.S. 367, 88 S.Ct. 1673, 20 L.Ed.2d 672 (1968) (draft card burning); Texas v. Johnson, 491 U.S. 397, 109 S.Ct. 2533, 105 L.Ed.2d 342 (1989) (flag burning); Tinker v. Des Moines Independent Community School Dist., 393 U.S. 503, 89 S.Ct. 733, 21 L.Ed.2d 731 (1969) (armbands); Clark v. Community for Creative Non-Violence, 468 U.S. 288, 104 S.Ct. 3065, 82 L.Ed.2d 221 (1984) (prohibition on sleeping in park raises First Amendment issues); Schad v. Borough of Mount Ephraim, 452 U.S. 61, 101 S.Ct. 2176, 68 L.Ed.2d 671 (1981) (nude dancing).

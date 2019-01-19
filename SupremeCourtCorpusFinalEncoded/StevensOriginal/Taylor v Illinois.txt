@@ -1,0 +1,234 @@
+﻿
+        
+        Taylor v. Illinois, 484 U.S. 400, 108 S. Ct. 646 (1988)
+        
+
+
+      
+
+[*401]   [***806]   [**649]  JUSTICE STEVENS delivered the opinion of the Court. 
+
+LEdHN[1A] [1A]LEdHN[2A] [2A]LEdHN[3A] [3A]As a sanction for failing to identify a defense witness in response to a pretrial discovery request, an Illinois trial  [*402]  judge refused to allow the undisclosed witness to testify. The question presented is whether that refusal violated the petitioner's constitutional right to obtain the testimony of favorable witnesses. We hold that such a sanction is not absolutely prohibited by the Compulsory Process Clause of the Sixth Amendment and find no constitutional error on the specific facts of this case. 1Link to the text of the note
+
+LEdHN[3B] [3B] [****6] 
+
+I
+
+A jury convicted petitioner in 1984 of attempting to murder Jack Bridges in a street fight on the south side of Chicago on August 6, 1981. The conviction was supported by the testimony of Bridges, his brother, and three other witnesses. They described a 20-minute argument between Bridges and a young man named Derrick Travis, and a violent encounter that occurred over an hour later between several friends of Travis, including petitioner, on the one hand, and Bridges, belatedly aided by his brother, on the other. The incident was witnessed by 20 or 30 bystanders. It is undisputed that at least three members of the group which included Travis and petitioner were carrying pipes and clubs that they [****7]  used to beat Bridges. Prosecution witnesses also testified that petitioner had a gun, that he shot Bridges in the back as he attempted to flee, and that, after Bridges fell, petitioner pointed the gun at Bridges' head but the weapon misfired.
+
+Two sisters, who are friends of petitioner, testified on his behalf. In many respects their version of the incident was consistent with the prosecution's case, but they testified that it was Bridges' brother, rather than petitioner, who possessed a firearm and that he had fired into the group hitting  [*403]  his brother by mistake. No other witnesses testified for the defense.
+
+Well in advance of trial, the prosecutor filed a discovery motion requesting a list of defense witnesses. 2Link to the text of the note [****8]  In his original response,  [**650]  petitioner's attorney identified the two sisters who later testified and two men who  [***807]  did not testify. 3Link to the text of the note On the first day of trial, defense counsel was allowed to amend his answer by adding the names of Derrick Travis and a Chicago police officer; neither of them actually testified.
+
+On the second day of trial, after the prosecution's two principal witnesses had completed their testimony, defense counsel made an oral motion to amend his "Answer to Discovery" to include two more witnesses, Alfred Wormley and Pam Berkhalter. In support of the motion, counsel represented that he had just been informed about them and that they had probably seen the "entire incident." 4Link to the text of the note
+
+ [****9]   [*404]  In response to the court's inquiry about defendant's failure to tell him about the two witnesses earlier, counsel acknowledged that defendant had done so, but then represented that he had been unable to locate Wormley. 5Link to the text of the note After noting that the witnesses' names could have been supplied even if their addresses were unknown, the trial judge directed counsel to bring them in the next day, at which time he would decide whether they could testify. The judge indicated that he was concerned about the possibility "that witnesses are being found that really weren't there." 6Link to the text of the note
+
+ [****10]  The next morning Wormley appeared in court with defense counsel. 7Link to the text of the note [****11]  After further colloquy about the consequences of a violation of discovery rules, counsel was permitted to make an offer of proof in the form of Wormley's testimony outside the presence of the jury. It developed that Wormley had not been a witness to the incident itself. He testified that prior to the incident he saw Jack Bridges and his brother with two guns in a blanket, that he heard them say "they were after Ray [petitioner] and the other people," and that on his way home he "happened to run into Ray and them" and warned them "to watch out because  [***808]  they got  [*405]  weapons." 8Link to the text of the note On cross-examination,  [**651]  Wormley acknowledged that he had first met defendant "about four months ago" (i. e., over two years after the incident). He also acknowledged that defense counsel had visited him at his home on the Wednesday of the week before the trial began. Thus, his testimony rather dramatically contradicted defense counsel's representations to the trial court.
+
+After hearing Wormley testify, the trial judge concluded that the appropriate sanction for the discovery violation was to exclude his testimony. The judge explained:
+
+"THE COURT: All right, I am going to deny Wormley an opportunity to testify here. He is not going to testify. I find this is a blatent [sic] violation of the discovery rules, willful violation of the rules. I also feel that defense attorneys have been violating discovery in this courtroom in the last three or four cases blatantly [****12]  and I am going to put a stop to it and this is one way to do so.
+
+"Further, for whatever value it is, because this is a jury trial, I have a great deal of doubt in my mind as to the veracity of this young man that testified as to whether he was an eyewitness on the scene, sees guns that are wrapped up. He doesn't know Ray but he stops Ray.
+
+"At any rate, Mr. Wormley is not going to testify, be a witness in this courtroom." App. 28.
+
+ [*406]  The Illinois Appellate Court affirmed petitioner's conviction. 141 Ill. App. 3d 839, 491 N. E. 2d 3 (1986). It held that when "discovery rules are violated, the trial judge may exclude the evidence which the violating party wishes to introduce " and that "[t]he decision of the severity of the sanction to impose on a party who violates discovery rules rests within the sound discretion of the trial court." The court concluded that in this case "the trial court was within its discretion in refusing to allow the additional witnesses to testify." Id., at 844-845, 491 N. E. 2d, at 7. The Illinois Supreme Court denied leave to appeal and we granted the petition for certiorari, 479 U.S. 1063 (1987). 
+
+LEdHN[1B] [1B]
+
+ [****13]  LEdHN[4A] [4A]LEdHN[2B] [2B]LEdHN[5A] [5A]In this Court petitioner makes two arguments. He first contends that the Sixth Amendment bars a court from ever ordering the preclusion of defense evidence as a sanction for violating a discovery rule. Alternatively, he contends that even if the right to present witnesses is not absolute, on the facts of this case the preclusion of Wormley's testimony was constitutional error. Before addressing these contentions, we consider the State's argument that the Compulsory Process Clause of the Sixth Amendment is merely a guarantee that the accused shall have the power to subpoena witnesses and simply does not  [***809]  apply to rulings on the admissibility of evidence. 9Link to the text of the note
+
+LEdHN[4B] [4B] LEdHN[5B] [5B]
+
+ [****14]   [*407]   [**652]  II
+
+In the State's view, no Compulsory Process Clause concerns are even raised by authorizing preclusion as a discovery sanction, or by the application of the Illinois rule in this case. The State's argument is supported by the plain language of the Clause, see n. 1, supra, by the historical evidence that it was intended to provide defendants with subpoena power that they lacked at common law, 10Link to the text of the note by some scholarly comment, 11Link to the text of the note and by a brief excerpt from the legislative history of the Clause. 12Link to the text of the note [****15]  We have, however, consistently  [*408]  given the Clause the broader reading reflected in contemporaneous state constitutional provisions. 13Link to the text of the note
+
+
+
+ [****16]  LEdHN[6A] [6A]As  [***810]  we noted just last Term, "[o]ur cases establish, HN3 at a minimum, that criminal defendants have the right to the government's assistance in compelling the attendance of favorable witnesses at trial and the right to put before a jury evidence that might influence the determination of guilt." Pennsylvania v. Ritchie, 480 U.S. 39, 56 (1987). Few rights are more fundamental than that of an accused to present witnesses in his own defense, see, e. g., Chambers v. Mississippi, 410 U.S. 284, 302 (1973). Indeed, this right is an essential attribute of the adversary system itself.
+
+"We have elected to employ an adversary system of criminal justice in which the parties contest all issues before a court  [**653]  of law. The need to develop all relevant facts in the adversary system is both fundamental and  [*409]  comprehensive. The ends of criminal justice would be defeated if judgments were to be founded on a partial or speculative presentation of the facts. The very integrity of the judicial system and public confidence in the system depend on full disclosure of all [****17]  the facts, within the framework of the rules of evidence. HN4 To ensure that justice is done, it is imperative to the function of courts that compulsory process be available for the production of evidence needed either by the prosecution or by the defense." United States v. Nixon, 418 U.S. 683, 709 (1974). 
+
+LEdHN[6B] [6B]LEdHN[7] [7]HN5 The right to compel a witness' presence in the courtroom could not protect the integrity of the adversary process if it did not embrace the right to have the witness' testimony heard by the trier of fact. The right to offer testimony is thus grounded in the Sixth Amendment even though it is not expressly described in so many words:
+
+
+
+"HN6 The right to offer the testimony of witnesses, and to compel their attendance, if necessary, is in plain terms the right to present a defense, the right to present the defendant's version of the facts as well as the prosecution's to the jury so it may decide where the truth lies. Just as an accused has the right to confront the prosecution's witnesses for the purpose of challenging [****18]  their testimony, he has the right to present his own witnesses to establish a defense. This right is a fundamental element of due process of law." Washington v. Texas, 388 U.S. 14, 19 (1967). 
+
+LEdHN[1C] [1C]The right of the defendant to  [***811]  present evidence "stands on no lesser footing than the other Sixth Amendment rights that we have previously held applicable to the States." Id., at 18. We cannot accept the State's argument that this constitutional right may never be offended by the imposition of a discovery sanction that entirely excludes the testimony of a material defense witness.
+
+ [*410]  III
+
+LEdHN[1D] [1D] LEdHN[8] [8]Petitioner's claim that the Sixth Amendment creates an absolute bar to the preclusion of the testimony of a surprise witness is just as extreme and just as unacceptable as the State's position that the Amendment is simply irrelevant. The accused does not have an unfettered right to offer testimony that is incompetent, privileged, or otherwise inadmissible [****19]  under standard rules of evidence. The Compulsory Process Clause provides him with an effective weapon, but it is a weapon that cannot be used irresponsibly. 
+
+LEdHN[9A] [9A]There is a significant difference between the Compulsory Process Clause weapon and other rights that are protected by the Sixth Amendment -- its availability is dependent entirely on the defendant's initiative. Most other Sixth Amendment rights arise automatically on the initiation of the adversary process and no action by the defendant is necessary to make them active in his or her case. 14Link to the text of the note While those rights shield the defendant from potential prosecutorial abuses, the right to compel the presence and present the testimony of witnesses provides the defendant with a sword that may be employed to rebut the prosecution's case. The decision whether to employ it in a particular case rests solely with the defendant. The very nature of the right requires that its effective use be preceded  [**654]  by deliberate planning and affirmative conduct.
+
+LEdHN[9B] [9B]
+
+ [****20]  LEdHN[10A] [10A]The principle that undergirds the defendant's right to present exculpatory evidence is also the source of essential limitations on the right. The adversary process could not  [*411]  function effectively without adherence to rules of procedure that govern the orderly presentation of facts and arguments to provide each party with a fair opportunity to assemble and submit evidence to contradict or explain the opponent's case. The trial process would be a shambles if either party had an absolute right to control the time and content of his witnesses' testimony. Neither may insist on the right to interrupt the opposing party's case, and obviously there is no absolute right to interrupt the deliberations of the jury to present newly discovered evidence. The State's interest in the orderly conduct of a criminal trial is sufficient to justify the imposition and enforcement of firm, though not always inflexible, rules  [***812]  relating to the identification and presentation of evidence. 15Link to the text of the note 
+
+LEdHN[10B] [10B]
+
+
+
+ [****21]  LEdHN[11] [11]The defendant's right to compulsory process is itself designed to vindicate the principle that the "ends of criminal justice would be defeated if judgments were to be founded on a partial or speculative presentation of the facts." United States v. Nixon, 418 U.S., at 709. Rules that provide for pretrial discovery of an opponent's witnesses serve the same high purpose. 16Link to the text of the note [****22]  Discovery, like cross-examination, minimizes the risk that a judgment will be predicated on incomplete,  [*412]  misleading, or even deliberately fabricated testimony. The "State's interest in protecting itself against an eleventh-hour defense" 17Link to the text of the note is merely one component of the broader public interest in a full and truthful disclosure of critical facts.
+
+To vindicate that interest we have held that even the HN7 defendant may not testify without being subjected to cross-examination. Brown v. United States, 356 U.S. 148, 156 (1958). Moreover, in United States v. Nobles [****23]  , 422 U.S. 225 (1975), we upheld an order excluding the testimony of an expert witness tendered by the defendant because he had refused to permit discovery of a "highly relevant" report. Writing for the Court, Justice Powell explained:
+
+"The court's preclusion sanction was an entirely proper method of assuring compliance with its order. Respondent's  [**655]  argument that this ruling deprived him of the Sixth Amendment rights to compulsory process and cross-examination misconceives the issue. The District Court did not bar the investigator's testimony. Cf. Washington v. Texas, 388 U.S. 14, 19 (1967).  [***813]  It merely prevented respondent from presenting to the jury a partial view of the credibility issue by adducing the investigator's testimony and thereafter refusing to disclose the contemporaneous report that might offer further critical insights. The Sixth Amendment does not confer the  [*413]  right to present testimony free from the legitimate demands of the adversarial system; one cannot invoke the Sixth Amendment as a justification for presenting what might have been a half-truth. Deciding, as we do, that it was within the court's discretion to [****24]  assure that the jury would hear the full testimony of the investigator rather than a truncated portion favorable to respondent, we think it would be artificial indeed to deprive the court of the power to effectuate that judgment. Nor do we find constitutional significance in the fact that the court in this instance was able to exclude the testimony in advance rather than receive it in evidence and thereafter charge the jury to disregard it when respondent's counsel refused, as he said he would, to produce the report." Id., at 241 (emphasis added).
+
+Petitioner does not question the legitimacy of a rule requiring pretrial disclosure of defense witnesses, but he argues that the sanction of preclusion of the testimony of a previously undisclosed witness is so drastic that it should never be imposed. He argues, correctly, that a less drastic sanction is always available. Prejudice to the prosecution could be minimized by granting a continuance or a mistrial to provide time for further investigation; moreover, further violations can be deterred by disciplinary sanctions against the defendant or defense counsel.
+
+It may well be true that alternative sanctions are adequate and appropriate [****25]  in most cases, but it is equally clear that they would be less effective than the preclusion sanction and that there are instances in which they would perpetuate rather than limit the prejudice to the State and the harm to the adversary process. One of the purposes of the discovery rule itself is to minimize the risk that fabricated testimony will be believed. Defendants who are willing to fabricate a defense may also be willing to fabricate excuses for failing to comply with a discovery requirement. The risk of a contempt violation  [*414]  may seem trivial to a defendant facing the threat of imprisonment for a term of years. A dishonest client can mislead an honest attorney, and there are occasions when an attorney assumes that the duty of loyalty to the client outweighs elementary obligations to the court. 
+
+LEdHN[12] [12]We presume that evidence that is not discovered until after the trial is over would not have affected the outcome. 18Link to the text of the note It is  [***814]  equally reasonable to presume that there is something suspect about a defense witness who is not identified until after the 11th hour has passed. If a pattern [****26]  of discovery violations is explicable only on the assumption that the violations were designed to conceal a plan to present fabricated testimony, it would be entirely appropriate to exclude the tainted evidence regardless of whether other sanctions would also be merited.
+
+ [****27] 
+
+ [**656]  LEdHN[1E] [1E]In order to reject petitioner's argument that preclusion is never a permissible sanction for a discovery violation it is neither necessary nor appropriate for us to attempt to draft a comprehensive set of standards to guide the exercise of discretion in every possible case. It is elementary, of course, that a trial court may not ignore the fundamental character of the defendant's right to offer the testimony of witnesses in his favor. But the mere invocation of that right cannot automatically and invariably outweigh countervailing public interests. The integrity of the adversary process, which depends both on the presentation of reliable evidence and the  [*415]  rejection of unreliable evidence, the interest in the fair and efficient administration of justice, and the potential prejudice to the truth-determining function of the trial process must also weigh in the balance. 19Link to the text of the note
+
+
+
+ [****28]  LEdHN[13] [13]LEdHN[14A] [14A]HN9 A trial judge may certainly insist on an explanation for a party's failure to comply with a request to identify his or her witnesses in advance of trial. If that explanation reveals that the omission was willful and motivated by a desire to obtain a tactical advantage that would minimize the effectiveness of cross-examination and the ability to adduce rebuttal evidence, it would be entirely consistent with the purposes of the Compulsory Process Clause simply to exclude the witness' testimony. 20Link to the text of the note Cf. United States v. Nobles, 422 U.S. 225 (1975).
+
+LEdHN[14B] [14B]
+
+ [****29]  LEdHN[9C] [9C]The simplicity of compliance with the discovery rule is also relevant. As we have noted, the Compulsory Process Clause cannot be invoked without the prior planning and affirmative conduct of the defendant. Lawyers  [***815]  are accustomed to meeting deadlines. Routine preparation involves location and interrogation of potential witnesses and the serving of subpoenas  [*416]  on those whose testimony will be offered at trial. The burden of identifying them in advance of trial adds little to these routine demands of trial preparation. 21Link to the text of the note
+
+ [****30]  LEdHN[1F] [1F]It would demean the high purpose of the Compulsory Process Clause to construe it as encompassing an absolute right to an automatic continuance or mistrial to allow presumptively perjured testimony to be presented to a jury. We reject petitioner's argument that a preclusion sanction is never appropriate no matter how serious the defendant's discovery violation may be.
+
+IV
+
+Petitioner argues that the preclusion sanction was unnecessarily harsh in
+
+LEdHN[2C] [2C] [**657]  this case because the voir dire examination of Wormley adequately protected the prosecution from any possible prejudice resulting from surprise. Petitioner also contends that it is unfair to visit the sins of the lawyer upon his client. Neither argument has merit.
+
+LEdHN[2D] [2D] LEdHN[15A] [15A] LEdHN[16] [16] LEdHN[17A] [17A]  [****31]  More is at stake than possible prejudice to the prosecution. We are also concerned with the impact of this kind of conduct on the integrity of the judicial process itself. The trial judge found that the discovery violation in this case was both willful and blatant. 22Link to the text of the note In view of the fact that petitioner's counsel  [*417]  had actually interviewed Wormley during the week before the trial began and the further fact that he amended his Answer to Discovery on the first day of trial without identifying Wormley while he did identify two actual eyewitnesses whom he did not place on the stand, the inference that he was deliberately seeking a tactical advantage is inescapable. Regardless of whether prejudice to the prosecution could have been avoided in this particular case, it is plain that the case fits into the category of willful misconduct in which the severest sanction is appropriate. After all, the court, as well as the prosecutor, has a vital interest in protecting the trial process from the pollution of perjured testimony. Evidentiary rules which apply to categories of inadmissible  [***816]  evidence -- ranging from hearsay to the fruits of illegal searches -- may properly [****32]  be enforced even though the particular testimony being offered is not prejudicial. The pretrial conduct revealed by the record in this case gives rise to a sufficiently strong inference that "witnesses are being found that really weren't there," to justify the sanction of preclusion. 23Link to the text of the note
+
+LEdHN[15B] [15B]
+
+LEdHN[17B] [17B]
+
+
+
+ [****33]  LEdHN[2E] [2E]LEdHN[18] [18]The argument that the client should not be held responsible for his lawyer's misconduct strikes at the heart of the attorney-client relationship. Although there are basic rights  [*418]  that the attorney cannot waive without the fully informed and publicly acknowledged consent of the client, 24Link to the text of the note the lawyer has -- and must have -- full authority to manage the conduct of the trial. The adversary process could not function effectively if every tactical decision required client approval. Moreover, given the protections afforded by the attorney-client privilege and the fact that extreme cases may involve unscrupulous conduct by both the client and the lawyer, it would be highly impracticable to require an investigation  [**658]  into their relative responsibilities before applying the sanction of preclusion. In responding to discovery, the client has a duty to be candid and forthcoming with the lawyer, and when the lawyer responds, he or she speaks for the client. Putting to one side the exceptional cases in which counsel [****34]  is ineffective, the client must accept the consequences of the lawyer's decision to forgo cross-examination, to decide not to put certain witnesses on the stand, or to decide not to disclose the identity of certain witnesses in advance of trial. In this case, petitioner has no greater right to disavow his lawyer's decision to conceal Wormley's identity until after the trial had commenced than he has to disavow the decision to refrain from adducing testimony from the eyewitnesses who were identified in the Answer to Discovery. Whenever a lawyer makes use of the sword provided by the Compulsory Process Clause, there is  [***817]  some risk that he may wound his own client.
+
+The judgment of the Illinois Appellate Court is
+
+ [****35]  Affirmed.
+
+The Sixth Amendment provides, in part: "HN1 In all criminal prosecutions, the accused shall enjoy the right . . . to have compulsory process for obtaining witnesses in his favor . . . ." This right is applicable in state as well as federal prosecutions. Washington v. Texas, 388 U.S. 14, 17-19 (1967).
+
+2Link to the location of the note in the document
+HN2 Illinois Supreme Court Rule 413(d) provides in pertinent part:
+
+"Subject to constitutional limitations and within a reasonable time after the filing of a written motion by the State, defense counsel shall inform the State of any defenses which he intends to make at a hearing or trial and shall furnish the State with the following material and information within his possession or control:
+
+"(i) the names and last known addresses of persons he intends to call as witnesses together with their relevant written or recorded statements, including memoranda reporting or summarizing their oral statements, any record of prior criminal convictions known to him . . ." (emphasis added).
+
+3Link to the location of the note in the document
+These two men, Earl Travis, the brother of Derrick Travis, and Luther Taylor, petitioner's brother, were identified by prosecution witnesses as participants in the street fight.
+
+4Link to the location of the note in the document
+"During the direct testimony of the witnesses, your Honor, called by the State, I was informed of some additional witnesses which could have and probably did, in fact, see this entire incident. We at this time would ask to amend our Answer to include two additional witnesses.
+
+"THE COURT: Who are they?
+
+"MR. VAN: One is a guy named Alfred Wrdely of which --
+
+"THE DEFENDANT: Excuse me, W-r-d-e-l-y.
+
+"MR. VAN: Whose address I do not have. I'm going to have to see if I can locate him tonight. And Pam Berkhalter." App. 12.
+
+5Link to the location of the note in the document
+"THE COURT: Yeah, but the defendant was there, and the defendant is now telling you Pam Berkhalter, and he's now telling you Alfred Wrdely. Why didn't he tell you that sometime ago? He's got an obligation to tell you.
+
+"MR. VAN: That is correct, Judge. He, in fact, told me about Alfred sometime ago. The problem was that he could not locate Alfred." Id., at 12-13.
+
+6Link to the location of the note in the document
+"There's all sorts of people on the scene, and all of these people should have been disclosed before.
+
+"When you bring up these witnesses at the very last moment, there's always the allegation and the thought process that witnesses are being found that really weren't there. And it's a problem in these types of cases, and it should be -- should have been put on that sheet a long time ago.
+
+"At any rate, I'll worry about it tomorrow." Id., at 13-14.
+
+7Link to the location of the note in the document
+The record does not explain why Pam Berkhalter did not appear.
+
+8Link to the location of the note in the document
+"Q. What, if anything did you learn by standing there in the crowd?
+
+"A. Well, Jack had a blanket. It was two pistols in there and he gave it to --
+
+"Q. And then what, if anything, did they say at that time, if you can recall?
+
+"A. Well, they were saying what they were going to do to the people. Say they were after Ray and the other people.
+
+"Q. What, if anything, did you do at that time?
+
+"A. At that time I left. I was on my way home and I happened to run into Ray and them and so I told them what was happening and to watch out because they got weapons." Id., at 19.
+
+9Link to the location of the note in the document
+The State also argues that we should decline to exercise jurisdiction over petitioner's Sixth Amendment claim because it was inadequately presented in the state court. As respondent points out, petitioner did not specifically articulate his claim as based on the Compulsory Process Clause until he filed a petition for rehearing in the Illinois Appellate Court. Moreover, at trial petitioner merely argued that the trial court erred by not letting his witness testify. On appeal, however, petitioner asserted that the error was constitutional: "The trial judge abused his discretion and denied [petitioner] due process by excluding a material defense witness from testifying as a sanction for a discovery violation." Brief and Argument For Appellant in No. 84-1073 (App. Ct. Ill.), p. 28. Although petitioner expressly asserted only a due process violation, his reliance on the Sixth Amendment was clear. He cited and relied upon, through a quotation from an Illinois Appellate Court decision, two of our Compulsory Process Clause cases, Washington v. Texas, 388 U.S. 14 (1967), and Chambers v. Mississippi, 410 U.S. 284 (1973). The state-court decision from which petitioner quoted, People v. Rayford, 43 Ill. App. 3d 283, 356 N. E. 2d 1274 (1976), was also a Compulsory Process Clause case. The court in Rayford asserted that use of the preclusion sanction in criminal cases should be limited to extreme situations because in criminal cases "due process requires that a defendant be permitted to offer testimony of witnesses in his defense," id., at 286-287, 356 N. E. 2d, at 1277 (emphasis added), citing Washington, supra.
+
+A generic reference to the Fourteenth Amendment is not sufficient to preserve a constitutional claim based on an unidentified provision of the Bill of Rights, but in this case the authority cited by petitioner and the manner in which the fundamental right at issue has been described and understood by the Illinois courts make it appropriate to conclude that the constitutional question was sufficiently well presented to the state courts to support our jurisdiction.
+
+10Link to the location of the note in the document
+See Clinton, The Right to Present a Defense: An Emergent Constitutional Guarantee In Criminal Trials, 9 Ind. L. Rev. 711, 767 (1976).
+
+11Link to the location of the note in the document
+8 J. Wigmore, Evidence § 2191, pp. 68-70 (J. McNaughton rev. 1961).
+
+12Link to the location of the note in the document
+"Mr. Burke moved to amend this proposition in such a manner as to leave it in the power of the accused to put off the trial to the next session, provided he made it appear to the court that the evidence of the witnesses, for whom process was granted but not served, was material to his defence.
+
+"Mr. HARTLEY said, that in securing him the right of compulsory process, the Government did all it could; the remainder must lie in the discretion of the court.
+
+"Mr. SMITH, of South Carolina, thought the regulation would come properly in, as part of the Judicial system.
+
+"The question on MR. BURKE's motion was taken and lost; ayes 9, noes 41." 1 Annals of Cong. 756 (1789).
+
+13Link to the location of the note in the document
+"Particulars varied from state to state, but the provisions reflected a common principle. Three states emphasized the right to present evidence, guaranteeing the accused the right 'to call for evidence in his favour.' Two emphasized the subpoena power, giving the defendant the right to produce 'all proofs that may be favorable' to him. North Carolina combined the right to put on a defense with the right of confrontation, guaranteeing the right 'to confront the accusers and witnesses with other testimony.' Delaware emphasized the defendant's interest in sworn testimony, giving him the right 'to examine evidence on oath in his favour.' New Jersey opted for a principle of equality between the parties: '[A]ll criminals shall be admitted to the same privileges of witnesses and counsel, as their prosecutors are or shall be entitled to.' Maryland consolidated several interests, guaranteeing the defendant the right 'to examine [his] witnesses . . . on oath,' and 'to have process for his witnesses.'
+
+"Some of the state provisions originated in English statutes, some in colonial enactments, and some were original. Regardless, they all reflected the principle that the defendant must have a meaningful opportunity, at least as advantageous as that possessed by the prosecution, to establish the essential elements of his case. The states pressed the principle so vigorously that the framers of the federal Bill of Rights included it in the sixth amendment in a distinctive formulation of their own." Westen, The Compulsory Process Clause, 73 Mich. L. Rev. 71, 94-95 (1974) (footnotes omitted).
+
+14Link to the location of the note in the document
+As one commentator has noted:
+
+"The defendant's rights to be informed of the charges against him, to receive a speedy and public trial, to be tried by a jury, to be assisted by counsel, and to be confronted with adverse witnesses are designed to restrain the prosecution by regulating the procedures by which it presents its case against the accused. They apply in every case, whether or not the defendant seeks to rebut the case against him or to present a case of his own. Compulsory process, on the other hand, comes into play at the close of the prosecution's case. It operates exclusively at the defendant's initiative and provides him with affirmative aid in presenting his defense." Id., at 74.
+
+15Link to the location of the note in the document
+"In the exercise of [the right to present witnesses], the accused, as is required of the State, must comply with established rules of procedure and evidence designed to assure both fairness and reliability in the ascertainment of guilt and innocence." Chambers v. Mississippi, 410 U.S., at 302.
+
+16Link to the location of the note in the document
+"Notice-of-alibi rules, now in use in a large and growing number of States, are based on the proposition that the ends of justice will best be served by a system of liberal discovery which gives both parties the maximum possible amount of information with which to prepare their cases and thereby reduces the possibility of surprise at trial. See, e. g., Brennan, The Criminal Prosecution: Sporting Event or Quest for Truth?, 1963 Wash. U. L. Q. 279; American Bar Association Project on Standards for Criminal Justice, Discovery and Procedure Before Trial 23-43 (Approved Draft 1970); Goldstein, The State and the Accused: Balance of Advantage in Criminal Procedure, 69 Yale L. J. 1149 (1960). The growth of such discovery devices is a salutary development which, by increasing the evidence available to both parties, enhances the fairness of the adversary system." Wardius v. Oregon, 412 U.S. 470, 473-474 (1973).
+
+17Link to the location of the note in the document
+"Given the ease with which an alibi can be fabricated, the State's interest in protecting itself against an eleventh-hour defense is both obvious and legitimate. Reflecting this interest, notice-of-alibi provisions, dating at least from 1927, are now in existence in a substantial number of States. The adversary system of trial is hardly an end in itself; it is not yet a poker game in which players enjoy an absolute right always to conceal their cards until played. We find ample room in that system, at least as far as 'due process' is concerned, for the instant Florida rule, which is designed to enhance the search for truth in the criminal trial by insuring both the defendant and the State ample opportunity to investigate certain facts crucial to the determination of guilt or innocence." Williams v. Florida, 399 U.S. 78, 81-82 (1970) (footnotes omitted).
+
+18Link to the location of the note in the document
+Lloyd v. Gill, 406 F. 2d 585, 587 (CA5 1969) (HN8 motion for new trial based on newly discovered evidence "may not be granted unless . . . the facts discovered are of such nature that they will probably change the result if a new trial is granted, . . . they have been discovered since the trial and could not by the exercise of due diligence have been discovered earlier, and . . . they are not merely cumulative or impeaching"); Ragnar Benson, Inc. v. Kassab, 325 F. 2d 591, 594 (CA3 1963) ("[C]ourts will indulge all presumptions in favor of the validity of a verdict"); Rowlik v. Greenfield, 87 F. Supp. 997, 1001 (ED Pa. 1949) ("[N]ew trials should not be allowed simply because after the verdict the losing party has come upon some witness or information theretofore unknown to him or his attorney").
+
+19Link to the location of the note in the document
+See, e. g., Fendler v. Goldsmith, 728 F. 2d 1181, 1188-1190 (CA9 1983) (giving consideration to the effectiveness of less severe sanctions, the impact of preclusion on the evidence at trial and the outcome of the case, the extent of prosecutorial surprise or prejudice, and whether the violation was willful).
+
+20Link to the location of the note in the document
+There may be cases in which a defendant has legitimate objections to disclosing the identity of a potential witness. See Note, The Preclusion Sanction -- A Violation of the Constitutional Right to Present a Defense, 81 Yale L. J. 1342, 1350 (1972). Such objections, however, should be raised in advance of trial in response to the discovery request and, if the parties are unable to agree on a resolution, presented to the court. Under the Federal Rules of Criminal Procedure and under the rules adopted by most States, a party may request a protective order if he or she has just cause for objecting to a discovery request. See, e. g., Fed. Rule Crim. Proc. 16(d)(1); Ill. Sup. Ct. Rule 412(i). In this case, there is no issue concerning the validity of the discovery requirement or petitioner's duty to comply with it. There is also no indication that petitioner ever objected to the prosecution's discovery request.
+
+21Link to the location of the note in the document
+"In the case before us, the notice-of-alibi rule by itself in no way affected petitioner's crucial decision to call alibi witnesses or added to the legitimate pressures leading to that course of action. At most, the rule only compelled petitioner to accelerate the timing of his disclosure, forcing him to divulge at an earlier date information that the petitioner from the beginning planned to divulge at trial. Nothing in the Fifth Amendment privilege entitles a defendant as a matter of constitutional right to await the end of the State's case before announcing the nature of his defense, any more than it entitles him to await the jury's verdict on the State's case-in-chief before deciding whether or not to take the stand himself." Williams v. Florida, 399 U.S., at 85.
+
+22Link to the location of the note in the document
+The trial judge also expressed concern about discovery violations in other trials. If those violations involved the same attorney, or otherwise contributed to a concern about the trustworthiness of Wormley's 11th-hour testimony, they were relevant. Unrelated discovery violations in other litigation would not, however, normally provide a proper basis for curtailing the defendant's constitutional right to present a complete defense.
+
+23Link to the location of the note in the document
+It should be noted that in Illinois, the sanction of preclusion is reserved for only the most extreme cases. In People v. Rayford, the Illinois Appellate Court explained:
+
+"The exclusion of evidence is a drastic measure; and the rule in civil cases limits its application to flagrant violations, where the uncooperative party demonstrates a 'deliberate contumacious or unwarranted disregard of the court's authority.' ( Schwartz v. Moats, 3 Ill. App. 3d 596, 599, 277 N. E. 2d 529, 531; Department of Transportation v. Mainline Center, Inc., 38 Ill. App. 3d 538, 347 N. E. 2d 837.) The reasons for restricting the use of the exclusion sanction to only the most extreme situations are even more compelling in the case of criminal defendants, where due process requires that a defendant be permitted to offer testimony of witnesses in his defense. ( Washington v. Texas, 388 U.S. 14 . . . .) 'Few rights are more fundamental than that of an accused to present witnesses in his own defense.' ( Chambers v. Mississippi, 410 U.S. 284, 302 . . . .)" 43 Ill. App. 3d, at 286-287, 356 N. E. 2d, at 1277.
+
+24Link to the location of the note in the document
+See, e. g., Brookhart v. Janis, 384 U.S. 1, 7-8 (1966) (defendant's constitutional right to plead not guilty and to have a trial where he could confront and cross-examine adversary witness could not be waived by his counsel without defendant's consent); Doughty v. State, 470 N. E. 2d 69, 70 (Ind. 1984) (record must show "personal communication of the defendant to the court that he chooses to relinquish the right [to a jury trial]"); Cross v. United States, 117 U.S. App. D. C. 56, 325 F. 2d 629 (1963) (waiver of right to be present during trial).

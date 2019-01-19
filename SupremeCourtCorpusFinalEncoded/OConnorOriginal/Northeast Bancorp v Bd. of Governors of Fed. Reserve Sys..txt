@@ -1,0 +1,22 @@
+﻿
+        
+        Ne. Bancorp v. Bd. of Governors of Fed. Res. Sys., 472 U.S. 159, 105 S. Ct. 2545 (1985)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+I agree that the state banking statutes at issue here do not violate the Commerce Clause, the Compact Clause, or the Equal Protection Clause. I write separately to note that I see no meaningful distinction for Equal Protection Clause purposes between the Massachusetts and Connecticut statutes we uphold today and the Alabama statute at issue in Metropolitan Life Insurance Co. v. Ward, 470 U.S. 869 (1985).
+
+ [*179]  The Court distinguishes this case from Metropolitan Life on the ground that Massachusetts and Connecticut favor neighboring out-of-state banks over all other out-of-state banks. It is not clear to me why completely barring the banks of 44 States from doing business is less discriminatory than Alabama's scheme of taxing the insurance companies from 49 States at a slightly [****36]  higher rate. Nor is it clear why the Equal Protection Clause should tolerate a regional "home team" when it condemns a state "home team." See id., at 878.
+
+The Court emphasizes that here we do not write on a clean slate as the business of banking is "of profound local concern." Ante, at 177. The business of insurance is also of uniquely local concern. Prudential Insurance Co. v. Benjamin, 328 U.S. 408, 415-417 (1946). Both industries historically have been regulated by the States in recognition of the critical part they play in securing the financial well-being of local citizens and businesses. Metropolitan Life Insurance Co. v. Ward, supra, at 888-893 (dissenting opinion). States have regulated insurance since 1851. Like the local nature of banking, the local nature of insurance is firmly ensconced in federal law. 470 U.S., at 888-889. The McCarran-Ferguson Act, enacted in 1945, states:
+
+"Congress hereby declares that the continued regulation and taxation by the several States of the business of insurance is in the public interest, and that silence on the part of the Congress shall  [****37]  not be construed to impose any barrier to the regulation or taxation of such business by the several States." 59 Stat. 33, 15 U. S. C. § 1011.
+
+The Court distinguishes the Connecticut and Massachusetts banking laws as having a valid purpose: "to  [***129]  preserve a close relationship between those in the community who need credit and those who provide credit." Ante, at 178. This interest in preserving local institutions responsive to local concerns was a cornerstone in Alabama's defense of its insurance  [*180]  tax. It survives as one of the "15 additional purposes" the Court remanded for reconsideration. Metropolitan Life Insurance Co. v. Ward, supra, at 875-876, n. 5.
+
+Especially where Congress has sanctioned the barriers to commerce that fostering of local industries might engender, this Court has no authority under the Equal Protection Clause to invalidate classifications designed to encourage local businesses because of their special contributions. Today's opinion is consistent with the longstanding doctrine that the Equal Protection Clause permits economic regulation that distinguishes between groups that are legitimately different -- as  [****38]  local institutions so often are -- in ways relevant to the proper goals of the State.
+

@@ -1,0 +1,12 @@
+﻿432 U.S. 23
+LEE v. UNITED STATES
+Supreme Court of the United States
+Argued April 25, 1977 ; June 13, 1977; as amended
+No. 76-5187
+
+
+MR. JUSTICE REHNQUIST, concurring.
+When two Terms ago the Court decided Jenkins v. United States, 420 U.S. 358 (1975), and United States v. Wilson, 420 U.S. 332 (1975), I had thought that a precedential foundation had been laid for double jeopardy analysis which, though perhaps somewhat oversimplified, would at least afford all of the many courts in the country which must decide such questions explicit guidance as to what we deemed the Constitution to require.I thought that dismissals (as opposed to mistrials) if they occurred at a stage of the proceeding after which jeopardy had attached, but prior to the factfinder's conclusion as to guilt or innocence, were final so far as the accused defendant was concerned and could not be appealed by the Government because retrial was barred by double jeopardy. This made the issue of double  [**2149]  jeopardy turn very largely on temporal considerations -- if the Court granted an order of dismissal during the factfinding stage of the proceedings, the [****25]  defendant could not be reprosecuted, but if the dismissal came later, he could. I had thought that United States v. Perez, 9 Wheat. 579 (1824), and Illinois v. Somerville, 410 U.S. 458 (1973), offered a different basis for the treatment of mistrials, which by definition contemplate a second prosecution.
+This "bright line" analysis was circumvented, however, by the Court's decision in United States v. Martin Linen Supply Co., 430 U.S. 564 (1977), in which I did not take part. [*37]  There the Court held that even though the judgment of acquittal by the court (which I would not treat differently from a judgment of dismissal) occurred after the factfinding portion of the proceedings had aborted in a mistrial, but before the attachment of any jeopardy in a second trial, the second trial was nonetheless barred by double jeopardy.
+In view of this development, I feel free to re-examine the assumptions I made when writing Jenkins and voting in Wilson. I think that the Court's opinion in the present case, though not completely in accord with those assumptions, is a well-articulated and historically defensible exposition of the Double Jeopardy [****26]  Clause of the Bill of Rights. Since my assumptions did not at any rate survive United States v. Martin Linen Supply Co., supra, I join the Court's opinion.
+

@@ -1,0 +1,30 @@
+﻿TERRANCE FRANK, PETITIONER v. UNITED STATES
+
+No. 91-8230. 
+
+SUPREME COURT OF THE UNITED STATES
+
+506 U.S. 932
+
+October 13, 1992, Decided
+
+Opinion of JUSTICE STEVENS respecting the denial of the petition for writ of certiorari.
+This case illustrates the important difference between an order denying a petition for certiorari and a ruling on the merits.
+The Insanity Defense Reform Act of 1984 ensures that a federal criminal defendant found not guilty by reason of insanity will not be released onto the streets. It provides that "the Attorney General shall hospitalize the person [found not guilty by reason of insanity] in a suitable facility" until a State assumes responsibility for his care and treatment or the Attorney General finds that his release would not create a risk of harm to people or property. 18 U.S.C. § 
+4243(e). The question presented by the petition for certiorari is whether a defendant who has pleaded not guilty by reason of insanity is entitled to a jury instruction explaining the effect of this statute. If such an instruction [***3]  is not given, there is a strong possibility that the jury will be reluctant to accept a meritorious defense because of fear that a dangerous, mentally-ill person will go free.
+For reasons that I explained at some length 18 years ago, refusal to give such an instruction in an appropriate case can constitute plain error. 1 Until 1984 the refusal to give such an instruction was justified by the absence of a federal statute providing for mandatory commitment. 2 In the District of Columbia, however, where such a statute had been in place since 1955, the instruction was required. 3 Now that the reason for a different rule in different parts of the federal system has been eliminated, the wise rule adopted by then-Judge Warren Burger and his colleagues on the District of Columbia Circuit should be applied throughout the system.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 United States v. Greene, 497 F. 2d 1068, 1092 (CA7 1974) (Stevens, J., dissenting) ("The failure of the trial judge to give any advice at all to the jury on a matter that must have loomed large in their deliberations constituted plain error. It is almost inconceivable to me that if the jury had put to one side any concern about the consequences of a not guilty verdict, they would not have entertained a reasonable doubt as to the defendant's sanity"). 
+ [***4] 
+2 See Pope v. United States, 372 F. 2d 710, 731-732 (CA8 1967) (en banc) (Blackmun, J.). 
+3 
+Lyles v. United States, 103 U.S. AD. C. 22, 25, 254 F. 2d 725, 728 (1957) (en banc) (opinion of Burger and Prettyman, JJ.) ("We think the jury has a right to know the meaning of this possible verdict as accurately as it knows by common knowledge the meaning of the other two possible verdicts"), cert. denied, 356 U.S. 961 (1958). Judges Burger and Prettyman found historical support in Hadfield's Case, 27 How. St. Tr. 1282, 1354-1355 (K.B. 1800), where the Lord Chief Justice instructed the jury that a defendant found not guilty by reason of insanity would be confined. Lyles, 103 U.S. AD. C., at 26, n. 3, 254 F.2d, at 729, n. 3.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [**277]  Because the denial of a writ of certiorari is not a ruling on the merits, the Court's action today is not inconsistent with that conclusion. 4 Rather, the Court's action is supported by [***5]  the fact that a square conflict between two Courts of Appeals has not arisen since the enactment of the 1984 statute,  [*364]  and by the Court's normal practice of awaiting such a conflict before considering the significance of new federal legislation.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+4 See Singleton v. Commissioner, 439 U.S. 940, 942 (1978) (STEVENS, J., respecting denial of certiorari) and cases cited therein.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -

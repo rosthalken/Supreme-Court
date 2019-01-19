@@ -1,0 +1,128 @@
+﻿
+        
+        United Cal. Bank v. United States, 439 U.S. 180, 99 S. Ct. 476 (1978)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE STEWART and MR. JUSTICE REHNQUIST join, dissenting.
+
+Section 1202 of the Internal Revenue Code describes the [****31]  "normal" method of computing the tax on a long-term capital  [*201]  gain. 1Link to the text of the note [****32]  Section 1201 describes the "alternative" method which must be used if it produces a lesser tax than the § 1202 computation. 2Link to the text of the note Under the "normal" method, one-half  [**488]  of the gain is deducted and the other half is included in taxable income and taxed at ordinary graduated rates. If a taxpayer's income places him in a high enough tax bracket, the rate of tax under the normal method may exceed 25%. The "alternative" method prescribed by § 1201 protects the high-bracket taxpayer from this risk by imposing a flat 25% tax on the total capital gain and limiting the application of the graduated rates to the remainder of his income.
+
+ [*202]  The alternative method was expressly designed to provide a limited benefit for a limited class of taxpayers. That class includes individuals, corporations, and fiduciaries. The statutory language used to describe the precise scope of the benefit is clear and has been consistently applied [****33]  to corporate and individual taxpayers for decades. The question presented by this case is whether a departure from the plain meaning of the statute should be adopted for the special benefit of fiduciaries in the high tax brackets.
+
+The Court does not squarely address that question. Instead it regards the controlling question as whether there is any justification for a distinction between distributions by a fiduciary to taxable beneficiaries and such distributions to nontaxable beneficiaries. In my judgment both questions should be answered by adhering to the language used by Congress to define taxpayers' responsibilities. The language requires both fiduciaries and nonfiduciaries to use the same methods of computing their capital-gains taxes, but draws a sharp distinction between distributions by fiduciaries to taxable beneficiaries and such distributions to charity.
+
+ [***460]  I
+
+The controversy in this case centers around the meaning of the word "excess." The term is used both in § 1202's description of the "normal" tax and in § 1201's description of the "alternative" tax. In both sections "excess" is defined to mean the amount by which, in any year, the taxpayer's "net long-term [****34]  capital gain exceeds the net short-term capital loss." The Government takes the straightforward position that "excess" means exactly what the statute says -- the difference between the taxpayer's net long-term capital gain and his net short-term capital loss -- and that this meaning is exactly the same in both the normal and the alternative tax computations.
+
+With respect to § 1202's normal method, the petitioners do not challenge the Government's interpretation or the final tax  [*203]  that it produces. Both parties agree that the dollar value of the statutory term "excess" as used in the normal calculation of petitioners' 1967 income tax is $ 500,000. 3Link to the text of the note [****35]  On their return petitioners recognized that the § 1202 capital-gains deduction of "50 percent of the amount of such excess," was $ 250,000, or half of the total net long-term capital gain of $ 500,000. 4Link to the text of the note In computing the  [**489]  § 1202 deduction petitioners did not even suggest that this excess should have first been reduced by the portion set aside for charity. 5Link to the text of the note
+
+ [****36]  [*204]  It is with respect to the alternative  [***461]  method that the petitioners and the Government part company on the meaning of the term "excess." The § 1201 alternative calculation is actually a sequel to § 1202's normal calculation which provides a deduction of 50% of the "excess." In the alternative calculation the taxpayer deducts the second half of the "excess" from his ordinary income and computes a partial tax on the income remaining after the entire "excess" has been excluded; then he computes the alternative tax on the entire capital gain, or excess, at a 25% rate.
+
+Using 1967 as an example, see ante, at 186, nn. 6 and 7, under the Government's view, not only the first 50% of the excess deducted pursuant to § 1202 but also the second 50% deducted pursuant to § 1201 (b)(1) amounts to $ 250,000. This consistency effects an exclusion of the entire $ 500,000 capital gain from the calculation of the partial tax. Petitioners, however, make what I regard as the astounding contention that even though the first half of the excess calculated under § 1202 amounted to $ 250,000, the second half  [*205]  calculated under § 1201 amounted to only $ 137,500. 6Link to the text of the note Petitioners [****37]  obtained this latter figure by treating the term "excess" in § 1201 as the amount remaining after 45% had been set aside for charity. 7Link to the text of the note
+
+ [****38]  In my judgment, there is simply no basis for accepting petitioners' argument that "excess" means one thing when used in § 1202 and quite another when used in § 1201. Nor is there any basis for rewriting the statutory definition of "excess" in either section in order to reduce the amount by which "net long-term capital gain exceeds the net short-term capital loss" by the portion of the capital gains set aside for charity. No rewriting is necessary in order to fulfill the purpose of the statute. For the Government's reading is consistent with  [**490]  both the plain meaning and the underlying purpose of the statutory provision. The Government's view allows every taxpayer either to include 50% of his capital gain in ordinary income and to take a charitable deduction under § 642 or, alternatively, to exclude the entire capital gain from the portion of his income which is taxed at ordinary rates (after charitable and other deductions have been taken) and to pay the 25% tax on the entire capital gain.
+
+ [***462]  To be sure, in situations like this it may be to the taxpayer's advantage in calculating his alternative tax to take the charitable  [*206]  deduction, not against ordinary [****39]  income subject to the partial tax, but rather against capital-gain income subject to the flat 25% tax rate. The advantage petitioners seek would avoid "wasting" a portion of the charitable deductions. But the fiduciary taxpayer is not alone in facing this risk as a result of the Government's interpretation. Individual and corporate taxpayers may similarly find that a portion of their charitable deductions are "wasted" in the calculation of the alternative tax. Nor do fiduciaries have any special interest in the policy of encouraging charitable contributions; from the point of view of the charity which receives the contributions, it does not matter whether the donor is an individual, a corporation, or a fiduciary.
+
+Nonetheless, it is established and accepted that individual and corporate taxpayers are not free to calculate their alternative taxes in the manner which the Court today holds is acceptable for fiduciary taxpayers. While the Revenue Act of 1924 did in certain circumstances authorize the use of ordinary deductions to reduce the amount of capital gains, 8Link to the text of the note that aspect of the law was changed in 1938. 9Link to the text of the note [****41]  Ever since that time, the  [*207]  Government's interpretation of [****40]  the capital-gains tax computation has been applied consistently to individual and corporate taxpayers to deny them the benefit which petitioners today are granted. 10Link to the text of the note
+
+In upholding the Government's interpretation of the alternative tax calculation with respect to an individual taxpayer, the Tax Court observed:
+
+"We agree with petitioners that respondent's determination renders ineffective a part of their charitable contributions. We repeat, however, that the alternative tax is imposed only if it is less than the tax computed under the  [***463]  regular method which permits deduction of the total contributions in the instant case." 11Link to the text of the note
+
+ [**491]  That observation [****42]  is equally relevant to this case. That the "alternative" method, as computed by the Government, results in a greater total tax than the "normal" method means only that the taxpayer must pay the "normal" tax. The "alternative" method is just that: it is to be used in those cases, and only those cases, in which it produces a lower tax.
+
+In this case, the statutory language is plain and unambiguous. It has been well understood for four decades in cases involving individual and corporate taxpayers. In view of this clarity and consistency of interpretation, the burden of  [*208]  demonstrating that the same language should be read differently for fiduciaries is especially heavy. In my judgment, petitioners have completely failed to carry that burden.
+
+II
+
+Petitioners make no attempt to explain why the calculation of the alternative capital-gains taxes of estates and trusts should be any different from the calculations of such taxes for individual and corporate [****43]  taxpayers. Nor do petitioners point to any statutory language which even arguably supports the different meanings they attach to the term "excess" in §§ 1202 and 1201 (b). Instead, they contend that the Government has ignored the plain meaning of the term "excess" with respect to capital gains set aside for taxable beneficiaries and therefore should do the same -- at least in the calculation of the alternative tax -- when the beneficiaries are charitable. 12Link to the text of the note
+
+ [****44]  In my view the Government has been faithful to the statute in its treatment of distributions to taxable beneficiaries, as well as in its treatment of charitable contributions. It is true, as petitioners argue, that the Government allows estates to exclude distributions to taxable beneficiaries from the "excess" long-term capital gains used in the alternative tax computations. But such distributions are also excluded from the "excess" in making the normal calculation pursuant to § 1202. The reason for this treatment is clear, and is critical in undermining petitioners' argument.
+
+ [*209]  The express language of § 1202, which prescribes the normal deduction for capital gains, directs estates and trusts to exclude from their calculation of "excess" all amounts which are included in the income of taxable beneficiaries. 13Link to the text of the note Consistency  [***464]  in making the sequential calculations prescribed by §§ 1202 and 1201 (b) mandates a similar exclusion from "such excess" with respect to both provisions; otherwise, the statutory scheme of the alternative method would be frustrated. For, as has already been noted, the first half of "such excess" is deducted under § 1202 and the other [****45]  half of the same excess is deducted in the partial tax computation under § 1201.
+
+The Government's reading of the statute not only gives the word "excess" a consistent meaning, but also effectuates the clearly stated intent of Congress expressed in §§ 661 (a) and 662 (a) of the Code. Those sections provide, as the majority so strongly emphasizes, that the estate is a mere conduit with respect to income distributed to taxable beneficiaries. In purpose and effect, they reflect a legislative decision to avoid a double tax on the same income and to place the burden of paying the single tax which [****46]  is due on the beneficiary. The  [**492]  Government's interpretation of "excess" in § 1202 and § 1201 (b), which excludes from the estate's income the amounts included in the income of the taxable beneficiary under § 662 (a), clearly serves these purposes; any other interpretation would result in the double taxation of estate income which Congress, as the majority recognizes, has clearly sought to avoid. 14Link to the text of the note
+
+ [*210]  Obviously, there is no risk of double taxation when the beneficiary is a charity: The only potential taxpayer is the estate itself and the only question is how much tax it shall pay. 15Link to the text of the note When there are two potential taxpayers -- the estate and the beneficiary -- the total tax on the income of the estate is the sum of the taxes paid by both. Thus, while petitioners are technically correct in arguing that the estate's taxes in this case would have been [****47]  lower, under the Government's interpretation, if the entire capital gain had been distributed to taxable beneficiaries, this argument ignores the taxes paid by the beneficiaries on their receipts from the estate. By treating the trust as a mere conduit for the income distributed to taxable beneficiaries, Congress shifted the tax burden without changing the amount of income subject to tax or imposing a double tax burden on the same income. 16Link to the text of the note
+
+ [****48]  Thus, whether one focuses on the word "excess" in connection with distributions to charities, or in connection with distributions to taxable  [***465]  beneficiaries, the Government ascribes the same meaning to the term in § 1201 as in § 1202. The Government's conclusion that § 1202's express direction to exclude distributions to taxable beneficiaries requires a like exclusion in § 1201 merely illustrates the paramount importance  [*211]  of giving the word "excess" the same meaning in both sections. It surely provides no support for petitioners' remarkable contention that two halves of the same excess are unequal.
+
+III
+
+In final analysis, this case requires us to consider how the law in a highly technical area can be administered most fairly. I firmly believe that the best way to achieve evenhanded administration of our tax laws is to adhere closely to the language used by Congress to define taxpayers' responsibilities. Occasionally there will be clear manifestations of a contrary intent that justify a nonliteral reading, but surely this is not such a case.
+
+I respectfully dissent.
+
+"§ 1202. Deduction for capital gains.
+
+"In the case of a taxpayer other than a corporation, if for any taxable year the net long-term capital gain exceeds the net short-term capital loss, 50 percent of the amount of such excess shall be a deduction from gross income. In the case of an estate or trust, the deduction shall be computed by excluding the portion (if any), of the gains for the taxable year from sales or exchanges of capital assets, which, under sections 652 and 662 (relating to inclusions of amounts in gross income of beneficiaries of trusts), is includible by the income beneficiaries as gain derived from the sale or exchange of capital assets." 26 U. S. C. § 1202 (1964 ed.).
+
+2Link to the location of the note in the document
+Section 1201 (b) provides:
+
+"Other taxpayers.
+
+"If for any taxable year the net long-term capital gain of any taxpayer (other than a corporation) exceeds the net short-term capital loss, then, in lieu of the tax imposed by sections 1 and 511, there is hereby imposed a tax (if such tax is less than the tax imposed by such sections) which shall consist of the sum of --
+
+"(1) a partial tax computed on the taxable income reduced by an amount equal to 50 percent of such excess, at the rate and in the manner as if this subsection had not been enacted, and
+
+"(2) an amount equal to 25 percent of the excess of the net long-term capital gain over the net short-term capital loss." 26 U. S. C. § 1201 (b) (1964 ed.).
+
+The "alternative" method for corporate taxpayers is specified in 26 U. S. C. § 1201 (a) (1964 ed.).
+
+3Link to the location of the note in the document
+The dollar value of the statutory term "excess" is reflected twice in the normal tax calculation. Taking the rounded-off figures from petitioners' 1967 return, set forth ante, at 185 n. 5 of the Court's opinion, the estate's 1967 gross income of $ 595,000 included net long-term capital gain of $ 500,000. As the first step in the calculation of its normal tax, the taxpayer is allowed a deduction of "50 percent of the amount of such excess" or $ 250,000. 26 U. S. C. § 1202 (1964 ed.) (emphasis added). In the next step, the charitable deduction is taken: Under § 642 (c) of the Code, an adjustment in the charitable deduction is required to reflect the fact that half of the contribution out of long-term capital gains has already been included in the § 1202 "deduction for excess of capital gains over capital losses." This required adjustment yields a net charitable deduction of $ 112,500 rather than the total amount of $ 225,000 actually set aside for charity. After subtracting all other miscellaneous deductions, the estate shows a taxable income of $ 146,000 subject to tax, at normal rates, of $ 88,000.
+
+4Link to the location of the note in the document
+Because the estate incurred no short-term or long-term capital losses in 1967 and 1968, I sometimes refer simply to "net long-term capital gain" or "capital gain."
+
+5Link to the location of the note in the document
+They recognized as well that for purposes of the § 642 (c) adjustment to the charitable deduction, "the excess of capital gains over capital losses" referred to the total excess, without any prior reduction for charitable contributions. Section 642 (c), with emphasis added to the portion relevant to this discussion, provides:
+
+"§ 642. Special rules for credits and deductions.
+
+. . . .
+
+"(c) Deduction for amounts paid or permanently set aside for a charitable purpose.
+
+"In the case of an estate or trust (other than a trust meeting the specifications of subpart B) there shall be allowed as a deduction in computing its taxable income (in lieu of the deductions allowed by section 170 (a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid or permanently set aside for a purpose specified in section 170 (c), or is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, or for the establishment, acquisition, maintenance or operation of a public cemetery not operated for profit. For this purpose, to the extent that such amount consists of gain from the sale or exchange of capital assets held for more than 6 months, proper adjustment of the deduction otherwise allowable under this subsection shall be made for any deduction allowable to the estate or trust under section 1202 (relating to deduction for excess of capital gains over capital losses). In the case of a trust, the deduction allowed by this subsection shall be subject to section 681 (relating to unrelated business income and prohibited transactions)." 26 U. S. C. § 642 (c) (1964 ed.) (emphasis added).
+
+6Link to the location of the note in the document
+The Court makes the equally astonishing suggestion that even if the relationship between § 1202 and the first step in the § 1201 calculation requires that "excess" be given the same meaning, that word may nevertheless be given a different meaning in the second step of the § 1201 calculation. See ante, at 192-193, n. 13. This suggestion is no more tenable than the taxpayer's argument and would produce a different tax than the Court approves today.
+
+7Link to the location of the note in the document
+Although the exclusion of $ 137,500 instead of $ 250,000 produces a higher partial tax than a consistent interpretation of the word "excess," this gambit is rewarded by the second step of the alternative calculation. Section 1201 (b)(2) imposes a flat 25% tax on the excess of the net long-term capital gain over the net short-term capital loss: Under the Government's view, this amounts to $ 125,000 (25% of $ 500,000) whereas under petitioner's view the capital gains tax is only $ 68,750 (25% of $ 275,000).
+
+8Link to the location of the note in the document
+Section 208 (a)(5) of the Revenue Act of 1924 provided:
+
+"The term 'capital net gain' means the excess of the total amount of capital gain over the sum of (A) the capital deductions and capital losses, plus (B) the amount, if any, by which the ordinary deductions exceed the gross income computed without including capital gain." 43 Stat. 262.
+
+9Link to the location of the note in the document
+"The 1938 Revenue Act combined the percentage concept of the then existing law with the alternative tax principles of the revenue acts in effect prior to the 1934 Act. Except for changes immaterial to the issue in the instant case, the provisions of the 1938 Act and the 1939 Code in effect for 1948 are substantially the same. Compare sections 117 (b) and 117 (c)(1) of the 1938 Act with sections 117 (b) and 117 (c)(2) of the 1939 Code as amended. The effect of section 117 of the 1938 Act, as intended by the Congress which first enacted it, was to place an upper limit on the amount of tax levied upon capital gain. See S. Rept. No. 1567, 75th Cong., at p. 20, reported in 1939-1 C. B. (Part 2) 779, 794. The 1938 Act thus provided that the taxable portion of such gain is either added to the taxpayer's other gross income and taxed in the regular manner at the prescribed rate, or taxed separately at a flat rate, according to which method produces the lesser tax." Weil v. Commissioner, 23 T. C. 424, 428-429 (1954), aff'd, 229 F.2d 593 (CA6 1956).
+
+10Link to the location of the note in the document
+In two especially thoughtful opinions, the Tax Court upheld this interpretation with respect to individual and corporate taxpayers, finding it to be mandated by the plain words and legislative history of the statutory provisions involved. See Weil v. Commissioner, supra; Chartier Real Estate Co. v. Commissioner, 52 T. C. 346, 350-356 (1969), aff'd, 428 F.2d 474 (CA1 1970). In its opinion today, the Court does not in any way question the soundness of these decisions. Instead it has fashioned a special rule, applicable only to fiduciaries.
+
+11Link to the location of the note in the document
+Weil v. Commissioner, supra, at 432.
+
+12Link to the location of the note in the document
+Were it in fact the case that the Government's interpretation of "excess" with respect to distributions to taxable beneficiaries is inconsistent with the statute, that would hardly establish that it should apply the same incorrect interpretation when the beneficiaries are not taxable. It would only suggest that the Government ought to address and correct the mistaken interpretation. An error is not cured by compounding it, nor does a taxpayer have a right to be freed of a correct calculation of his taxes because the Government may have erred with respect to a different class of taxpayers.
+
+13Link to the location of the note in the document
+"In the case of an estate or trust, the deduction shall be computed by excluding the portion (if any), of the gains for the taxable year from sales or exchanges of capital assets, which, under sections 652 and 662 (relating to inclusions of amounts in gross income of beneficiaries of trusts), is includible by the income beneficiaries as gain derived from the sale or exchange of capital assets." 26 U. S. C. § 1202 (1964 ed.).
+
+14Link to the location of the note in the document
+Effectuation of that intent also explains the other departures from the literal meaning of § 1201 in the cases cited ante, at 187-188, n. 8.
+
+15Link to the location of the note in the document
+In calculating its taxable income under the normal method, the estate is, as the Court emphasizes, permitted under § 642 (c) a deduction "without limitation" for its charitable contributions. But this provision for charitable deductions "without limitation" serves only to free fiduciaries from the percentage limitations of § 170 (b) applicable to individual taxpayers; it does not, in itself, support or establish "conduit" treatment for charitable contributions in the calculation of the alternative tax.
+
+16Link to the location of the note in the document
+Petitioners also argue that because the estate's capital-gains tax must be paid out of the residue, the effective rate of the tax on the beneficiaries may exceed the 25% ceiling the alternative tax provisions were designed to impose. See ante, at 194-195. The ceiling on the tax on the estate's $ 500,000 gain in 1967 amounted to $ 125,000. This litigation involves a dispute over whether the estate's total tax in 1967 amounts to $ 88,000 or only $ 70,800. Petitioners do not explain how the resolution of that dispute can have the effect of breaking through the $ 125,000 ceiling.

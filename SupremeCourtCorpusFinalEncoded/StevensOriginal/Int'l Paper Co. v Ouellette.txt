@@ -1,0 +1,15 @@
+﻿
+        
+        Int'l Paper Co. v. Ouellette, 479 U.S. 481, 107 S. Ct. 805 (1987)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom JUSTICE BLACKMUN joins, concurring in part and dissenting in part.
+
+In affirming the denial of International Paper Company's motion to dismiss, the Court concludes that nothing in the  [*509]  Clean Water Act, 33 U. S. C. § 1251 et seq., deprives a Federal District Court of the diversity jurisdiction it would otherwise have to entertain a common-law nuisance suit brought against a point source located in another State and based on an injury allegedly suffered in the forum State. I agree with that holding and find it sufficient to decide this case.
+
+The Court, however, goes further  [***908]  and ventures its opinion on whether the District Court must apply the substantive law of the State in which the source of water pollution is located. Perhaps the Court is responding to the District Court's observation, affirmed by the Court of Appeals, that the Clean Water Act "authorizes actions to redress [****54]  injury caused by water pollution of interstate waters under the common law of the state in which the injury occurred." 602 F.Supp. 264, 274 (Vt. 1985). But since the District Court has not yet been asked to decide -- or decided -- which substantive law will govern this particular suit, there is no dispute between the parties on this issue and the Court has no business discussing it at this stage of the litigation. In its rush to express the opinion that the substantive law of the source State must govern, the Court broadly asserts that "[the] Act preempts state law to the extent that the state law is applied to an out-of-state point  [**821]  source." Ante, at 500. But on this record, the Court does not even know whether Vermont state law, including its choice-of-law rules, would look to the New York law of nuisance to govern a nuisance suit based on an alleged source in New York.
+
+The Court's opinion is thus partially advisory for three reasons. The question of the applicable state law it addresses has not yet arisen in this litigation; when it does arise, the District Court may well conclude that Vermont's choice-of-law rules require it to apply New York's [****55]  substantive law; and, as JUSTICE BRENNAN points out, ante, at 501, there is no reason to believe that there is any difference between the relevant New York and Vermont law in any event. One cannot help but wonder what has happened to the once respected doctrine of judicial restraint. Just as this Court does not sit  [*510]  to edit the opinions of lower courts, see Phillips Petroleum Co. v. Shutts, 472 U.S. 797, 823 (1985) (STEVENS, J., concurring in part and dissenting in part), it also does not sit to draft advisory opinions for the possible future guidance of other courts. I therefore respectfully dissent from that part of the Court's opinion holding that the Clean Water Act requires the District Court to apply the nuisance law of the source State.

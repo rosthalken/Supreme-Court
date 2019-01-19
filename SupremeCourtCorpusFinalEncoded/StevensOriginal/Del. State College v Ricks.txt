@@ -1,0 +1,25 @@
+﻿
+        
+        Del. State Coll. v. Ricks, 449 U.S. 250, 101 S. Ct. 498 (1980)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+The custom widely followed by colleges and universities of offering a 1-year terminal contract immediately after making an adverse tenure decision is, in my judgment, analogous to the custom in many other personnel relationships of giving an employee two weeks' advance notice of discharge. My evaluation of this case can perhaps best be explained by that analogy.
+
+Three different reference points could arguably determine when a cause of action [****30]  for a discriminatory discharge accrues: (1) when the employer decides to terminate the relationship; (2) when notice of termination is given to the employee; and (3) when the discharge becomes effective. The most sensible rule would provide that the date of discharge establishes the time when a cause of action accrues and the statute of limitations begins to run. Prior to that date, the allegedly wrongful act is subject to change; more importantly, the effective discharge date is the date which can normally be identified with the least difficulty or dispute. 1Link to the text of the note
+
+ [****31]   [*266]  I would apply the same reasoning here in identifying the date on which respondent's allegedly discriminatory discharge became actionable. See Egelston v. State University College at Geneseo, 535 F.2d 752, 755 (CA2 1976). Thus under my  [***445]  analysis the statute of limitations began to run on June 30, 1975, the termination date of respondent's 1-year contract. In reaching that conclusion, I do not characterize the College's discharge decision as a "continuing violation"; nor do I suggest that a teacher who is denied tenure and who remains in a school's employ for an indefinite period could file a timely complaint based on the tenure decision when he or she is ultimately discharged. Rather, I regard a case such as this one, in which a college denies tenure and offers a terminal 1-year contract as part of the adverse tenure decision, as a discharge case. The decision to deny tenure in this situation is in all respects comparable to another employer's decision to discharge an employee and, in due course, to give the employee notice of the effective date of that discharge. Both the interest in harmonious working relations during the terminal [****32]  period of the employment relationship, 2Link to the text of the note and the interest  [*267]  in certainty that is so important in litigation of this kind, 3Link to the text of the note support this result.
+
+ [****33]   [**509]  For these reasons, I would affirm the judgment of the Court of Appeals.
+
+Although few courts have had the occasion to consider the issue in the context of notice of discharge preceding actual termination, some courts have recognized that the date on which the employee actually ceases to perform services for the employer, and not a later date when the payment of benefits or accrued vacation time ceases, should determine the running of the statute of limitations. See Bonham v. Dresser Industries, Inc., 569 F.2d 187, 192 (CA3 1977), cert. denied, 439 U.S. 821 (1978); Krzyzewski v. Metropolitan Government of Nashville and Davidson County, 584 F.2d 802, 804-805 (CA6 1978).
+
+2Link to the location of the note in the document
+This interest has special force in the college setting. Because the employee must file a charge with the EEOC within 180 days after the occurrence, the Court's analysis will necessitate the filing of a charge while the teacher is still employed. The filing of such a charge may prejudice any pending reconsideration of the tenure decision and also may impair the teacher's performance of his or her regular duties. Neither of these adverse consequences would be present in a discharge following a relatively short notice such as two weeks.
+
+3Link to the location of the note in the document
+The interest in certainty lies not only in choosing the most easily identifiable date, but also in avoiding the involvement of the EEOC until the school's decision to deny tenure is final. The American Association of University Professors, as amicus curiae here, has indicated that under the "prevailing academic employment practices" of American higher education, which allow for maximum flexibility in tenure decisions, initial tenure determinations are often reconsidered, and the reconsideration process may take the better part of the terminal contract year. Brief for American Association of University Professors as Amicus Curiae 6-11.

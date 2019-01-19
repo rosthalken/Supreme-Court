@@ -1,0 +1,45 @@
+﻿
+
+
+106 S.Ct. 668
+Supreme Court of the United States
+Robert DAVIDSON, Petitioner
+v.
+Joseph CANNON et al.
+No. 84–6470.
+|
+Argued Nov. 6, 1985.
+|
+Decided Jan. 21, 1986.
+Justice REHNQUIST delivered the opinion of the Court.
+
+Petitioner sued prison officials seeking damages under 42 U.S.C. § 1983 for injuries he suffered when they negligently failed to protect him from another inmate. On December 19, 1980, petitioner was threatened by one McMillian, a fellow inmate at the New Jersey State Prison at Leesburg. Petitioner sent a note reporting the incident that found its way to respondent Cannon, the Assistant Superintendent of the prison, who read the note and sent it on to respondent James, a Corrections Sergeant.* Cannon subsequently testified that he did not view the situation as urgent because on previous occasions when petitioner had a serious problem he had contacted Cannon directly.
+ 
+James received the note at about 2 p.m. on December 19, and was informed of its contents. James then attended to other matters, which he described as emergencies, and left the note on his desk unread. By the time he left the prison that evening James had forgotten about the note, and since *346 neither he nor Cannon worked on December 20 or 21, the officers on duty at that time had not been informed of the threat. Petitioner took no steps other than writing the note to alert the authorities that he feared an attack, nor did he request protective custody. He testified that he did not foresee an attack, and that he wrote the note to exonerate himself in the event that McMillian started another fight. He also testified that he wanted officials to reprimand McMillian in order to forestall any future incident. On Sunday, December 21, McMillian attacked petitioner with a fork, breaking his nose and inflicting other wounds to his face, neck, head, and body.
+ 
+Petitioner brought this § 1983 suit in the United States District Court for the District of New Jersey, claiming that respondents (and two others) had violated his constitutional rights under the Eighth and Fourteenth Amendments. After a bench trial, the District Court held that petitioner had not established an Eighth Amendment violation “because [respondents] did not act with deliberate or callous indifference to [petitioner’s] needs and because the incident complained of was a single attack.” App. 89. The court also found, however, that respondents “negligently failed to take reasonable steps to protect [petitioner], and that he was injured as a result.” Ibid. Petitioner was thereby deprived, see **670 Parratt v. Taylor, 451 U.S. 527, 536–537, 101 S.Ct. 1908, 1913–14, 68 L.Ed.2d 420 (1981), of his liberty interest in personal security, see Ingraham v. Wright, 430 U.S. 651, 673, 97 S.Ct. 1401, 1413, 51 L.Ed.2d 711 (1977); and because New Jersey law provides that “[n]either a public entity nor a public employee is liable for ... any injury caused by ... a prisoner to any other prisoner,” N.J.Stat.Ann. § 59:5–2(b)(4) (1982), the court concluded that the deprivation was without due process. Petitioner was awarded compensatory damages of $2,000.
+ 
+The Court of Appeals for the Third Circuit, hearing the case en banc, reversed. 752 F.2d 817 (CA3 1984). While accepting the District Court’s conclusion that respondents had been negligent, and agreeing that the attack on petitioner implicated *347 a recognized liberty interest, the majority held that respondents’ negligence did not work a “deprivation” of that interest within the meaning of the Due Process Clause. The court conceded that language in Parratt supported the District Court’s position that merely negligent conduct causing injury could constitute a Fourteenth Amendment “deprivation,” but concluded that “Parratt does not so hold.” 752 F.2d, at 826. Accordingly, the court ruled that petitioner had failed to make out a violation of his procedural or substantive due process rights, stating that § 1983 provides no remedy “for the type of negligence found in this case.” Id., at 829.
+ 
+Two judges who joined the majority opinion also wrote separately to suggest that even if respondents’ negligence had “deprived” petitioner of liberty, the State’s decision not to provide a remedy, in view of its strong interest in protecting its prison officials from liability, did not violate due process. Three judges dissented, essentially embracing the position of the District Court.
+ 
+We granted certiorari, 471 U.S. 1134, 105 S.Ct. 2673, 86 L.Ed.2d 692 (1985), and set this case for oral argument with Daniels v. Williams, 474 U.S. 327, 106 S.Ct. 662, 88 L.Ed.2d 662 (1986). Finding the principles enunciated in Daniels controlling here, we affirm.
+ 
+[1] [2] [3] In Daniels, we held that the Due Process Clause of the Fourteenth Amendment is not implicated by the lack of due care of an official causing unintended injury to life, liberty or property. In other words, where a government official is merely negligent in causing the injury, no procedure for compensation is constitutionally required. In this case, petitioner does not challenge the District Court’s finding that respondents “ ‘did not act with deliberate or callous indifference to [petitioner’s] needs,’ ” 752 F.2d, at 820. Instead, he claims only that respondents “negligently failed to protect him from another inmate.” Brief for Petitioner 2. Daniels therefore controls.
+ 
+[4] Respondents’ lack of due care in this case led to serious injury, but that lack of care simply does not approach the sort *348 of abusive government conduct that the Due Process Clause was designed to prevent.  Daniels, at 331–333, 106 S.Ct., at 665–666. Far from abusing governmental power, or employing it as an instrument of oppression, respondent Cannon mistakenly believed that the situation was not particularly serious, and respondent James simply forgot about the note. The guarantee of due process has never been understood to mean that the State must guarantee due care on the part of its officials.
+ 
+In an effort to limit the potentially broad sweep of his claim, petitioner emphasizes that he “does not ask this Court to read the Constitution as an absolute guarantor of his liberty from assault by a fellow prisoner, even if that assault is caused by the negligence of his jailers.” Brief for Petitioner 17. Describing his claim as one of “procedural due process, pure and simple,” id., at 14, all he asks is that New Jersey provide him a remedy. But the Fourteenth Amendment does not require a remedy when there has been no “deprivation” of a protected interest. Petitioner’s claim, based on respondents’ negligence, is quite different from one involving injuries **671 caused by an unjustified attack by prison guards themselves, see Johnson v. Glick, 481 F.2d 1028 (CA2), (Friendly, J.), cert. denied sub nom. John v. Johnson, 414 U.S. 1033, 94 S.Ct. 462, 38 L.Ed.2d 324 (1973), or by another prisoner where officials simply stood by and permitted the attack to proceed, see Curtis v. Everette, 489 F.2d 516 (CA3 1973), cert. denied sub nom. Smith v. Curtis, 416 U.S. 995, 94 S.Ct. 2409, 40 L.Ed.2d 774 (1974). As we held in Daniels, the protections of the Due Process Clause, whether procedural or substantive, are just not triggered by lack of due care by prison officials.
+ 
+Accordingly, the judgment of the Court of Appeals for the Third Circuit is affirmed.
+ 
+It is so ordered.
+ 
+
+
+The note, addressed to a civilian hearing officer, said:
+“When I went back to the unit after seeing you McMillian was on the steps outside the unit. When I was going past him he told me ‘I'll fuck you up you old mother-fucking fag.’ Go up to your cell, I be right there.
+“I ignored this and went to another person's cell and thought about it. Then I figured I should tell you so ‘if’ anything develops you would be aware.
+“I'm quite content to let this matter drop but evidently McMillian isn't.
+“Thank you, R. Davidson.” 752 F.2d 817, 819 (CA3 1984).
+

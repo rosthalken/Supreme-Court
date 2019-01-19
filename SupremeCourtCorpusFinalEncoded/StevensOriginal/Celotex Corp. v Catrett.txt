@@ -1,0 +1,31 @@
+﻿
+        
+        Celotex Corp. v. Catrett, 477 U.S. 317, 106 S. Ct. 2548 (1986)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+ [****37]  As the Court points out, ante, at 319-320, petitioner's motion for summary judgment was based on the proposition that respondent could not prevail unless she proved that her deceased husband had been exposed to petitioner's products "within the jurisdictional limits" of the District of Columbia. 1Link to the text of the note [****39]   [*338]  Respondent made an adequate showing -- albeit possibly not in admissible form 2Link to the text of the note -- that her husband had been exposed to petitioner's product in Illinois. 3Link to the text of the note Although the basis of the motion and the argument had been the lack of exposure in the District of Columbia, the District Court stated at the end of the argument: "The Court will grant the defendant Celotex's motion for summary judgment there being no showing that the plaintiff was exposed to the defendant Celotex's product in the District of Columbia or elsewhere within the statutory period." App. 217 (emphasis added). The District Court offered no additional explanation and no written  [**2561]  opinion. The Court of Appeals reversed on the basis that Celotex had not met its burden; the court noted the incongruity of the District Court's opinion in the context of the motion and argument, but did not rest  [****38]  on that basis because of the "or elsewhere" language. 4Link to the text of the note
+
+ [****40]  Taken in the context of the motion for summary judgment on the basis of no exposure in the District of Columbia, the  [*339]  District Court's decision to grant summary judgment  [***284]  was palpably erroneous. The court's bench reference to "or elsewhere" neither validated that decision nor raised the complex question addressed by this Court today. In light of the District Court's plain error, therefore, it is perfectly clear that, even after this Court's abstract exercise in Rule construction, we should nonetheless affirm the reversal of summary judgment on that narrow ground. 5Link to the text of the note
+
+ [****41]  I respectfully dissent.
+
+See Motion of Defendant Celotex Corporation for Summary Judgment, App. 170 ("Defendant Celotex Corporation, pursuant to Rule 56(b) of the Federal Rules of Civil Procedure moves this Court for an Order granting Summary Judgment on the ground that plaintiff has failed to produce evidence that any product designed, manufactured or distributed by Celotex Corporation was the proximate cause of the injuries alleged within the jurisdictional limits of this Court") (emphasis added); Memorandum of Points and Authorities in Support of Motion of Defendant Celotex Corporation for Summary Judgment, id., at 175 (Plaintiff "must demonstrate some link between a Celotex Corporation product claimed to be the cause of the decedent's illness and the decedent himself. The record is totally devoid of any such evidence within the jurisdictional confines of this Court") (emphasis added); Transcript of Argument in Support of Motion of Defendant Celotex Corporation for Summary Judgment, id., at 211 ("Our position is . . . there has been no product identification of any Celotex products . . . that have been used in the District of Columbia to which the decedent was exposed") (emphasis added).
+
+2Link to the location of the note in the document
+But cf. ante, at 324 ("We do not mean that the nonmoving party must produce evidence in a form that would be admissible at trial in order to avoid summary judgment").
+
+3Link to the location of the note in the document
+See App. 160 (letter from Aetna Life Insurance Co.) (referring to the "asbestos that Mr. Catrett came into contact with while working for Anning-Johnson Company" and noting that the "manufacturer of this product" was purchased by Celotex); id., at 162 (letter from Anning-Johnson Co.) (confirming that Catrett worked for the company and supervised the installation of asbestos produced by the company that Celotex ultimately purchased); id., at 164, 164c (deposition of Catrett) (description of his work with asbestos "in Chicago").
+
+4Link to the location of the note in the document
+See Catrett v. Johns-Manville Sales Corp., 756 F.2d 181, 185, n. 14 (1985) ("[The] discussion at the time the motion was granted actually spoke to venue. It was only the phrase 'or elsewhere,' appearing with no prior discussion, in the judge's oral ruling at the close of argument that made the grant of summary judgment even conceivably proper").
+
+5Link to the location of the note in the document
+Cf. n. 2, supra. The Court's statement that the case should be remanded because the Court of Appeals has a "superior knowledge of local law," ante, at 327, is bewildering because there is no question of local law to be decided. Cf. Bishop v. Wood, 426 U.S. 341, 345-347 (1976).
+
+The Court's decision to remand when a sufficient ground for affirmance is available does reveal, however, the Court's increasing tendency to adopt a presumption of reversal. See, e. g., New York v. P.J. Video, Inc., 475 U.S. 868, 884 (1986) (MARSHALL, J., dissenting); Icicle Seafoods, Inc. v. Worthington, 475 U.S. 709, 715 (1986) (STEVENS, J., dissenting); City of Los Angeles v. Heller, 475 U.S. 796, 800 (1986) (STEVENS, J., dissenting); Pennsylvania v. Goldhammer, 474 U.S. 28, 31 (1985) (STEVENS, J., dissenting). As a matter of efficient judicial administration and of respect for the state and federal courts, I believe the presumption should be precisely the opposite.

@@ -1,0 +1,54 @@
+﻿
+        
+        Batson v. Kentucky, 476 U.S. 79, 106 S. Ct. 1712 (1986)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom [****58]  JUSTICE BRENNAN joins, concurring.
+
+In his dissenting opinion, THE CHIEF JUSTICE correctly identifies an apparent inconsistency between my criticism of the Court's action in Colorado v. Connelly, 474 U.S. 1050 (1986) (memorandum of BRENNAN, J., joined by STEVENS, J.), and New Jersey v. T. L. O., 468 U.S. 1214 (1984) (STEVENS, J., dissenting) -- cases in which the  [***96]  Court directed the State to brief and argue questions not presented in its petition  [*109]  for certiorari -- and our action today in finding a violation of the Equal Protection Clause despite the failure of petitioner's counsel to rely on that ground of decision. Post, at 115-116, nn. 1 and 2. In this case, however -- unlike Connelly and T. L. O. -- the party defending the judgment has explicitly rested on the issue in question as a controlling basis for affirmance. In defending the  [**1730]  Kentucky Supreme Court's judgment, Kentucky's Assistant Attorney General emphasized the State's position on the centrality of the equal protection issue:
+
+". . . Mr. Chief Justice, and may it please the Court, the issue before this Court today is simply whether [****59]  Swain versus Alabama should be reaffirmed. . . .
+
+. . . .
+
+". . . We believe that it is the Fourteenth Amendment that is the item that should be challenged, and presents perhaps an address to the problem. Swain dealt primarily with the use of peremptory challenges to strike individuals who were of a cognizable or identifiable group.
+
+"Petitioners show no case other than the State of California's case dealing with the use of peremptories wherein the Sixth Amendment was cited as authority for resolving the problem. So, we believe that the Fourteenth Amendment is indeed the issue. That was the guts and primarily the basic concern of Swain.
+
+. . . .
+
+"In closing, we believe that the trial court of Kentucky and the Supreme Court of Kentucky have firmly embraced Swain, and we respectfully request that this Court affirm the opinion of the Kentucky court as well as to reaffirm Swain versus Alabama." 1Link to the text of the note
+
+In addition to the party's reliance on the equal protection argument in defense of the judgment,  [****60]  several amici curiae  [*110]  also addressed that argument. For instance, the argument in the brief filed by the Solicitor General of the United States begins:
+
+"PETITIONER DID NOT ESTABLISH THAT HE WAS DEPRIVED OF A PROPERLY CONSTITUTED PETIT JURY OR DENIED EQUAL PROTECTION OF THE LAWS
+
+"A. Under Swain v. Alabama A Defendant Cannot Establish An Equal Protection Violation By Showing Only That Black Veniremen Were Subjected To Peremptory Challenge By The Prosecution In His Case" 2Link to the text of the note
+
+Several other amici similarly emphasized this issue. 3Link to the text of the note
+
+ [****61]  In  [***97]  these circumstances, although I suppose it is possible that reargument might enable some of us to have a better informed view of a problem that has been percolating in the courts for several years, 4Link to the text of the note [****62]   [**1731]  I believe the Court acts wisely in  [*111]  resolving the issue now on the basis of the arguments that have already been fully presented without any special invitation from this Court. 5Link to the text of the note
+
+
+Tr. of Oral Arg. 27-28, 43.
+
+2Link to the location of the note in the document
+Brief for United States as Amicus Curiae 7.
+
+3Link to the location of the note in the document
+The argument section of the brief for the National District Attorneys Association, Inc., as amicus curiae in support of respondent begins as follows:
+
+"This Court should conclude that the prosecutorial peremptory challenges exercised in this case were proper under the fourteenth amendment equal protection clause and the sixth amendment. This Court should further determine that there is no constitutional need to change or otherwise modify this Court's decision in Swain v. Alabama." Id., at 5.
+
+Amici supporting petitioner also emphasized the importance of the equal protection issue. See, e. g., Brief for NAACP Legal Defense and Educational Fund, American Jewish Committee, and American Jewish Congress as Amici Curiae 24-36; Brief for Lawyers' Committee for Civil Rights Under Law as Amicus Curiae 11-17; Brief for Elizabeth Holtzman as Amicus Curiae 13.
+
+4Link to the location of the note in the document
+See McCray v. New York, 461 U.S. 961 (1983) (opinion of STEVENS, J., respecting denial of certiorari); id., at 963 (MARSHALL, J., dissenting from denial of certiorari).
+
+The eventual federal habeas corpus disposition of McCray, of course, proved to be one of the landmark cases that made the issues in this case ripe for review. McCray v. Abrams, 750 F.2d 1113 (CA2 1984), cert. pending, No. 84-1426. See also Pet. for Cert. 5-7 (relying heavily on McCray as a reason for review). In McCray, as in almost all opinions that have considered similar challenges, the Court of Appeals for the Second Circuit explicitly addressed the equal protection issue and the viability of Swain. 750 F.2d, at 1118-1124. The pending petition for certiorari in McCray similarly raises the equal protection question that has long been central to this issue. Pet. for Cert. in No. 84-1426 (Question 2). Indeed, shortly after agreeing to hear Batson, the Court was presented with a motion to consolidate McCray and Batson, and consider the cases together. Presumably because the Court believed that Batson adequately presented the issues with which other courts had consistently grappled in considering this question, the Court denied the motion. See Abrams v. McCray, 471 U.S. 1097 (1985). Cf. ibid. (BRENNAN, MARSHALL, and STEVENS, JJ., dissenting from denial of motion to consolidate).
+
+5Link to the location of the note in the document
+Although I disagree with his criticism of the Court in this case, I fully subscribe to THE CHIEF JUSTICE's view, expressed today, that the Court should only address issues necessary to the disposition of the case or petition. For contrasting views, see, e. g., Bender v. Williamsport Area School Dist., 475 U.S. 534, 551 (1986) (BURGER, C. J., dissenting) (addressing merits even though majority of the Court found a lack of standing); Colorado v. Nunez, 465 U.S. 324 (1984) (concurring opinion, joined by BURGER, C. J.) (expressing view on merits even though writ was dismissed as improvidently granted because state-court judgment rested on adequate and independent state grounds); Florida v. Casal, 462 U.S. 637, 639 (1983) (BURGER, C. J., concurring) (agreeing with Court that writ should be dismissed as improvidently granted because judgment rested on adequate and independent state grounds, but noting that "the citizens of the state must be aware that they have the power to amend state law to ensure rational law enforcement"). See also Colorado v. Connelly, 474 U.S. 1050 (1986) (ordering parties to address issue that neither party raised); New Jersey v. T. L. O., 468 U.S. 1214 (1984) (same).

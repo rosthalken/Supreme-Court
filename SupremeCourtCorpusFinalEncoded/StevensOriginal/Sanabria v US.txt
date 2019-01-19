@@ -1,0 +1,19 @@
+﻿
+        
+        Sanabria v. United States, 437 U.S. 54, 98 S. Ct. 2170 (1978)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, concurring.
+Although I join the text of the Court's opinion, I cannot agree with the dictum in footnote 23. It is true "that there is no statutory barrier to an appeal from an order dismissing only a portion of a count," ante, at 69 n. 23, but it is equally true that there is no statutory authority for such an appeal. It necessarily [****50]  follows -- at least if we are faithful to the concept that federal courts have only such jurisdiction as is conferred by Congress -- that the Court of Appeals had no jurisdiction of this appeal.
+
+The Criminal Appeals Act, 18 U. S. C. § 3731 (1976 ed.), authorizes the United States to appeal an order of a district  [*79]  court "dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where the double jeopardy clause of the United States Constitution prohibits further prosecution." (Emphasis added.) By its plain terms, this statute does not encompass the present case.
+
+Putting to one side the question whether an acquittal may properly be regarded as an order "dismissing an indictment" within the meaning of the statute, see United States v. Martin Linen Supply Co., 430 U.S. 564, 576 (STEVENS, J., concurring), the statutory grant of appellate jurisdiction is still unequivocally limited to review of a dismissal "as to any one or more counts." The statute does not refer to "[subunits] of an indictment" or "[portions] of a count," ante, at 69 n. 23, but only to "counts," a well-known [****51]  and unambiguous term of art.
+
+Prior to the amendment of § 3731 in 1971, this Court's rule of statutory interpretation was that "the Criminal Appeals Act [should be] strictly construed against the Government's right of appeal, Carroll v. United  [**2187]  States, 354 U.S. 394, 399-400 (1957)." Will v. United States, 389 U.S. 90, 96-97. The Court's present pattern of interpretation of § 3731, as exemplified by Martin Linen , supra, does more than simply abandon this approach; it reverses direction entirely and reads the statute in whatever manner would favor a Government appeal. It is, of course, true that the legislative history of the Act indicates that Congress intended § 3731  [***64]  "to be liberally construed," S. Rep. No. 91-1296, p. 18 (1970), but this expression of legislative intent does not give us a license to ignore the words of the statute. In fact, the Court does not even suggest that the language "one or more counts" is ambiguous; instead it argues that the words cannot be given their proper meaning because the Act was intended "to eliminate '[technical] distinctions in pleadings . . . .'"  [****52]  Ante, at 69 n. 23. This argument has a hollow ring in light of the Court's prior assertion  [*80]  that "[the] precise manner in which an indictment is drawn cannot be ignored, because an important function of the indictment is to ensure that, 'in case any other proceedings are taken against [the defendant] for a similar offence, . . . the record [will] show with accuracy to what extent he may plead a former acquittal or conviction.'" Ante, at 65-66. Furthermore, in my judgment, a rule that the Government may appeal from the "dismissal" of a portion of a count, provided that the portion establishes a "discrete basis of liability," fosters rather than eliminates technical distinctions and encourages exactly the sort of nearsighted parsing of indictments that the amendment was intended to discourage.
+
+I cannot, therefore, join that portion of the Court's decision which states that the Criminal Appeals Act permits an appeal from only a portion of a count. It clearly does not, and for that reason, as well as for the reasons stated in the text of the Court's opinion, the Court of Appeals' decision must be reversed.
+

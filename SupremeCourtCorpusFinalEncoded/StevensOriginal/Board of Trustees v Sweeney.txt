@@ -1,0 +1,47 @@
+﻿
+        
+        Bd. of Trs. v. Sweeney, 439 U.S. 24, 99 S. Ct. 295 (1978)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE BRENNAN, MR. JUSTICE STEWART, and MR. JUSTICE MARSHALL join, dissenting.
+
+Whenever this Court grants certiorari and vacates a court of appeals judgment in order to allow that court to reconsider  [*26]  its decision in the light of an intervening decision of this Court, the Court is acting on the merits. Such action always imposes an additional burden on circuit judges who -- more than any other segment of the federal judiciary -- are struggling desperately to keep afloat in the flood of federal litigation. For that reason, such action should not be taken unless the intervening decision has shed new light on the law which, if it had been available at the time of the court of appeals' decision, might have led to a different result.
+
+In this case, the Court's action implies that the recent opinion in Furnco Construction Corp. v. Waters, 438 U.S. 567, made some change in the law as explained in McDonnell Douglas Corp. v. Green, 411 U.S. 792. When I joined the Furnco opinion, I detected no such change and I am still unable to discern one. In both cases, the Court [****5]  clearly stated that when the complainant in a Title VII trial establishes a prima facie case of discrimination, "the burden which shifts to the employer is merely that of proving that he based his employment decision on a legitimate consideration, and not an illegitimate one such as race." 1Link to the text of the note
+
+ [****6]   [*27]  The  [***220]  Court of Appeals' statement of the parties' respective burdens in this case is wholly faithful to this Court's teachings in McDonnell Douglas. The Court of Appeals here stated:
+
+"As we understand those cases [McDonnell Douglas and Teamsters v. United States, 431 U.S. 324], a plaintiff bears the initial burden of presenting evidence sufficient to establish a prima facie  [**297]  case of discrimination. The burden then shifts to the defendant to rebut the prima facie case by showing that a legitimate, nondiscriminatory reason accounted for its actions. If the rebuttal is successful, the plaintiff must show that the stated reason was a mere pretext for discrimination. The ultimate burden of persuasion on the issue of discrimination remains with the plaintiff, who must convince the court by a preponderance of the evidence that he or she has been the victim of discrimination." 569 F.2d 169, 177 (CA1 1978) (emphasis added).
+
+This statement by the Court of Appeals virtually parrots this Court's statements in McDonnell Douglas and Furnco. Nonetheless, this Court vacates the judgment on the ground [****7]  that "the Court of Appeals appears to have imposed a heavier burden on the employer than Furnco warrants." Ante, at 25. As its sole basis for this conclusion, this Court relies on a distinction drawn for the first time in this case "between merely '[articulating] some legitimate, nondiscriminatory  [*28]  reason' and '[proving] absence of discriminatory motive.'" Ante, at 25. 2Link to the text of the note This  [***221]  novel distinction has two parts, both of which are illusory and were unequivocally rejected in Furnco itself.
+
+ [****8]  First is a purported difference between "articulating" and "proving" a legitimate motivation. Second is the difference between affirming a nondiscriminatory motive and negating a discriminatory motive.
+
+With respect to the first point, it must be noted that it was this Court in Furnco, not the Court of Appeals in this case, that stated that the employer's burden was to "[prove] that he based his employment decision on a legitimate consideration." 3Link to the text of the note [****9]  Indeed, in the paragraph of this Court's opinion in Furnco cited earlier, the words "prove" and "articulate" were used interchangeably, 4Link to the text of the note and properly so. For they were descriptive of the defendant's burden in a trial context. In litigation the only way a defendant can "articulate" the reason for his action is by adducing evidence that explains what he has done; when an executive takes the witness stand to "articulate" his reason, the litigant for whom he speaks is  [*29]  thereby proving those reasons. If the Court intends to authorize a method of articulating a factual defense without proof, surely the Court should explain what it is.
+
+The second part of the Court's imaginative distinction is also rejected by Furnco. When an employer shows that a legitimate nondiscriminatory reason accounts for his action, he is simultaneously demonstrating that the action was not motivated by an illegitimate factor such as race. Furnco explicitly recognized this equivalence when it defined the burden on the employer as "that of proving that he based his employment decision on a legitimate consideration, and not an illegitimate one such as race." 5Link to the text of the note Whether the issue is phrased in the affirmative or in the negative, the ultimate question involves an identification of the real reason for the employment decision. On  [**298]  that question -- as all of these cases make perfectly clear -- it is only the burden of producing evidence of legitimate nondiscriminatory reasons which shifts to the employer; the burden of persuasion, as the Court of Appeals properly recognized, remains with the plaintiff.
+
+ [****10]  In short, there is no legitimate basis for concluding that the Court of Appeals erred in this case -- either with or without the benefit of Furnco. The Court's action today therefore needlessly imposes additional work on circuit judges who have already considered and correctly applied the rule the Court directs them to reconsider and reapply.
+
+This language is quoted from the following paragraph in Furnco:
+
+"When the prima facie case is understood in the light of the opinion in McDonnell Douglas, it is apparent that the burden which shifts to the employer is merely that of proving that he based his employment decision on a legitimate consideration, and not an illegitimate one such as race. To prove that, he need not prove that he pursued the course which would both enable him to achieve his own business goal and allow him to consider the most employment applications. Title VII prohibits him from having as a goal a work force selected by any proscribed discriminatory practice, but it does not impose a duty to adopt a hiring procedure that maximizes hiring of minority employees. To dispel the adverse inference from a prima facie showing under McDonnell Douglas, the employer need only 'articulate some legitimate, nondiscriminatory reason for the employee's rejection.'" 438 U.S., at 577-578 (emphasis in original).
+
+The comparable passage in McDonnell Douglas reads as follows:
+
+"The burden then must shift to the employer to articulate some legitimate, nondiscriminatory reason for the employee's rejection. We need not attempt in the instant case to detail every matter which fairly could be recognized as a reasonable basis for a refusal to hire. Here petitioner has assigned respondent's participation in unlawful conduct against it as the cause for his rejection. We think that this suffices to discharge petitioner's burden of proof at this stage and to meet respondent's prima facie case of discrimination." 411 U.S., at 802-803.
+
+2Link to the location of the note in the document
+The Court also suggests that "further support" for its decision is derived from the Court of Appeals' "holding" that "petitioners had not met their burden because the proffered legitimate explanation did not 'rebut' or 'disprove' respondent's prima facie case . . . 569 F.2d, at 177-179." Ante, at 25-26, n. 2. The actual "holding" of the Court of Appeals was that "the trial court's finding that sex discrimination impeded the plaintiff's second promotion was not clearly erroneous." 569 F.2d 169, 179 (CA1 1978). The Court of Appeals reached this conclusion by considering all of the evidence presented by both parties to determine whether the evidence of discrimination offered by the plaintiff was "sufficient . . . to sustain the district court's findings" in light of the counter evidence offered by the employer. Ibid. Such factual determinations by two federal courts are entitled to a strong presumption of validity.
+
+3Link to the location of the note in the document
+438 U.S., at 577 (quoted in n. 1, supra; emphasis added). It should also be noted that the Court of Appeals did not state that the petitioners' burden here was to "prove" anything; rather, the burden which shifted to them as defendants was to "show" a legitimate reason for their action.
+
+4Link to the location of the note in the document
+See n. 1, supra.
+
+5Link to the location of the note in the document
+438 U.S., at 577.

@@ -1,0 +1,21 @@
+﻿ASSOCIATES COMMERCIAL CORPORATION, PETITIONER v. ELRAY RASH ET UX.
+
+No. 96-454
+
+SUPREME COURT OF THE UNITED STATES
+
+520 U.S. 953
+
+April 16, 1997, Argued 
+June 16, 1997, Decided
+
+[*966]  JUSTICE STEVENS, dissenting.
+Although the meaning of 11 U.S.C. § 506(a) is not entirely clear, I think its text points to foreclosure as the proper method of valuation in this case. The first sentence in § 506(a) tells courts to determine the value of the "creditor's interest in the estate's interest" in the property. 11 U.S.C. § 506(a) (emphasis added). This language suggests that the value should be determined from the creditor's perspective, i.e., what the collateral is worth, on the open market, in the creditor's hands, rather than in the hands of another party.
+The second sentence explains that "such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property." Ibid. In this context, the "purpose of the valuation" is determined by 11 U.S.C.  [***161]  § 1325(a)(5)(B). Commonly known as the Code's "cram down" provision, this section authorizes the debtor to keep secured property over the creditor's objections in a Chapter 13 reorganization, but, if he elects to do so, directs the debtor to pay the creditor the "value" of the secured claim. The "purpose" of this provision, and hence of the valuation under § 506(a), is to put the creditor in the same shoes as if he were able to exercise his lien and foreclose. *
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+* The Court states that "surrender and retention are not equivalent acts" from the creditor's perspective because he does not receive the property and is exposed to the risk of default and deterioration. Ante, at 8. I disagree. That the creditor does not receive the property is irrelevant because, as § 1325(a)(5)(B)(ii) directs, he receives the present value of his security interest. Present value includes both the underlying value and the time-value of that interest. The time value component similarly vitiates the risk concern. Higher risk uses of money must pay a higher premium to offset the same opportunity cost. In this case, for instance, the creditor was receiving nine percent interest, see In re Rash, 90 F.3d 1036, 1039 (CA5 1996) (en banc), well over the prevailing rate for an essentially risk-free loan, such as a United States Treasury Bond. Finally, the concern with deterioration is addressed by another provision of the Code, 11 U.S.C. § 361, which authorizes the creditor to demand "adequate protection," including increased payments, to offset any derogation of his security interest during a cram down.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [*967]  It is crucial to keep in mind that § 506(a) is a provision that applies throughout the various chapters of the bankruptcy code; it is, in other words, a "utility" provision that operates in many different contexts. Even if the words "proposed disposition or use" did not gain special meaning in the cram down context, this would not render them surplusage because they have operational significance in their many other Code applications. In this context, I also think the foreclosure standard best comports with economic reality. Allowing any more than the foreclosure value simply grants a general windfall to undersecured creditors at the expense of unsecured creditors. Cf. In re Hoskins, 102 F.3d 311, 320 (CA7 1996) (Easterbrook, concurring in judgment). As Judge Easterbrook explained in rejecting the split-the-difference approach as a general rule, see id., at 318-320, a foreclosure-value standard is also consistent with the larger statutory scheme by keeping the respective recoveries of secured and unsecured creditors the same throughout the various bankruptcy chapters.
+Accordingly, I respectfully dissent.

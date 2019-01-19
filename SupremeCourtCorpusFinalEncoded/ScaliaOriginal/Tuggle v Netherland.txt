@@ -1,0 +1,22 @@
+﻿
+
+
+116 S.Ct. 283
+Supreme Court of the United States
+Lem Davis TUGGLE, Jr.
+v.
+J.D. NETHERLAND, Warden.
+No. 95-6016.
+|
+Oct. 30, 1995.
+
+JUSTICE SCALIA, concurring.
+
+This is a simple case and should be simply resolved. The jury that deliberated on petitioner’s sentence had before it *15 evidence that should have been excluded in light of Ake v. Oklahoma, 470 U.S. 68, 105 S.Ct. 1087, 84 L.Ed.2d 53 (1985). The Virginia Supreme Court so concluded (in an opinion that is not before us) and, having so concluded, was obliged to determine whether there was reasonable doubt as to whether the constitutional error contributed to the jury’s decision to impose the sentence of death.  Satterwhite v. Texas, 486 U.S. 249, 256, 108 S.Ct. 1792, 1797, 100 L.Ed.2d 284 (1988). Because it failed to perform that task, the habeas judgment at issue here cannot stand, and a remand is appropriate to allow the Fourth Circuit to review the case under the harmless-error standard appropriate to collateral review.  Brecht v. Abrahamson, 507 U.S. 619, 637-638, 113 S.Ct. 1710, 1721-1722, 123 L.Ed.2d 353 (1993).
+ 
+When these proceedings were before the Virginia Supreme Court after our first remand, petitioner managed to transform the simple question arising from the admission of constitutionally impermissible evidence (“might the constitutional error have affected the decision of the capital sentencing jury?”) into a question of seemingly greater moment (“can a death sentence based in part on an ‘invalid aggravating circumstance’ still stand?”). The Virginia Supreme Court answered the second question, the wrong question, perhaps because it assumed that that could easily be resolved by reference to Zant v. Stephens, 462 U.S. 862, 103 S.Ct. 2733, 77 L.Ed.2d 235 (1983); and on federal habeas, the District Court and the Fourth Circuit understandably focused upon the consequences of the Virginia Supreme Court’s position that the “future dangerousness” aggravating circumstance was rendered “invalid” by the Ake error. The Court correctly demonstrates why Zant is not applicable here, but regrettably follows the Virginia Supreme Court and the courts below in failing to strip the “invalid aggravating circumstance” camouflage that petitioner has added to a straightforward inadmissible-evidence case.
+ 
+
+
+
+

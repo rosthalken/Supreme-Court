@@ -1,0 +1,59 @@
+﻿
+        
+        FCC v. Midwest Video Corp., 440 U.S. 689, 99 S. Ct. 1435 (1979)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE BRENNAN and MR. JUSTICE MARSHALL join, dissenting.
+
+In 1969, the Commission adopted a rule requiring cable television systems to originate a significant number of local programs. In United States v. Midwest Video Corp., 406 U.S. 649, the Court upheld the Commission's [****38]  authority to promulgate this "mandatory origination" rule. Thereafter, the Commission decided that less onerous rules would accomplish its purpose of "increasing the number of outlets for community self-expression and augmenting the public's choice of programs and types of services." 1Link to the text of the note Accordingly, it adopted the access rules that the Court invalidates today. 2Link to the text of the note
+
+ [****39]  [*710]  In my opinion the Court's holding in Midwest Video that the mandatory origination rules were within the Commission's statutory authority requires a like holding with respect to the less burdensome access rules at issue here. The Court's contrary conclusion is based on its reading of § 3 (h) of the Act as denying the Commission the power to impose common-carrier obligations on broadcasters. I am persuaded that the Court has misread the statute.
+
+Section 3 (h) provides:
+
+"'Common carrier' or 'carrier' means any person engaged as a common carrier for hire, in interstate or foreign communication by wire or radio or interstate or foreign radio transmission of energy, except where reference is made to common carriers not subject to this chapter; but a person engaged in radio broadcasting shall not, insofar as such person is so engaged, be deemed a common carrier." 47 U. S. C. § 153 (h).
+
+Section 3 is the definitional section of the Act. It does not purport to grant or deny the Commission any substantive authority. Section 3 (h) makes it clear that every broadcast station is not to be deemed a common carrier, and therefore subject to common-carrier regulation under  [****40]  Title II of the Act, simply because it is engaged in radio broadcasting. But nothing in the words of the statute or its legislative history suggests that § 3 (h) places limits on the Commission's exercise of powers otherwise within its statutory authority because  [*711]  a  [**1447]  lawfully imposed requirement might be termed a "common  [***709]  carrier obligation." 3Link to the text of the note
+
+ [****41]  The Commission's understanding supports this reading of § 3 (h). In past decisions interpreting FCC authority under the Communications Act, "we [have been] guided by the 'venerable principle that the construction of a statute by those charged with its execution should be followed unless there are compelling indications that it is wrong.'" Columbia Broadcasting System, Inc. v. Democratic National Committee, 412 U.S. 94, 121, quoting Red Lion Broadcasting Co. v. FCC, 395 U.S. 367, 381. The Commission's construction of § 3 (h) is clear: it has never interpreted that provision, or any other in the Communications Act, as a limitation on its authority to impose common-carrier obligations on cable systems.
+
+ [*712]  The Commission's 1966 rules, which gave rise to this Court's decision in United States v. Southwestern Cable Co., 392 U.S. 157, imposed just such an obligation. Under those rules, local systems were required to carry, upon request and in a specific order of priority, the signals of broadcast stations into whose viewing area they bring competing signals. 4Link to the text of the note [****43]  And its 1969 rules, according to the FCC Report [****42]  and Order, reflected the Commission's view "that a multi-purpose CATV operation combining carriage of broadcast signals with program origination and common carrier services, might best exploit cable channel capacity to the advantage of the public and promote the basic purpose for which this Commission was created." 5Link to the text of the note Finally, in adopting the rules at issue  [***710]  here, the Commission explicitly rejected the rationale the Court accepts today:
+
+
+"So long as the rules adopted are reasonably related to achieving objectives for which the Commission has been assigned jurisdiction we do not think they can be held beyond our authority merely by denominating them as somehow 'common carrier' in nature. The proper question,  [*713]  we believe, is not whether they fall in one  [**1448]  category or another of regulation -- whether they are more akin to obligations imposed on common carriers or obligations imposed on broadcasters to operate in the public interest -- but whether the rules adopted promote statutory objectives." 59 F. C. C. 2d 294, 299 (1976).
+
+In my judgment, this is the correct approach. Columbia Broadcasting System, Inc. v. Democratic National Committee, supra, relied upon almost exclusively by the majority, is not to the contrary. In that case, we reviewed the provisions of the Communications Act, including § 3 (h), which had some bearing on the access question presented. We emphasized, as does the majority here, that "Congress has time  [****44]  and again rejected various legislative attempts that would have mandated a variety of forms of individual access." 412 U.S., at 122. But we went on to conclude: "That is not to say that Congress' rejection of such proposals must be taken to mean that Congress is opposed to private rights of access under all circumstances. Rather, the point is that Congress has chosen to leave such questions with the Commission, to which it has given the flexibility to experiment with new ideas as changing conditions require." Ibid. (emphasis added). 6Link to the text of the note
+
+ [****45]  The Commission here has exercised its "flexibility to experiment" in choosing to replace the mandatory origination rule upheld in Midwest Video with what it views as the less onerous local access rules at issue here. I have no reason to doubt its conclusion that these rules, like the mandatory origination rule they replace, do promote the statutory objectives of "increasing the number of outlets for community self-expression  [*714]  and augmenting the public's choice of programs and types of services." And under this Court's holding in Midwest Video, this is all that is required to uphold the jurisdiction of the Commission to promulgate these rules. Since Congress has not seen fit to modify the scope of the statute as construed in Midwest Video, I would therefore reverse the judgment of the Court of Appeals for the Eighth Circuit and remand the case with instructions to decide the constitutional issue.
+
+The quotation is from the report accompanying the promulgation of the 1969 rules. See First Report and Order, 20 F. C. C. 2d 201, 202 (1969) (1969 Order). The report accompanying the 1976 rules identifies precisely the same purpose. See Report and Order in Docket 20508, 59 F. C. C. 2d 294, 298 (1976) (App. 103).
+
+2Link to the location of the note in the document
+By the time of this Court's decision in Midwest Video, the Commission had adopted limited-access and channel-capacity rules. See Cable Television Report and Order in Docket No. 18397, 36 F. C. C. 2d 143 (1972); American Civil Liberties Union v. FCC, 523 F.2d 1344 (CA9 1975). In 1974, the Commission largely repealed the mandatory origination rule at issue in Midwest Video on the grounds that access was found to be a less burdensome and equally effective means of furthering the same statutory objectives. See Report and Order in Docket No. 19988, 49 F. C. C. 2d 1090, 1099-1100, 1104-1106 (1974). The 1972 access rules were reviewed and amended in 1976, see Report and Order in Docket No. 20508, supra, and it is these rules that are at issue here.
+
+3Link to the location of the note in the document
+The Senate Report on the Communications Act of 1934, for example, simply stated:
+
+"Section 3: Contains the definitions. Most of these are taken from the Radio Act, the Interstate Commerce Act, and international conventions." S. Rep. No. 781, 73d Cong., 2d Sess., 3 (1934).
+
+The House Report was only slightly more detailed; as to § 3 (h), it explained:
+
+"Since a person must be a common carrier for hire to come within this definition, it does not include press associations or other organizations engaged in the business of collecting and distributing news services, which may refuse to furnish to any person service which they are capable of furnishing, and may furnish service under varying arrangements, establishing the service to be rendered, the terms under which rendered, and the charges therefor." H. R. Rep. No. 1850, 73d Cong., 2d Sess., 4 (1934).
+
+Finally, the Conference Report "noted that the definition does not include any person if not a common carrier in the ordinary sense of the term." H. R. Conf. Rep. No. 1918, 73d Cong., 2d Sess., 46 (1934).
+
+Section 3 (h), it seems clear to me, cannot be read to be directly applicable to cable systems in any regard. Such systems are not, in the full range of their activities, "common [carriers] in the ordinary sense of the term." And, as relevant here, they are technically not broadcasters at all; what they are engaged in is the distinct process of "cablecasting." See 1969 Order, supra, at 223.
+
+4Link to the location of the note in the document
+See Second Report and Order in Docket 14895, 2 F. C. C. 2d 725 (1966). The Southwestern Cable Court did not pass upon the validity of these rules. MR. JUSTICE BRENNAN's opinion for the plurality in United States v. Midwest Video Corp., 406 U.S. 649, 659 n. 17, noted that "[their] validity was, however, subsequently and correctly upheld by courts of appeals as within the guidelines of that decision. See, e. g., Black Hills Video Corp. v. FCC, 399 F.2d 65 (CA8 1968)."
+
+5Link to the location of the note in the document
+1969 Order, 20 F. C. C. 2d, at 202. See also United States v. Midwest Video Corp., supra, at 654 n. 8 (plurality opinion):
+
+"Although the Commission did not impose common carrier obligations on CATV systems in its 1969 report, it did note that 'the origination requirement will help ensure that origination facilities are available for use by others originating on leased channels.' First Report and Order 209. Public access requirements were introduced in the Commission's Report and Order on Cable Television Service, although not directly under the heading of common-carrier service. See [Report and Order on Cable Television Service] 3277."
+
+6Link to the location of the note in the document
+While the Court in Columbia Broadcasting System, Inc. v. Democratic National Committee went on to reject the claim that the Commission's refusal to require broadcasters to accept paid political advertisements was unconstitutional, it also recognized that "[conceivably] at some future date Congress or the Commission -- or the broadcasters -- may devise some kind of limited right of access that is both practicable and desirable" and noted the rules at issue here as an example. 412 U.S., at 131.

@@ -1,0 +1,40 @@
+﻿
+
+
+100 S.Ct. 2814
+Supreme Court of the United States
+RICHMOND NEWSPAPERS, INC., et al., Appellants,
+v.
+Commonwealth of VIRGINIA et al.
+No. 79–243.
+|
+Argued Feb. 19, 1980.
+|
+Decided July 2, 1980.
+
+Mr. Justice REHNQUIST, dissenting.
+
+In the Gilbert and Sullivan operetta “Iolanthe,” the Lord Chancellor recites:
+“The Law is the true embodiment
+of everything that’s excellent,
+It has no kind of fault or flaw,
+And I, my Lords, embody the Law.”
+It is difficult not to derive more than a little of this flavor from the various opinions supporting the judgment in this case. The opinion of THE CHIEF JUSTICE states:
+“[H]ere for the first time the Court is asked to decide whether a criminal trial itself may be closed to the public upon the unopposed request of a defendant, without any *605 demonstration that closure is required to protect the defendant’s superior right to a fair trial, or that some other overriding consideration requires closure.” Ante, at 2821.
+The opinion of Mr. Justice BRENNAN states:
+“Read with care and in context, our decisions must therefore be understood as holding only that any privilege of access to governmental information is subject to a degree of restraint dictated by the nature of the information and countervailing interests in security or confidentiality.” Ante, at 2833.
+ 
+**2843 For the reasons stated in my separate concurrence in Gannett Co. v. DePasquale, 443 U.S. 368, 403, 99 S.Ct. 2898, 2917, 61 L.Ed.2d 608 (1979), I do not believe that either the First or Sixth Amendment, as made applicable to the States by the Fourteenth, requires that a State’s reasons for denying public access to a trial, where both the prosecuting attorney and the defendant have consented to an order of closure approved by the judge, are subject to any additional constitutional review at our hands. And I most certainly do not believe that the Ninth Amendment confers upon us any such power to review orders of state trial judges closing trials in such situations. See ante, at 2829, n.15.
+ 
+We have at present 50 state judicial systems and one federal judicial system in the United States, and our authority to reverse a decision by the highest court of the State is limited to only those occasions when the state decision violates some provision of the United States Constitution. And that authority should be exercised with a full sense that the judges whose decisions we review are making the same effort as we to uphold the Constitution. As said by Mr. Justice Jackson, concurring in the result in Brown v. Allen, 344 U.S. 443, 540, 73 S.Ct. 397, 427, 97 L.Ed. 469 (1953), “We are not final because we are infallible, but we are infallible only because we are final.”
+ 
+The proper administration of justice in any nation is bound to be a matter of the highest concern to all thinking citizens. *606 But to gradually rein in, as this Court has done over the past generation, all of the ultimate decisionmaking power over how justice shall be administered, not merely in the federal system but in each of the 50 States, is a task that no Court consisting of nine persons, however gifted, is equal to. Nor is it desirable that such authority be exercised by such a tiny numerical fragment of the 220 million people who compose the population of this country. In the same concurrence just quoted, Mr. Justice Jackson accurately observed that “[t]he generalities of the Fourteenth Amendment are so indeterminate as to what state actions are forbidden that this Court has found it a ready instrument, in one field or another, to magnify federal, and incidentally its own, authority over the states.” Id., at 534, 73 S.Ct., at 423.
+ 
+However high-minded the impulses which originally spawned this trend may have been, and which impulses have been accentuated since the time Mr. Justice Jackson wrote, it is basically unhealthy to have so much authority concentrated in a small group of lawyers who have been appointed to the Supreme Court and enjoy virtual life tenure. Nothing in the reasoning of Mr. Chief Justice Marshall in Marbury v. Madison, 1 Cranch 137, 2 L.Ed. 60 (1803), requires that this Court through ever-broadening use of the Supremacy Clause smother a healthy pluralism which would ordinarily exist in a national government embracing 50 States.
+ 
+The issue here is not whether the “right” to freedom of the press conferred by the First Amendment to the Constitution overrides the defendant’s “right” to a fair trial conferred by other Amendments to the Constitution; it is instead whether any provision in the Constitution may fairly be read to prohibit what the trial judge in the Virginia state-court system did in this case. Being unable to find any such prohibition in the First, Sixth, Ninth, or any other Amendment to the United States Constitution, or in the Constitution itself, I dissent.
+ 
+
+
+
+

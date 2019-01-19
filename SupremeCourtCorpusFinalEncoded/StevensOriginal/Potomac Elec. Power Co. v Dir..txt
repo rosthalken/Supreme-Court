@@ -1,0 +1,204 @@
+﻿
+        
+        Potomac Elec. Power Co. v. Director, 449 U.S. 268, 101 S. Ct. 509 (1980)
+        
+
+
+      
+
+[*269]   [***449]   [**510]  JUSTICE STEVENS delivered the opinion of the Court.
+
+LEdHN[1] [1]HN1 Under the Longshoremen's and Harbor Workers' Compensation Act (LHWCA), 44 Stat. (part 2) 1424, as amended, 33 U. S. C. §§ 901-950 (1976 [****4]  ed. and Supp. III), compensation for a permanent partial disability must be determined in one of two ways. First, if the injury is of a kind specifically identified in the schedule set forth in §§ 8 (c)(1)-(20) of the Act, 33 U. S. C. §§ 908 (c)(1)-(20), the injured employee is entitled to receive two-thirds of his average weekly wages for a specific number of weeks, regardless of whether his earning capacity has actually been impaired. Second, in all other cases, § 8 (c)(21), 33 U. S. C. § 908 (c)(21), authorizes compensation equal to two-thirds of the difference between the  [*270]  employee's preinjury average weekly wages and his postinjury wage-earning capacity, during the period of his disability. 1Link to the text of the note  [***450]  The question in this case is  [**511]  whether a permanently partially disabled employee, entitled to compensation under the statutory schedule, may elect to receive a larger recovery under § 8 (c)(21) measured by the actual impairment of wage-earning capacity caused by his injury. Although Congress could surely authorize such an election, it has not yet done so.  [*271]  We therefore hold that respondent Cross' recovery must be limited by the statutory schedule.  [****5] 
+
+ [****6]  Cross is employed by Potomac Electric Power Co. (Pepco) as a cable splicer -- a job that requires strength and agility. In 1974, he earned a total of $ 21,959.38, including overtime pay of $ 8,543.30. In December of that year, he injured his left knee in the course of his employment, thereby suffering a permanent partial loss of the use of his leg. The physical impairment is described as a 5 to 20% loss of the use of one leg, but the resulting impairment of his earning capacity is apparently in excess of 40%. 2Link to the text of the note Although Cross has retained his job, he has not been able to perform all of the strenuous duties required of a cable splicer and therefore he has received no overtime and has not qualified for certain pay increases.
+
+Because he worked in the District of Columbia, respondent Cross is entitled to compensation under the LHWCA. 3Link to the text of the note [****8]  It is undisputed that the injury to his leg is a "permanent partial disability" within [****7]  the meaning of § 8 (c) of the Act; he therefore has an unquestioned right to a compensation award measured by a fraction of his earnings for 288 weeks. 4Link to the text of the note  [*272]  His  [***451]  claim, however, is for the larger amount measured by two-thirds of the difference between his average weekly earnings before the injury and his present wage-earning capacity, multiplied by the number of weeks that his disability continues. 5Link to the text of the note
+
+ [****9]   [**512]  The Administrative Law Judge allowed the larger recovery. He held that an injured employee is not required to accept the specific amount authorized by §§ 8 (c)(2) and (19) for the partial loss of the use of a leg, but instead may recover an amount based on the formula set forth in § 8 (c)(21) for "all other cases." Using that formula, the Administrative Law Judge found that respondent Cross' permanent loss of earning capacity amounted to approximately $ 130 per week, and ordered Pepco to pay him two-thirds of that amount each week for the remainder of his working life. The Benefits Review Board affirmed. Cross v. Potomac Electric Power Co., 7 BRBS 10 (1977).
+
+The United States Court of Appeals for the District of Columbia Circuit also affirmed. 196 U. S. App. D. C. 417, 606 F.2d 1324 (1979).  [*273]  Recognizing that HN7 the Act "must be construed in light of its humanitarian objectives," and noting a "recent trend in workmen's compensation law away from the idea of exclusivity of scheduled benefits," the court concluded that the "all other cases" language in § 8 (c)(21) provided a "remedial alternative" measure of compensation [****10]  for cases in which "the scheduled benefits fail adequately to compensate for a diminution in [wage-earning] capabilities." 6Link to the text of the note While expressing sympathy for the result reached by the majority, one judge dissented. 7Link to the text of the note
+
+ [****11]  I
+
+ [***452]  HN8 The language of the Act plainly supports the view that the character of the disability determines the method of compensation. Section 8 identifies four different categories of disability and separately prescribes the method of compensation  [*274]  for each. 8Link to the text of the note [****12]  In the permanent partial disability category, § 8 (c) provides a compensation schedule which covers 20 different specific injuries. It then adds an additional subparagraph, § 8 (c)(21), that applies to any injury not included within the list of specific injuries. There is no language in that additional subparagraph indicating that it was intended to provide an alternative method of compensation for the cases described in the preceding subparagraphs; quite the contrary, by its terms, subparagraph (21) is applicable "In all other cases." 9Link to the text of the note
+
+It is also noteworthy that the statutory direction that precedes the schedule of specifically described partial disabilities mandates that the compensation prescribed by the schedule "shall be paid to the employee,  [**513]  as follows." 10Link to the text of the note We are not free to read this language as though it granted the employee an election. Nor are we free to read the subsequent words "all other cases" as though they described "all of the foregoing" as well; the use of the word "other" forecloses that reading.
+
+In sum, we find nothing in the statute itself to support the view that the reference to "all other cases" in § 8 (c)(21) was intended to authorize an alternative method for computation of disability benefits in certain cases of permanent partial disability [****13]  already provided for in the schedule.
+
+ [*275]  II
+
+The legislative history of the Act is entirely consistent with the conclusion that it was intended to mean what it says. Although that history contains no specific consideration of the precise question before us, 11Link to the text of the note one aspect of the Act's history is somewhat enlightening. The relevant language was enacted in 1927. 12Link to the text of the note It was  [***453]  patterned after a similar "scheduled benefits" provision in the New York Workmen's Compensation Law enacted in 1922. 13Link to the text of the note A few years after enactment of the LHWCA, the New York Court of Appeals was confronted with the same question of construction under the New York statute that is now presented to us under the federal statute. The New York Court of Appeals apparently considered the statutory language so clear on its face that little discussion of this issue was necessary:
+
+
+
+"Obviously, the phrase 'in all other cases' signifies that the provisions of the paragraph shall apply only in cases where the injuries received are not confined to a specific  [*276]  member or specific members." Sokolowski v. Bank of America, 261 N. Y. 57, 62, 184 N. E. 492, 494 (1933).  [****14] 
+
+ [****15]  Nothing in the original legislative history of the Federal Act or in the legislative history of subsequent amendments 14Link to the text of the note indicates  [**514]  that Congress did not intend the plain language of the federal statute to receive the same construction as the substantially identical language of its New York ancestor.
+
+ [****16]  III
+
+The weight of judicial authority also supports a literal reading of the Act.
+
+During the first half century of administration of the LHWCA, federal tribunals consistently construed the schedule benefits provision as exclusive. Although the exclusivity question did not explicitly arise until 1964, prior to that time  [*277]  evidence of loss of wages or wage-earning capacity was considered irrelevant in cases of permanent partial disability falling within the schedule provisions. 15Link to the text of the note [****17]   [***454]  In 1964, in Williams v. Donovan, 234 F.Supp. 135 (ED La.), aff'd, 367 F.2d 825 (CA5 1966), cert. denied, 386 U.S. 977 (1967), the first federal court to address the exclusivity issue found that "the form and language of the Act" indicated that compensation under § 8 (c)(21) for loss of wage-earning capacity was not available in cases covered by the schedule. 234 F.Supp., at 139. This construction of the Act went unchallenged for the next decade. 16Link to the text of the note
+
+LEdHN[2A] [2A]It was not until 1975 that the Benefits Review Board announced its dissatisfaction with the Williams construction of the statute and concluded that claimants suffering from a permanent partial disability may elect to proceed under either the schedule or § 8 (c) (21). 17Link to the text of the note [****19]  The Board has since applied  [*278]  its construction of the Act in a series of decisions of which the instant case is a member. 18Link to the text of the note The divided opinion of the  [***455]   [**515]  Court of Appeals is apparently the first and only federal court decision  [*279]  accepting that construction. The notion that the plain language of the LHWCA might not mean what it says is thus a relatively recent development surfacing for the first time almost 50 years after its enactment. The relevant judicial authority prior to 1975, although not abundant, indicates [****18]  that the schedule benefits were considered exclusive.
+
+
+
+ [****20]  LEdHN[3] [3]While the federal decisional authority on this question is scarce, state-law authority apparently is not. The lower court cited, and the respondents rely upon, the "recent trend in workmen's compensation law away from the idea of exclusivity of scheduled benefits." 196 U. S. App. D. C., at 421, 606 F.2d, at 1328.19Link to the text of the note Although this "trend" unquestionably exists, it is neither uniform nor based entirely on cases presenting issues comparable to the precise issue before us. 20Link to the text of the note [****22]  [*280]  More importantly, a proper understanding of the judicial role in this case reveals that the recent trend actually supports a literal reading of the federal statute. Our task is to ascertain the congressional intent underlying the schedule benefit provisions enacted in 1927; we are not free to incorporate into those provisions subsequent state-law developments that we may consider sound as a matter of policy. In attempting to ascertain the legislative intent underlying a statute  [***456]  enacted over 50 years ago, the view that once "[dominated] the field" is more enlightening than a recent state-law trend that has not motivated subsequent Congresses to amend the federal [****21]  statute. 21Link to the text of the note The once dominant view  [**516]  is entirely consistent with a literal reading of the Act.
+
+IV
+
+Respondents suggest two reasons why this settled construction is erroneous. They submit that it does not fulfill the fundamental remedial purpose of the Act and that it may produce anomalous results that Congress probably did not intend. The first submission is not entirely accurate; the second, though theoretically correct, has insufficient force to overcome the plain language of the statute itself.
+
+ [*281]  Respondents correctly observe that prior decisions of this Court require that HN11the LHWCA be liberally construed in order to effectuate its remedial purposes. 22Link to the text of the note Respondents accordingly argue that the Act should be interpreted in a manner which provides a complete and adequate remedy to an injured employee. Implicit in this argument, however, is the assumption that the sole purpose of  [****23]  the Act was to provide disabled workers with a complete remedy for their industrial injuries. The inaccuracy of this implicit assumption undercuts the validity of respondents' argument.
+
+The LHWCA, like other workmen's compensation legislation, is indeed remedial in that it was intended to provide a certain recovery for employees who are injured on the job. It imposes liability without fault and precludes the assertion of various common-law defenses that had frequently resulted in the denial of any recovery for disabled laborers. While providing employees with the benefit of a more certain recovery for work-related harms, statutes of this kind do not purport to provide complete compensation for the wage earner's economic loss. 23Link to the text of the note [****25]  On the contrary, they provide employers with [****24]  definite and lower limits on potential liability than would have been applicable in common-law tort actions for damages. None of the categories of disability covered by the LHWCA authorizes recovery measured by the full loss of an injured employee's earnings; even those in the most favored categories may recover only two-thirds of the actual loss of  [*282]  earnings. It therefore is not correct to interpret the Act as guaranteeing a completely adequate remedy for all covered disabilities. Rather, like most workmen's compensation legislation, the LHWCA  [***457]  represents a compromise between the competing interests of disabled laborers and their employers. 24Link to the text of the note  [**517]  The use of a schedule of fixed benefits as an exclusive remedy in certain cases is consistent with the employees' interest in receiving a prompt and certain recovery for their industrial injuries as well as with the employers' interest in having their contingent liabilities identified as precisely and as early as possible.
+
+ [****26]  It is true, however, that requiring resort to the schedule may produce certain incongruous results. Unless an injury  [*283]  results in a scheduled disability, the employee's compensation is dependent upon proving a loss of wage-earning capacity; in contrast, even though a scheduled injury may have no actual effect on an employee's capacity to perform a particular job or to maintain a prior level of income, compensation in the schedule amount must be paid. Conversely, the schedule may seriously undercompensate some employees like respondent Cross. 25Link to the text of the note [****27]  The result seems particularly unfair when his case is compared with an employee who suffers an unscheduled disability resulting in an equivalent impairment of earning capacity. Indeed, it is possible that the award for a serious temporary partial disability could exceed the amount scheduled for a permanent disability of like character. 26Link to the text of the note
+
+
+
+ [***458]  LEdHN[4] [4]As this Court has observed in the past, HN13 it is not to be lightly assumed that Congress intended that the LHWCA produce incongruous results. Baltimore & Phila. Steamboat Co. v. Norton, 284 U.S. 408, 412-413 (1932). But if "compelling language" produces incongruities, the federal courts may not avoid them by rewriting or ignoring that language.  [*284]   [****28]  Id., at 413. Such compelling statutory language is present in this case. See Part I, supra. The fact that it leads to seemingly unjust results in particular cases does not give judges a license to disregard it. 27Link to the text of the note
+
+LEdHN[5A] [5A]If anomalies actually do occur with any frequency in the day-to-day administration of the Act, they provide a persuasive justification for a legislative review of the statutory compensation schedule. It would obviously be sound policy for Congress to re-examine the schedule of permanent [****29]  partial disability benefits more frequently than every half century. 28Link to the text of the note In such a re-examination  [**518]  the extent and importance of hypothetical cases such as those described by respondents could be fairly evaluated. In this judicial proceeding, however, concern with such hypothetical cases is less compelling than sympathy for the actual plight of the individual litigant in the case before us. Nonetheless, that sympathy is an insufficient basis for approving a recovery that Congress has not authorized.
+
+The judgment [****30]  is
+
+Reversed.
+
+Section 8, as set forth in 33 U. S. C. § 908, provides, in part, as follows:
+
+"Compensation for disability shall be paid to the employee as follows:
+
+. . . .
+
+"(c) Permanent partial disability: In case of disability partial in character but permanent in quality the compensation shall be 66 2/3 per centum of the average weekly wages, which shall be in addition to compensation for temporary total disability or temporary partial disability paid in accordance with subdivision (b) or subdivision (e) of this section, respectively, and shall be paid to the employee, as follows:
+
+"(1) Arm lost, three hundred and twelve weeks' compensation.
+
+"(2) Leg lost, two hundred and eighty-eight weeks' compensation.
+
+"(3) Hand lost, two hundred and forty-four weeks' compensation.
+
+"(4) Foot lost, two hundred and five weeks' compensation.
+
+"(5) Eye lost, one hundred and sixty weeks' compensation.
+
+. . . .
+
+HN3 "(18) Total loss of use: Compensation for permanent total loss of use of a member shall be the same as for loss of the member.
+
+"(19) Partial loss or partial loss of use: Compensation for permanent partial loss or loss of use of a member may be for proportionate loss or loss of use of the member.
+
+"(20) Disfigurement: Proper and equitable compensation not to exceed $ 3,500 shall be awarded for serious disfigurement of the face, head, or neck or of other normally exposed areas likely to handicap the employee in securing or maintaining employment.
+
+"(21) Other cases: In all other cases in this class of disability the compensation shall be 66 2/3 per centum of the difference between his average weekly wages and his wage-earning capacity thereafter in the same employment or otherwise, payable during the continuance of such partial disability, but subject to reconsideration of the degree of such impairment by the deputy commissioner on his own motion or upon application of any party in interest."
+
+2Link to the location of the note in the document
+Cross' 1975 earnings amounted to $ 12,086.48, in contrast to 1974 earnings of $ 21,959.38.
+
+3Link to the location of the note in the document
+HN4 The District of Columbia Workmen's Compensation Act, D. C. Code §§ 36-501 to 36-504 (1973 and Supp. V-1978), adopts the LHWCA as the workmen's compensation law for the District of Columbia. See Cardillo v. Liberty Mutual Ins. Co., 330 U.S. 469, 471 (1947). Section 1 of the Act, D. C. Code § 36-501 (1973), provides:
+
+"The provisions of chapter 18 of title 33, U.S. Code, including all amendments that may hereafter be made thereto, shall apply in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia, irrespective of the place where the injury or death occurs; except that in applying such provisions the term 'employer' shall be held to mean every person carrying on any employment in the District of Columbia, and the term 'employee' shall be held to mean every employee of any such person."
+
+4Link to the location of the note in the document
+HN5 Under §§ 8 (c)(2) and (18), an employee suffering a total loss of the use of one leg is entitled to receive two-thirds of his average weekly wages for a period of 288 weeks. If an injury results in a partial loss of the use of a scheduled member, as in this case, § 8 (c)(19) provides that compensation is to be calculated as a proportionate loss of the use of that member. Under the schedule, Cross is therefore entitled to receive two-thirds of his average weekly wages for whatever fraction of 288 weeks represents the proportionate loss of the use of his leg caused by the knee injury. Because this case was decided under § 8 (c)(21), rather than the schedule, it was not necessary for the Administrative Law Judge to determine the precise extent of respondent Cross' disability. The medical testimony indicates that he suffered a 5 to 20% loss of the use of his leg.
+
+5Link to the location of the note in the document
+This computation is derived from § 8 (c)(21), 33 U. S. C. § 908 (c) (21), quoted in n. 1, supra. It should be noted that "wage-earning capacity" under § 8 (c)(21) is not necessarily measured by an injured employee's actual postinjury earnings. HN6Section 8 (h) of the Act, as set forth in 33 U. S. C. § 908 (h), provides:
+
+"The wage-earning capacity of an injured employee in cases of partial disability under subdivision (c)(21) of this section or under subdivision (e) of this section shall be determined by his actual earnings if such actual earnings fairly and reasonably represent his wage-earning capacity: Provided, however, That if the employee has no actual earnings or his actual earnings do not fairly and reasonably represent his wage-earning capacity, the deputy commissioner may, in the interest of justice, fix such wage-earning capacity as shall be reasonable, having due regard to the nature of his injury, the degree of physical impairment, his usual employment, and any other factors or circumstances in the case which may affect his capacity to earn wages in his disabled condition, including the effect of disability as it may naturally extend into the future."
+
+6Link to the location of the note in the document
+196 U. S. App. D. C., at 420-421, 606 F.2d, at 1327-1328.
+
+7Link to the location of the note in the document
+Before analyzing the statute and its history in detail, Judge MacKinnon wrote:
+
+"Nothing in section 8 permits an employee whose injury is unquestionably confined to one of those set out in the schedule to circumvent Congress' conclusive presumptions with a showing of lost earning capacity in excess of the specified benefit. The majority holds otherwise, and does so despite the fact that during the fifty-two year old regime of an essentially unaltered statutory scheme no federal court has ever read section 8 in that manner while a number of federal courts have adopted a contrary approach. I am not unsympathetic to the result the majority's holding achieves, but I submit that it is within the province of the legislative branch to weigh and decide whether this result ought to obtain." Id., at 422-423, 606 F.2d, at 1329-1330.
+
+8Link to the location of the note in the document
+HN9 In addition to permanent partial disability, the Act provides for permanent total, temporary total, and temporary partial disability. The remedies for permanent and temporary total disability -- essentially two-thirds of the employee's average weekly wages during the period of the disability -- are set forth in subsections (a) and (b) of § 8, 33 U. S. C. §§ 908 (a) and (b). The remedy for temporary partial disability -- two-thirds of the difference between the employee's preinjury average weekly wages and his postinjury wage-earning capacity during the period of disability, up to a maximum of five years -- is set forth in § 8 (e), 33 U. S. C. § 908 (e).
+
+9Link to the location of the note in the document
+Indeed, it should be noted that the words "other cases" appear twice in subparagraph (21). See n. 1, supra.
+
+10Link to the location of the note in the document
+33 U. S. C. § 908 (c) (emphasis supplied). See n. 1, supra.
+
+11Link to the location of the note in the document
+Judge MacKinnon's dissenting opinion reviewed the legislative history in detail; although he discovered no clear answer to the exclusivity question, see 196 U. S. App. D. C., at 425, 606 F.2d, at 1332, he found that, to the extent any conclusions could be drawn, the legislative history supported the view that the schedule and "all other cases" categories were intended to be mutually exclusive. Id., at 425-429, 606 F.2d, at 1332-1336.
+
+12Link to the location of the note in the document
+Act of Mar. 4, 1927, 44 Stat. 1424, 33 U. S. C. § 901 et seq.
+
+13Link to the location of the note in the document
+1922 N. Y. Laws, ch. 615, § 15 (3). The 1922 Act was an extensive revision of the Workmen's Compensation Law of 1914, 1914 N. Y. Laws, ch. 41. A schedule covering particular cases of permanent partial disability initially appeared in the 1914 Act. See 1914 N. Y. Laws, ch. 41, § 15 (3). This schedule was retained, in a slightly revised form, in the 1922 Act. The schedule adopted by Congress in the LHWCA was substantially identical to the New York schedule of 1922. Congress selected the New York statute as the model for the LHWCA because that statute was considered one of the best workmen's compensation laws of its time. See H. R. Rep. No. 1190, 69th Cong., 1st Sess., 2 (1926).
+
+14Link to the location of the note in the document
+In 1972, Congress considered and failed to pass an amendment to § 8 (c) that would have permitted an employee suffering from a permanent partial disability caused by a scheduled injury to recover both the schedule benefits and two-thirds of his lost wage-earning capacity after expiration of the schedule period. See S. 2318, § 7, 92d Cong., 2d Sess. (1971), reprinted in Longshoremen's and Harbor Workers' Compensation Act Amendments of 1972: Hearings before the Subcommittee on Labor of the Senate Committee on Labor and Public Welfare, 92d Cong, 2d Sess., 7 (1972); H. R. 12006, § 7, 92d Cong., 1st Sess. (1971), and H. R. 15023, § 7, 92d Cong., 2d Sess. (1972), reprinted in Longshoremen's and Harbor Workers' Compensation Act: Hearings before the Select Subcommittee on Labor of the House Committee on Education and Labor, 92d Cong., 2d Sess., 27, 38 (1972). Although Pepco relies heavily upon Congress' rejection of this proposed amendment as support for its position that schedule benefits are exclusive, this action is of marginal relevance in this case because the amendment would have authorized cumulative, not alternative, remedies. Pepco's reliance upon 1949 and 1966 amendments to the Federal Employees Compensation Act (FECA), 5 U. S. C. § 8101 et seq., is similarly misplaced. These amendments, authorizing cumulative remedies under the FECA, shed little light upon Congress' intention with respect to alternative remedies under the LHWCA. See Act of Oct. 14, 1949, ch. 691, § 104, 63 Stat. 855; Act of Sept. 6, 1966, Pub. L. 89-554, 80 Stat. 536.
+
+15Link to the location of the note in the document
+See, e. g., Travelers Insurance Co. v. Cardillo, 225 F.2d 137, 143-144 (CA2), cert. denied, 350 U.S. 913 (1955). It should be noted, however, that this principle was announced in response to employer attempts to defeat an injured employee's claim for schedule benefits on the ground that the employee had suffered no actual loss of wages or wage-earning capacity. Prior to 1964, the federal courts apparently had not been confronted with an employee, entitled to compensation under the schedule, who attempted to secure a greater recovery by establishing an actual loss of wages or wage-earning capacity in excess of the schedule benefit.
+
+16Link to the location of the note in the document
+Although the question arose in a significantly different context, another 1964 decision, Flamm v. Hughes, 329 F.2d 378, 380, suggests that the Court of Appeals for the Second Circuit considered the schedule and "other cases" provisions mutually exclusive.
+
+17Link to the location of the note in the document
+Mason v. Old Dominion Stevedoring Corp., 1 BRBS 357, 363-365 (1975). In Mason, the Board rejected Williams in favor of American Mutual Insurance Co. v. Jones, 138 U. S. App. D. C. 269, 426 F.2d 1263 (1970), a decision upon which the court below also relied. See 196 U. S. App. D. C., at 421, 606 F.2d, at 1328. The opinion in Jones, however, does not address the exclusivity issue presented in this case. Rather, Jones held merely that a scheduled injury can give rise to an award for permanent total disability under § 8 (a) where the facts establish that the injury prevents the employee from engaging in the only employment for which he is qualified. 138 U. S. App. D. C., at 271-272, 426 F.2d, at 1265-1266. This conclusion is entirely consistent with the statute which, in HN10 § 8 (a), directs that "permanent total disability shall be determined in accordance with the facts." 33 U. S. C. § 908 (a). Indeed, since the § 8 (c) schedule applies only in cases of permanent partial disability, once it is determined that an employee is totally disabled the schedule becomes irrelevant. The question presented in Mason and in this case is the very different question of whether § 8 (c) permits an employee suffering from a disability determined to be partial in character to choose between recovery under the schedule and recovery under § 8 (c)(21). The Court of Appeals for the Fifth Circuit recently recognized this distinction when it noted that Williams and Jones are in no way inconsistent, because the former concerns partial disability while the latter concerns total disability. See Jacksonville Shipyards, Inc. v. Dugger, 587 F.2d 197, 198 (1979).
+
+18Link to the location of the note in the document
+LEdHN[2B] [2B]
+
+See Collins v. Todd Shipyards Corp., 9 BRBS 1015 (1979); Brandt v. Avondale Shipyards, Inc., 8 BRBS 698 (1978); Dugger v. Jacksonville Shipyards, 8 BRBS 552 (1978); Richardson v. Perna & Cantrell, Inc., 6 BRBS 588 (1977); Longo v. Universal Terminal & Stevedoring Corp., 2 BRBS 357 (1975). It should be noted that two of these decisions, Dugger and Longo, involved permanent total, not permanent partial, disability; therefore, comments in those decisions pertaining to the exclusivity issue are dicta. See n. 17, supra. It should also be noted that the Benefits Review Board is not a policymaking agency; its interpretation of the LHWCA thus is not entitled to any special deference from the courts. See Hastings v. Earth Satellite Corp., 202 U. S. App. D. C. 85, 94, 628 F.2d 85, 94 (1980) cert. denied, post, p. 905; Tri-State Terminals, Inc. v. Jesse, 596 F.2d 752, 757, n. 5 (CA7 1979).
+
+In the Board's most recent examination of the exclusivity issue, Collins v. Todd Shipyards, supra, Chairman Smith vigorously dissented from the majority's conclusion that § 8 (c)(21) benefits are available for scheduled injuries. 9 BRBS, at 1027-1036. Chairman Smith acknowledged that the contrary construction could produce inequitable results, but concluded that the statutory language would support no other construction:
+
+"The statute is not ambiguous or indefinite. It needs no strained interpretation or construction. The statutory language contained in Section 8 (c) clearly indicates that the schedule awards and the Section 8 (c)(21) awards are mutually exclusive. Sections 8 (c)(1) through (20) set forth the provisions and conditions for making schedule awards. Section 8 (c)(21) represents a clear line of demarcation from the schedule in that it applies to 'all other cases' in the permanent partial class of disability." Id., at 1027.
+
+19Link to the location of the note in the document
+The majority quoted the following passage from a leading treatise on workmen's compensation law:
+
+"'Although it is difficult to speak in terms of a majority rule on this point, because of significant differences in statutory background, it can be said that at one time the doctrine of exclusiveness of schedule allowances did dominate the field. But in recent years there has developed such a strong trend in the opposite direction that one might now, with equal justification, say that the field is dominated by the view that schedule allowances should not be deemed exclusive, whether the issue is treatment of a smaller member as a percentage loss of a larger, or treatment of any scheduled loss as a partial or total disability of the body as a whole.'" 196 U. S. App. D. C., at 214-215, 606 F.2d, at 1328-1329, quoting 2 A. Larson, Workmen's Compensation Law § 58.20, pp. 10-212 to 10-214 (1976) (footnotes omitted).
+
+20Link to the location of the note in the document
+The trend away from exclusivity identified by Professor Larson has developed, at least in part, in cases involving scheduled injuries which result in either total disability or permanent partial disability extending in effect to other parts of the body. See id., § 58.20, pp. 10-196 to 10-206, 10-214 to 10-220. We are concerned here solely with a case in which a scheduled injury, limited in effect to the injured part of the body, results in a permanent partial disability.
+
+With respect to the limited question before us, it appears that, despite the recent trend to the contrary, a significant number of jurisdictions continue to view schedule benefits as exclusive in cases of permanent partial disability. See, e. g., E. Blair, Reference Guide to Workmen's Compensation Law § 11:07, p. 11-24 (1974); 11 W. Schneider, Workmen's Compensation § 2322 (a), pp. 562-565 (Perm. ed. 1957). Indeed, Professor Larson's treatise indicates that exclusivity, although perhaps no longer the majority view, nonetheless represents the view of "many jurisdictions." See 2 A. Larson, supra, § 58.00, p. 10-164; § 58.20, pp. 10-206 to 10-212; see also id., § 58.13, p. 10-174.
+
+21Link to the location of the note in the document
+As Professor Larson noted in the passage quoted by the court below, "at one time the doctrine of exclusiveness of schedule allowances did dominate the field." Id., § 58.20, p. 10-212, quoted in 196 U. S. App. D. C., at 421, 606 F.2d, at 1328. See n. 19, supra.
+
+22Link to the location of the note in the document
+See, e. g., Reed v. The Yaka, 373 U.S. 410, 415 (1963); Voris v. Eikel, 346 U.S. 328, 333 (1953); Baltimore & Phila. Steamboat Co. v. Norton, 284 U.S. 408, 414 (1932).
+
+23Link to the location of the note in the document
+The LHWCA clearly does not attempt to compensate injured employees for their entire loss. In all four classes of disability covered by the Act, see n. 8, supra, the maximum compensation available is expressly designated to be less than an employee's actual economic loss. In this respect, the LHWCA is typical of most workmen's compensation statutes. See 1 A. Larson, supra, n. 19, § 2.50, p. 11; Small, The General Structure of Law Applicable to Employee Injury and Death, 16 Vand. L. Rev. 1021, 1027-1028 (1963).
+
+24Link to the location of the note in the document
+The compromise nature of workmen's compensation legislation is well recognized:
+
+"Workmen's compensation acts are in the nature of a compromise or quid pro quo between employer and employee. Employers relinquish certain legal rights which the law affords to them and so, in turn, do the employees. Employers give up the common-law defenses of the fellow servant rule and assumption of risk. Employees are assured hospital and medical care and subsistence during the convalescence period. In return for a fixed schedule of payments and a fixed amount in the event of the worker's death, employers are made certain that irrespective of their fault, liability to an injured workman is limited under workmen's compensation. Employees, on the other hand, ordinarily give up the right of suit for damages for personal injuries against employers in return for the certainty of compensation payments as recompense for those injuries." 1 M. Norris, The Law of Maritime Personal Injuries § 55, p. 102 (3d ed. 1975).
+
+See also E. Blair, supra n. 20, § 1:00, pp. 1-1 to 1-2; W. Prosser, Law of Torts 531-532 (4th ed. 1971). This Court has previously recognized that HN12 the concept of compromise is central to the LHWCA, as adopted by the District of Columbia Workmen's Compensation Act:
+
+"A prime purpose of the Act is to provide residents of the District of Columbia with a practical and expeditious remedy for their industrial accidents and to place on District of Columbia employers a limited and determinate liability." Cardillo v. Liberty Mutual Ins. Co., 330 U.S., at 476.
+
+25Link to the location of the note in the document
+Under the schedule, Cross is entitled to an award of approximately $ 3,200 to $ 12,800, depending upon the ultimate conclusion with respect to the degree of his disability. See n. 4, supra. Under § 8 (c)(21), in contrast, Cross was awarded $ 86.76 per week for the remainder of his working life, which, according to counsel in this case, could amount to well over $ 100,000. Brief for Petitioner 9; Tr. of Oral Arg. 10, 31, 34, 36. This dramatic disparity may be partially attributable to the fact that Cross received an exceptional amount of overtime compensation in the year preceding his injury.
+
+26Link to the location of the note in the document
+It is possible that, had Cross' disability been temporary in duration, he might have been entitled to a larger recovery than is available under the schedule for his permanent disability. On the basis of the evidence presented below, the maximum award available to Cross under the schedule is approximately $ 12,800. Because compensation for temporary partial disability under § 8 (e) is based upon lost wage-earning capacity rather than a schedule, Cross could have received approximately $ 22,400 for a temporary partial disability, assuming that the loss of wage-earning capacity demonstrated in this case was found to continue for the 5-year maximum temporary partial disability period. See 33 U. S. C. § 908 (e).
+
+27Link to the location of the note in the document
+As THE CHIEF JUSTICE, writing for the Court, stated in another case in which plain statutory language led to a seemingly incongruous result:
+
+"HN14 Our individual appraisal of the wisdom or unwisdom of a particular course consciously selected by Congress is to be put aside in the process of interpreting a statute. Once the meaning of an enactment is discerned and its constitutionality determined, the judicial process comes to an end." TVA v. Hill, 437 U.S. 153, 194 (1978).
+
+28Link to the location of the note in the document
+LEdHN[5B] [5B]
+
+Compensation for permanent partial disability apparently presents particularly complex and troublesome problems in the workmen's compensation field. See generally Burton, Permanent Partial Disabilities and Workers' Compensation, 53 J. Urb. L. 853 (1976). Such problems are appropriately solved by legislative, not judicial, action. Although § 8 (c) has been amended in minor respects since its enactment, the present schedule is substantially identical to the schedule included in the Act in 1927.

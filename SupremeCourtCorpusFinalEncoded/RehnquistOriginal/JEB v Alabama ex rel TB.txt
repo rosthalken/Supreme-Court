@@ -1,0 +1,31 @@
+﻿
+
+
+114 S.Ct. 1419
+Supreme Court of the United States
+J.E.B., Petitioner
+v.
+ALABAMA ex rel. T.B.
+No. 92-1239.
+|
+Argued Nov. 2, 1993.
+|
+Decided April 19, 1994.
+
+Chief Justice REHNQUIST, dissenting.
+
+I agree with the dissent of Justice SCALIA, which I have joined. I add these words in support of its conclusion. Accepting Batson v. Kentucky, 476 U.S. 79, 106 S.Ct. 1712, 90 L.Ed.2d 69 (1986), as correctly decided, there are sufficient differences between race and gender discrimination such that the principle of Batson should not be extended to **1435 peremptory challenges to potential jurors based on sex.
+ 
+That race and sex discrimination are different is acknowledged by our equal protection jurisprudence, which accords different levels of protection to the two groups. Classifications based on race are inherently suspect, triggering “strict scrutiny,” while gender-based classifications are judged under a heightened, but less searching, standard of review. Mississippi Univ. for Women v. Hogan, 458 U.S. 718, 724, 102 S.Ct. 3331, 3336, 73 L.Ed.2d 1090 (1982). Racial groups comprise numerical minorities in our *155 society, warranting in some situations a greater need for protection, whereas the population is divided almost equally between men and women. Furthermore, while substantial discrimination against both groups still lingers in our society, racial equality has proved a more challenging goal to achieve on many fronts than gender equality. See, e.g., D. Kirp, M. Yudof, & M. Franks, Gender Justice 137 (1986).
+ 
+Batson, which involved a black defendant challenging the removal of black jurors, announced a sea change in the jury selection process. In balancing the dictates of equal protection and the historical practice of peremptory challenges, long recognized as securing fairness in trials, the Court concluded that the command of the Equal Protection Clause was superior. But the Court was careful that its rule not “undermine the contribution the challenge generally makes to the administration of justice.” 476 U.S., at 98-99, 106 S.Ct., at 1724. Batson is best understood as a recognition that race lies at the core of the commands of the Fourteenth Amendment. Not surprisingly, all of our post-Batson cases have dealt with the use of peremptory strikes to remove black or racially identified venirepersons, and all have described Batson as fashioning a rule aimed at preventing purposeful discrimination against a cognizable racial group.* As Justice O’CONNOR once recognized, Batson does not apply “[o]utside the uniquely sensitive area of race.” Brown v. North Carolina, 479 U.S. 940, 942, 107 S.Ct. 423, 424, 93 L.Ed.2d 373 (1986) (opinion concurring in denial of certiorari).
+ 
+Under the Equal Protection Clause, these differences mean that the balance should tilt in favor of peremptory challenges when sex, not race, is the issue. Unlike the *156 Court, I think the State has shown that jury strikes on the basis of gender “substantially further” the State’s legitimate interest in achieving a fair and impartial trial through the venerable practice of peremptory challenges. Swain v. Alabama, 380 U.S. 202, 212-220, 85 S.Ct. 824, 831-835, 13 L.Ed.2d 759 (1965) (tracing the “very old credentials” of peremptory challenges); Batson, supra, 476 U.S., at 118-120, 106 S.Ct., at 1734-1735 (Burger, C.J., dissenting); post, at 1438-1439 (SCALIA, J., dissenting). The two sexes differ, both biologically and, to a diminishing extent, in experience. It is not merely “stereotyping” to say that these differences may produce a difference in outlook which is brought to the jury room. Accordingly, use of peremptory challenges on the basis of sex is generally not the sort of derogatory and invidious act which peremptory challenges directed at black jurors may be.
+ 
+Justice O’CONNOR’s concurring opinion recognizes several of the costs associated with extending Batson to gender-based peremptory challenges-lengthier trials, an increase in the number and complexity of appeals addressing jury selection, and a “diminished ... ability of litigants to act on sometimes accurate gender-based assumptions about juror attitudes.” Ante, at 1432. These costs are, in my view, needlessly **1436 imposed by the Court’s opinion, because the Constitution simply does not require the result that it reaches.
+ 
+
+
+*
+See Georgia v. McCollum, 505 U.S. 42, 112 S.Ct. 2348, 120 L.Ed.2d 33 (1992) (blacks); Hernandez v. New York, 500 U.S. 352, 111 S.Ct. 1859, 114 L.Ed.2d 395 (1991) (Latinos); Edmonson v. Leesville Concrete Co., 500 U.S. 614, 111 S.Ct. 2077, 114 L.Ed.2d 660 (1991) (blacks); Powers v. Ohio, 499 U.S. 400, 404-405, 111 S.Ct. 1364, 1367-1368, 113 L.Ed.2d 411 (1991) (blacks); Holland v. Illinois, 493 U.S. 474, 476-477, 110 S.Ct. 803, 805-806, 107 L.Ed.2d 905 (1990) (blacks); Griffith v. Kentucky, 479 U.S. 314, 316, 107 S.Ct. 708, 709, 93 L.Ed.2d 649 (1987) (blacks); Allen v. Hardy, 478 U.S. 255, 259, 106 S.Ct. 2878, 2880, 92 L.Ed.2d 199 (1986) (blacks and Hispanics).
+

@@ -1,0 +1,42 @@
+﻿Brown v. GSA, 425 U.S. 820 (1976)
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE BRENNAN joins, dissenting.
+
+Prior to the enactment of the [****23]  Civil Rights Act of 1964 there was uncertainty as to what federal judicial remedies, if any, were available to persons injured by racially discriminatory employment practices in the private sector. 1Link to the text of the note Against that background of uncertainty, Congress enacted a comprehensive remedial statute which did not expressly state whether it was exclusive of, or supplementary to, whatever other remedies might exist.
+
+ [*836]  In 1972 when Congress amended the statute to cover federal employees, there was similar uncertainty about what remedies were available to such employees. Since both the 1964 statute and the 1972 amendment were enacted in comparable settings, and since both pieces of legislation implement precisely the same important national interests, it is reasonable to infer that Congress intended to resolve the question of exclusivity in the same way at both times.
+
+ [****24]  As the legislative history discussed in Chandler v. Roudebush, post, p. 840, demonstrates, Congress intended federal employees to have the same rights available to remedy racial discrimination as employees in the private sector. 2Link to the text of the note Since the law is now  [***414]  well settled that victims of racial discrimination in the private sector have a choice of remedies and are not limited to Title VII, 3Link to the text of the note federal  [**1970]  employees should enjoy parallel rights.  [*837]  The reasoning which governed the decisions in Johnson v. Railway Express Agency, 421 U.S. 454, and Alexander v. Gardner-Denver Co., 415 U.S. 36, applies with equal force to federal employees. There is no evidence, either in the statute itself or in its history, that Congress intended the 1972 amendment to be construed differently from the basic statute.
+
+ [****25]  The fact that Congress incorrectly assumed that federal employees would have no judicial remedy if § 717 had not been enacted 4Link to the text of the note undermines rather than supports  [*838]  the Court's conclusion that Congress intended to repeal or amend laws that it did not think applicable. Indeed, the General Subcommittee on Labor of the House Committee on Education and Labor rejected an amendment which would have explicitly provided that § 717 would be the exclusive remedy for federal employees. 5Link to the text of the note In sum, the legislative history  [***415]  of § 717 discloses a clear intent to provide federal employees with rights that parallel those available to employees in the private sector, no evidence of an intention to make the remedy exclusive,  [**1971]  and the rejection of an amendment which would have so provided. 6Link to the text of the note
+
+ [****26] 
+
+ [****27] 
+
+ [*839]  The burden of persuading us that we should interpolate such an important provision into a complex, carefully drafted statute is a heavy one. Since that burden has not been met, I would simply read the statute as Congress wrote it.
+
+Alexander v. Gardner-Denver Co., 415 U.S. 36, and Johnson v. Railway Express Agency, 421 U.S. 454, were not decided until 1974 and 1975 respectively.
+
+2Link to the location of the note in the document
+"In 1972 Congress extended the protection of Title VII of the Civil Rights Act of 1964, 78 Stat. 253, as amended, 42 U.S.C. § 2000e et seq. (1970 ed. and Supp. IV), to employees of the Federal Government. A principal goal of the amending legislation, the Equal Employment Opportunity Act of 1972, Pub. L. 92-261, 86 Stat. 103, was to eradicate '"entrenched discrimination in the Federal service,"' Morton v. Mancari, 417 U.S. 535, 547, by strengthening internal safeguards and by according '[a]ggrieved [federal] employees or applicants… the full rights available in the courts as are granted to individuals in the private sector under title VII.'" Chandler v. Roudebush, post, at 841.
+
+3Link to the location of the note in the document
+In Alexander v. Gardner-Denver Co., supra, at 47-49, MR. JUSTICE POWELL for a unanimous Court stated:
+
+"[L]egislative enactments in this area have long evinced a general intent to accord parallel or overlapping remedies against discrimination. In the Civil Rights Act of 1964, 42 U.S.C. § 2000a et seq., Congress indicated that it considered the policy against discrimination to be of the 'highest priority.' Newman v. Piggie Park Enterprises, [390 U.S. 400,] at 402. Consistent with this view, Title VII provides for consideration of employment-discrimination claims in several forums. See 42 U.S.C. § 2000e-5 (b) (1970 ed., Supp. II) (EEOC); 42 U.S.C. § 2000e-5 (c) (1970 ed., Supp. II) (state and local agencies); 42 U.S.C. § 2000e-5 (f) (1970 ed., Supp. II) (federal courts). And, in general, submission of a claim to one forum does not preclude a later submission to another. Moreover, the legislative history of Title VII manifests a congressional intent to allow an individual to pursue independently his rights under both Title VII and other applicable state and federal statutes. The clear inference is that Title VII was designed to supplement, rather than supplant, existing laws and institutions relating to employment discrimination."
+
+In Johnson v. Railway Express Agency, supra, at 459, it was noted:
+
+"Despite Title VII's range and its design as a comprehensive solution for the problem of invidious discrimination in employment, the aggrieved individual clearly is not deprived of other remedies he possesses and is not limited to Title VII in his search for relief…. In particular, Congress noted 'that the remedies available to the individual under Title VII are co-extensive with the indiv[i]dual's right to sue under the provisions of the Civil Rights Act of 1866, 42 U.S.C. § 1981, and that the two procedures augment each other and are not mutually exclusive.' H.R. Rep. No. 92-238, p. 19 (1971). See also S. Rep. No. 92-415, p. 24 (1971). Later, in considering the Equal Employment Opportunity Act of 1972, the Senate rejected an amendment that would have deprived a claimant of any right to sue under § 1981. 118 Cong. Rec. 3371-3373 (1972)."
+
+4Link to the location of the note in the document
+Since the Court does not question the proposition that other remedies would have been available if not foreclosed by its exclusive reading of § 717, no purpose would be served by discussing the status of any alternative remedy. In view of the Court's holding, it is equally pointless to discuss the respondents' contention that the action is barred by petitioner's failure to exhaust administrative remedies. In this connection, however, the discussion in Johnson, supra, at 461, is instructive.
+
+5Link to the location of the note in the document
+The minority of the Committee in stating its views on H.R. 1746 in the final Committee report included the following paragraph:
+
+"Failure to Make Title VII an Exclusive Federal Remedy. Despite the enactment of title VII of the Civil Rights Act, charges of discriminatory employment conditions may still be brought under prior existing federal statutes such as the National Labor Relations Act and the Civil Rights Act of 1866. In view of the comprehensive prohibitions against discrimination contained in title VII, and the intent of the Committee bill to consolidate procedures and remedies under one agency, it would be consistent to make title VII the exclusive remedy. No public interest is served in continuing to permit a multiplicity of statutes or forums to deal with discrimination in employment. However, our attempt to amend the Committee bill to make title VII an exclusive remedy (except for pattern or practice suits) was rejected. In our view, the failure to make this an exclusive remedy merely encourages an individual who has lost his case in one forum under one statute to relitigate his case in still another forum under another federal statute." H.R. Rep. No. 92-238, p. 66 (1971).
+
+6Link to the location of the note in the document
+To the extent that multiple remedies may impose an undesirable burden on employers, it seems to me that the problem is most apt to be redressed in an impartial manner by assuming that Congress intended to subject - and will continue to subject - public and private employers to similar rules.

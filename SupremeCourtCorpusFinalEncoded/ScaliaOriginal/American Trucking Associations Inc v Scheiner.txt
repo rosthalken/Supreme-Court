@@ -1,0 +1,31 @@
+﻿
+
+
+107 S.Ct. 2829
+Supreme Court of the United States
+AMERICAN TRUCKING ASSOCIATIONS, INC., et al., Appellants,
+v.
+James I. SCHEINER, Secretary, Department of Revenue, et al.
+No. 86-357.
+|
+Argued April 28, 1987.
+|
+Decided June 23, 1987.
+
+Justice SCALIA, with whom THE CHIEF JUSTICE joins, dissenting.
+I agree with the Court that the “internal consistency” test it adopts requires invalidation of the Pennsylvania axle tax and marker fee-as it would any unapportioned flat tax involving *304 multistate activities. For the reasons given in my dissent in Tyler Pipe Industries, Inc. v. Washington Dept. of Revenue, 483 U.S. 232, 254, 107 S.Ct. 2810-2823, 97 L.Ed.2d 199 (1987), I do not believe that test can be derived from the Constitution or is compelled by our past decisions. The same tax is imposed on in-state as on out-of-state trucks; that is all I would require. See Capitol Greyhound Lines v. Brice, 339 U.S. 542, 70 S.Ct. 806, 94 L.Ed. 1053 (1950); Aero Mayflower Transit Co. v. Board of Railroad Comm’rs, 332 U.S. 495, 68 S.Ct. 167, 92 L.Ed. 99 (1947); Aero Mayflower Transit Co. v. Georgia Public Service Comm’n, 295 U.S. 285, 55 S.Ct. 709, 79 L.Ed. 1439 (1935).
+ 
+The Court’s disposition relieves it of the need to address appellants’ narrower contention that the axle tax is facially discriminatory because the same law that introduced it reduced registration fees for Pennsylvania-based trucks by, for all practical purposes, precisely the amount of the axle taxes. I would reject that challenge as well. The axle tax is imposed uniformly on both in-state and out-of-state vehicles, and is therefore not facially discriminatory. The registration fee is imposed only on in-state trucks, and its reduction likewise does not facially discriminate against interstate commerce. Since both the axle tax and the reduction in registration fees are independently nondiscriminatory, I would sustain them.
+ 
+Appellants rely on Maryland v. Louisiana, 451 U.S. 725, 101 S.Ct. 2114, 68 L.Ed.2d 576 (1981), in which we invalidated Louisiana’s use tax on offshore gas because the State credited payments of that tax against other taxes imposed on local commerce, such as the severance tax on in-state production, and exempted gas used for certain in-state activities from the tax. Id., at 732-733, 756, 101 S.Ct., at 2134. That case is readily distinguishable. Pennsylvania provides no exemption from its axle tax for in-state truckers, and does not permit axle tax payments to be used as credits against the registration fee. The axle tax alone-unlike the gas tax in Maryland v. Louisiana-is on its face nondiscriminatory.
+ 
+*305 It may well be that the lowering of the exclusively intrastate registration fee has the same net effect as would a tax credit for the axle tax. But so would have the establishment of the registration fee and the axle tax at their current levels in the first place. To determine the facially discriminatory character of a tax not on the basis of the tax alone, but on the basis of the structure of a State’s tax code, is to extend our case law into a new field, and one in which principled distinctions become impossible. What if, for example, the registration fees for Pennsylvania-based barges, rather than trucks, had been reduced in an amount that precisely compensated for the additional revenues to be derived from the increased axle fees? Or **2852 what if Pennsylvania had enacted the axle tax without reducing registration fees, and then one year later made a corresponding reduction in truck registration fees? This case, of course, is more difficult than those examples, because the tax reduction and axle tax both apply to the same mode of transport and were enacted simultaneously. However, to inquire whether a tax reduction is close enough in time or in mode to another tax so that “in effect” the latter should be treated as facially discriminatory is to ask a question that has no answer.
+ 
+Legislative action adjusting taxes on interstate and intrastate activities spans a spectrum, ranging from the obviously discriminatory to the manipulative to the ambiguous to the wholly innocent. Courts can avoid arbitrariness in their review only by policing the entire spectrum (which is impossible), by policing none of it, or by adopting rules which subject to scrutiny certain well-defined classes of actions thought likely to come at or near the discriminatory end of the spectrum. We have traditionally followed the last course, confining our disapproval to forms of tax that seem clearly designed to discriminate,* and accepting the fact that some amount *306 of discrimination may slip through our net. A credit against intrastate taxes falls readily within the highly suspect category; a reduction of intrastate taxes to take account of increased revenue from a nondiscriminatory axle tax does not.
+ 
+I acknowledge that the distinction between a credit and a straight reduction is a purely formal one, but it seems to me less absurd than what we will be driven to if we abandon it. The axle tax and registration fee reduction in this case appeared in the same bill. Extend the rule to treat that as “in effect” a tax credit, and the next case will involve two different bills enacted the same day, or a week apart, or at the beginning and end of the same session. A line must be drawn somewhere, and (in the absence of direction from any authoritative text) I would draw it here.
+ 
+
+
+
+

@@ -1,0 +1,27 @@
+﻿
+
+
+113 S.Ct. 2606
+Supreme Court of the United States
+Stephen BUCKLEY, Petitioner
+v.
+Michael FITZSIMMONS et al.
+No. 91–7849.
+|
+Argued Feb. 22, 1993.
+|
+Decided June 24, 1993.
+
+Justice SCALIA, concurring.
+
+As the Court observes, respondents have not demonstrated that the function either of fabricating evidence during the preliminary investigation of a crime, or of making out-of-court statements to the press, was protected by a well-established common-law privilege in 1871, when § 1983 was enacted. See ante, at 2616, 2617. It follows that respondents’ alleged performance of such acts is not absolutely *280 immune from suit under § 1983, since “the presumed legislative intent not to eliminate traditional immunities is our only justification for limiting the categorical language of the statute.” Burns v. Reed, 500 U.S. 478, 498, 111 S.Ct. 1934, 1945, 114 L.Ed.2d 547 (1991) (SCALIA, J., concurring in judgment in part and dissenting in part); accord, ante, at 2612–2613. The policy reasons for extending protection to such conduct may seem persuasive, see post, at 2620–2622 (KENNEDY, J., concurring in part and dissenting in part), but we simply “do not have a license to establish immunities from § 1983 actions in the interests of what we judge to be sound public policy,” Tower v. Glover, 467 U.S. 914, 922–923, 104 S.Ct. 2820, 2826, 81 L.Ed.2d 758 (1984). This is therefore an easy case, in my view, and I have no difficulty joining the Court’s judgment.
+ 
+I join the Court’s opinion as well, though I have some reservation about the historical authenticity of the “principle that acts undertaken by a prosecutor in preparing for the initiation of judicial proceedings or for trial, and which occur in the course of his role as an advocate for the State, are entitled to the protections of absolute immunity,” ante, at 2615. By the early years of this century, there was some authority for the proposition that the traditional defamation immunity extends to “act[s] incidental to the proper initiation” or pursuit of a judicial proceeding, such as “[s]tatements made by counsel to proposed witnesses,” Veeder, Absolute Immunity in Defamation: Judicial Proceedings, 9 Colum.L.Rev. 463, 489, and n. 82 (1909). See, e.g., G. Bower, Actionable Defamation 103–105, and n. h (1908); Youmans v. Smith, 153 N.Y. 214, 47 N.E. 265 (1897). I have not found any previous expression of such a principle, but accede to the Court’s judgment that it existed several decades earlier, when § 1983 was enacted, at least in the sense that it could be logically derived from then-existing decisions, cf. Burns, supra, 500 U.S., at 505, 111 S.Ct., at 1949 (SCALIA, J., concurring in judgment in part and dissenting in part). In future cases, I trust the Court (aided by briefing on the point) will look to history to determine more precisely the outlines of this principle. It is certainly *281 in accord with the principle to say that prosecutors cannot “properly claim to be acting as advocates” before they have “probable cause to have anyone arrested,” ante, at 2616–2617—but reference to the common-law cases will be indispensable to show when they can properly claim to be acting “as advocates” after that point, though not yet “during the course of judicial proceedings,” ante, at 2617.
+ 
+**2620 I believe, moreover, that the vagueness of the “acting-as-advocate” principle may be less troublesome in practice than it seems in theory, for two reasons. First, the Court reaffirms that the defendant official bears the burden of showing that the conduct for which he seeks immunity would have been privileged at common law in 1871. See ante, at 2613, 2617, 2617–2618. Thus, if application of the principle is unclear, the defendant simply loses. Second, many claims directed at prosecutors, of the sort that are based on acts not plainly covered by the conventional malicious-prosecution and defamation privileges, are probably not actionable under § 1983, and so may be dismissed at the pleading stage without regard to immunity—undermining the dissent’s assertion that we have converted absolute prosecutorial immunity into “little more than a pleading rule,” post, at 2621. I think petitioner’s false-evidence claims in the present case illustrate this point. Insofar as they are based on respondents’ supposed knowing use of fabricated evidence before the grand jury and at trial, see ante, at 2612, n. 3—acts which might state a claim for denial of due process, see, e.g., Mooney v. Holohan, 294 U.S. 103, 112, 55 S.Ct. 340, 341, 79 L.Ed. 791 (1935) (per curiam) —the traditional defamation immunity provides complete protection from suit under § 1983. If “reframe[d] ... to attack the preparation” of that evidence, post, at 2621, the claims are unlikely to be cognizable under § 1983, since petitioner cites, and I am aware of, no authority for the proposition that the mere preparation of false evidence, as opposed to its use in a fashion that deprives someone of a fair trial or otherwise harms him, violates the Constitution. See *282 Buckley v. Fitzsimmons, 919 F.2d 1230, 1244 (CA7 1990), vacated and remanded, 502 U.S. 801, 112 S.Ct. 40, 116 L.Ed.2d 19 (1991).
+ 
+
+
+
+
+

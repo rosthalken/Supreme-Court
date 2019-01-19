@@ -1,0 +1,171 @@
+﻿This case does not involve the constitutionality of any of the substantive rules adopted by California to govern the operation of motor vehicle dealerships and the conditions that     must be satisfied to engage in that business. The case involves the validity of a procedure that grants    private parties an exclusive right to cause harm to other private parties without even alleging that any general rule has been violated or is about to be violated.
+
+In order to demonstrate that this is a fair characterization of this procedure, it is necessary to review the statutory scheme as a whole, to identify the purpose of the specific provision challenged in this case, and to explain the actual operation of that provision. It will then be apparent that there is no precedent for the Court's approval of     this unique and arbitrary process and that the three-judge District Court was correct in concluding that it deprived appellees of their liberty and property without the due process of law guaranteed by the Fourteenth Amendment.
+
+I
+
+As the Court recognizes, California's Automobile Franchise Act is a member of the family of state statutes that were enacted to protect retailers from some of the risks associated with unrestrained competition. Like the retail grocers and retail druggists who convinced so many legislatures to authorize resale price maintenance, 1Link to the text of the note and the retail gasoline dealers who convinced the Maryland Legislature to prohibit oil company ownership of    service stations, 2Link to the text of the note the retail automobile dealers have been successful in persuading Congress and various state legislatures that unrestrained competition in the car business is not an unmixed     blessing. 3Link to the text of the note    Many States have     enacted automobile dealer franchise statutes that regulate and limit competition in this business. Unquestionably, as the Court holds, the mere fact that statutory rules inhibit competition is not a reason for invalidating them. 4Link to the text of the note
+
+The general rules contained in the California Automobile Franchise Act are of two kinds. First, they establish standards that a dealer must satisfy in order to engage in the business in California. These standards are enforced through licensing regulations. 5Link to the text of the note Because the dealer appellees in this case are properly licensed, and because they do not question the validity of any of these rules, these standards are not relevant here. Second, there are rules regulating the contractual relationships between manufacturers and their dealers, covering such matters as franchise terminations. 6Link to the text of the note Again, these rules are not relevant because this case involves neither a termination nor any question concerning the contract between    a manufacturer and an existing dealer. In sum, the substantive rules in the California statute have nothing to do with this case.
+
+    This case concerns only the procedure that must be followed after a licensed manufacturer and a licensed dealer have decided either to establish a new dealership or to relocate an existing dealership. The statute contains no substantive rules pertaining to the location of dealerships or the number of dealers that may operate in any given area. It includes no limitations on the manufacturer's     use of the new franchise as a means of increasing its power to bargain with existing franchisees. 7Link to the text of the note Nor does it impose any burden on the manufacturer or the new dealer to obtain a license or an approval from a public agency before the new operation may commence business. 8Link to the text of the note    It does not even authorize a public     agency,     acting on its own motion, to    conduct a hearing to determine whether the new operation is desirable or undesirable. 9Link to the text of the note In short, although I assume that California is entirely free to adopt a state policy against the establishment or relocation of motor vehicle franchises, no such policy is reflected in this statute. 10Link to the text of the note
+
+On the contrary, the statute actually embodies a presumption in favor of new locations. That presumption, while consistent with the fact that knowledgeable businessmen do not normally make the large capital commitments associated with a new dealership unless the market will welcome the change, 11Link to the text of the note does not    rest on that economic predicate. It rests on the language of the statute and its interpretation by the New Motor Vehicle Board.
+
+The statute grants a curiously defined group of potential protestants -- competitors within the 314-square-mile area surrounding the new location who handle the same line and make of cars -- the right to demand a hearing to determine whether     "there is good cause for not permitting such dealership." 12Link to the text of the note This language is repeated in two     separate sections of the California statute. 13Link to the text of the note    Notably, the     statute does not place the burden of establishing that there is good cause to permit the dealership to go forward on the new dealer or the manufacturer; 14Link to the text of the note it places the burden of demonstrating that there is good cause not to permit the new opening to take place on the     objecting dealer. 15Link to the text of the note If    the scales are evenly balanced, the presumption will prevail.
+
+The California Board's actual administration of the statute confirms this analysis. Of the first 117 protests filed under the law, only 1 was sustained by the Board. 16Link to the text of the note In other words, over 99% of the contested new dealerships or relocations were found to be consistent with the policy of the statute.
+
+The conclusion that there is no state policy against new dealerships is further confirmed by the statutory limitation on the persons who have standing to object to a proposed    new opening. Most significantly, no public agency has any independent right to initiate an objection, to schedule a hearing, or to prohibit such a change. 17Link to the text of the note Nor does any member of the consuming public have standing to complain. 18Link to the text of the note Indeed, even neighboring dealers who might be severely affected by new competition are without standing unless they handle the same line of cars as the new dealer. Finally, if a manufacturer is able -- by whatever means -- to persuade its dealers in the relevant area not to protest, the statutory policy will have been wholly vindicated without any action on the part of responsible state officials.
+
+Properly analyzed, the statute merely confers a special benefit on a limited group of private persons who are likely to oppose the establishment or relocation of a new car dealership. Because those persons may suffer economic injury as a consequence of new competition, they are given two quite different    rights. One is relatively meaningless, the other is     significant. The first is an administrative right of action to try to persuade the Board that there is good cause for not permitting the new competitor to enter the market. It is obvious that this right is of little value, since less than 1% of the protests are successful. Indeed, since about two-thirds of the protests were abandoned in advance of any hearing, 19Link to the text of the note it is fair to infer that an opportunity to prevail at the hearing     itself is not the primary object of the protest.
+
+The second right that the statute gives to a complaining dealer is the unqualified entitlement to an order that is tantamount to a preliminary injunction absolutely prohibiting     the opening of the new dealership until after the relatively meaningless hearing has been completed. 20Link to the text of the note The "injunction" issues without any showing of probable success on the merits, without any proof of irreparable harm, and without    provision for a bond or other compensation to indemnify the new dealer against loss caused by the delay. The entirely uninformative words "I protest" are enough to entitle one private party to obtain an order restraining the activities of a potential competitor. 21Link to the text of the note    Violation of that order subjects the manufacturer     and franchisee to criminal penalties and revocation of their licenses. 22Link to the text of the note
+
+In sum, new franchisees and their franchisors are not merely identified by the statute as in essence a new class of parties defendant in a new class of lawsuits designed in extremely rare instances to block the franchise; rather, without assuring these "defendants" that they will receive notice of the claims against them, a probable-cause finding, or a hearing of any kind, 23Link to the text of the note the statute subjects them to an immediate injunction against the pursuit of their right to establish or relocate a car dealership upon the filing of a protest by a competitor-"plaintiff." 24Link to the text of the note
+
+    The duration of the injunctive relief is not precisely defined by the statute, 25Link to the text of the note    but the facts of these cases     demonstrate that     the relief may last for many months. 26Link to the text of the note    In     a dynamic, competitive business such delays may entirely frustrate the plans for the new dealership -- as happened in one of these cases --     or at least cause the new dealer to lose the opportunity to participate in a favorable market for new models. That the statutory deprivation is a temporary delay rather than a permanent denial does not avoid the serious character     of the harm suffered by the new dealer while the status quo is being preserved. 27Link to the text of the note
+
+II
+
+Apart from some substantive due process cases which have nothing to do with the procedural question presented by this     case 28Link to the text of the note the Court cites no authority for its     novel interpretation of the Fourteenth Amendment. This is hardly surprising because this summary procedure for resolving conflicts between private parties flagrantly violates the precepts embodied in the Court's prior cases.
+
+    Whenever one private party seeks relief against another, it is fundamental that some attention to the merits of the request must precede the granting of relief. Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 313. The challenged statute provides for no such consideration of the merits nor even any notice to the losing party of what the merits of the claim against him involve. 29Link to the text of the note
+
+It is equally fundamental that the State's power to deprive any person of liberty or property may not be exercised except at the behest of an official decisionmaker. In a somewhat different context, the Court correctly observed:
+
+
+
+"[In] the very nature of things, one [private] person may not be entrusted with the power to    regulate the business of another, and especially of a competitor. And a statute     which attempts to confer such power undertakes an intolerable and unconstitutional interference with personal liberty and private property." Carter v. Carter Coal Co., 298 U.S. 238, 311.
+
+More recently, the Court has applied these principles in procedural due process contexts similar to the one at issue here. For example, in Fuentes v. Shevin, 407 U.S. 67, 93, the Court had this to say in invalidating a statute that enabled private parties unconditionally to exercise the State's power:
+
+"The statutes, moreover, abdicate effective state control over     state power. Private parties, serving their own private advantage, may unilaterally invoke state power to replevy goods from another. No state official participates in the decision to seek a writ; no state official reviews the basis for the claim to repossession; and no state official evaluates the need for immediate seizure. There is not even a requirement that the plaintiff provide any information to the court on these matters. The State acts largely in the dark." 30Link to the text of the note
+
+Because    the New Motor Vehicle Board is given no control over a competitor's power temporarily to enjoin the establishment or relocation of a dealership, that body's authority in this respect is also wielded in the dark. The result is the unconstitutional exercise of uncontrolled government power.
+
+       There is no blinking the fact that the California statute gives private parties, serving their own private advantage, the unfettered ability to invoke the power of the State to restrain the liberty and impair the contractual arrangements of their new competitors. Such a statute blatantly offends the principles of fair notice, attention to the merits, and neutral dispute resolution     that inform the Due Process Clause of the Fourteenth Amendment. This statute simply cannot bear the Court's creative recharacterization as a general -- and substantively constitutional -- rule governing when and how dealerships may be established and relocated. 31Link to the text of the note Accordingly, I respectfully dissent.
+
+These efforts were also reflected in the Miller-Tydings Fair Trade Act, which was enacted by Congress in 1937 as an amendment to § 1 of the Sherman Act. 50 Stat. 693, 15 U. S. C. § 1. See generally Schwegmann Bros. v. Calvert Distillers, Corp., 341 U.S. 384, 390-395.
+
+2Link to the location of the note in the document
+See Exxon Corp. v. Governor of Maryland, 437 U.S. 117 (1978).
+
+3Link to the location of the note in the document
+The statutes currently in force are collected in the opinion of the Court. Ante, at 101 n. 5. These statutes were passed essentially in three waves, the first in the late 1930's, the second in the mid-1950's, and the third in the late 1960's and early 1970's. The first two waves resulted in statutes regulating the contractual relationships between dealers and manufacturers, and were primarily designed to equalize the bargaining power of the two groups. The third wave not only extended this well-established type of statute into additional States but also resulted in the passage of provisions, such as the one involved in this case, relating to the opening of new franchises. See generally C. Hewitt, Automobile Franchise Agreements 165-167 (1955); Macaulay, Law and Society -- Changing a Continuing Relationship Between a Large Corporation and those who Deal with it: Automobile Manufacturers, their Dealers, and the Legal System, 1965 Wis. L. Rev. 483, 513-521; Note, 70 Harv. L. Rev. 1239, 1243-1246 (1957); Comment, 56 Iowa L. Rev. 1060 (1971).
+
+4Link to the location of the note in the document
+By the same token, the legislative judgment that manufacturers have greater bargaining power than dealers and may have sometimes used it abusively by threatening to overload dealers' markets with intrabrand competitors does not provide a justification for a statutory procedure that deprives all manufacturers and all new dealers of their liberty and property without due process.
+
+5Link to the location of the note in the document
+Cal. Veh. Code Ann. § 11700 (West Supp. 1978).
+
+6Link to the location of the note in the document
+§§ 3060, 3061, 3064, and 3065 (Supp. 1978).
+
+7Link to the location of the note in the document
+Cf. Haw. Rev. Stat. § 437-28 (b)(22)(B) (1976); W. Va. Code § 47-17-5 (i)(2) (Supp. 1978).
+
+8Link to the location of the note in the document
+Cf. Fla. Stat. § 320.642 (1977); Ga. Code § 84-6610 (f)(8) (Supp. 1977); Iowa Code § 322A.4 (1977); S. D. Comp. Laws Ann. §§ 32-6A-3, 32-6A-4 (1976); Tenn. Code Ann. § 59-1714 (c)(20) (Supp. 1978); Wis. Stat. Ann. § 218.01 (3)(f) (1957).
+
+The Court cites Forest Home Dodge, Inc. v. Karns, 29 Wis. 2d 78, 138 N. W. 2d 214 (1965), as reflective of the purposes served by statutes such as the one at issue here. Ante, at 102 n. 7. However, the Wisconsin statute involved in the Forest Home decision is considerably different from the California statute and the purposes of the former should not be uncritically imported into the latter. The Court is similarly mistaken in its characterization of the California statute as one, like Wisconsin's, that "[requires] businesses to secure regulatory approval before engaging in specified practices." Ante, at 108 (emphasis in original). As the Court itself recognizes at an earlier point, the California statute requires approval only in certain limited circumstances, i. e., "if necessary" because of a competitor's protest. Ante, at 105. As such, the statute clearly does allow competitors to "restrain [appellees] from exercising [a] right that [they] had previously enjoyed." Ante, at 104-105.
+
+The Court also mischaracterizes the California statute when it describes it as "prohibiting automobile manufacturers from adding dealerships to the market areas of its existing franchisees where the effect of such intrabrand competition would be injurious to the existing franchisees and to the public interest." Ante, at 102. There is no such express prohibition in the California statute. Cf. Colo. Rev. Stat. § 12-6-120 (1973); Iowa Code § 322A.4 (1977); N. M. Stat. Ann. § 64-37-5 (P) (Supp. 1975); S. D. Comp. Laws Ann. §§ 32-6A-3, 32-6A-4 (1976).
+
+9Link to the location of the note in the document
+Cf. Fla. Stat. § 320.642 (1977); Ga. Code § 84-6610 (f)(8) (Supp. 1977); Iowa Code § 322A.4 (1977); S. D. Comp. Laws Ann. § 32-6A-4 (1976); Tenn. Code Ann. § 59-1714 (c)(20) (Supp. 1978); Wis. Stat. Ann. § 218.01 (3)(f) (1957).
+
+10Link to the location of the note in the document
+The statutory statement of purpose quoted by the Court, ante, at 105 n. 12, includes no reference to a policy against new or relocated dealerships. By comparison, such statutes as Fla. Stat. § 320.642 (1977); Ga. Code § 84-6610 (f)(8) (Supp. 1977); Tenn. Code Ann. § 59-1714 (c)(20) (Supp. 1978); and Wis. Stat. Ann. § 218.01 (3)(f) (1957), authorize public officials to deny applications for approval of new dealerships in all cases where existing dealers in the area are providing "adequate representation" of the relevant line and make of cars.
+
+11Link to the location of the note in the document
+B. Pashigian, The Distribution of Automobiles, An Economic Analysis of the Franchise System 151 (1961); Comment, supra n. 3, at 1065-1067.
+
+12Link to the location of the note in the document
+California Veh. Code Ann. § 3062 (West Supp. 1978) provides, in part:
+
+"When such a protest is filed, the board shall inform the franchisor that a timely protest has been filed, that a hearing is required pursuant to Section 3066, and that the franchisor shall not establish or relocate the proposed dealership until the board has held a hearing as provided in Section 3066, nor thereafter, if the board has determined that there is good cause for not permitting such dealership." (Emphasis added.)
+
+Section 507 defines the 314-square-mile area that encompasses competitors with standing to challenge new dealerships.
+
+13Link to the location of the note in the document
+In addition to the portion of § 3062 quoted in n. 12, supra, § 3063 provides:
+
+"In determining whether good cause has been established for not entering into or relocating an additional franchise for the same line-make, the board shall take into consideration the existing circumstances, including, but not limited to:
+
+"(1) Permanency of the investment.
+
+"(2) Effect on the retail motor vehicle business and the consuming public in the relevant market area.
+
+"(3) Whether it is injurious to the public welfare for an additional franchise to be established.
+
+"(4) Whether the franchisees of the same line-make in that relevant market area are providing adequate competition and convenient consumer care for the motor vehicles of the line-make in the market area which shall include the adequacy of motor vehicle sales and service facilities, equipment, supply of vehicle parts, and qualified service personnel.
+
+"(5) Whether the establishment of an additional franchise would increase competition and therefore be in the public interest." (Emphasis added.)
+
+14Link to the location of the note in the document
+Cf. Iowa Code § 322A.4 (1977); S. D. Comp. Laws Ann. §§ 32-6A-3, 32-6A-4 (1976). See generally Comment, supra n. 3, at 1062-1063.
+
+15Link to the location of the note in the document
+Cal. Veh. Code Ann. § 3066 (b) (West Supp. 1978) ("The [existing] franchisee shall have the burden of proof to establish there is good cause not to enter into a franchise establishing or relocating an additional motor vehicle dealership").
+
+16Link to the location of the note in the document
+See ante, at 110 n. 14; Brief for Appellees 10 n. 13.
+
+17Link to the location of the note in the document
+Cf. statutes cited in n. 10, supra.
+
+18Link to the location of the note in the document
+Cf. Iowa Code § 322A.7 (1977).
+
+19Link to the location of the note in the document
+See Brief for Appellees 10 n. 13.
+
+20Link to the location of the note in the document
+Cal. Veh. Code Ann. §§ 3062, 3066 (West Supp. 1978).
+
+21Link to the location of the note in the document
+California's statutory scheme may be contrasted with another approach that also affords existing dealers a cause of action to block new dealerships, but does so with considerably more process. Under N. M. Stat. Ann. § 64-37-5 (P) (Supp. 1975), it is unlawful for a manufacturer to establish an additional franchise in a community where the same line-make is currently represented "if such addition would be inequitable to the existing dealer." The statute makes "the sales and service needs of the public" relevant "in determining the equities of the existing dealer." Existing dealers are given a private cause of action in state courts to enforce this prohibition and are expressly afforded the right to seek either an injunction, damages, or both. §§ 64-37-11, 64-37-13 (Supp. 1975). It is apparent from the statute that the normal incidents of civil practice -- for example, the requirement of an adequate complaint, and judicial consideration of the merits before any relief is afforded -- apply in these authorized suits. See also Colo. Rev. Stat. §§ 12-6-120 (1)(h), 12-6-122 (3) (1973); Mass. Gen. Laws Ann., ch. 93B, § 4 (3)(l) (West. Supp. 1978-1979).
+
+22Link to the location of the note in the document
+Cal. Veh. Code Ann. §§ 11705 (a)(3), 11705 (a)(10), 11713.2 (l), 40000.11 (West. Supp. 1978).
+
+23Link to the location of the note in the document
+In addition, the statute gives the "defendants" the burden in every case of informing the "plaintiffs" when their cause of action arises.
+
+24Link to the location of the note in the document
+Put in the more traditional language of due process analysis, the California scheme recognizes a right on the part of manufacturers and prospective dealers to establish or relocate automobile dealerships. It allows the State permanently to deprive those persons of that right upon a hearing and demonstration of cause. Finally, and what is at issue here, it allows private persons to invoke the power of the State to deprive manufacturers and prospective dealers of their rights temporarily without any process at all.
+
+25Link to the location of the note in the document
+Once a protest is filed, and an injunction has automatically been granted, Cal. Veh. Code Ann. § 3066 (a) (West. Supp. 1978) requires the Board to set a hearing. Although the hearing must be held within 60 days under that provision, this time limit is usually avoided when the Board refers the protest to a hearing officer, upon whom no statutory time limit is imposed. Moreover, after the hearing officer reaches a decision, the Board may either take another 30 days in adopting that decision, or an indefinite period of time in reaching an independent decision. The Board may also refer the decision back to the hearing officer with directions to take additional evidence and reach a new decision.
+
+26Link to the location of the note in the document
+"The manner in which the passage of the Act and the administration thereof have affected the present plaintiffs is revealed in the uncontradicted affidavits and documentary exhibits submitted by the parties. The only Buick dealer in Pasadena terminated his franchise early in 1974, and a replacement dealer had not been established until May 1975, when plaintiffs General Motors and Orrin W. Fox Co. executed a franchise agreement. Protests promptly were filed by Buick dealers located in the nearby cities of Monrovia and San Gabriel on about May 22, 1975. On May 29, 1975, the Board sent letters to General Motors advising of the protests and stating that 'you may not . . . establish the proposed dealership until the Board has held a hearing as provided for in Section 3066 Vehicle Code, nor thereafter if the Board has determined that there is good cause for not permitting such additional dealership.' The letter also advised that the Board would later fix a time for the hearing and would advise accordingly. On July 8, 1975, the Board assigned the dates of August 11 and 12, 1975, for the hearing.
+
+"However, as the result of requests for continuance by the protesters and by stipulation, and protracted litigation in the courts concerning the right to take prehearing depositions, the protests were reset for hearing on September 15, 1976. They therefore were still pending when the present action was filed, on April 13, 1976.
+
+"The foregoing recital shows that, under the provisions of the Act, the protesters were able to prevent plaintiff Fox from being established as a potential (although geographically rather remote) competitor for more than fifteen months (including the entire 1976 Buick model year), without any official consideration being given to the merit or lack of merit of the protests. Fox understandably assesses at many thousands of dollars its damages occasioned by such delay.
+
+"Plaintiff Muller Chevrolet took over an existing dealership in the Montrose section of Glendale in 1973. It soon became apparent to Muller that its physical facilities were completely inadequate and rapidly deteriorating and that a move to a new and much larger location was mandatory. In December 1974, Mr. Muller learned that the location of the current Volkswagen dealership in the adjacent community of La Canada might become available. Negotiations were begun that were contingent upon the Volkswagen dealer finding a new site for his operation, and upon the ability of the parties to finance their respective moves. After a year of complex and time-consuming negotiations, an agreement was reached in December 1975 and the required notice of intention to relocate was served upon the Board and the surrounding Chevrolet dealers on about January 16, 1976. A few days later, Chevrolet dealers in Pasadena and Tujunga, respectively, filed with the Board letters saying, in effect, no more than 'I protest,' and on February 6, 1976, the Board responded by enjoining the proposed relocation pending a hearing on the protests. About two weeks later, on February 23, 1976, the Board 'tentatively' set the hearing for June 23 through 25, 1976, and on April 21, 1976, issued a formal order confirming those dates. It is worthy of note here that such hearing was scheduled for a time more than four months after the injunction had been issued.
+
+"It appears from a supplemental affidavit filed by Mr. Muller on September 17, 1976, that the scheduled hearing took place before a hearing officer and that the latter rendered a decision favorable to the proposed relocation on about August 20, 1976. Then began the thirty-day waiting period within which time the Board might act upon that decision before the proposed relocation could be deemed approved and the injunction finally lifted (Vehicle Code § 3067). On September 14, 1976, before the end of such waiting period, Muller was advised that the new leasehold premises were no longer available for his dealership because of his long failure to take possession and otherwise assume the obligations of the lease. Muller thereupon 'gave up' with respect to this litigation and is starting all over again in his attempt to find a new site for his business." 440 F.Supp. 436, 439-440 (CD Cal. 1977) (three-judge court).
+
+27Link to the location of the note in the document
+Fuentes v. Shevin, 407 U.S. 67, 84-85 ("[It] is now well settled that a temporary, nonfinal deprivation of property is nonetheless a 'deprivation' in the terms of the Fourteenth Amendment").
+
+28Link to the location of the note in the document
+See, e. g., Ferguson v. Skrupa, 372 U.S. 726; Lincoln Union v. Northwestern Co., 335 U.S. 525, 536-537; North Dakota Board of Pharmacy v. Snyder's Drug Stores, Inc., 414 U.S. 156; Williamson v. Lee Optical Co., 348 U.S. 483.
+
+Although the Court has distinguished between economic and other rights in giving scope to the substantive requirements of the Due Process Clause, United States v. Carolene Products Co., 304 U.S. 144, 152-153, n. 4, it has carefully and explicitly avoided that distinction in applying the procedural requirements of the Clause. E. g., North Georgia Finishing, Inc. v. Di-Chem, Inc., 419 U.S. 601, 608; Fuentes v. Shevin, supra, at 89-90. Accordingly, I assume that, despite its curious citation of the cases that establish a low level of substantive protection for economic rights, the Court is not implying that those rights do not merit the procedural protection afforded by the Fourteenth Amendment.
+
+29Link to the location of the note in the document
+Although the Court has endorsed the modern relaxation of pleading rules, it has never receded from the requirement that civil complaints provide parties defendant with "fair notice" of the claims against them. Conley v. Gibson, 355 U.S. 41, 48.
+
+30Link to the location of the note in the document
+See also Mitchell v. W. T. Grant Co., 416 U.S. 600, 615-617; Gibson v. Berryhill, 411 U.S. 564, 578-579; Washington ex rel. Seattle Title Trust Co. v. Roberge, 278 U.S. 116, 121-122; Eubank v. City of Richmond, 226 U.S. 137, 143-144.
+
+The Court places great store in the fact that the California Legislature, rather than some administrative or adjudicative body, stands behind the deprivation at issue in this case. Ante, at 105. But, as Fuentes indicates, a legislative abdication of power to private citizens who are prone to act arbitrarily is no less unconstitutional than the arbitrary exercise of that power by the state officials themselves.
+
+31Link to the location of the note in the document
+Although the Court reads my opinion differently, see ante, at 106, I do not imply that there would be any constitutional defect in a statute imposing a general requirement that no dealer may open or relocate until after he has obtained an approval from a public agency. Nor do I imply that the appellees have an interest that may not be suspended except on a case-by-case basis. If, however, a State mandates a case-by-case determination of one private party's rights, the State may not confer arbitrary power to make that determination on another private party.

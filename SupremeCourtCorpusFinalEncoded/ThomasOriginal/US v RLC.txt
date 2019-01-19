@@ -1,0 +1,24 @@
+﻿
+
+
+112 S.Ct. 1329
+Supreme Court of the United States
+UNITED STATES, Petitioner
+v.
+R.L.C.
+No. 90–1577.
+|
+Argued Dec. 10, 1991.
+|
+Decided March 24, 1992.
+
+Justice THOMAS, concurring in part and concurring in the judgment.
+I agree with Justice SCALIA that the use of legislative history to construe an otherwise ambiguous penal statute against a criminal defendant is difficult to reconcile with the rule of lenity. I write separately, however, to emphasize that the rule is not triggered merely because a statute appears textually ambiguous on its face. Just last Term, we reaffirmed that the rule operates only “ ‘at the end of the process’ ” of construction, Chapman v. United States, 500 U.S. 453, 463, 111 S.Ct. 1919, 1926, 114 L.Ed.2d 524 (1991) (quoting Callanan v. United States, 364 U.S. 587, 596, 81 S.Ct. 321, 326, 5 L.Ed.2d 312 (1961)), if ambiguity remains “even after a court has ‘ “seize[d] every thing from which aid can be derived,” ’ ” ibid. (quoting United States v. Bass, 404 U.S. 336, 347, 92 S.Ct. 515, 522, 30 L.Ed.2d 488 (1971), in turn quoting United States v. Fisher, 2 Cranch 358, 386, 2 L.Ed. 304 (1805)). Thus, although we require Congress to enact “clear and definite” penal statutes, United States v. Universal C.I.T. Credit Corp., 344 U.S. 218, 221–222, 73 S.Ct. 227, 229–230, 97 L.Ed. 260 (1952), we also consult our own “well-established principles of statutory construction,” Gozlon–Peretz v. United States, 498 U.S. 395, 410, 111 S.Ct. 840, 849, 112 L.Ed.2d 919 (1991), in determining whether the relevant text is clear and definite. See, e.g., id., at 404, 111 S.Ct., at 846 (applying the rule in Arnold v. United States, 9 Cranch 104, 119–120, 3 L.Ed. 671 (1815), that statutes become effective immediately); Albernaz v. United States, 450 U.S. 333, 337–342, 101 S.Ct. 1137, 1141–1144, 67 L.Ed.2d 275 (1981) (applying the rule in Blockburger v. United States, 284 U.S. 299, 304, 52 S.Ct. 180, 182, 76 L.Ed. 306 (1932), to establish the permissibility of multiple punishments).
+ 
+These cases, I think, demonstrate that we must presume familiarity not only with the United States Code, see ante, at 1340, but also with the United States Reports, in which we have developed innumerable rules of construction powerful *312 enough to make clear an otherwise ambiguous penal statute. Cf. Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 843, n. 9, 104 S.Ct. 2778, 2781, n. 9, 81 L.Ed.2d 694 (1984) (“clear congressional intent” may be discerned by application of “traditional tools of statutory construction”). Like Congress’ statutes, the decisions of this Court are law, the knowledge of which we have always imputed to the citizenry. At issue here, though, is a rule that would also require **1342 knowledge of committee reports and floor statements, which are not law. I agree with Justice SCALIA that there appears scant justification for extending the “necessary fiction” that citizens know the law, see ante, at 1339–1340, to such extralegal materials.
+ 
+
+
+
+
+

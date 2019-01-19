@@ -1,0 +1,22 @@
+﻿
+JUSTICE O'CONNOR has explained why the Court's decision is erroneous. I add these comments to explain why I do not feel constrained by the decision in Hooper v. Bernalillo County Assessor, 472 U.S. 612 (1985), to join the Court's judgment.
+
+A governmental decision to grant a special privilege to a minority group is less objectionable than a decision to impose a special burden on a minority. 1Link to the text of the note In a democracy the majority will seldom treat itself unfairly. In equal protection analysis,     it is therefore appropriate to give some attention to the relative dimensions of favored and disfavored classes. 2Link to the text of the note
+
+       The New Mexico statute that the Court held invalid in Hooper gave a tax exemption to any Vietnam veteran who resided in New Mexico prior to May 8, 1976. The New York statute challenged in this case grants a preference only to those Vietnam veterans who were residents of the State when they joined the Armed Forces. The favored class in this case is therefore drawn more narrowly than the class that excluded Mr. Hooper. Despite the fact that the reasoning of the Hooper opinion might seem to cover this case as well, this distinction allows me to conclude otherwise for two reasons.
+
+First, in its Hooper opinion the Court itself was careful to reserve the question of the constitutionality of the New York statute in particular, and of the class of statutes that condition eligibility for a veteran's preference on residence at the time of enlistment in general. 3Link to the text of the note If the Court believed     the reasoning of Hooper to be controlling in this case, it had only to omit its footnote in Hooper and to affirm rather than note jurisdiction in this case, as it subsequently did. The Court cannot both leave a question open in order to make its Hooper         decision acceptable to a majority of its Members and at the same time claim that the Hooper holding has resolved the open question.
+
+    Second, and of greater importance, each additional condition of eligibility that further narrows the size of the preferred class places greater stress on the logic that undergirds the Court's holding. If a State should grant a special bonus to fighter pilots who are residents at the time of enlistment, to those who fought in the Battle of Midway, or perhaps just to the few who received the Congressional Medal of Honor -- would it violate the Equal Protection Clause to deny bonuses to comparable veterans who moved into the State after the end of the war? I think not, even though the reasoning in the opinions supporting the judgment would apply to each of those cases as well as it does to Hooper and to this case. As the class narrows, a judge is surely not bound to apply that flawed reasoning in each successive case instead of using each new extension to explain why the Court is marching in the wrong direction.
+
+I respectfully dissent.
+
+Cf. Wygant v. Jackson Board of Education, ante, at 316-317 (STEVENS, J., dissenting).
+
+2Link to the location of the note in the document
+See Hooper v. Bernalillo County Assessor, 472 U.S. 612, 629-630 (1985) (STEVENS, J., dissenting); Personnel Administrator of Massachusetts v. Feeney, 442 U.S. 256, 281 (1979) (STEVENS, J., concurring). Cf. Craig v. Boren, 429 U.S. 190, 213-214 (1976) (STEVENS, J., concurring).
+
+3Link to the location of the note in the document
+"Veterans' benefit statutes, which condition eligibility on state residence at the time of induction into the military, have survived challenges under the Equal Protection Clause before Zobel was decided. See, e. g., . . . August v. Bronstein, 369 F.Supp. 190 (SDNY), summarily aff'd, 417 U.S. 901 (1974) . . . .
+
+". . . [We note that] the Second Circuit recently has ruled that such a statute could not pass muster under the Equal Protection Clause in light of the Court's holding in Zobel [v. Williams, 457 U.S. 55 (1982)]. Soto-Lopez v. New York City Civil Service Comm'n, 755 F.2d 266 (1985), appeal docketed, No. 84-1803. Given the circumstances presented in this case, we need not consider here the constitutionality of these statutes." Hooper v. Bernalillo County Assessor, 472 U.S., at 621-622, n. 11.

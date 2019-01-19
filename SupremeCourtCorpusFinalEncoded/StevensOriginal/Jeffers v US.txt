@@ -1,0 +1,37 @@
+﻿
+        
+        Jeffers v. United States, 432 U.S. 137, 97 S. Ct. 2207 (1977)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE BRENNAN, MR. JUSTICE STEWART, and MR. JUSTICE MARSHALL join, dissenting in part, and concurring in the judgment in part.
+
+There is nothing novel about the rule that a defendant may not be tried for a greater offense after conviction of a lesser included offense. It can be traced back to Blackstone, and "has been this Court's understanding of the Double Jeopardy Clause at least since In re Nielsen [131 U.S. 176] was decided in 1889," Brown v. Ohio, post, at 168. 1Link to the text of the note I would not permit the prosecutor to claim ignorance of this ancient rule, or to evade it by [****34]  arguing that the defendant failed to advise him of its existence or its applicability. 1Link to the text of the note
+
+ [*159]  The defendant surely cannot be held responsible for the fact that two separate indictments were returned, 2Link to the text of the note or for the fact that other defendants were named in the earlier indictment, or for the fact that the Government elected to proceed to trial first on the lesser charge. 3Link to the text of the note The other defendants had valid objections to the Government's motion to consolidate the two cases for trial. 4Link to the text of the note Most trial lawyers will be startled to learn that a rather routine joint opposition to that motion to consolidate has  [**2221]  resulted in the loss 5Link to the text of the note of what this Court used to regard as "a vital  [***186]  safeguard in our society, one that  [*160]  was dearly won and one that should continue to be highly valued," Green v. United States, 355 U.S. 184, 198.  [****35]  6Link to the text of the note See United States v. Alford, 516 F.2d 941, 945 n. 1 (CA5 1975).
+
+ [****36]  It is ironic that, while the State's duty to give advice to an accused is contracting, see, e.g., Oregon v. Mathiason, 429 U.S. 492, a new requirement is emerging that the accused, in order to preserve a constitutional right, must inform the prosecution about the legal consequences of its acts. Even the desirability of extending Mr. Jeffers' incarceration does not justify this unique decision. 7Link to the text of the note
+
+LEdHN[2B] [2B]While I concur in the judgment to the extent that it vacates the cumulative fines, I respectfully dissent from the affirmance of the conviction.
+
+As the Court notes in Brown, Nielsen cites an 1833 New Jersey case; that case in turn quotes Blackstone. State v. Cooper, 13 N. J. L. 361, 375. See 4 W. Blackstone, Commentaries *336.
+
+2Link to the location of the note in the document
+The plurality implies that the result in this case would be different "if any action by the Government contributed to the separate prosecutions on the lesser and greater charges." Ante, at 152 n. 20. I wonder how the grand jury happened to return two separate indictments.
+
+3Link to the location of the note in the document
+The Government retained the alternative of trying petitioner on both charges at once, while trying the other defendants separately for conspiracy. The prosecutor never attempted this course, and defense counsel -- not having had an opportunity to read today's plurality opinion -- had no reason to believe he had a duty to suggest it. Until today it has never been the function of the defense to give legal advice to the prosecutor.
+
+4Link to the location of the note in the document
+When the Government attempted to obtain a joint trial on all the charges against all the defendants, the attorney representing all the defendants resisted the Government motion. He did so largely because of the possible prejudice to petitioner's codefendants, and gave relatively little emphasis to arguments relating to petitioner alone. See ante, at 142-143, n. 5.
+
+5Link to the location of the note in the document
+It is quite clear from the plurality opinion that petitioner has been denied his constitutional rights. As that opinion states, it is "the general rule that the Double Jeopardy Clause prohibits a State or the Federal Government from trying a defendant for a greater offense after it has convicted him of a lesser included offense." Ante, at 150. And, as the plurality also demonstrates, that is precisely what happened here. Ante, at 147-150. Two additional facts, also noted by the plurality, clinch the double jeopardy claim: (1) petitioner was not only twice tried, but also twice punished for the same offense, ante, at 154-158; and (2) the instructions at the second trial required petitioner to defend against the lesser charge for a second time, ante, at 145 n. 11.
+
+6Link to the location of the note in the document
+The following sentence by Mr. Justice Black is also worth remembering: "If such great constitutional protections are given a narrow, grudging application, they are deprived of much of their significance." Green, 355 U.S., at 198.
+
+7Link to the location of the note in the document
+The Court's disposition is especially troubling because eight Justices agree that petitioner's constitutional right was violated and only four are persuaded that he waived his double jeopardy objection.

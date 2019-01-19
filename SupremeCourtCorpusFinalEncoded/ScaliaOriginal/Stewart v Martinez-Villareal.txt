@@ -1,0 +1,28 @@
+﻿
+
+
+118 S.Ct. 1618
+Supreme Court of the United States
+Terry STEWART, Director, Arizona Department of Correction, et al., Petitioners,
+v.
+Ramon MARTINEZ-VILLAREAL.
+No. 97-300.
+|
+Argued Feb. 25, 1998.
+|
+Decided May 18, 1998.
+Justice SCALIA, with whom Justice THOMAS joins, dissenting.
+
+It is axiomatic that “the power to award the writ [of habeas corpus] by any of the courts of the United States, must be given by written law.” Ex parte Bollman, 4 Cranch 75, 94, 2 L.Ed. 554 (1807) (opinion of Marshall, C.J.). And it is impossible to conceive of language that more clearly precludes respondent’s renewed competency-to-be-executed claim than the written law before us here: a “claim presented in a second or successive habeas corpus application ... that was presented in a prior application shall be dismissed.” 28 U.S.C. § 2244(b)(1) (1994 ed., **1623 Supp. II) (emphasis added). The Court today flouts the unmistakable language of the statute to avoid what it calls a “perverse” result. Ante, at 1621. There is nothing “perverse” about the result that the statute commands, except that it contradicts pre-existing judge-made law, which it was precisely the purpose of the statute to change.
+ 
+Respondent received a full hearing on his competency-to-be-executed claim in state court. The state court appointed experts and held a 4-day evidentiary hearing, after which it found respondent “aware that he is to be punished for the crime of murder and ... aware that the impending punishment for that crime is death ....” App. 172. Respondent appealed this determination to the Supreme Court of Arizona, which accepted jurisdiction and denied relief. He sought certiorari of that denial in this Court, which also denied relief. To say that it is “perverse” to deny respondent a second round of time-consuming lower-federal-court review of his conviction and sentence-because that means forgoing lower-federal-court review of a competency-to-be-executed claim that arises only after he has already sought federal *647 habeas on other issues-is to say that state-court determinations must always be reviewable, not merely by this Court, but by federal district courts. That is indeed the principle that this Court’s imaginative habeas-corpus jurisprudence had established, but it is not a principle of natural law. Lest we forget, Congress did not even have to create inferior federal courts, U.S. Const., Art. I, § 8, cl. 9; Art. III, § 1, let alone invest them with plenary habeas jurisdiction over state convictions. And for much of our history, as Justice THOMAS points out, post, at 1625, prisoners convicted by validly constituted courts of general criminal jurisdiction had no recourse to habeas corpus relief at all. See Wright v. West, 505 U.S. 277, 285-286, 112 S.Ct. 2482, 2486-2487, 120 L.Ed.2d 225 (1992) (opinion of THOMAS, J.).
+ 
+It seems to me much further removed from the “perverse” to deny second-time collateral federal review than it is to treat state-court proceedings as nothing more than a procedural prelude to lower-federal court review of state supreme-court determinations. The latter was the regime that our habeas jurisprudence established and that the Antiterrorism and Effective Death Penalty Act (AEDPA) intentionally revised-to require extraordinary showings before a state prisoner can take a second trip around the extended district-court-to-Supreme-Court federal track. It is wrong for us to reshape that revision on the very lathe of judge-made habeas jurisprudence it was designed to repair.
+ 
+Today’s opinion resembles nothing so much as the cases of the 1920’s that effectively decided that the Clayton Act, designed to eliminate federal-court injunctions against union strikes and picketing, “restrained the federal courts from nothing that was previously proper.” T. Powell, The Supreme Court’s Control Over the Issue of Injunctions in Labor Disputes, 13 Acad. Pol. Sci. Proc. 37, 74 (1928). In criticizing those cases as examples of Gefühlsjurisprudenz (and in insisting upon “the necessity of preferring ... the Gefühl of the legislator to the Gefühl of the judge”), Dean Landis recalled Dicey’s trenchant observation that “ ‘judge-made *648 law occasionally represents the opinion of the day before yesterday.’ ” Landis, A Note on “Statutory Interpretation,” 43 Harv. L.Rev. 886, 888 (1930), quoting A. Dicey, Law and Opinion in England 369 (1926). As hard as it may be for this Court to swallow, in yesterday’s enactment of AEDPA Congress curbed our prodigality with the Great Writ. The words that Landis applied to the Clayton Act fit very nicely the statute that emerges from the Court’s decision in the present case: “The mutilated [AEDPA] bears ample testimony to the ‘day before yesterday’ that judges insist is today.” 43 Harv. L.Rev., at 892. I dissent.
+ 
+
+
+
+
+

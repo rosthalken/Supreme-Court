@@ -1,0 +1,55 @@
+﻿
+        
+        United States v. Young, 470 U.S. 1, 105 S. Ct. 1038 (1985)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+In Namet v. United States, 373 U.S. 179, 10 L. Ed. 2d 278, 83 S. Ct. 1151 (1963), the Court recognized that even in the absence of an objection, trial error may require reversal of a criminal conviction on either of two theories: (1) that it reflected prosecutorial misconduct, or (2) that it was obviously prejudicial to the accused. Id., at 186-187. In that case, after determining that the challenged error did not satisfy either standard, id., at 188-189, the Court concluded that it saw "no reason to require such extravagant protection [****60]  against errors which were not obviously prejudicial and which the petitioner himself appeared to disregard." Id., at 190. 1Link to the text of the note  [**1057]  It therefore affirmed the judgment of the Court of Appeals in that case.
+
+ [*36]  In this case the Court has unanimously concluded that the prosecutor's response to defense counsel's closing argument constituted error. 2Link to the text of the note It has thus decided against the Government the principal question that its petition for a writ of certiorari presented. 3Link to the text of the note The Court  [****61]  has also unanimously concluded that "the prosecutor's comments crossed the lines of permissible conduct established by the ethical rules of the legal profession." Ante,  [***26]  at 14; see also ante, at 25-26 (BRENNAN, J., joined by MARSHALL and BLACKMUN, JJ., concurring in part and dissenting in part). Thus, at least one of the elements that was absent in Namet is present here.
+
+With respect to the second element -- prejudice -- there is disagreement and, I submit, some confusion within the Court. The majority opinion carefully avoids denying that the prosecutorial [****62]  misconduct was prejudicial to the accused. Instead, it concludes that the error did not "unfairly" prejudice the jury, ante, at 19, partly because the error was invited by defense counsel's misconduct and partly because the Court is convinced that respondent is guilty. 4Link to the text of the note [****63]  JUSTICE BRENNAN, on the other hand, correctly explains why this Court should permit the Court of Appeals to decide whether  [*37]  the error was "plain" or "harmless." He therefore would send the case back to that court to perform that task. 5Link to the text of the note
+
+In my opinion, it is perfectly clear that the Court of Appeals has already made that determination. I do not understand how anyone could dispute the proposition that the prosecutor's comments were obviously prejudicial. Instead, the question is whether the degree of prejudice, buttressed by the legitimate interest in deterring prosecutorial misconduct, is sufficient to warrant reversal. On that question, the factor of judgment necessarily plays a critical role. 6Link to the text of the note I am persuaded that a due respect for the work of our circuit judges, combined with a fair reading of their opinion in this case, warrants the conclusion that they have already done exactly what JUSTICE BRENNAN would have them do again.
+
+ [****64]  The Court of Appeals' opinion took note of defense counsel's failure to make an objection to the improper argument, but nevertheless accepted the contention on appeal that "the prosecutor's conduct substantially prejudiced the Appellant at trial.  [**1058]  " App. to Pet. for Cert. 9a. After reviewing relevant portions of the transcript that "speak for themselves," id., at 10a, and considering other Tenth Circuit cases dealing with "prejudicial statements made by the prosecution during  [*38]  argument to the  [***27]  jury," ibid., the Court of Appeals expressly concluded that "the above quoted remarks were sufficiently egregious as to constitute plain error." Ibid. I have no doubt that the judges of the Court of Appeals for the Tenth Circuit are familiar with the difference between "harmless error" and "plain error." 7Link to the text of the note Rather than asking those judges to supplement the opinion they have already written, I would simply affirm their judgment.
+
+The Court appended the following footnote:
+
+"Finding, as we do, that this case involves neither misconduct by the prosecution nor inferences of material importance, we need not pass upon the holding in United States v. Maloney, [262 F.2d 535 (CA2 1959)], that a failure to give proper curative instructions when such elements are present constitutes plain error." 373 U.S. at 190, n. 10.
+
+See also Henderson v. Kibbe, 431 U.S. 145, 154, n. 12, 52 L. Ed. 2d 203, 97 S. Ct. 1730 (1977).
+
+2Link to the location of the note in the document
+Ante, at 14, 16-20; ante, at 26-30 (BRENNAN, J., joined by MARSHALL and BLACKMUN, JJ., concurring in part and dissenting in part).
+
+3Link to the location of the note in the document
+The principal question asked:
+
+"Whether a prosecutor may rebut closing defense argument impugning the integrity of the prosecution and asserting that the prosecutors themselves do not believe in the defendant's guilty by responsive argument that would be inappropriate in the absence of such provocation."
+
+4Link to the location of the note in the document
+Ante, at 17-19. I do not, of course, suggest that it is improper for the Court to evaluate the probable impact of the error on the outcome of the case. It is important to remember, however, that the question is not whether the judge is persuaded that the defendant is guilty, but "rather what effect the error had or reasonably may be taken to have had upon the jury's decision. The crucial thing is the impact of the thing done wrong on the minds of other men, not on one's own, in the total setting." Kotteakos v. United States, 328 U.S. 750, 764, 90 L. Ed. 1557, 66 S. Ct. 1239 (1946).
+
+5Link to the location of the note in the document
+Ante, at 30-35 (BRENNAN, J., joined by MARSHALL and BLACKMUN, JJ., concurring in part and dissenting in part).
+
+6Link to the location of the note in the document
+The Court has commented on the difficulty of applying the harmless-error standard:
+
+"This, in part, because it is general; but in part also because the discrimination it requires is one of judgment transcending confinement by formula or precise rule. United States v. Socony-Vacuum Oil Co., 310 U.S. 150, 240, 84 L. Ed. 1129, 60 S. Ct. 811. That faculty cannot ever be wholly imprisoned in words, much less upon such a criterion as what are only technical, what substantial rights; and what really affects the latter hurtfully. Judgment, the play of impression and conviction along with intelligence, varies with judges and also with circumstance. What may be technical for one is substantial for another; what minor and unimportant in one setting crucial in another." Kotteakos v. United States, 328 U.S. at 761.
+
+7Link to the location of the note in the document
+Rule 52 of the Federal Rules of Criminal Procedure, which is entitled "Harmless Error and Plain Error," reads as follows:
+
+"(a) Harmless Error. Any error, defect, irregularity or variance which does not affect substantial rights shall be disregarded.
+
+"(b) Plain Error. Plain errors or defects affecting substantial rights may be noticed although they were not brought to the attention of the Court."
+
+The note of the Advisory Committee to Rule 52(b) reads as follows:
+
+"This rule is a restatement of existing law, Wiborg v. United States, 163 U.S. 632, 658, 41 L. Ed. 289, 16 S. Ct. 1127 . . .; Hemphill v. United States, 112 F.2d 505, C. C. A. 9th, reversed 312 U.S. 657, 85 L. Ed. 1106, 61 S. Ct. 729, . . . conformed to 120 F.2d 115, certiorari denied 314 U.S. 627. . . . Rule 27 of the Rules of the Supreme Court, 28 U. S. C. foll. § 354, provides that errors not specified will be disregarded, 'save as the court, at its option, may notice a plain error not assigned or specified.' Similar provisions are found in the rules of several circuit courts of appeals." 18 U. S. C. App., p. 657.

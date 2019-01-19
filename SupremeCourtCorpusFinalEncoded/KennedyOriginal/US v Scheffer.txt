@@ -1,0 +1,27 @@
+﻿
+        
+        United States v. Scheffer, 523 U.S. 303, 118 S. Ct. 1261 (1998)
+        
+
+
+      
+
+JUSTICE KENNEDY, with whom JUSTICE O'CONNOR, JUSTICE GINSBURG, and JUSTICE BREYER join, concurring in part and concurring in the judgment.
+
+I join Parts I, II-A, and II-D of the opinion of the Court.
+
+In my view it should have been sufficient to decide this case to observe, as the principal opinion does, that various courts and jurisdictions "may reasonably reach differing conclusions as to whether polygraph evidence should be admitted." Ante, at 8. The continuing, good-faith disagreement among experts and courts on the subject of polygraph reliability counsels against our invalidating a per se exclusion of polygraph results or of the fact an accused has taken or refused to take a polygraph examination. If we were to accept respondent's position, of course, our holding would bind state courts, as well as military and federal courts. Given the ongoing debate about polygraphs, I agree the rule of exclusion is not so arbitrary or disproportionate that it is [****26]  unconstitutional.
+
+I doubt, though, that the rule of per se exclusion is wise, and some later case might present a more compelling case for introduction of the testimony than this one does. Though the considerable discretion given to the trial court in admitting or excluding scientific evidence is not a constitutional mandate, see Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579, 587, 125 L. Ed. 2d 469, 113 S. Ct. 2786 (1993), there is some tension between that rule and our holding today. And, as JUSTICE STEVENS points out, there is much inconsistency between the Government's extensive use of polygraphs to make vital security determinations and the argument [***425]  it makes here, stressing the inaccuracy of these tests.
+
+With all respect, moreover, it seems the principal opinion overreaches when it rests its holding on the additional ground that the jury's role in making credibility determinations is diminished when it hears polygraph evidence. I am in substantial agreement with JUSTICE STEVENS' observation that the argument demeans and mistakes the role and  [*319]  competence of jurors in deciding the factual question of guilt or innocence. Post, at 18. In the last analysis the principal opinion says it is [****27]  unwise to allow the jury to hear "a conclusion about the ultimate issue in the trial." Ante, at 10. I had thought this tired argument had long since been given its deserved repose as a categorical rule of exclusion. Rule 704(a) of the Federal Rules of Evidence states: "Except as provided in subdivision (b), testimony in the form of an opinion or inference otherwise admissible is not objectionable because it embraces an ultimate issue to be decided by the trier of fact." The Advisory Committee's Notes state:
+
+"The older cases often contained strictures against allowing witnesses to express opinions upon ultimate issues, as a particular aspect of the rule against opinions. The rule was unduly restrictive, difficult of application, and generally served only to deprive the trier of fact of useful information. 7 Wigmore §§ 1920, 1921; McCormick § 12. The basis usually assigned for the rule, to prevent the witness from 'usurping the province of the jury,' is aptly characterized as 'empty rhetoric.' 7 Wigmore § 1920, p. 17." Advisory Committee's Notes on Fed. Rule Evid. 704, 28 U.S.C., p. 888.
+
+The principal opinion is made less convincing by its contradicting the rationale of Rule [****28]  704 and the well considered reasons the Advisory Committee recited in support of its adoption.
+
+ [**1270]  The attempt to revive this outmoded theory is especially inapt in the context of the military justice system; for the one narrow exception to the abolition of the ultimate issue rule still surviving in the Federal Rules of Evidence has been omitted from the corresponding rule adopted for the military. The ultimate issue exception in the Federal Rules of Evidence is as follows:
+
+"No expert witness testifying with respect to the mental state or condition of a defendant in a criminal case may  [*320]  state an opinion or inference as to whether the defendant did or did not have the mental state or condition constituting an element of the crime charged or of a defense thereto. Such ultimate issues are matters for the trier of fact alone." Fed. Rule Evid. 704(b).
+
+The drafting committee for the Military Rules of Evidence renounced even this remnant. It said: "The statutory qualifications for military court members reduce the risk that military court members will be unduly influenced by the presentation of ultimate opinion testimony from psychiatric experts." Manual for Courts-Martial, United States, Analysis [****29]  of the Military Rules of Evidence, p. A22-48 (1995 ed.). Any supposed need to protect the role of the finder of fact is diminished even further by this specific acknowledgment [***426]  that members of military courts are not likely to give excessive weight to opinions of experts or otherwise to be misled or confused by their testimony. Neither in the federal system nor in the military courts, then, is it convincing to say that polygraph test results should be excluded because of some lingering concern about usurping the jury's responsibility to decide ultimate issues.

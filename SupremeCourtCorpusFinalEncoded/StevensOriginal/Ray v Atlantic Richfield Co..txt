@@ -1,0 +1,47 @@
+﻿
+        
+        Ray v. Atl. Richfield Co., 435 U.S. 151, 98 S. Ct. 988 (1978)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE POWELL joins, concurring in part and dissenting in part.
+
+The federal interest in uniform regulation of commerce on the high seas, reinforced by the Supremacy Clause,  [****61]  "dictates that the federal judgment that a vessel is safe to navigate United States waters prevail over the contrary state judgment." Ante, at 165. For that reason, as the Court explains in Part IV of its opinion, we must reject the judgment expressed by the Legislature of the State of Washington that  [*188]  an oil tanker of 40,000 to 125,000 deadweight tons cannot safely navigate in Puget Sound unless it possesses the "standard safety features" prescribed by § 88.16.190 (2) of the  [**1010]  Washington Code. 1Link to the text of the note As the Court holds, the state statute imposing those design requirements is invalid. It follows, I believe, that the State may not impose any special restrictions on vessels which do not satisfy these invalid criteria.
+
+ [****62]  The Court correctly holds that the State may not exclude vessels in that category from Puget Sound but it inconsistently allows the State to impose a costly tug-escort requirement on those vessels and no others. This tug-escort requirement is not, by its terms, a general safety rule from which tankers are exempt if they possess the invalid design features. 2Link to the text of the note  [***208]  Quite the  [*189]  contrary, the tug-escort requirement is merely a proviso in § 88.16.190(2) -- the section of the Washington Tanker Law that prescribes the design requirements; it is imposed only on tankers that do not comply with those requirements. The federal interest that prohibits state enforcement of those requirements should also prohibit state enforcement of a special penalty for failure to comply with them.
+
+If the federal interest in uniformity is to be vindicated, the magnitude of the special burden imposed by any one State's attempt to  [****63]  penalize noncompliance with its invalid rules is of no consequence. The tug-escort penalty imposed by Washington will cost appellee ARCO approximately $ 277,500 per year. The significance of that cost cannot be determined simply by comparison with the capital investment which would be involved in complying with Washington's invalid design specifications. Rather, it should be recognized that this initial burden is subject to addition and multiplication by similar action in other States. 3Link to the text of the note Moreover, whether or not so multiplied, the imposition of any special restriction impairs the congressional determination to provide uniform standards for vessel design and construction. 4Link to the text of the note
+
+ [****64] 
+
+ [*190]  Since I am persuaded that the tug-escort requirement is an inseparable appendage to  [**1011]  the invalid design requirements, the invalidity of one necessarily infects the other. I therefore respectfully dissent from Parts V and VII of the Court's opinion. 5Link to the text of the note
+
+Washington Rev. Code § 88.16.190 (2) (Supp. 1975) reads as follows:
+
+"(2) An oil tanker, whether enrolled or registered, of forty to one hundred and twenty-five thousand deadweight tons may proceed beyond the points enumerated in subsection (1) if such tanker possesses all of the following standard safety features:
+
+"(a) Shaft horsepower in the ratio of one horsepower to each two and one-half deadweight tons; and
+
+"(b) Twin screws; and
+
+"(c) Double bottoms, underneath all oil and liquid cargo compartments; and
+
+"(d) Two radars in working order and operating, one of which must be collision avoidance radar; and
+
+"(e) Such other navigational position location systems as may be prescribed from time to time by the board of pilotage commissioners:
+
+"Provided, That, if such forty to one hundred and twenty-five thousand deadweight ton tanker is in ballast or is under escort of a tug or tugs with an aggregate shaft horsepower equivalent to five percent of the deadweight tons of that tanker, subsection (2) of this section shall not apply: Provided further, That additional tug shaft horsepower equivalencies may be required under certain conditions as established by rule and regulation of the Washington utilities and transportation commission pursuant to chapter 34.04 RCW: Provided further, That a tanker of less than forty thousand deadweight tons is not subject to the provisions of [this Act]."
+
+2Link to the location of the note in the document
+The Court, ante, at 173, seems to characterize the tug-escort requirement as such a "general rule."
+
+3Link to the location of the note in the document
+The possibility of States' enacting legislation similar to Washington's is not remote. Alaska has enacted legislation requiring payment of a "risk charge" by vessels that do not conform to state design requirements, Alaska Stat. Ann. § 30.20.010 et seq. (Sept. 1977), and California is considering comparable legislation. See Brief for State of California et al. as Amici Curiae 3 n. 2.
+
+4Link to the location of the note in the document
+No matter how small the cost in the individual case, the State's effort here to enforce its general determinations on vessel safety must be viewed as an "obstacle" to the attainment of Congress' objective of providing comprehensive standards for vessel design. See Hines v. Davidowitz, 312 U.S. 52, 67. This does not mean that the State cannot adopt any general rules imposing tug escort requirements, but it does mean that it cannot condition those requirements on safety determinations that are pre-empted by federal law, thus "impos[ing] additional burdens not contemplated by Congress." De Canas v. Bica, 424 U.S. 351, 358 n. 6.
+
+5Link to the location of the note in the document
+The validity of Washington's tug-escort provision may be short lived, despite today's opinion. The Secretary is now contemplating regulations in this area, and even the majority concedes that they may pre-empt the State's regulation. Ante, at 172. While this lessens the impact of the State's regulation and the threat it poses to the federal scheme, the legal issue is not affected by the imminence of agency action.

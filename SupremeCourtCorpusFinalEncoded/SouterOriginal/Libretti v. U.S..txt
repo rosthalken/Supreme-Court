@@ -1,0 +1,14 @@
+﻿JOSEPH LIBRETTI, PETITIONER v. UNITED STATES
+
+No. 94-7427
+
+SUPREME COURT OF THE UNITED STATES
+
+116 S. Ct. 356
+
+October 3, 1995, Argued 
+November 7, 1995, Decided
+
+JUSTICE SOUTER, concurring in part and concurring in the judgment.
+I join in the judgment and Parts I and II of the Court's opinion. I would not reach the question of a Sixth Amendment right to trial by jury on the scope of forfeiture or whether the Constitution obliges a trial court to advise a defendant of whatever jury trial right he may have. In cases like this one, any such right to instruction will be satisfied by the court's obligatory advice to the defendant of the right to jury trial generally. See Fed. Rule Crim. Proc. 11(c)(3) ("Before accepting a plea of guilty . . . the court must address the defendant personally in open court and inform the defendant of, and determine that the defendant understands, . . . that the defendant has . . . the right to be tried by a jury"). It is reasonable to understand the scope of the right as covering all matters charged in the indictment, which under Rule 7(c)(2) will include the forfeiture claim. Since a defendant will have been provided a copy of the indictment, see Fed. Rule Crim. Proc. 10 ("The defendant shall be given a copy of the indictment or information before being called upon to plead"), and will have heard it read or summarized, see ibid. ("Arraignment shall be conducted in open court and shall consist of reading the indictment or information to the defendant or stating to the defendant the substance of the charge"), he will naturally understand that his right to jury trial covers a verdict on the forfeiture claim.
+If, in speaking to the defendant or in other statements within his hearing, the court should affirmatively say or suggest that the right to jury trial would not extend to the forfeiture, that would be error under the current law, whatever the constitutional status of that right may be. While there is some reason to argue that the court's colloquy with the  [*53]  defendant in this case was misleading, see App. 87 ("If you plead guilty . . . . the jury is not going to decide whether you're guilty or not"), I think JUSTICE GINSBURG is right to conclude otherwise, for the reasons given in her separate opinion.

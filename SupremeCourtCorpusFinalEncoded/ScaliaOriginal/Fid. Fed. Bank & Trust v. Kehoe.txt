@@ -1,0 +1,11 @@
+﻿547 U.S. 1051
+Fidelity Federal Bank & Trust, Petitioner v. James Kehoe 
+Supreme Court of the United States
+March 27, 2006, Decided
+No. 05-919.
+
+JUSTICE SCALIA, with whom JUSTICE ALITO joins, concurring.
+
+This case presents an important question of statutory construction -- whether "actual damages" must be shown before a plaintiff may recover under the Driver's Privacy Protection Act of 1994, 18 U.S.C. § 2724(b)(1). The Florida Department of Highway Safety and Motor Vehicles sold to petitioner, for a penny a piece, the names and addresses of 565,600 individuals in three counties who registered cars with the DMV -- the total cost [*2]  was thus $ 5,656. Petitioner intended to mail these individuals a solicitation to refinance their automobile loans. However, because Florida -- alone among the States -- had not immediately amended its law to comply with the Act, none of these people had given their "express consent" to the release of this information, as the Act requires. § 2721(b)(12). Petitioner now faces a possible $ 1.4 billion judgment -- $ 2,500 per violation. Because of other class actions currently pending in Florida, involving the same question, the total amount at stake may reach $ 40 billion. This enormous potential liability, which turns on a question of federal statutory interpretation, is a strong factor in deciding whether to grant certiorari. See, e.g., R. Stern, E. Gressman, S. Shapiro, & K. Geller, Supreme Court Practice 248 (8th ed. 2002).
+
+Nonetheless, I concur in the denial of certiorari. A second and equally important legal question is bound up in this case -- namely, whether petitioner can be held liable under the Act if it did not know that the State had failed to comply with the Act's "express consent" requirement. The District Court did not reach this issue since it awarded summary judgment [*3]  to petitioner on the actual damages question. The scienter question remains open in light of the Eleventh Circuit's judgment reversing and remanding the case. See 421 F.3d 1209 (2005). Depending on the course of proceedings below, it may later be appropriate for us to consider granting certiorari as to either or both issues. But because I agree that our consideration of the case would be premature now, I concur in the denial of certiorari.

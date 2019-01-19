@@ -1,0 +1,25 @@
+﻿
+
+
+107 S.Ct. 2941
+Supreme Court of the United States
+Jean E. WELCH, Petitioner
+v.
+TEXAS DEPARTMENT OF HIGHWAYS AND PUBLIC TRANSPORTATION et al.
+No. 85–1716.
+|
+Argued March 4, 1987.
+|
+Decided June 25, 1987.
+ 
+
+Justice SCALIA, concurring in part and concurring in the judgment.
+Petitioner in this case did not assert as a basis for reversing the judgment that Hans v. Louisiana, 134 U.S. 1, 10 S.Ct. 504, 33 L.Ed. 842 (1890), *496 had been wrongly decided. That argument was introduced by an amicus, addressed only briefly in respondents’ brief, and touched upon only lightly at oral argument. I find both the correctness of Hans as an original matter, and the feasibility, if it was wrong, of correcting it without distorting what we have done in tacit reliance upon it, complex enough questions that I am unwilling to address them in a case whose presentation focused on other matters.
+ 
+I find it unnecessary to do so in any event. Regardless of what one may think of Hans, it has been assumed to be the law for nearly a century. During that time, Congress has enacted many statutes—including the Jones Act and the provisions of the Federal Employers’ Liability Act (FELA) which it incorporates—on the assumption that States were immune from suits by individuals. Even if we were now to find that assumption to have been wrong, we could not, in reason, interpret the statutes as though the assumption never existed. Thus, although the terms of the Jones Act (through its incorporation of the FELA) apply to all common carriers by water, I do not read them to apply to States. For the same reason, I do not read the FELA to apply to States, and therefore agree with the Court that Parden v. Terminal Railway of Alabama Docks Dept., 377 U.S. 184, 84 S.Ct. 1207, 12 L.Ed.2d 233 (1964), should be overruled. Whether or not, as Hans appears to have held, Article III of the Constitution contains an implicit limitation on suits brought by individuals against States by virtue of a nearly universal “understanding” that the federal judicial power could not extend to such suits, such an understanding clearly underlay the Jones Act and the FELA.
+ 
+
+
+
+
+

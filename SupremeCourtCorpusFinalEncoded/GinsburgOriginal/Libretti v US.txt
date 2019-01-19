@@ -1,0 +1,24 @@
+﻿
+        
+        Libretti v. United States, 516 U.S. 29, 116 S. Ct. 356 (1995)
+        
+
+
+      
+
+JUSTICE GINSBURG, concurring in part and concurring in the judgment.
+
+Rule 11(f), I agree for reasons the Court states, does not impose on district courts an obligation to find a "factual basis" for asset forfeitures stipulated in a plea agreement. I therefore join in Parts I and II of the Court's opinion and concur in the judgment. But the jury-trial right for which Rule [****44]  31(e) provides, as I see it, must be known in order to be given up voluntarily. I therefore set out briefly my view of the second issue the Court decides.
+
+At the plea hearing, the District Court carefully and comprehensively informed Libretti that his guilty plea would waive his right to jury trial on the crimes charged in  [**370]  the indictment. The court did not then refer to the unusual jury-trial right on criminal forfeiture provided by Rule 31(e) of the Federal Rules of Criminal Procedure:
+
+"If the indictment or the information alleges that an interest or property is subject to criminal forfeiture, a special verdict shall be returned as to the extent of the interest or property subject to forfeiture, if any."
+
+See also Fed. Rule Crim. Proc. 7(c)(2) ("No judgment of forfeiture may be entered in a criminal proceeding unless the indictment or the information shall allege the extent of the interest or property subject to forfeiture"); Fed. Rule Crim. Proc. 11(c)(1) (court must address defendant personally in open court and inform him of "the nature of the charge" when plea of guilty is offered).
+Just as intelligent waiver of trial by jury on the underlying offense requires [****45]  that the defendant be advised of the right,  [*54]  so waiver of the extraordinary jury-trial right on forfeiture should turn on the defendant's awareness of the right his plea will override. That right, uncommon as it is, may not be brought home to a defendant through a bare reading of the forfeiture clause in the indictment. Clarity, however, is easily achieved. In cases like Libretti's, trial judges can readily avoid unknowing relinquishment of the procedural right to a jury verdict on forfeiture by routinely apprising defendants, at plea hearings, of Rule 31(e)'s atypical specialverdict requirement.
+
+Failure to mention Rule 31(e) at Libretti's plea hearing is not cause for revisiting the forfeiture of his property, however, because at least two pretrial references were made to Rule 31(e)'s requirement. First, there was a brief exchange between court and counsel on the need for a special-verdict form. 1 Tr. 8. Second, and more informative, the trial judge explained to the jurors during voir dire that the indictment included
+
+"a provision for a forfeiture of all property of any kind constituting or derived from proceeds that Mr. Libretti received directly or indirectly [****46]  from engaging in said continuing criminal enterprise. And that's a subject matter on which the jury will be required at the end of the case to answer a specific question relating to it." Id., at 188.
+
+In view of this statement to the lay triers -- telling them in Libretti's presence that they would be called upon specifically to decide the matter of forfeiture -- Libretti cannot persuasively plead ignorance of the special-verdict right Rule 31(e) prescribes.

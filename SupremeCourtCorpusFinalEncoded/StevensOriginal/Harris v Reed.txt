@@ -1,0 +1,15 @@
+﻿HARRIS v. REED, WARDEN, et al.
+
+No. 87-5677
+
+SUPREME COURT OF THE UNITED STATES
+
+489 U.S. 255
+
+October 12, 1988, Argued 
+February 22, 1989, Decided
+
+JUSTICE STEVENS, concurring.
+In view of my dissent in Michigan v. Long, 463 U.S. 1032, 1065-1072 (1983), it is appropriate to add a few words explaining why there is unique virtue in applying the rule of that case to the problem presented by this case.
+My dissent in Michigan v. Long was addressed primarily to two concerns. First, in adopting a presumption favoring the assertion of federal  [***320]  jurisdiction in ambiguous cases, the Court ignored the longstanding and venerated presumption  [*267]  that federal courts are without jurisdiction unless "'the contrary appears affirmatively from the record.'" See Delaware v. Van Arsdall, 475 U.S. 673, 692 (1986) (Stevens, J., dissenting) (quoting King Bridge Co. v. Otoe County, 120 U.S. 225, 226 (1887)). Second, in its original form, the presumption adopted in Michigan v. Long expanded this Court's review of cases in which state courts had overprotected their respective citizens. In my opinion, the federal courts -- and particularly this Court -- have a primary obligation to protect the rights of the individual that are embodied in the Federal Constitution. See 475 U.S., at 695-697. Although some cases involving overly expansive interpretations of federally protected rights surely merit federal review, the interest in correcting such errors is necessarily secondary to the federal courts' principal role as protector of federally secured rights. The expenditure of scarce judicial resources and the intrusion into state affairs is accordingly less justified when the state court has gone too far in protecting a federal right than when the state court has  [**1046]  failed to provide the constitutional minimum of protection.
+These concerns, however, are not implicated in a case such as this, in which a federal court, in considering a petition for a writ of habeas corpus, must decide whether a state procedural bar constitutes an adequate and independent state ground for denying relief. As our decisions in Fay v. Noia, 372 U.S. 391, 426-435 (1963), and Wainwright v. Sykes, 433 U.S. 72, 82-84 (1977), make clear, an adequate and independent state ground for decision does not dispossess the federal courts of jurisdiction on collateral review. More significantly, in considering petitions for relief under 28 U. S. C. § 2254, the federal courts do not review state-court decisions to determine if the States have gone too far in protecting the rights of their citizenry, but rather perform the core function of vindicating federally protected rights. Because the concerns that prevented me from joining the majority opinion in  [*268]  Michigan v. Long are not present in this case, I join the Court's opinion and judgment.

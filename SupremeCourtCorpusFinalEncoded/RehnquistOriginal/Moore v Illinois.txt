@@ -1,0 +1,24 @@
+﻿
+
+
+98 S.Ct. 458
+Supreme Court of the United States
+James Raymond MOORE, Petitioner,
+v.
+State of ILLINOIS.
+No. 76-5344.
+|
+Argued Oct. 3, 1977.
+|
+Decided Dec. 12, 1977.
+
+**467 Mr. Justice REHNQUIST, concurring.
+
+In 1964, this Court held that in certain limited circumstances a statement given to police after persistent questioning would be suppressed at trial if the suspect had repeatedly requested, and been denied, an opportunity to consult with his attorney. Escobedo v. Illinois, 378 U.S. 478, 490-491, 84 S.Ct. 1758, 1764-1765, 12 L.Ed.2d 977. At the time, there were intimations that this ruling rested largely on the Sixth Amendment guarantee of right to counsel at critical stages of the criminal proceeding. Id., at 484-486, 84 S.Ct., at 1761-1762. Shortly thereafter, however, the Court perceived “that *233 the ‘prime purpose’ of Escobedo was not to vindicate the constitutional right to counsel as such, but, like Miranda, ‘to guarantee full effectuation of the privilege against self-incrimination . . . .’ Johnson v. New Jersey, 384 U.S. 719, 729, 86 S.Ct. 1772, 16 L.Ed.2d 882.” Kirby v. Illinois, 406 U.S. 682, 689, 92 S.Ct. 1877, 1882, 32 L.Ed.2d 411 (1972) (Stewart, J.). Cf. Darwin v. Connecticut, 391 U.S. 346, 349, 88 S.Ct. 1488, 1489, 20 L.Ed.2d 630 (1968). Accordingly, Escobedo was largely limited to its facts. See Johnson v. New Jersey, 384 U.S. 719, 733-734, 86 S.Ct. 1772, 1780-1781, 16 L.Ed.2d 882 (1966); Kirby v. Illinois, supra; Frazier v. Cupp, 394 U.S. 731, 739, 89 S.Ct. 1420, 1424, 22 L.Ed.2d 684 (1969); Michigan v. Tucker, 417 U.S. 433, 438, 94 S.Ct. 2357, 2360, 41 L.Ed.2d 182 (1974). This, of course, left open the possibility of examining the voluntariness of a confession under a more appropriate standard-the totality of the circumstances. Cf. Clewis v. Texas, 386 U.S. 707, 87 S.Ct. 1338, 18 L.Ed.2d 423 (1967).
+I believe the time will come when the Court will have to re-evaluate and reconsider the Wade-Gilbert* rule for many of the same reasons. The rule was established to ensure the accuracy and reliability of pretrial identifications and the Court will have to decide whether a per se exclusionary rule should still apply or whether Wade-Gilbert violations, like other questions involving the reliability of pretrial identification, should be judged under the totality of the circumstances. Cf. Manson v. Brathwaite, 432 U.S. 98, 106, 97 S.Ct. 2243, 53 L.Ed.2d 140 (1977); cf. Kirby v. Illinois, supra, 406 U.S., at 690-691, 92 S.Ct., at 1882-1883; Simmons v. United States, 390 U.S. 377, 383, 88 S.Ct. 967, 970, 19 L.Ed.2d 1247 (1968); Stovall v. Denno, 388 U.S. 293, 302, 87 S.Ct. 1967, 1972, 18 L.Ed.2d 1199 (1967). However, since the State has chosen not to press this point and because I believe the Court’s opinion is a correct reading of Wade and Gilbert, I concur in the opinion and judgment of the Court.
+
+
+
+*
+United States v. Wade, 388 U.S. 218, 87 S.Ct. 1926, 18 L.Ed.2d 1149 (1967); Gilbert v. California, 388 U.S. 263, 87 S.Ct. 1951, 18 L.Ed.2d 1178 (1967).
+

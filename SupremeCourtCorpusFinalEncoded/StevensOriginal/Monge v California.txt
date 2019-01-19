@@ -1,0 +1,36 @@
+﻿ANGEL JAIME MONGE, PETITIONER v. CALIFORNIA
+
+No. 97-6146
+
+SUPREME COURT OF THE UNITED STATES
+
+524 U.S. 721
+
+April 28, 1998, Argued 
+June 26, 1998, Decided
+
+JUSTICE STEVENS, dissenting.
+"The Double Jeopardy Clause forbids a second trial for the purpose of affording the prosecution another opportunity to supply evidence which it failed to muster in the first proceeding."  [*735]  Burks v. United States, 437 U.S. 1, 11, 57 L. Ed. 2d 1, 98 S. Ct. 2141 (1978). 1 Today, the Court ignores this cardinal  [**2254]  principal. In this case, the prosecution attempted to prove that petitioner had previously been convicted of a qualifying felony. If the prosecution had proved this fact, petitioner would have automatically been sentenced to an additional 5 years in prison. 2 The prosecution, however, failed to prove its case. 3 Consequently, the Double Jeopardy Clause prohibits a "'second bite at the apple.'" Id., at 17.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 See also, e.g., Poland v. Arizona, 476 U.S. 147, 152, 90 L. Ed. 2d 123, 106 S. Ct. 1749 (1986) (reprosecution or resentencing prohibited whenever "a jury agrees or an appellate court decides that the prosecution has not proved its case" (internal quotation marks omitted)); cf. Schiro v. Farley, 510 U.S. 222, 231-232, 127 L. Ed. 2d 47, 114 S. Ct. 783 (1994) ("The state is entitled to 'one fair opportunity' to prosecute a defendant, . . . and that opportunity extends not only to prosecution at the guilt phase, but also to present evidence at an ensuing sentencing proceeding").
+2 The finding of this fact would have also increased petitioner's sentencing range. See Cal. Health & Safety Code Ann. § 11361(a) (West 1991). This case, then, is factually different from Caspari v. Bohlen, 510 U.S. 383, 386-387, 127 L. Ed. 2d 236, 114 S. Ct. 948 (1994), as the factual finding in that case did not automatically increase the respondent's sentence or affect his sentencing range.
+3 The California appellate court concluded that "there was insufficient evidence that [petitioner] suffered a prior felony conviction" within the meaning of the "three-strikes" law. App. 41 (emphasis omitted). It is immaterial, of course, that this determination was made by an appellate court rather than by the trial judge or jury. Burks v. United States, 437 U.S. at 11. The State concedes that the evidence was insufficient.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Until today, the Court has never held that a retrial or resentencing is permissible when the evidence in the first proceeding was insufficient; instead, the Court has consistently drawn a line between insufficiency of the evidence and legal errors that [***629]  infect the first proceeding. 4 In his unanimous  [*736]  opinion for the Court in Burks v. United States, Chief Justice Burger emphasized this critical difference, i.e., "between reversals due to trial error and those resulting from evidentiary insufficiency." 437 U.S. at 15. He specifically noted "that the failure to make this distinction has contributed substantially to the present state of conceptual confusion existing in this area of the law," ibid., and concluded that in order to hold, as we did, "that the Double Jeopardy Clause precludes a second trial once the reviewing court has found the evidence legally insufficient," it was necessary to overrule several prior cases, 437 U.S. at 18. The Court's opinion today reflects the same failure to recognize the critical importance of this distinction.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+4 See, e.g., Poland, 476 U.S. at 154 ("[The Arizona Supreme Court] did not hold that the prosecution had failed to prove its case . . . . Indeed, the court clearly indicated that there had been no such failure by remarking that 'the trial court mistook the law when it did not find that the defendants [satisfied the disputed aggravator].'"); United States v. DiFrancesco, 449 U.S. 117, 141, 66 L. Ed. 2d 328, 101 S. Ct. 426 (1980) ("The federal statute specifies that the Court of Appeals may increase the sentence only if the trial court has abused its discretion or employed unlawful procedures or made clearly erroneous findings. The appellate court thus is empowered to correct only a legal error" (emphasis added)); Bozza v. United States, 330 U.S. 160, 166-167, 91 L. Ed. 818, 67 S. Ct. 645 (1947) (error of law that infects a sentence may be corrected on appeal).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+I agree that California's decision to "implement procedural safeguards to protect defendants who may face dramatic increases in their sentences as a result of recidivism enhancements," ante, at 11, should not create a constitutional obligation that would not otherwise exist. But the fact that so many States have done so -- not just recently, but for many years 5 -- is powerful evidence that they were simply responding to the traditional understanding of fundamental fairness that produced decisions such as In re Winship, 397 U.S. 358, 25 L. Ed. 2d 368, 90 S. Ct. 1068 (1970), 6 and Mullaney v. Wilbur, 421 U.S. 684, 44 L. Ed. 2d 508, 95 S. Ct. 1881  [**2255]  (1975). 7  [*737]  It is this same traditional understanding of fundamental fairness -- dating back centuries to the common law plea of autrefois acquit and buttressed by a [***630]  special interest in finality -- that undergirds the Double Jeopardy Clause. 8
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+5 See, e.g., cases cited in Annot., 58 A. L. R. 59-62 (1929); cases cited in Almendarez-Torres v. United States, 523 U.S. 224, 248 (slip op., at 9-10) (1998) (SCALIA, J., dissenting); see also ante, at 11 ("Many States have chosen to implement procedural safeguards to protect defendants who may face dramatic increases in their sentences as a result of recidivism enhancements").
+6 In Winship, despite the fact that the Court had never held "that proof beyond a reasonable doubt is either expressly or impliedly commanded by any provision of the Constitution," 397 U.S. at 377 (Black, J., dissenting), the traditional importance of that standard that dated "at least from our early years as a Nation," 397 U.S. at 361, justified our conclusion "that the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged," id. at 364.
+7 In Mullaney, we unanimously extended the protection of Winship to determinations that go not to a defendant's guilt or innocence, but simply to the length of his sentence. 421 U.S. at 697-698; see also Almendarez-Torres, 523 U.S. at     (slip op., at 4-5) (SCALIA, J., dissenting).
+8 JUSTICE SCALIA accurately characterizes the potential consequences of today's decision as "sinister." Post, at 3. It is not, however, California that has taken "the first steps" down the road the Court follows today. It was the Court's decision in McMillan v. Pennsylvania, 477 U.S. 79, 91 L. Ed. 2d 67, 106 S. Ct. 2411 (1986).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+I respectfully dissent.

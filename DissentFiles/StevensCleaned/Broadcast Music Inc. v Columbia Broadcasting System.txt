@@ -1,0 +1,149 @@
+﻿The Court holds that ASCAP's blanket license is not a species of price fixing categorically forbidden by the Sherman Act. I agree with that holding. The Court remands the cases to the Court of Appeals, leaving open the question whether the blanket license as employed by ASCAP and BMI is unlawful under a rule-of-reason inquiry. I think that question is properly before us now and should be answered affirmatively.
+
+There is ample precedent for affirmance of the judgment of the Court of Appeals on a ground that differs from its rationale, provided of course that we do not modify its judgment. 1Link to the text of the note In this litigation, the judgment of the  [508]  Court of Appeals was     not that blanket licenses may never be offered by ASCAP and BMI. Rather, its judgment directed the District Court to fashion relief requiring them to offer additional forms of license as well. 2Link to the text of the note Even though that judgment may not be consistent with its stated conclusion that the blanket    license is "illegal per se" as a kind of price fixing, it is entirely consistent with a conclusion that petitioners' exclusive all-or-nothing blanket-license policy violates the rule of reason. 3Link to the text of the note
+
+The     Court of Appeals may well so decide on remand. In my judgment, however, a remand is not necessary. 4Link to the text of the note The record before this Court is a full one, reflecting extensive discovery and    eight weeks of trial. The District Court's findings of fact are thorough and well supported. They clearly reveal that the challenged policy does have a significant adverse impact on competition. I would therefore affirm the judgment of the Court of Appeals.
+
+    I
+
+In December 1969, the president     of the CBS television network wrote to ASCAP and BMI requesting that each "promptly . . . grant a new performance rights license which     will provide, effective January 1, 1970, for payments measured by the actual use of your music." 5Link to the text of the note ASCAP and BMI each responded by stating that it considered CBS's request to be an application for a license in accordance with the provisions of its consent decree and would treat it as such, 6Link to the text of the note    even though neither decree provides for licensing on a per-composition or per-use basis. 7Link to the text of the note Rather than pursuing further discussion, CBS instituted this suit.
+
+Whether or not the CBS letter is considered a proper demand for per-use licensing is relevant, if at all, only on the question of relief. For the fact is, and it cannot seriously be questioned, that ASCAP and BMI have steadfastly adhered to the policy of only offering overall blanket or per-program licenses, 8Link to the text of the note notwithstanding requests for more limited authorizations. Thus, ASCAP rejected a 1971 request by NBC for licenses for 2,217 specific compositions, 9Link to the text of the note as well as an earlier request by a group of television stations for more limited authority than the blanket licenses which they were then     purchasing. 10Link to the text of the note Neither ASCAP nor BMI has ever offered to license anything less than its entire portfolio, even on an experimental basis. Moreover, if the response to the CBS letter were not sufficient to characterize their consistent policy, the defense of this lawsuit surely is. It is the refusal to license anything less than the entire repertoire -- rather than the decision to offer blanket licenses themselves -- that raises the serious antitrust questions    in this case.
+
+II
+
+    Under our prior cases, there would be no question about the illegality of the    blanket-only  [509]  licensing policy if ASCAP and BMI were the exclusive sources of all licenses. A copyright, like a patent, is a statutory grant of monopoly privileges. The rules which prohibit a patentee from enlarging his statutory monopoly by conditioning a license on the purchase     of unpatented goods, 11Link to the text of the note or by refusing to grant a license under one patent unless the licensee also takes a license under another, are equally applicable to copyrights. 12Link to the text of the note
+
+    It is clear, however, that the mere fact that the holder of several patents has granted a single package license covering them all does not establish any illegality. This point was settled by Automatic Radio Mfg. Co. v. Hazeltine Research, Inc., 339 U.S. 827, 834, and reconfirmed in Zenith Radio Corp.     v. Hazeltine Research, Inc., 395 U.S. 100, 137-138. The Court is therefore unquestionably correct in its conclusion that ASCAP's issuance of blanket licenses covering its entire inventory is not, standing alone, automatically unlawful. But both of those cases identify an important limitation on this rule. In the former, the Court was careful to point out that the record did not present the question whether the package license would have been unlawful if Hazeltine had refused to license on any other basis. 339 U.S., at 831. And in the latter case, the Court held that the package license was illegal because of such a refusal. 395 U.S., at 140-141.
+
+Since ASCAP offers only blanket licenses, its licensing practices fall on the illegal side of the line drawn by the two Hazeltine cases. But there    is a significant distinction: unlike Hazeltine, ASCAP does not have exclusive control of the copyrights in its portfolio, and it is perfectly possible -- at least as a legal matter -- for a user of music to negotiate directly with composers and publishers for whatever rights he may desire. The availability of a practical alternative alters the competitive effect of a blockbooking or blanket-licensing policy. ASCAP is therefore quite correct in its insistence that its blanket license cannot be categorically condemned on the authority of the blockbooking and package-licensing cases. While these cases are instructive, they do not directly answer the question whether the ASCAP practice is unlawful.
+
+The answer to that question depends on an evaluation of the effect of the practice on competition in the relevant market. And, of course, it is well settled that a sales practice that is permissible for a small vendor, at least when no coercion is present, may be unreasonable when employed by a company that dominates the market. 13Link to the text of the note We     therefore must consider     what the record tells     us about the competitive character of this market.
+
+    III
+
+The market for music at issue here is wholly dominated by ASCAP-issued blanket licenses. 14Link to the text of the note Virtually every domestic copyrighted composition is in the repertoire of either ASCAP or BMI. And again, virtually without exception, the only means that has been used to secure authority to perform such compositions is the blanket license.
+
+ [510]  The blanket all-or-nothing license is patently discriminatory. 15Link to the text of the note The user purchases full access to ASCAP's entire     repertoire, even though his needs could be satisfied by a far more limited selection. The price he pays for this access is unrelated either to the quantity or the quality of the music he actually uses, or, indeed, to what he would probably use in a competitive system. Rather, in this unique all-or-nothing system, the price is based on a percentage of the user's advertising revenues, 16Link to the text of the note    a measure that reflects the customer's ability to pay 17Link to the text of the note but is totally unrelated    to factors -- such as the cost, quality, or quantity of the product -- that normally affect price in a competitive market. The ASCAP system requires users to buy more music than they want at a price which, while not beyond their ability to pay and perhaps not even beyond what     is "reasonable" for the access they are getting, 18Link to the text of the note may well be far higher than what they would choose to spend for music in     a competitive system. It is a classic example of economic discrimination.
+
+The record plainly establishes    that there is no price competition between separate musical compositions. 19Link to the text of the note Under a blanket license, it is no more expensive for a network     to play the most popular current hit in prime time than it is to use an unknown composition as background music in a soap opera. Because the cost to the user is unaffected by the amount used on any program or on all programs, the user has no incentive to economize by, for example, substituting what would otherwise be less expensive songs for established favorites or by reducing the quantity of music used on a program. The blanket license thereby tends to encourage the use of more music, and also of a larger share of what is really more valuable music, than would be expected in a competitive system characterized by separate licenses. And since revenues are passed on to composers on a basis reflecting the character and frequency of the use of their music, 20Link to the text of the note the tendency is to increase the rewards of the established composers at the expense of those less well known. Perhaps the prospect is in any event unlikely, but the blanket license does not present a new songwriter with any opportunity to try to     break into the market    by offering his product for sale at an unusually low price. The absence of that opportunity, however unlikely it may be, is characteristic of a cartelized rather than a competitive market. 21Link to the text of the note
+
+    The current state of the market cannot be explained on the ground that it could not operate competitively, or that issuance of more limited -- and thus less restrictive -- licenses by ASCAP is not feasible. The District Court's findings disclose no reason  [511]  why music-performing rights could not be negotiated on a per-composition or per-use basis, either with the composer or publisher directly or with an agent such as ASCAP. In fact, ASCAP now compensates composers and publishers on precisely those bases. 22Link to the text of the note    If distributions of royalties can be calculated     on a per-use and per-composition basis, it is difficult to see why royalties could not also be collected in the same way. Moreover, the record also shows that where ASCAP's blanket-license scheme does not govern, competitive markets do. A competitive market for "synch" rights exists, 23Link to the text of the note and after the use of blanket licenses in the motion picture industry was discontinued, 24Link to the text of the note such a market promptly developed in that industry. 25Link to the text of the note In sum, the record demonstrates that the market at issue here is one that could be highly competitive, but is not competitive at all.
+
+    IV
+
+Since the record describes a market that could be competitive and is not, and since that market is dominated by two firms engaged in a single, blanket method of dealing, it surely seems logical to conclude that trade has been restrained unreasonably. ASCAP argues, however, that at least as to CBS, there has been no restraint at all since the network is free to deal    directly with copyright holders.
+
+    The District Court found that CBS had failed to establish that it was compelled to take a blanket license from ASCAP. While CBS introduced evidence suggesting that a significant number of composers and publishers, satisfied as they are with the ASCAP system, would be "disinclined" to deal directly with the network, the court found such evidence unpersuasive in light of CBS's substantial market power in the music industry and the importance to copyright holders of network television exposure. 26Link to the text of the note Moreover, it is arguable that CBS could go further and, along with the other television networks, use its economic resources to exploit destructive competition among purveyors of music by driving the price of performance rights down to a far lower level. But none of this demonstrates that ASCAP's practices are lawful, or that ASCAP cannot be held liable for injunctive relief at CBS's request.
+
+The fact that CBS has substantial    market power does not deprive it of the right to complain when trade is restrained. Large buyers, as well as small, are protected by the antitrust laws. Indeed, even if the victim of a conspiracy is himself a wrongdoer, he has not forfeited the protection of the law. 27Link to the text of the note Moreover, a conclusion that excessive competition would cause one side of the market more harm than good may justify a legislative exemption from the antitrust laws, but does not     constitute a defense to a violation of the Sherman     Act. 28Link to the text of the note Even though characterizing CBS as an oligopolist may be relevant to the question of remedy, and even though free competition might adversely affect the income of a good many composers and publishers, these considerations do not affect the legality of ASCAP's conduct.
+
+    More basically, ASCAP's underlying argument that CBS must be viewed as having acted with complete freedom in choosing the blanket license is not supported by the District Court's findings. The District Court did not find that CBS could cancel its blanket license "tomorrow" and continue to use music in its programming and compete with the other networks. Nor did the District Court find that such a course was without any risk or expense. Rather, the District Court's finding was that within a year, during which it would continue to pay some millions of dollars for its annual blanket license, CBS would be able to develop the needed machinery and enter into the necessary contracts. 29Link to the text of the note In other words, although the barriers to direct dealing by CBS as an alternative to paying for a  [512]  blanket license are real and significant, they are not insurmountable.
+
+Far from establishing ASCAP's immunity from liability, these District Court findings, in my judgment, confirm the illegality    of its conduct. Neither CBS nor any other user has been willing to assume the costs and risks associated with an attempt to purchase music on a competitive basis. The fact that an attempt by CBS to break down the ASCAP monopoly might well succeed does not preclude the conclusion that smaller and less powerful buyers are totally foreclosed from a competitive market. 30Link to the text of the note Despite its size, CBS itself     may not obtain     music on a competitive basis without incurring unprecedented costs and risks. The fear of unpredictable consequences, coupled with the certain and predictable costs and delays associated with a change in its method of purchasing music, unquestionably inhibits any CBS management decision to embark on a competitive crusade. Even if ASCAP offered CBS a special bargain to forestall any such crusade, that special arrangement would not cure the marketwide restraint.
+
+    Whatever management decision CBS should or might have made, it is perfectly clear that the question whether competition in the market has been unduly restrained is not one that any single company's management is authorized to answer. It is often the case that an arrangement among competitors will not serve to eliminate competition forever, but only to delay its appearance or to increase the costs of new entry. That may well be the state of     this market. Even without judicial intervention, the ASCAP monopoly might eventually be broken by CBS, if the benefits of doing so outweigh the significant costs and risks involved in commencing direct dealing. 31Link to the text of the note But that hardly means that the blanket-licensing     policy at issue here is lawful. An arrangement that produces marketwide price discrimination and significant barriers to entry unreasonably restrains trade even if the discrimination and the barriers have only a limited life expectancy. History suggests, however, that these restraints have an enduring character.
+
+    Antitrust policy requires that great aggregations of economic power be closely scrutinized. That duty is especially important when the aggregation is composed of statutory monopoly privileges. Our cases have repeatedly stressed the need to limit the privileges conferred by patent and copyright strictly to the scope of the statutory grant. The record in this case plainly discloses that the limits have been exceeded and that ASCAP and BMI exercise monopoly powers that far exceed the sum of the privileges of the individual copyright holders.     Indeed, ASCAP itself argues that its blanket license constitutes a  [513]  product that is significantly different from the sum of its component parts. I agree with that premise, but I conclude that the aggregate is a monopolistic restraint of trade proscribed by the Sherman Act.
+
+See United States v. New York Telephone Co., 434 U.S. 159, 166 n. 8; Dayton Board of Education v. Brinkman, 433 U.S. 406, 419; Massachusetts Mutual Life Ins. Co. v. Ludwig, 426 U.S. 479, 480-481; United States v. American Railway Express Co., 265 U.S. 425, 435.
+
+2Link to the location of the note in the document
+562 F.2d 130, 140-141 (CA2 1977).
+
+3Link to the location of the note in the document
+See ante, at 17 n. 27 (describing relief ordered by Court of Appeals as "unusual" for a per se case, and suggesting that that court's decision appears more consistent with a rule-of-reason approach).
+
+4Link to the location of the note in the document
+That the rule-of-reason issues have been raised and preserved throughout seems to me clear. See 562 F.2d, at 134. ("CBS contends that the blanket licensing method is not only an illegal tie-in or blockbooking which in practical terms is coercive in effect, but is also an illegal price-fixing device, a per se violation . . . "); id., at 141 n. 29 ("As noted, CBS also claims violation of § 2 of the Sherman Act. We need not go into the legal arguments on this point because they are grounded on its factual claim that there are barriers to direct licensing and 'bypass' of the ASCAP blanket license. The District Court, as noted, rejected this contention and its findings are not clearly erroneous. The § 2 claim must therefore fail at this time and on this record"); Brief for Respondents 41.
+
+5Link to the location of the note in the document
+400 F.Supp. 737, 753 (SDNY 1975).
+
+6Link to the location of the note in the document
+ASCAP responded in a letter from its general counsel, stating that it would consider the request at its next board of directors meeting, and that it regarded it as an application for a license consistent with the decree. The letter from BMI's president stated: "The BMI Consent Decree provides for several alternative licenses and we are ready to explore any of these with you." Id., at 753-754.
+
+7Link to the location of the note in the document
+See ante, at 12, and n. 21.
+
+8Link to the location of the note in the document
+The 1941 decree requires ASCAP to offer per-program licenses as an alternative to the blanket license. United States v. ASCAP, 1940-1943 Trade Cases para. 56,104, p. 404 (SDNY). Analytically, however, there is little difference between the two. A per-program license also covers the entire ASCAP repertoire; it is therefore simply a miniblanket license. As is true of a long-term blanket license, the fees set are in no way dependent on the quantity or quality of the music used. See infra, at 30-33.
+
+9Link to the location of the note in the document
+See United States v. ASCAP (Application of National Broadcasting Co.), 1971 Trade Cases para. 73,491 (SDNY 1970).
+
+10Link to the location of the note in the document
+See United States v. ASCAP (Application of Shenandoah Valley Broadcasting, Inc.), 208 F.Supp. 896 (SDNY 1962), aff'd, 331 F.2d 117 (CA2 1964), cert. denied, 377 U.S. 997.
+
+11Link to the location of the note in the document
+Mercoid Corp. v. Mid-Continent Investment Co., 320 U.S. 661; Ethyl Gasoline Corp. v. United States, 309 U.S. 436; International Business Machines Corp. v. United States, 298 U.S. 131; United Shoe Machinery Corp. v. United States, 258 U.S. 451.
+
+12Link to the location of the note in the document
+Indeed, the leading cases condemning the practice of "blockbooking" involved copyrighted motion pictures, rather than patents. See United States v. Paramount Pictures, 334 U.S. 131; United States v. Loew's Inc., 371 U.S. 38.
+
+13Link to the location of the note in the document
+See Tampa Electric Co. v. Nashville Coal Co., 365 U.S. 320, 334 (upholding requirements contract on the ground that "[there] is here neither a seller with a dominant position in the market as in Standard Fashion [Co. v. Magrane-Houston Co., 258 U.S. 346]; nor myriad outlets with substantial sales volume, coupled with an industry-wide practice of relying upon exclusive contracts, as in Standard Oil [Co. v. United States, 337 U.S. 293]; nor a plainly restrictive tying arrangement as in International Salt [Co. v. United States, 332 U.S. 392]"); Times-Picayune Publishing Co. v. United States, 345 U.S. 594, 610-612 (upholding challenged advertising practice because, while the volume of commerce affected was not "'insignificant or insubstantial,'" seller was found not to occupy a "dominant position" in the relevant market). While our cases make clear that a violation of the Sherman Act requires both that the volume of commerce affected be substantial and that the seller enjoy a dominant position, see id., at 608-609, proof of actual compulsion has not been required, but cf. Royster Drive-In Theatres, Inc. v. American Broadcasting-Paramount Theatres, Inc., 268 F.2d 246, 251 (CA2 1959), cert. denied, 361 U.S. 885; Milwaukee Towne Corp. v. Loew's, Inc., 190 F.2d 561 (CA7 1951), cert. denied, 342 U.S. 909. The critical question is one of the likely practical effect of the arrangement: whether the "court believes it probable that performance of the contract will foreclose competition in a substantial share of the line of commerce affected." Tampa Electric Co. v. Nashville Coal Co., supra, at 327.
+
+14Link to the location of the note in the document
+As in the majority opinion, my references to ASCAP generally encompass BMI as well.
+
+15Link to the location of the note in the document
+See Cirace, CBS v. ASCAP: An Economic Analysis of A Political Problem, 47 Ford. L. Rev. 277, 286 (1978) ("the all-or-nothing bargain allows the monopolist to reap the benefits of perfect price discrimination without confronting the problems posed by dealing with different buyers on different terms").
+
+16Link to the location of the note in the document
+For many years prior to the commencement of this action, the BMI blanket-license fee amounted to 1.09% of net receipts from sponsors after certain specified deductions. 400 F.Supp., at 743. The fee for access to ASCAP's larger repertoire was set at 2.5% of net receipts; in recent years, however, CBS has paid a flat negotiated fee, rather than a percentage, to ASCAP. 23 Jt. App. in CA2 No. 75-7600, pp. E1051-E1052, E1135.
+
+17Link to the location of the note in the document
+See Cirace, supra, at 288:
+
+"This history indicates that, from its inception, ASCAP exhibited a tendency to discriminate in price. A license fee based upon a percentage of gross revenue is discriminatory in that it grants the same number of rights to different licensees for different total dollar amounts, depending upon their ability to pay. The effectiveness of price discrimination is significantly enhanced by the all-or-nothing blanket license."
+
+18Link to the location of the note in the document
+Under the ASCAP consent decree, on receipt of an application, ASCAP is required to "advise the applicant in writing of the fee which it deems reasonable for the license requested." If the parties are unable to agree on the fee within 60 days of the application, the applicant may apply to the United States District Court for the Southern District of New York for the determination of a "reasonable fee." United States v. ASCAP, 1950-1951 Trade Cases para. 62,595, p. 63,754 (SDNY 1950). The BMI decree contains no similar provision for judicial determination of a reasonable fee.
+
+19Link to the location of the note in the document
+ASCAP's economic expert, Robert Nathan, was unequivocal on this point:
+
+"Q. Is there price competition under this system between separate musical compositions?
+
+"A. No sir." Tr. 3983.
+
+20Link to the location of the note in the document
+See 562 F.2d, at 136 n. 15. In determining royalties ASCAP distinguishes between feature, theme, and background uses of music. The 1950 amended decree requires ASCAP to distribute royalties on "a basis which gives primary consideration to the performance of the compositions." The 1960 decree provided for the additional option of receiving royalties under a deferred plan which provides additional compensation based on length of membership and the recognized status of the individual's works. See United States v. ASCAP, 1960 Trade Cases para. 69,612, pp. 76,469-76,470 (SDNY 1960).
+
+21Link to the location of the note in the document
+See generally 2 P. Areeda & D. Turner, Antitrust Law 280-281, 342-345 (1978); Cirace, supra n. 15, at 286-292.
+
+22Link to the location of the note in the document
+See n. 20, supra.
+
+23Link to the location of the note in the document
+The "synch" right is the right to record a copyrighted song in synchronization with the film or videotape, and is obtained separately from the right to perform the music. It is the latter which is controlled by ASCAP and BMI. See CBS, Inc. v. ASCAP, 400 F.Supp., at 743.
+
+24Link to the location of the note in the document
+See Alden-Rochelle, Inc. v. ASCAP, 80 F.Supp. 888 (SDNY 1948).
+
+25Link to the location of the note in the document
+See 400 F.Supp., at 759-763; 5 Jt. App. in CA2 No. 75-7600, pp. 775-777 (testimony of Albert Berman, managing director of the Harry Fox Agency, Inc.). Television synch rights and movie performance and synch rights are handled by the Fox Agency, which serves as the broker for thousands of music publishers.
+
+26Link to the location of the note in the document
+See 400 F.Supp., at 767-771.
+
+27Link to the location of the note in the document
+See Perma Life Mufflers, Inc. v. International Parts Corp., 392 U.S. 134, 138-140; Simpson v. Union Oil Co., 377 U.S. 13, 16-17; Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc., 340 U.S. 211, 214.
+
+28Link to the location of the note in the document
+See National Society of Professional Engineers v. United States, 435 U.S. 679, 689-690.
+
+29Link to the location of the note in the document
+See 400 F.Supp., at 762-765.
+
+30Link to the location of the note in the document
+For an individual user, the transaction costs involved in direct dealing with individual copyright holders may well be prohibitively high, at least in the absence of any broker or agency routinely handling such requests. Moreover, the District Court found that writers and publishers support and prefer the ASCAP system to direct dealing. Id., at 767. While their apprehension at direct dealing with CBS could be overcome, the District Court found, by CBS's market power and the importance of television exposure, a similar conclusion is far less likely with respect to other users.
+
+31Link to the location of the note in the document
+The risks involved in such a venture appear to be substantial. One significant risk, which may be traced directly to ASCAP and its members, relates to music "in the can" -- music which has been performed on shows and movies already in the network's inventory, but for which the network must still secure performing rights. The networks accumulate substantial inventories of shows "in the can." And, as the Government has pointed out as amicus curiae:
+
+"If they [the networks and television stations] were to discontinue the blanket license, they then would be required to obtain performance rights for these already-produced shows. This attempt would create an opportunity for the copyright owners, as a condition of granting performing rights, to attempt to obtain the entire value of the shows 'in the can.' It would produce, in other words, a case of bilateral monopoly. Because pricing is indeterminate in a bilateral monopoly, television networks would not terminate their blanket licenses until they had concluded an agreement with every owner of copyrighted music 'in the can' to allow future performance for an identified price; the networks then would determine whether that price was sufficiently low that termination of the blanket license would be profitable. But the prospect of such negotiations offers the copyrights owners an ability to misuse their rights in a way that ensures the continuation of blanket licensing despite a change in market conditions that may make other forms of licensing preferable." Brief for United States as Amicus Curiae 24-25.
+
+This analysis is in no sense inconsistent with the findings of the District Court. The District Court did reject CBS's coercion argument as to music "in the can." But as the Government again points out, the District Court's findings were addressed essentially to a tie-in claim; "the court did not consider the possibility that the copyright owners' self-interested, non-coercive demands for compensation might nevertheless make the cost of CBS' dropping the blanket license sufficiently high that ASCAP and BMI could take this 'termination penalty' into account in setting fees for the blanket license." Id., at 25 n. 23.

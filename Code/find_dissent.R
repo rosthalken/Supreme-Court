@@ -21,16 +21,11 @@ for(i in 1:length(the_dirs)){
   }
 }
 
+#writing the csv file that holds all dissent documents
 write.csv(dissenting, file = "Data/dissenting.csv")
 
-# justice <- the_dirs[i]
-# main_folder <- "DissentFiles"
-# file_path <- file.path(main_folder, justice)
-# file.copy(dissenting[x], file_path)
 
-# dissenting[1]
-# [1] "SupremeCourtCorpusFinalEncoded BreyerCleaned Abrams v Johnson.txt"
-
+#moving the files into a new folder
 for(i in 1:length(dissenting)){
   without_sc <- removeWords(dissenting[i], "SupremeCourtCorpusFinalEncoded//")
   justice <- stri_extract(without_sc, regex = ".+?(?=//)")
@@ -38,21 +33,4 @@ for(i in 1:length(dissenting)){
   file_pathway <- file.path(main_folder, justice)
   file.copy(dissenting[i], file_pathway)
 }
-
-without_sc <- removeWords(dissenting[1], "SupremeCourtCorpusFinalEncoded ")
-justice <- stri_extract(without_sc, regex = ".+?(?= )")
-main_folder <- "DissentFiles"
-file_pathway <- file.path(main_folder, justice)
-file.copy(dissenting[1], file_pathway)
-
-# without_sc <- removeWords(dissenting[1], "SupremeCourtCorpusFinalEncoded ")
-# stri_extract(without_sc, regex = ".+?(?= )")
-
-
-# Save out to the Data directory
-file.copy(dissenting[1], "DissentFiles")
-
-write.csv(dissenting, file = "Data/dissenting.csv")
-
-# now I need to use this csv file to find the file names and create a new dissent corpus
 

@@ -1,0 +1,113 @@
+﻿
+The principal question presented by this case is whether the city of Sheffield, Ala., is covered by § 5 of the Voting Rights Act of 1965. 1Link to the text of the note If that question could be answered     solely by reference to the Act's broad remedial purposes, it might be an easy one. But on the basis of the statute as written, the question is not nearly as simple as the Court implies. I believe it requires two separate inquiries: First, whether the city of Sheffield is a "political subdivision" within the meaning of § 5; and second, even if that question is answered in the negative, whether action by the city should     be regarded as action of the State within the meaning of that section.
+
+I
+
+Briefly stated, § 5 provides that whenever a State or a political subdivision, designated pursuant to § 4,     seeks to change a voting practice, it must obtain clearance for that change from either the United States District Court for the District of Columbia or the Attorney General of the United States. 2Link to the text of the note This so-called "preclearance" requirement is one of the most extraordinary remedial provisions in an Act noted for its broad remedies. Even the Department of Justice has described it as a "substantial departure… from ordinary concepts of our federal system"; 3Link to the text of the note its encroachment on state sovereignty     is significant and undeniable. The section must, therefore, be read and interpreted with care. As a starting point, it is clear that it applies only to actions taken by two types of political units States or political subdivisions.
+
+    Since Alabama is a designated State under § 4, "each and every political subdivision within that State" is covered by § 5. See H.R. Rep. No. 439, 89th Cong., 1st Sess., 25 (1965). This does not, however, mean that the city of Sheffield is a "political subdivision" of Alabama covered by § 5. For the Act specifically defines "political subdivision," and that definition does not even arguably include an entity such as Sheffield.
+
+Section 14 (c)(2) of the Act provides: S
+
+"The term 'political subdivision' shall mean any county or parish, except that where registration for voting is not     conducted under the supervision of a county or parish, the term shall include any other subdivision of a State which conducts registration for voting."I
+
+Sheffield is not a county or a parish, and it does not conduct registration for voting. Consequently, it is not a "political subdivision." 4Link to the text of the note
+
+    The legislative history of § 14(c)(2) demonstrates that the term "political subdivision" was defined for the specific purpose of limiting the coverage of the Act. Because the term had not been defined in the bill as originally drafted, Senator Ervin, among others, recognized that it might be read to encompass minor, local governmental units. It was to allay this concern that the definition was included in the Act. S
+
+    "Senator ERVIN. This [an early version of the Voting Rights Act] not only applies to a State, but this would apply to any little election district in the State….
+
+"Attorney General KATZENBACH.I do not believe so, Senator. There is a question as to what the term 'political subdivision' means. I have taken the view in the other body and I would state it here that we are talking about the area in which people are registered, the appropriate unit for registering. I believe in every State     that comes within the provisions of this, we are talking about no area smaller than a county or a parish.
+
+"Senator ERVIN. Do you not think that you had better amend your bill to so provide, because in North Carolina, every municipality is a political subdivision of     the State, even every sanitary district is a subdivision of the State. Also     every election district is a subdivision of the State, every school district… every special bond, school-bond, district is a subdivision of the State.
+
+"Attorney General KATZENBACH. I think that might be done to define political subdivision here in the bill in that way, Senator. That is what I intended." Hearings on S. 1564 before the Senate Committee on the Judiciary, 89th Cong., 1st Sess., 44 (1965) (1965 Senate Hearings).I
+
+See also Hearings on H.R. 6400 before Subcommittee No. 5 of the House Committee on the Judiciary, 89th Cong., 1st Sess., 21 (1965) (1965 House Hearings).
+
+Later, during the Senate debate on the Voting Rights Act, Senator Ervin referred to the above dialogue with Attorney General Katzenbach and stated, without contradiction, that the term "political subdivision" had been defined to avoid a construction of the Act that would "confer jurisdiction upon the Federal Government to intervene in every ward of every city and town covered by the bill." 111 Cong. Rec. 9270 (1965). The Senate Report on the Voting Rights Act made the same point equally bluntly: S
+
+"This definition makes clear    that the term 'political subdivision' is not intended to encompass precincts, election districts, or other similar units when they are within a county or parish which supervises registration for voting." S. Rep. No. 162, pt. 3, 89th Cong., 1st Sess., 31 (1965). 5Link to the text of the note I
+
+    In short, whatever other ambiguities there may be in the Act, the definition of "political subdivision" is not one of them. It was clearly intended to limit the reach of the Act, and the definition clearly excludes cities, such as Sheffield, that do not register voters.
+
+II
+
+The remaining question is whether a political unit that does not register    voters may be regarded as the "State," as that term is used in § 5. If there were no contrary legislative history, it might be reasonable to treat the action of entities such as Sheffield, which are within the jurisdiction of a covered State, as "state action, "just as such governmental action would be regarded as state action in a constitutional sense. However, such an interpretation of the word "State" would extend the reach of the statute to the same kind of purely local matters that Congress intended to exclude by defining the term "political subdivision."
+
+As is apparent from the comments of Senator Ervin, quoted supra, there was congressional concern over whether the Act would extend to governmental units below the county level. That concern was repeatedly expressed and was specifically addressed in § 14(c)(2). Unquestionably, as     the Court recognizes, ante, at 128-129,     that section protects small political units, such as school boards, from being separately designated for coverage under § 4(b). The concerns which motivated this exclusion from § 4(b) apply equally to § 5. 6Link to the text of the note Indeed, the     legislative history provides a perfectly logical explanation of why    Congress deliberately limited the reach of § 5, as well as § 4(b), to "political subdivisions," as defined by the Act.
+
+    First, a preclearance requirement limited to governmental units engaged in the registration process would be in accord with the fact that the Act was principally concerned with literacy tests and other devices which were being used to prevent black citizens from registering to vote. As Attorney General Katzenbach repeatedly emphasized, the "bill really is aimed at getting people registered." See 1965 House Hearings 21.7Link to the text of the note
+
+       Second, the Act limits judicial review of an election change under § 5 to a three-judge District Court sitting in the District of Columbia. The opponents of the Act frequently expressed their outrage at this limitation, arguing that it was unfair to make people travel "250 or 1,000 or 3,000 miles in order to gain access to a court of justice." See, e.g., 1965     Senate Hearings 43 (remarks of Sen. Ervin); 111 Cong. Rec. 10371 (remarks of Sen. Ellender) (1965). Proponents of § 5 justified the provision on the ground that it would not be difficult or unusual for a State, county, or comparable body to have to make its arguments in Washington, D.C. See, e.g., Senate Hearing 44 (testimony of Attorney General Katzenbach). Senator Javits' comments on the floor of the Senate are typical of this line of argument: S
+
+"Finally, it cannot be claimed that the bill is unfair to litigants other than the     Federal Government because we are not dealing with litigants who are unable to pursue a legal remedy. We are not dealing with litigants who might find travel difficult or legal proceedings or appearances expensive. We are dealing with political subdivisions and States, which    have county attorneys or State     attorneys general who come to Washington, D.C., for many things, and they would not be required to come to Washington merely to participate in litigation that might arise under the bill." 111 Cong. Rec. 10363 (1965).I
+
+Obviously, this same argument does not apply to most townships, school boards, and the numerous other small, local units involved in the political process. Whether or not it would be "fair" to make these smaller political units argue their cases only in Washington, D.C., the drafters and supporters of the Act gave assurances that § 5 was not so intended. A broad definition of "State" would nullify those assurances just as surely as a loose interpretation of "political subdivision."
+
+Finally, the logistical and administrative problems inherent in reviewing all voting changes of all political units strongly suggest that Congress placed limits on the preclearance requirement. Statistics show that the Attorney General's staff is now processing requests for voting changes at the rate of over 1,000 per year, 8Link to the text of the note and this rate is by no means indicative of the number of submissions involved if all covered States and political    units fully complied with the preclearance requirement, as interpreted by the Attorney General.9Link to the text of the note Furthermore, under the statute each request must be passed upon within 60 days of its submission. This large and rapid volume     of work is a product, in part, of this Court's decision in Allen. 10Link to the text of the note But even     apart from Allen, it is certainly reasonable to believe that Congress, having placed a strict time limit on the Attorney General's consideration of submissions, also deliberately placed a limit on the number and importance of the submissions themselves. 11Link to the text of the note This result was achieved by restricting the reach of § 5 to enactments of either the States themselves or their political subdivisions, as defined by § 14(c)(2).
+
+    Neither the "contemporaneous" construction of the Act by the Attorney General nor the subsequent amendments of § 5 by Congress, in my judgment, undermine the validity of this reading of the section. The Court asserts that the "Attorney General has, since the Act was adopted in 1965, interpreted § 5 as requiring all political     units in designated jurisdictions to preclear proposed voting changes." Ante, at 131. The unambiguous historical evidence is to the contrary.
+
+The Department of Justice did not adopt regulations implementing § 5's preclearance provisions until September 1971, six years after the passage of the Act and nearly two years after this Court's decision in Allen; 36 Fed. Reg. 18186; see Georgia v. United States, 411 U.S. 526. And it was not until the Allen decision that the Department even attempted     to develop standards and procedures for enforcing § 5. See 1975 Senate Hearings 537 (testimony of Assistant Attorney General J. Stanley Pottinger). In short, there was no "contemporaneous" construction of the Act by the Attorney General. It may have been reasonable for the Attorney General, in promulgating regulations after the Allen    decision, to have assumed that, since the section now covered all voting changes and not simply registration changes, all political units and not simply political subdivisions were also covered. But that assumption sheds no light on Congress' intention in passing the Act in 1965.
+
+Nor, in my judgment, are the subsequent amendments of the Act in 1970 and 1975 reliable guides to what Congress intended in 1965 when it drafted the relevant statutory language. The 1970 and 1975 extensions of the Act did not change the operative language in § 5 or alter the definition of the term "political subdivision." As I suggested a few years ago, "[a]n interpretation of a provision in [a] controversial and integrated statute… cannot fairly be predicated on unexplained inaction by different Congresses in subsequent years." Hodgson v. Lodge 851, Int'l Assn. of Mach. & Aerospace Workers, 454 F. 2d 545, 562 (CA7 1971) (dissenting opinion).12Link to the text of the note
+
+       In     sum, I am persuaded that the result the Court reaches today is not a faithful reflection of the actual intent of the Congress that enacted the statute. I therefore respectfully dissent.
+
+The second question is, I believe, correctly answered in Part III of the Court's opinion.
+
+2Link to the location of the note in the document
+See ante, at 112-113, n. 1.
+
+3Link to the location of the note in the document
+Hearings on S. 407 et al. before the Subcommittee on Constitutional Rights of the Senate Committee on the Judiciary, 94th Cong., 1st Sess., 536 (1975 Senate Hearings) (testimony of J. Stanley Pottinger, Assistant Attorney General, Civil Rights Division). See also South Carolina v. Katzenbach, 383 U.S. 301, 358 (Black, J., concurring and dissenting) Georgia v. United States, 411 U.S. 526, 545 (POWELL, J., dissenting).
+
+4Link to the location of the note in the document
+The Court suggests that the term "political subdivision" refers to a geographic area and not to a political unit. Ante, at 128 n. 15. But this argument is repudiated by the plain language of the statute. Section 5 reads:
+
+"Whenever a State or political subdivision… shall enact or seek to administer any voting qualification…." (Emphasis added.) Since laws are enacted and administered by political units, rather than geographic territories, the term necessarily has the former meaning as it is used in this section.
+
+This conclusion is confirmed by other language in § 5: "[S]uch State or subdivision may institute an action… Provided, That such qualification… may be enforced… if… submitted by the chief legal officer or other appropriate official of such State or subdivision…." Geographic territories do not institute actions or employ legal officers; but political units do.
+
+5Link to the location of the note in the document
+Ignoring the legislative history which explains why § 14(c)(2) was inserted in the Act, the Court instead focuses on a statement by Senator Talmadge referring to § 5's application to cities. Ante, at 130-131. This statement, however, offers little support for the Court's view since Georgia, Senator Talmadge's home State, does have voter registration by cities. Ga. Code 34A-501 (1975).
+
+6Link to the location of the note in the document
+The Court reasons that since § 4(a) was intended to apply throughout a designated State, § 5's preclearance requirement must have the same reach. This analysis is unpersuasive for three reasons. First, it does not give sufficient weight to the clear differences in statutory language between § 4(a) and § 5. See n. 4, supra. When Congress wanted the term "State" to have a geographic reach, it was clearly capable of expressing that intent, as it did in § 4(a). Its failure to do so in § 5 must be accorded some significance, especially when coupled with § 14(c)(2)'s general purpose of excluding small political units from the Act's reach. Second, it does not adequately assess the reason for the inclusion of the § 14(c)(2) definition of "political subdivision." Third, the Court has already recognized that § 5 was not intended to provide a remedy for every wrong committed in a State in connection with voting.
+
+"It is irrelevant that the coverage formula excludes certain localities which do not employ voting tests and devices but for which there is evidence of voting discrimination by other means. Congress had learned that widespread and persistent discrimination in voting during recent years has typically entailed the misuse of tests and devices, and this was the evil for which the new remedies were specifically designed. At the same time, through §§ 3, 6 (a), and 13 (b)of the Act, Congress strengthened existing remedies for voting discrimination in other areas of the country. Legislation need not deal with all phases of a problem in the same way, so long as the distinctions drawn have some basis in practical experience." South Carolina v. Katzenbach, 383 U.S., at 330-331.
+
+7Link to the location of the note in the document
+The following dialogue is illustrative:
+
+"The CHAIRMAN. The bill also refers to 'political subdivisions.' How far down the political scale does that go?
+
+"Mr. KATZENBACH. I believe that the term 'political subdivision' used in this bill… really is aimed at getting people registered.
+
+"The CHAIRMAN. For example, in New York…. I take it that an election district would be deemed a political subdivision?
+
+"Mr. KATZENBACH. I think that is possible, Mr. Chairman, but frankly, you are more familiar with how registration is accomplished in New York than I am. I know how it is accomplished or not accomplished in Alabama.
+
+"The CHAIRMAN. What would be the lowest possible political unit in the scale?
+
+"Mr. KATZENBACH. What is the area in which registration is done in New York? I am not familiar with that, Mr. Chairman." 1965 House Hearings 21.
+
+Similar testimony was referred to by the Court in Allen v. State Board of Elections, 393 U.S. 544, 564.
+
+The fact that Allen broadly construed the Act to apply to gerrymandering and other techniques which "dilute" the weight of some votes cannot obscure the fact that voter registration was the central concern of the Act when it was passed in 1965. Indeed, Allen's creative interpretation of the statute was so dramatic that it was given only prospective application. See id., at 572.
+
+8Link to the location of the note in the document
+While approximately 6,400 voting change requests have been submitted since the Act was passed, the submissions have not been evenly divided among the 13 years of the Act's existence. Approximately 5,800 of the 6,400 submitted changes were made from 1971 on. See 1975 Senate Hearings 597; Jurisdictional Statement 13-14. The figure of 8,100 cited by the Court, ante, at 131 n. 19, supra, refers to the number of voting changes included within the submissions.
+
+9Link to the location of the note in the document
+Assistant Attorney General Pottinger testified in 1975 that "Section 5 has yet to be fully implemented." 1975 Senate Hearings 583. In fact, the Attorney General has had to ask the FBI to conduct investigations to help determine whether local authorities have made any changes in voting procedures that are not reflected in state statutes. Ibid.
+
+10Link to the location of the note in the document
+Prior to the Allen decision in 1969, only three States had submitted any voting changes to the Attorney General for approval, for a total of 323 submissions during a five-year period. Id., at 597. There was a dramatic leap in submissions between 1970 and 1971, from 255 to 1,118. Ibid. These figures reveal the obvious impact that Allen and Perkins v. Matthews, 400 U.S. 379, have had on the Attorney General's implementation of § 5.
+
+11Link to the location of the note in the document
+The sheer number and insignificance of the changes in voting procedures in local political units that must, under today's decision, be submitted to the country's highest legal officer suggest that Congress may have limited the reach of § 5 in order to insure the preclearance requirement's effectiveness and solemnity. Paradoxically, the Court's effort to eliminate any remedial "gaps" in the statute may reduce the preclearance requirement to a trivial, though burdensome, administrative provision. As would be expected, almost all submissions are routinely accepted by the Attorney General.See 1975 Senate Hearings 582.
+
+12Link to the location of the note in the document
+In response to this dissenting opinion, the Court has suggested that in focusing on the language of § 14(c)(2) and in searching through the 1965 legislative history, I have sought an answer to the wrong question because we are construing the 1975, rather than the 1965 Act. Ante, at 135 n. 25. However, the question whether the Act was "re-enacted" in 1975 is of only technical significance. Section 5 would have continued in operation beyond 1975 for States such as Alabama even without the 1975 extension. See comments of Senator Tunney, 121 Cong. Rec. 24706. More importantly, the 1975 Congress made no change in the definition of "political subdivision" and no one called its attention to any aspect of the issue decided today. The question I have tried to answer is what Congress actually intended to accomplish by its definition of the term "political subdivision." That definition was, perhaps, the product of a legislative compromise, and the resulting statutory language may be "crippling" to the Court's reading of the full remedial purposes of the statute. But we have an obligation to respect the product of legislative compromise as well as policy decisions we wholeheartedly endorse.

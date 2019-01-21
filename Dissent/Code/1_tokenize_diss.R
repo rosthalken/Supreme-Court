@@ -5,7 +5,7 @@ library(readr)
 library(stringi)
 library(tidyr)
 
-corpus <- "DissentFiles"
+corpus <- "Dissent/DissentFiles"
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
 

@@ -22,7 +22,7 @@ for(i in 1:length(the_dirs)){
   }
 }
 
-colnames(case_year) <- c("Corpus", "Author", "Year", "Text_ID")
+colnames(case_year) <- c("Corpus", "Author", "Year", "Case")
 save(case_year, file="Data/case_year.RData")
 
 # Writing the alternate csv file that holds all year documents

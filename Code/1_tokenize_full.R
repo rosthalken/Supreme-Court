@@ -8,6 +8,8 @@ corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
 
+
+
 for(i in 1:length(the_dirs)){
   long_result <- NULL
   the_files <- dir(file.path(corpus, the_dirs[i]))
@@ -51,7 +53,14 @@ for(i in 1:length(the_dirs)){
   save(long_result, file=temp_name)
 }
 
-colnames(metadata) <- c("Author", "Text_ID", "NumWords","NumPuncs", "File_name")
+load("Data/metadata.RData")
+
+colnames(metadata) <- c("Author", "Text_ID", "NumWords","NumPuncs", "File_name", "Case")
+
+
+#Adding year to the metadata file
+load("Data/case_year.RData")
+metadata <- merge(metadata, case_year, by = c("Author","Case"))
 save(metadata, file="Data/metadata.RData")
 
 # Load and combine rdata files into one long result
@@ -62,3 +71,24 @@ for(i in 1:length(rdata_files)){
   long_form <- rbind(long_form, long_result)
 }
 save(long_form, file="Data/long_form.RData")
+
+
+# Load the long for Data
+load("Data/long_form.RData")
+
+# mutate to create a unique primary key "ID" for each document and to create a "Feature" column that prefixes each token with its token type based on the "type" column
+long_form <- mutate(long_form, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Token, sep="_"))
+
+# Convert from long form to wide form sparse matrix
+wide_relative_df <- select(long_form, ID, Feature, Freq) %>% 
+  spread(Feature, Freq, fill = 0)
+
+save(wide_relative_df, file="Data/wide_relative_df.RData")
+rm(wide_relative_df)
+
+# Repeat for raw counts instead of the relative frequencies
+wide_raw_df <- select(long_form, ID, Feature, Count) %>% 
+  spread(Feature, Count, fill = 0)
+
+save(wide_raw_df, file="Data/wide_raw_df.RData")
+rm(wide_raw_df)

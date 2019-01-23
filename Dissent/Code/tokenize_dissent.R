@@ -7,7 +7,7 @@ library(tidyr)
 
 # The majority of this file is from 1_tokenize.R, 2_convert_to_wide.R, and add_metadata 
 
-corpus <- "DissentFiles"
+corpus <- "Dissent/DissentFiles"
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
 
@@ -17,13 +17,12 @@ for(i in 1:length(the_dirs)){
   for(x in 1:length(the_files)){
     text_v <- get_text_as_string(file.path(corpus, the_dirs[i], the_files[x]))
     # remove numbers
-    year <- stri_extract_first(the_files[x], regex = "19[0-9]{2}|20[0-1][0-9]")
     text_v <- gsub("\\d+", " ", text_v)
     word_tokens <- tokenize_words(text_v)
     
     # raw token counts
-    word_t_raw <- data.frame(the_dirs[i], x, year, table(word_tokens), "W", stringsAsFactors = FALSE)
-    colnames(word_t_raw) <- c("Author", "Text_ID", "Year", "Token", "Count", "Type")
+    word_t_raw <- data.frame(the_dirs[i], x, table(word_tokens), "W", stringsAsFactors = FALSE)
+    colnames(word_t_raw) <- c("Author", "Text_ID", "Token", "Count", "Type")
     
     # calculate relative frequencies
     rels <- word_t_raw$Count/sum(word_t_raw$Count)
@@ -39,14 +38,14 @@ for(i in 1:length(the_dirs)){
     
     # normalize apostrophes
     punc <- gsub("’", "'", punc)
-    punc_t_raw <- data.frame(the_dirs[i], x, year, table(punc), "P", stringsAsFactors = FALSE)
-    colnames(punc_t_raw) <- c("Author", "Text_ID", "Year", "Token", "Count", "Type")
+    punc_t_raw <- data.frame(the_dirs[i], x, table(punc), "P", stringsAsFactors = FALSE)
+    colnames(punc_t_raw) <- c("Author", "Text_ID", "Token", "Count", "Type")
     p_rels <- punc_t_raw$Count/sum(punc_t_raw$Count)
     punc_t <- data.frame(punc_t_raw, Freq=p_rels, stringsAsFactors = FALSE)
     long_result <- rbind(long_result, punc_t)
     
     # create a master file with metadata
-    metadata <- rbind(metadata, data.frame(the_dirs[i], x, year, sum(word_t$Count), sum(punc_t$Count), the_files[x]))
+    metadata <- rbind(metadata, data.frame(the_dirs[i], x, sum(word_t$Count), sum(punc_t$Count), the_files[x]))
     
     # monitor progress. . . 
     cat(the_dirs[i], "---", x, the_files[x], "\n")
@@ -55,7 +54,7 @@ for(i in 1:length(the_dirs)){
   save(long_result, file=temp_name)
 }
 
-colnames(metadata) <- c("Author", "Text_ID", "Year", "NumWords","NumPuncs", "File_name")
+colnames(metadata) <- c("Author", "Text_ID", "NumWords","NumPuncs", "File_name")
 save(metadata, file="Dissent/Data/metadata.RData")
 
 # Load and combine rdata files into one long result
@@ -67,6 +66,8 @@ for(i in 1:length(rdata_files)){
 }
 save(long_form, file="Dissent/Data/long_form.RData")
 
+
+# Load the long for Data
 load("Dissent/Data/long_form.RData")
 
 # mutate to create a unique primary key "ID" for each document and to create a "Feature" column that prefixes each token with its token type based on the "type" column
@@ -86,7 +87,6 @@ wide_raw_df <- select(long_form, ID, Feature, Count) %>%
 save(wide_raw_df, file="Dissent/Data/wide_raw_df.RData")
 rm(wide_raw_df)
 
-
 # load the metadata which was copied from Political Judges into this directory.
 load("Dissent/Data/metadata.RData")
 
@@ -99,7 +99,8 @@ metadata[which(metadata$Author %in% c("GinsburgCleaned", "OConnorCleaned")), "ge
 # Check results
 table(metadata$gender)
 
-metadata <- select(metadata, Author, Text_ID, year,NumWords, NumPuncs, File_name, gender)
+metadata <- select(metadata, Author, Text_ID, NumWords, NumPuncs, File_name, gender)
 
 # resave metadata
 save(metadata, file = "Dissent/Data/metadata.RData")
+

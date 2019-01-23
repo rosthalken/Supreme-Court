@@ -1,0 +1,14 @@
+12Fold 1 :1
+Fold 2 :1
+Fold 3 :1
+Fold 4 :1
+Fold 5 :1
+Fold 6 :1
+Fold 7 :1
+Fold 8 :1
+Fold 9 :1
+Fold 10 :1
+     id     F-score M-score av-rank-in-CV prop-selected-in-CV
+[1,] W_s.ct -0.0901 0.0901  1             0.8                
+[2,] W_l.ed -0.0821 0.0821  2.5           0.1                
+[3,] W_it   -0.037  0.037   8.2           0                  

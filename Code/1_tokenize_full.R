@@ -92,3 +92,22 @@ wide_raw_df <- select(long_form, ID, Feature, Count) %>%
 
 save(wide_raw_df, file="Data/wide_raw_df.RData")
 rm(wide_raw_df)
+
+# load the metadata which was copied from Political Judges into this directory.
+load("Data/metadata.RData")
+
+# add a column for gender and set all to male
+metadata <- data.frame(metadata, gender="M", stringsAsFactors = F)
+
+# replace M with F for the two female justices
+metadata[which(metadata$Author %in% c("GinsburgCleaned", "OConnorCleaned")), "gender"] <- "F"
+
+# Check results
+table(metadata$gender)
+
+# I just changed this quickly so maybe double check
+metadata <- select(metadata, Author, Text_ID, Year, Case, NumWords, NumPuncs, File_name, gender)
+
+# resave metadata
+save(metadata, file = "Data/metadata.RData")
+

@@ -2,15 +2,16 @@ library(dplyr)
 library(readr)
 library(stringi)
 library(tm)
+library(rio)
 corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Original")
 the_clean <- dir(corpus, pattern = ".Cleaned")
 
 # Reason for having the_dirs and the_clean is that the dissent marker only exists in the uncleaned files
-
+# Don't run this again, will overwrite extra work.
 year_clean <- NULL
 case_year <- NULL
-for(i in 1:length(the_dirs)){
+# for(i in 1:length(the_dirs)){
   the_files <- dir(file.path(corpus, the_dirs[i]))
   for(x in 1:length(the_files)){
     text_v <- read.table(file = file.path(corpus, the_dirs[i], the_files[x]), sep = "\r", row.names = NULL)
@@ -27,8 +28,9 @@ save(case_year, file="Data/case_year.RData")
 
 # Writing the alternate csv file that holds all year documents
 write.csv(case_year, file = "Data/case_year.csv")
+case_year2 <- read.csv("Data/case_year.csv")
 
-
+load("Data/case_year.csv")
 
 
 # None of this is necessary but I'm not going to delete

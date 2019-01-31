@@ -59,8 +59,8 @@ colnames(metadata) <- c("Author", "Text_ID", "NumWords","NumPuncs", "File_name",
 
 
 #Adding year to the metadata file
-load("Data/case_year.RData")
-metadata <- merge(metadata, case_year, by = c("Author","Case"))
+load("Data/case_year2.RData")
+metadata <- merge(metadata, case_year2, by = c("Author","Case"))
 save(metadata, file="Data/metadata.RData")
 
 # Load and combine rdata files into one long result

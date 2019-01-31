@@ -35,7 +35,8 @@ load(file.path(user_local, "RData/metadata.RData"))
 load(file.path(user_local, "Data/wide_relative_df.RData"))
 
 # Ignore very short documents: e.g. docs < 1000 wds
-# I lowered the number of these to 500 since NumPhrase combines 2 words
+
+# Matt: I lowered the number of these to 500 since NumPhrase combines 2 words
 word_threshold <- 500
 long_docs <- filter(metadata, NumPhrase >= word_threshold) %>%
   mutate(ID=paste(Author, Text_ID, sep="_")) %>%
@@ -43,7 +44,7 @@ long_docs <- filter(metadata, NumPhrase >= word_threshold) %>%
 long_doc_data <- wide_relative_df[which(wide_relative_df$ID %in% long_docs$ID),]
 meta_full <- merge(long_docs, long_doc_data)
 
-# Is the if/else statement for this file if the punctuation will always be removed during ngram creation? 
+# Matt: Is the if/else statement needed for this file if the punctuation will always be removed during ngram creation? 
 if(remove_punc){
   punctuation <- grep("^P_", colnames(long_doc_data))
   meta_full <- merge(long_docs, long_doc_data[, -punctuation])
@@ -53,14 +54,16 @@ if(remove_punc){
 }
 
 
-# This is where the problem is coming up
+
 # Now winnow the data to high frequency features that are used by all authors.
 # To save processing cycles, first calculate the columns means and remove most features that are above a certain mean.
 # Calculate the means for winnowing
 the_means <- colMeans(meta_full[, 6:ncol(meta_full)])
 
-#  remove names of justices is commented out because I can't guess the word before/after
+# Matt: remove names of justices is commented out because I can't know the word before/after names
 # the_means <- the_means[-which(names(the_means) %in% c("W_rehnquist", "W_scalia", "W_thomas", "W_breyer", "W_ginsburg", "W_kennedy", "W_o'connor", "W_souter", "W_stevens"))]
+
+# Matt: This is where the problem is coming up, I think the error starts at line 157
 
 # First set a maximum number of possible features to retain
 # We'll use values from 5000 down to 500.  Ideally the feature set

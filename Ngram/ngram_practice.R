@@ -9,33 +9,6 @@ corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
 
-# Practice
-
-# text_con <- concatenate(text_v)
-# string.summary(text_con)
-# bigram_sc <- ngram(text_con, n = 2, sep = "_")
-# print(bigram_sc, output = "full")
-# get.phrasetable(bigram_sc)
-# ####
-# trigram_sc <- ngram(text_con, n = 3, sep = "_")
-# print(trigram_sc, output = "full")
-# get.phrasetable(trigram_sc)
-#
-the_files <- dir(file.path(corpus, the_dirs[1]))
-text_v <- get_text_as_string(file.path(corpus, the_dirs[1], the_files[1]))
-# remove numbers
-text_v <- gsub("\\d+", " ", text_v)
-#remove punctuation and lower
-text_v <-  tolower(gsub('[[:punct:] ]+',' ',text_v))
-text_v <- concatenate(text_v)
-#ngram
-ngram_n <- ngram(text_v, n = 2)
-ngram_t <- get.phrasetable(ngram_n)
-ngram_df <- data.frame(ngram_t)
-colnames(ngram_df) <- c("Ngrams", "Freq", "Rel")
-full_df <- data.frame(the_dirs[1], 1, ngram_df, "N", stringsAsFactors = FALSE)
-colnames(full_df) <- c("Author", "File", "Ngram", "Freq", "Rel")
-as.numeric(full_df$Freq)
 
 for(i in 1:length(the_dirs)){
   long_result <- NULL
@@ -57,38 +30,19 @@ for(i in 1:length(the_dirs)){
     long_result <- rbind(long_result, ngram_rel_t)
 
     # create a master file with metadata
-    ##########################################################
-    # Roz: This next bit is not doing what you want. I have fixed for you
-    ##########################################################
-    # metadata <- rbind(metadata, data.frame(the_dirs[i], x, ngram_rel_t$Count, the_files[x]))
     metadata <- rbind(metadata, data.frame(the_dirs[i], x, sum(ngram_rel_t$Count), the_files[x]))
 
     # monitor progress. . .
     cat(the_dirs[i], "---", x, the_files[x], "\n")
   }
-  ##########################################################
-  # Roz: This next bit is not doing what you want. I have fixed for you
-  # These next two lines need to be move below the closing bracket.
-  ##########################################################
-  # temp_name <- paste("Ngram/RData/", the_dirs[i], ".RData", sep="")
-  # save(long_result, file=temp_name)
 }
-##########################################################
-# Roz: Moved from above and edited name
-##########################################################
+
 temp_name <- paste("Ngram/RData/long_result.RData", sep="")
 save(long_result, file=temp_name)
 
-##########################################################
-# Roz: This next bit is not doing what you want.
-# you cannot load this because you have not save it yet above:-)
-##########################################################
-# load("Ngram/Data/metadata.RData")
 
 colnames(metadata) <- c("Author", "Text_ID", "NumPhrase","File_name")
 
-##########################################################
-# Roz: I moved the next bits up from the bottom
 # add a column for gender and set all to male
 metadata <- data.frame(metadata, gender="M", stringsAsFactors = F)
 
@@ -109,23 +63,7 @@ table(metadata$gender)
 temp_name <- paste("Ngram/RData/metadata.RData", sep="")
 save(metadata, file=temp_name)
 
-##########################################################
-# Roz: I don't think you need to do it this way...
-#  the code above already puts it all in one rdata object.
-##########################################################
-# Load and combine rdata files into one long result
-# long_form <- NULL
-# rdata_files <- dir("Ngram/RData")
-# for(i in 1:length(rdata_files)){
-#   load(file.path("Ngram/RData", rdata_files[i]))
-#   long_form <- rbind(long_form, long_result)
-# }
-# save(long_form, file="Ngram/Data/long_form.RData")
 
-##########################################################
-# Roz: Everything above this point was to produce the two key files for the next phase.
-# so you could cut this file here and make what follows below a seperate file.
-##########################################################
 
 # Load the metadata and the long form Data
 load("Ngram/RData/long_result.RData")

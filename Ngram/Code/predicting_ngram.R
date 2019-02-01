@@ -1,4 +1,3 @@
-knitr::opts_chunk$set(echo = TRUE)
 library(caret)
 library(dplyr)
 library(readr)
@@ -9,7 +8,7 @@ library(wordcloud)
 library(ngram)
 
 # Set some parameters
-user_local <- "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Ngram"
+user_local <- "/Users/matthew.jockers/Documents/Students/Thalken/thesis/Ngram"
 use_existing_data <- FALSE
 remove_punc <- FALSE
 use_punc_data <- FALSE
@@ -44,14 +43,16 @@ long_docs <- filter(metadata, NumPhrase >= word_threshold) %>%
 long_doc_data <- wide_relative_df[which(wide_relative_df$ID %in% long_docs$ID),]
 meta_full <- merge(long_docs, long_doc_data)
 
-# Matt: Is the if/else statement needed for this file if the punctuation will always be removed during ngram creation? 
-if(remove_punc){
-  punctuation <- grep("^P_", colnames(long_doc_data))
-  meta_full <- merge(long_docs, long_doc_data[, -punctuation])
-} else {
-  # Merge in the meta data
+# Matt: Is the if/else statement needed for this file if the punctuation will always be removed during ngram creation?
+
+# Roz: No
+# if(remove_punc){
+#   punctuation <- grep("^P_", colnames(long_doc_data))
+#   meta_full <- merge(long_docs, long_doc_data[, -punctuation])
+# } else {
+#   # Merge in the meta data
   meta_full <- merge(long_docs, long_doc_data)
-}
+# }
 
 
 
@@ -61,6 +62,7 @@ if(remove_punc){
 the_means <- colMeans(meta_full[, 6:ncol(meta_full)])
 
 # Matt: remove names of justices is commented out because I can't know the word before/after names
+# Roz:  In that case, you will need to remove these earlier on in the tokenization process.  I would do a find and replace and replace any justice name with the word "Justice".
 # the_means <- the_means[-which(names(the_means) %in% c("W_rehnquist", "W_scalia", "W_thomas", "W_breyer", "W_ginsburg", "W_kennedy", "W_o'connor", "W_souter", "W_stevens"))]
 
 # Matt: This is where the problem is coming up, I think the error starts at line 157
@@ -94,75 +96,79 @@ if(use_existing_data == TRUE) {
     metacols <- colnames(meta_full)[1:5]
     # we collect the most frequent features into a vector "keepers"
     keepers <- names(sort(the_means, decreasing = TRUE)[1:max_cols])
-    
+
     # form a new dataframe with just the metadata and feature columns
     temp_data <- meta_full[,c(metacols, keepers)]
-    
+
     # Now remove any features that do not appear at least once in every gender
     zero_value_test <- group_by(temp_data, gender) %>%
       select(-ID, -Text_ID, -NumPhrase, -Author) %>%
       summarise_all(funs(sum))
-    
+
     # reset any 0 values to NA, so we can use a function to find
     # any columns containing an "NA" (i.e. zero value)
     zero_value_test[1,which(zero_value_test[1,] == 0)] <- NA
     zero_value_test[2,which(zero_value_test[2,] == 0)] <- NA
-    
+
     # Sending zero_value_test to the function returns a set of features
-    # that were not present in all three authors and also in the 
+    # that were not present in all three authors and also in the
     # unknown file. we will remove these
     remove <- nacols(zero_value_test)
-    
+
     # remove any features that are not common to all classes
     if(length(remove) > 0){
       classing_data_full <- temp_data[, -which(colnames(temp_data) %in% remove)]
     } else {
       classing_data_full <- temp_data
     }
-    
+
     # save information for reporting
     features_used <- rbind(
-      features_used, 
-      c(length(keepers), 
-        length(keepers) - length(remove), 
-        mean(classing_data_full[, 6])*100000, 
+      features_used,
+      c(length(keepers),
+        length(keepers) - length(remove),
+        mean(classing_data_full[, 6])*100000,
         mean(classing_data_full[, ncol(classing_data_full)])*100000,
         gsub("N_", "", colnames(classing_data_full)[6]),
         gsub("N_", "", colnames(classing_data_full)[ncol(classing_data_full)])
       )
     )
-    
+
     # Now we can begin the classification experiment.
-    
+
     # Balance the classes by undersampling
     # Setting seed for repeatability during testing.
     set.seed(8675309) # Jenny!
-    
+
+    # Roz: Here is where I found that the problem occurs elsewhere
+    table(classing_data_full$gender)
+
+
     # figure out which rows are which and then sample from the
     # larger classes based on the size of the smaller class
     m_ids <- which(classing_data_full$gender == "M")
     f_ids <- which(classing_data_full$gender == "F")
-    
+
     small_class_size <- min(c(length(m_ids), length(f_ids)))
-    
+
     m_keep <- sample(m_ids, small_class_size)
     f_keep <- sample(f_ids, small_class_size)
-    
+
     # a new data frame from the sampled data
     classing_data <- classing_data_full[c(m_keep, f_keep),]
-    
-    # Classify USING NSC  
+
+    # Classify USING NSC
     # TRAIN ON 3/4 OF DATA
     set.seed(8675309)
     trainIndex <- createDataPartition(factor(classing_data$gender), p = .75, list = FALSE, times = 1)
     training <- classing_data[trainIndex,6:ncol(classing_data)]
     testing  <- classing_data[-trainIndex,6:ncol(classing_data)]
-    
+
     # 10 x 10-fold x-validation
     fitControl <- trainControl(method = "repeatedcv", repeats = 5, classProbs = T)
-    
+
     sink("temp")
-    
+
     #Build the NSC model
     nscFit <- train(x=training,
                     y = factor(classing_data$gender[trainIndex]),
@@ -171,27 +177,27 @@ if(use_existing_data == TRUE) {
                     preProcess = c("center","scale")
     )
     sink()
-    
-    
+
+
     # Examine the features that the model found most useful in distinguishing between the two classes.
     just_data <- classing_data[, -which(colnames(classing_data) %in% metacols)]
     mydata <- list(x=t(just_data), y=factor(classing_data$Class), geneid=colnames(just_data))
     sink("temp")
     listgenes_out[[i]] <- data.frame(pamr.listgenes(nscFit$finalModel, mydata, nscFit$finalModel$threshold, pamr.cv(nscFit$finalModel, mydata)), stringsAsFactors = F)
     sink()
-    
+
     # Examine how the training data was classified in x-validation
     training_data_class_pred <- predict(nscFit, newdata = training, type = "raw")
     train_cm <- confusionMatrix(data = training_data_class_pred, reference = factor(classing_data$gender[trainIndex]))
-    
+
     train_out[[i]] <- train_cm
-    
+
     # Now make predictions about the unseen data and examine results
     class_pred <- predict(nscFit, newdata = testing, type = "raw")
     class_probs <- predict(nscFit, newdata = testing, type = "prob")
     test_cm <- confusionMatrix(data = class_pred, reference = factor(classing_data$gender[-trainIndex]))
     test_out[[i]] <- test_cm
-    
+
     # Show final classification result and probabilities
     props_out <- bind_rows(props_out, cbind(feature_start=max_cols, features_shared=ncol(classing_data_full)-4, class_probs))
   }

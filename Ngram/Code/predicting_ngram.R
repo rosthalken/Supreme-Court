@@ -8,7 +8,8 @@ library(wordcloud)
 library(ngram)
 
 # Set some parameters
-user_local <- "/Users/matthew.jockers/Documents/Students/Thalken/thesis/Ngram"
+#user_local <- "/Users/matthew.jockers/Documents/Students/Thalken/thesis/Ngram"
+user_local <- "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Ngram"
 use_existing_data <- FALSE
 remove_punc <- FALSE
 use_punc_data <- FALSE
@@ -35,24 +36,16 @@ load(file.path(user_local, "Data/wide_relative_df.RData"))
 
 # Ignore very short documents: e.g. docs < 1000 wds
 
-# Matt: I lowered the number of these to 500 since NumPhrase combines 2 words
 word_threshold <- 500
+# gender working with long_docs
 long_docs <- filter(metadata, NumPhrase >= word_threshold) %>%
   mutate(ID=paste(Author, Text_ID, sep="_")) %>%
   select(Author, Text_ID, ID, NumPhrase, gender)
 long_doc_data <- wide_relative_df[which(wide_relative_df$ID %in% long_docs$ID),]
+
+# this is where gender is lost
+# Merge in the meta data
 meta_full <- merge(long_docs, long_doc_data)
-
-# Matt: Is the if/else statement needed for this file if the punctuation will always be removed during ngram creation?
-
-# Roz: No
-# if(remove_punc){
-#   punctuation <- grep("^P_", colnames(long_doc_data))
-#   meta_full <- merge(long_docs, long_doc_data[, -punctuation])
-# } else {
-#   # Merge in the meta data
-  meta_full <- merge(long_docs, long_doc_data)
-# }
 
 
 

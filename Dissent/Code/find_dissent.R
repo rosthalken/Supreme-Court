@@ -6,7 +6,7 @@ corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Original")
 the_clean <- dir(corpus, pattern = ".Cleaned")
 
-# Reason for having the_dirs and the_clean is that the dissent marker only exists in the uncleaned files
+# Reason for having the_dirs and the_clean is that the dissent marker only exists in the original files with front matter
 
 dissenting <- NULL
 
@@ -24,7 +24,7 @@ for(i in 1:length(the_dirs)){
 }
 
 # Writing the csv file that holds all dissent documents
-write.csv(dissenting, file = "Data/dissenting.csv")
+write.csv(dissenting, file = "Dissent/Data/dissenting.csv")
 
 
 # Moving the files into a new folder

@@ -9,10 +9,6 @@ corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
 
-
-v <- 2
-#v <- 3
-
 for(i in 1:length(the_dirs)){
   long_result <- NULL
   the_files <- dir(file.path(corpus, the_dirs[i]))
@@ -23,7 +19,7 @@ for(i in 1:length(the_dirs)){
     text_v <-  concatenate(tolower(gsub('[[:punct:] ]+',' ', text_v)))
 
     # ngram creation
-    ngram_n <- ngram(text_v, n = v)
+    ngram_n <- ngram(text_v, n = 2)
     ngram_count <- get.phrasetable(ngram_n)
     ngram_df <- data.frame(ngram_count)
 
@@ -38,16 +34,14 @@ for(i in 1:length(the_dirs)){
     # monitor progress. . .
     cat(the_dirs[i], "---", x, the_files[x], "\n")
   }
+  temp_name <- paste("Ngram/RData/", the_dirs[i], ".RData", sep="")
+  save(long_result, file=temp_name)
 }
 
-temp_name <- paste("Ngram/RData/long_result.RData", sep="")
-save(long_result, file=temp_name)
-
-
-colnames(metadata) <- c("Author", "Text_ID", "NumPhrase","File_name")
 
 # add a column for gender and set all to male
 metadata <- data.frame(metadata, gender="M", stringsAsFactors = F)
+colnames(metadata) <- c("Author", "Text_ID", "NumPhrase","File_name", "gender")
 
 # replace M with F for the two female justices
 metadata[which(metadata$Author %in% c("GinsburgCleaned", "OConnorCleaned")), "gender"] <- "F"
@@ -63,16 +57,24 @@ table(metadata$gender)
 # I just changed this quickly so maybe double check
 # metadata <- select(metadata, Author, Text_ID, Year, Case, NumWords, File_name, gender)
 
-temp_name <- paste("Ngram/RData/metadata.RData", sep="")
+temp_name <- paste("Ngram/Data/metadata.RData", sep="")
 save(metadata, file=temp_name)
 
-# Load the metadata and the long form Data
-load("Ngram/RData/long_result.RData")
-load("Ngram/RData/metadata.RData")
+# Make wide dataframes
+long_form <- NULL
+rdata_files <- dir("Ngram/RData")
+for(i in 1:length(rdata_files)){
+  load(file.path("Ngram/RData", rdata_files[i]))
+  long_form <- rbind(long_form, long_result)
+}
+save(long_form, file="Ngram/Data/long_form.RData")
 
 
 # mutate to create a unique primary key "ID" for each document and to create a "Feature" column that prefixes each token with its token type based on the "type" column
-long_form <- mutate(long_result, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Ngram, sep="_"))
+long_form <- mutate(long_form, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Ngram, sep="_"))
+
+rm(long_result)
+rm(metadata)
 
 # Convert from long form to wide form sparse matrix
 wide_relative_df <- select(long_form, ID, Feature, Freq) %>%
@@ -87,4 +89,3 @@ wide_raw_df <- select(long_form, ID, Feature, Count) %>%
 
 save(wide_raw_df, file="Ngram/Data/wide_raw_df.RData")
 rm(wide_raw_df)
-

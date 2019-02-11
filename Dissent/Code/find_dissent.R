@@ -2,6 +2,7 @@ library(dplyr)
 library(readr)
 library(stringi)
 library(tm)
+
 corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Original")
 the_clean <- dir(corpus, pattern = ".Cleaned")
@@ -15,7 +16,9 @@ dissenting <- NULL
 for(i in 1:length(the_dirs)){
   the_files <- dir(file.path(corpus, the_dirs[i]))
   for(x in 1:length(the_files)){
-    text_v <- read.table(file = file.path(corpus, the_dirs[i], the_files[x]), sep = "\r", row.names = NULL)
+    # text_v <- read.table(file = file.path(corpus, the_dirs[i], the_files[x]), sep = "\r", row.names = NULL)
+    # Roz: Not sure why you were using read.table here.  but read_lines (below) works to grab the dissenting in the Souter files.
+    text_v <- read_lines(file.path(corpus, the_dirs[i], the_files[x]))
     result <- grep(".*dissenting\\.", text_v)
     if(length(result) != 0){
       dissenting <- c(dissenting, paste(corpus, the_clean[i], the_files[x], sep = "//"))

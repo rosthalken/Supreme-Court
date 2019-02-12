@@ -1,4 +1,3 @@
-#TEST
 library(tokenizers)
 library(syuzhet)
 library(dplyr)
@@ -55,13 +54,15 @@ for(i in 1:length(the_dirs)){
 
 load("Data/metadata.RData")
 
-colnames(metadata) <- c("Author", "Text_ID", "NumWords","NumPuncs", "File_name", "Case")
+colnames(metadata) <- c("Author", "Text_ID", "NumWords","NumPuncs", "File_Name")
 
 
 #Adding year to the metadata file
-load("Data/case_year2.RData")
-metadata <- merge(metadata, case_year2, by = c("Author","Case"))
-save(metadata, file="Data/metadata.RData")
+load("Data/case_year.RData")
+metadata <- merge(metadata, case_year, by = c("Author","File_Name"))
+metadata <- subset(metadata, select = -c(Number, Corpus))
+save(metadata, file="Data/metadata.RData")           
+
 
 # Load and combine rdata files into one long result
 long_form <- NULL
@@ -104,9 +105,6 @@ metadata[which(metadata$Author %in% c("GinsburgCleaned", "OConnorCleaned")), "ge
 
 # Check results
 table(metadata$gender)
-
-# I just changed this quickly so maybe double check
-metadata <- select(metadata, Author, Text_ID, Year, Case, NumWords, NumPuncs, File_name, gender)
 
 # resave metadata
 save(metadata, file = "Data/metadata.RData")

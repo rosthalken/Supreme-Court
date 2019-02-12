@@ -23,14 +23,17 @@ case_year <- NULL
   }
 }
 
-colnames(case_year) <- c("Corpus", "Author", "Year", "Case")
+
+case_year <- read.csv("Data/case_year.csv")
+colnames(case_year) <- c("Number","Corpus", "Author", "Year", "File_Name")
 save(case_year, file="Data/case_year.RData")
 
 # Writing the alternate csv file that holds all year documents
-write.csv(case_year, file = "Data/case_year.csv")
-case_year2 <- read.csv("Data/case_year.csv")
+#write.csv(case_year, file = "Data/case_year.csv")
 
-load("Data/case_year.csv")
+#save(case_year, file = "Data/case_year.RData")
+
+#load("Data/case_year.csv")
 
 
 # None of this is necessary but I'm not going to delete

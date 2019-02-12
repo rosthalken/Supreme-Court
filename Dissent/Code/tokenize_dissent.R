@@ -87,9 +87,7 @@ wide_raw_df <- select(long_form, ID, Feature, Count) %>%
 save(wide_raw_df, file="Dissent/Data/wide_raw_df.RData")
 rm(wide_raw_df)
 
-# load the metadata which was copied from Political Judges into this directory.
 load("Dissent/Data/metadata.RData")
-
 # add a column for gender and set all to male
 metadata <- data.frame(metadata, gender="M", stringsAsFactors = F)
 

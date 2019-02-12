@@ -19,7 +19,8 @@ for(i in 1:length(the_dirs)){
 
     # remove numbers
     # this could be the issue. Maybe the punctuation is removed and replaces with spaces
-    text_v <-  concatenate(tolower(gsub('[[:punct:] ]+',' ', text_v)))
+    text_v <- concatenate(tolower(gsub('[[:punct:] ]+',' ', text_v)))
+    text_v <- gsub('[0-9]+', ' ', text_v)
 
     # ngram creation
     #ngram_n <- ngram(text_v, n = 2)
@@ -82,15 +83,16 @@ for(i in 1:length(rdata_files)){
 save(long_form, file="Ngram/Data/long_form.RData")
 
 
+
+load("Ngram/Data/long_form.RData")
+
 # mutate to create a unique primary key "ID" for each document and to create a "Feature" column that prefixes each token with its token type based on the "type" column
 long_form <- mutate(long_form, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Ngram, sep="_"))
 
-rm(long_result)
-rm(metadata)
 
 # Convert from long form to wide form sparse matrix
 wide_relative_df <- select(long_form, ID, Feature, Freq) %>%
-  spread(Feature, Freq, fill = 0)
+  spread(Feature, Freq, fill = 0, row.names = F)
 
 save(wide_relative_df, file="Ngram/Data/wide_relative_df.RData")
 rm(wide_relative_df)

@@ -34,7 +34,7 @@ write.csv(dissenting, file = "Dissent/Data/dissenting.csv")
 for(i in 1:length(dissenting)){
   without_sc <- removeWords(dissenting[i], "SupremeCourtCorpusFinalEncoded//")
   justice <- stri_extract(without_sc, regex = ".+?(?=//)")
-  main_folder <- "DissentFiles"
+  main_folder <- "Dissent/DissentFiles"
   file_pathway <- file.path(main_folder, justice)
   file.copy(dissenting[i], file_pathway)
 }

@@ -308,6 +308,7 @@ strong_female_diffs <- group_by(combined_df, id) %>%
   select(id, mean_diff, G)
 
 View(strong_female_diffs)
+View(strong_male_diffs)
 
 x <- rbind(strong_female_diffs, strong_male_diffs) %>%
   arrange(desc(mean_diff))
@@ -316,11 +317,11 @@ female_table <- filter(x, G=="F")
 male_table <- filter(x, G=="M")
 
 
-write_csv(x, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Data/x.csv")
+write_csv(x, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Results/x.csv")
 
-write_csv(strong_female_diffs, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Data/strong_female_diffs.csv")
+write_csv(strong_female_diffs, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Results/strong_female_diffs.csv")
 
-write_csv(strong_male_diffs, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Data/strong_male_diffs.csv")
+write_csv(strong_male_diffs, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Results/strong_male_diffs.csv")
 
 knitr::kable(x[1:50,], col.names = c("Word", "Mean Difference", "Gender"), caption = "Most Useful Features")
 ```

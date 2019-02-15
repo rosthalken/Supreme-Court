@@ -82,7 +82,10 @@ for(i in 1:length(rdata_files)){
 }
 save(long_form, file="Ngram/Data/long_form.RData")
 
+row.names(long_form) <- F 
 
+long_form <- df
+rownames(df) = make.names(df$ID, unique=TRUE)
 
 load("Ngram/Data/long_form.RData")
 
@@ -92,7 +95,7 @@ long_form <- mutate(long_form, ID=paste(Author, Text_ID, sep="_"), Feature=paste
 
 # Convert from long form to wide form sparse matrix
 wide_relative_df <- select(long_form, ID, Feature, Freq) %>%
-  spread(Feature, Freq, fill = 0, row.names = F)
+  spread(Feature, Freq, fill = 0)
 
 save(wide_relative_df, file="Ngram/Data/wide_relative_df.RData")
 rm(wide_relative_df)

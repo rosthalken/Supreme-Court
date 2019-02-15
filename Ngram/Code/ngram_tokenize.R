@@ -10,36 +10,32 @@ library(quanteda)
 corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
+long_result <- NULL
 
-for(i in 1:length(the_dirs)){
-  long_result <- NULL
+for(i in 1:2){ #length(the_dirs)
+  justice_result <- NULL
   the_files <- dir(file.path(corpus, the_dirs[i]))
   for(x in 1:length(the_files)){
     text_v <- get_text_as_string(file.path(corpus, the_dirs[i], the_files[x]))
-
     # remove numbers
     # this could be the issue. Maybe the punctuation is removed and replaces with spaces
     text_v <- concatenate(tolower(gsub('[[:punct:] ]+',' ', text_v)))
     text_v <- gsub('[0-9]+', ' ', text_v)
 
-    # ngram creation
-    #ngram_n <- ngram(text_v, n = 2)
-    #ngram_count <- get.phrasetable(ngram_n)
-    #ngram_df <- data.frame(ngram_count)
-
     #Alternative way? :
-    text_v <- tokens(text_v, what = "fastestword", remove_numbers = TRUE, remove_punct = TRUE)
-    ngram_v <- tokens_ngrams(text_v, n = 2, concatenator = "_")
-    ngram_t <- table(as.list(ngram_v))
-    
+    text_tokens <- tokens(text_v, what = "fastestword", remove_numbers = TRUE, remove_punct = TRUE)
+    ngram_v <- tokens_ngrams(text_tokens, n = 2, concatenator = "_")
+    # ngram_t <- table(as.list(ngram_v))
+    ngram_t <- table(as.character(ngram_v))
+
     # raw token counts
     #ngram_rel_t <- data.frame(the_dirs[i], x, ngram_df, "N", stringsAsFactors = FALSE)
     # OR new:
-    ngram_raw_t <- data.frame(the_dirs[1], x, ngram_t, "N", stringsAsFactors = FALSE)
-    colnames(ngram_raw_t) <- c("Author", "Text_ID", "Ngram", "Count", "Type")
-    rels <- ngram_raw_t$Count/sum(ngram_raw_t$Count)
-    word_t <- data.frame(ngram_raw_t, Freq=rels, stringsAsFactors = FALSE)
-    long_result <- rbind(long_result, word_t)
+    ngram_raw_df <- data.frame(the_dirs[i], x, ngram_t, "N", stringsAsFactors = FALSE)
+    colnames(ngram_raw_df) <- c("Author", "Text_ID", "Ngram", "Count", "Type")
+    ngram_df <- mutate(ngram_raw_df, Freq = Count/sum(Count))
+
+    justice_result <- rbind(justice_result, ngram_df)
 
     # create a master file with metadata
     metadata <- rbind(metadata, data.frame(the_dirs[i], x, sum(word_t$Count), the_files[x]))
@@ -47,9 +43,11 @@ for(i in 1:length(the_dirs)){
     # monitor progress. . .
     cat(the_dirs[i], "---", x, the_files[x], "\n")
   }
-  temp_name <- paste("Ngram/RData/", the_dirs[i], ".RData", sep="")
-  save(long_result, file=temp_name)
+  long_result <- rbind(long_result, justice_result)
 }
+
+temp_name <- paste("Ngram/RData/", "ngram_data", ".RData", sep="")
+save(long_result, file=temp_name)
 
 
 # add a column for gender and set all to male
@@ -82,7 +80,7 @@ for(i in 1:length(rdata_files)){
 }
 save(long_form, file="Ngram/Data/long_form.RData")
 
-row.names(long_form) <- F 
+row.names(long_form) <- F
 
 long_form <- df
 rownames(df) = make.names(df$ID, unique=TRUE)

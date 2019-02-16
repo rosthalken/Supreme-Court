@@ -11,9 +11,10 @@ load(file.path(user_local, "Data/long_form.RData"))
 
 load("Ngram/Data/long_form.RData")
 load("Ngram/Data/metadata.RData")
+load("Ngram/RData/long_result")
 
 # mutate to create a unique primary key "ID" for each document and to create a "Feature" column that prefixes each token with its token type based on the "type" column
-long_form <- mutate(long_form, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Ngram, sep="_"))
+long_form <- mutate(long_result, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Ngram, sep="_"))
 
 # df <- long_form
 # rownames(df) = make.names(df$ID, unique=TRUE)

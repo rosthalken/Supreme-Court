@@ -46,6 +46,7 @@ for(i in 1:2){ #length(the_dirs)
   long_result <- rbind(long_result, justice_result)
 }
 
+# this is the file I want to mutate
 temp_name <- paste("Ngram/RData/", "ngram_data", ".RData", sep="")
 save(long_result, file=temp_name)
 
@@ -60,47 +61,40 @@ metadata[which(metadata$Author %in% c("GinsburgCleaned", "OConnorCleaned")), "ge
 # Check results
 table(metadata$gender)
 
-##########################################################
-# Roz: This next bit does not work with the way that metadata is being created above.
-#  there is no year or case metadata extracted from the files as they are being
-#  processed.  You could add that in, however, at line 45.
-
-# I just changed this quickly so maybe double check
-# metadata <- select(metadata, Author, Text_ID, Year, Case, NumWords, File_name, gender)
 
 temp_name <- paste("Ngram/Data/metadata.RData", sep="")
 save(metadata, file=temp_name)
 
-# Make wide dataframes
-long_form <- NULL
-rdata_files <- dir("Ngram/RData")
-for(i in 1:length(rdata_files)){
-  load(file.path("Ngram/RData", rdata_files[i]))
-  long_form <- rbind(long_form, long_result)
-}
-save(long_form, file="Ngram/Data/long_form.RData")
-
-row.names(long_form) <- F
-
-long_form <- df
-rownames(df) = make.names(df$ID, unique=TRUE)
-
-load("Ngram/Data/long_form.RData")
-
-# mutate to create a unique primary key "ID" for each document and to create a "Feature" column that prefixes each token with its token type based on the "type" column
-long_form <- mutate(long_form, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Ngram, sep="_"))
-
-
-# Convert from long form to wide form sparse matrix
-wide_relative_df <- select(long_form, ID, Feature, Freq) %>%
-  spread(Feature, Freq, fill = 0)
-
-save(wide_relative_df, file="Ngram/Data/wide_relative_df.RData")
-rm(wide_relative_df)
-
-# Repeat for raw counts instead of the relative frequencies
-wide_raw_df <- select(long_form, ID, Feature, Count) %>%
-  spread(Feature, Count, fill = 0)
-
-save(wide_raw_df, file="Ngram/Data/wide_raw_df.RData")
-rm(wide_raw_df)
+# # Make wide dataframes
+# long_form <- NULL
+# rdata_files <- dir("Ngram/RData")
+# for(i in 1:length(rdata_files)){
+#   load(file.path("Ngram/RData", rdata_files[i]))
+#   long_form <- rbind(long_form, long_result)
+# }
+# save(long_form, file="Ngram/Data/long_form.RData")
+# 
+# row.names(long_form) <- F
+# 
+# long_form <- df
+# rownames(df) = make.names(df$ID, unique=TRUE)
+# 
+# load("Ngram/Data/long_form.RData")
+# 
+# # mutate to create a unique primary key "ID" for each document and to create a "Feature" column that prefixes each token with its token type based on the "type" column
+# long_form <- mutate(long_form, ID=paste(Author, Text_ID, sep="_"), Feature=paste(Type, Ngram, sep="_"))
+# 
+# 
+# # Convert from long form to wide form sparse matrix
+# wide_relative_df <- select(long_form, ID, Feature, Freq) %>%
+#   spread(Feature, Freq, fill = 0)
+# 
+# save(wide_relative_df, file="Ngram/Data/wide_relative_df.RData")
+# rm(wide_relative_df)
+# 
+# # Repeat for raw counts instead of the relative frequencies
+# wide_raw_df <- select(long_form, ID, Feature, Count) %>%
+#   spread(Feature, Count, fill = 0)
+# 
+# save(wide_raw_df, file="Ngram/Data/wide_raw_df.RData")
+# rm(wide_raw_df)

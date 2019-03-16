@@ -18,6 +18,12 @@ for(i in 1:length(the_dirs)){
     text_v <- get_text_as_string(file.path(corpus, the_dirs[i], the_files[x]))
     # remove numbers
     text_v <- gsub("\\d+", " ", text_v)
+    text_v <- gsub("to the location of the note in the document", " ", text_v)
+    text_v <- gsub("Link to the location of the note in the document", " ", text_v)
+    text_v <- gsub("to the text of the note", " ", text_v)
+    text_v <- gsub("Link to the text of the note", " ", text_v)
+    text_v <- gsub("LEdHN", " ", text_v)
+    text_v <- gsub("HN", " ", text_v)
     word_tokens <- tokenize_words(text_v)
     
     # raw token counts

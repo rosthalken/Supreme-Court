@@ -237,6 +237,7 @@ Our corpus consisted of `r nrow(metadata)` Supreme Court opinions attributed to 
 
 ```{r, echo=FALSE, message=FALSE}
 clean_author <- table(gsub("Cleaned", "", metadata$Author))
+clean_df <- as.data.frame(clean_author)
 knitr::kable(clean_author, col.names = c("Justice", "Documents"), caption = "Documents by Justice")
 ```
 
@@ -244,6 +245,7 @@ During processing, each document (opinion) in the corpus was assigned a unique i
 
 ```{r, echo=FALSE, message=FALSE}
 knitr::kable(by_author, col.names = c("Justice", "Documents"), caption = "Documents by Justice with > 1000 Words")
+write_csv(as.data.frame(by_author), "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Results/by_author.csv")
 ```
 
 In addition, each justice was coded as being either male or female.  Table 3 shows how the Justices  were code by gender.
@@ -279,8 +281,10 @@ Across all `r length(train_out)` runs with different numbers of features, NSC ac
 ```{r, echo=FALSE, message=FALSE}
 test_accs <- lapply(seq_along(test_out), get_full_accuracy, table_data=test_out)
 train_accs <- lapply(seq_along(train_out), get_full_accuracy, table_data=train_out)
-a <- data.frame(1:length(max_col_vals),  max_col_vals, unlist(train_accs), unlist(test_accs))
-knitr::kable(a, col.names = c("Model ID","Number of Features", "Accuracy on Training Data", "Accuracy on Test Data"), caption = "Model Accuracy")
+a <- data.frame(1:length(max_col_vals),  features_used[, 1:3], unlist(train_accs), unlist(test_accs))
+knitr::kable(a, col.names = c("Model ID","Features", "Shared", "Retained","Accuracy on Training Data", "Accuracy on Test Data"), caption = "Model Accuracy")
+a <- subset(a, select = -c(X3))
+write_csv(a, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Dissent/Results/a.csv")
 ```
 
 # Observations

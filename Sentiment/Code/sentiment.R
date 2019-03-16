@@ -9,7 +9,6 @@ corpus <- "SupremeCourtCorpusFinalEncoded"
 load("Data/case_year.RData")
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata_sentiment <- NULL
-
 sentiment_result <- NULL
 
 for(i in 1:length(the_dirs)) {
@@ -22,8 +21,9 @@ for(i in 1:length(the_dirs)) {
     year <- filter(case_year, File_Name == the_files[x], Author == the_dirs[i]) %>%
             select(Year)
     theyear <- year$Year
-    sentiment_df <- data.frame(the_dirs[i], x, the_files[x], mean_sent, theyear, stringsAsFactors = FALSE)
-    colnames(sentiment_df) <- c("Author","File_ID","File_Name","Mean Sentiment", "Year")
+    author <- gsub("Cleaned", "", the_dirs[i])
+    sentiment_df <- data.frame(author, x, the_files[x], mean_sent, theyear, stringsAsFactors = FALSE)
+    colnames(sentiment_df) <- c("Author","File_ID","File_Name","Mean_Sentiment", "Year")
     sentiment_result <- rbind(sentiment_result, sentiment_df)
     cat(i, " ", x, "\r")
   }
@@ -33,8 +33,26 @@ for(i in 1:length(the_dirs)) {
 
 save(sentiment_result, file="Sentiment/Data/sentiment_result.RData")
 
+load("Sentiment/Data/sentiment_result.RData")
+
+
+
+# Adding mean of sentiment throughout career
+sentiment_mean <- group_by(sentiment_result, Author) %>%
+  summarise(author_sent = mean(`Mean Sentiment`))
+sentiment_sd <- group_by(sentiment_result, Author) %>%
+  summarise(author_sent = sd(`Mean Sentiment`))
+mean_sd <- data.frame(sentiment_mean, sentiment_sd)
+mean_sd <- subset(mean_sd, select = -c(Author.1))
+colnames(mean_sd) <- c("Author", "Mean Sentiment", "Standard Deviation")
+write.csv(mean_sd, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Sentiment/Results/sentiment_mean_sd.csv")
+
+new <- rbind(sentiment_result, sentiment_mean)
+
+
 sentiment_groups <- group_by(sentiment_result, Author, Year) %>%
   summarise(year_sent = mean(`Mean Sentiment`))
+
 
 
 # ggplot(data=sentiment_groups, aes(x=Year, y=year_sent, group=Author)) +
@@ -46,33 +64,22 @@ plotted_sentiment <- ggplot(data=sentiment_groups, aes(x=Year, y=year_sent, grou
   geom_line(aes(linetype=Author)) +
   geom_smooth() 
 
-vertical_sentiment <- plotted_sentiment + facet_grid(Author ~ .)
+# all_sentiment <- ggplot(data=sentiment_groups, aes(x=Year, y=year_sent, group=Author)) +
+#   geom_line(aes(linetype=Author)) +
+#   geom_smooth(aes(colour = Author), se = FALSE)
 
-sp + facet_wrap( ~ day, ncol=2)
-
-grid_sentiment <- plotted_sentiment + facet_wrap(~ Author, ncol=3)
-
-
-#   temp_name <- paste("Sentiment/RData/", the_dirs[i], ".RData", sep="")
-#   mean_sentiment <- mean(sentiment_df$Sentiment)
-#   #author_sentiment <- data.frame(the_dirs[i], mean(sentiment_v), stringsAsFactors = FALSE)
-#   # author_sentiment_df <- data.frame(sentiment_result$Author, mean(sentiment_v), stringsAsFactors = FALSE)
-#   # colnames(author_sentiment_df) <- c("Author", "Sentiment")
-#   #author_sentiment_df <- rbind(author_sentiment_df, author_sentiment)
-#   sentiment_result <- data.frame(sentiment_result, mean_sentiment, stringsAsFactors = FALSE)
-#   #colnames(sentiment_result) <- c("Author", "File_Name", "File_Sentiment", "Author_Sentiment")
-#   save(sentiment_result, file=temp_name)
-# }
+smooth_sentiment <- ggplot(data=sentiment_groups, aes(x=Year, y=year_sent, group=Author)) +
+  #geom_line(aes(linetype=Author)) +
+  geom_smooth(aes(colour = Author), se = FALSE) +
+  ylim(-.20, .20) +
+  xlab("Year") +
+  ylab("Sentiment")
 
 
+grid_sentiment <- plotted_sentiment + 
+  facet_wrap(~ Author, ncol=3) +
+  theme(legend.position="none")+
+  xlab("Year") +
+  ylab("Sentiment")
 
-# long_sentiment <- NULL
-# rdata_files <- dir("Sentiment/RData")
-# for(i in 1:length(rdata_files)){
-#   load(file.path("Sentiment/RData", rdata_files[i]))
-#   #mean_v <- mean(sentiment_result)
-#   long_sentiment <- rbind(long_sentiment, sentiment_result)
-# }
-# save(long_sentiment, file="Sentiment/Data/long_sentiment.RData")
-#
-# sentiment_author <- select(long_sentiment, Author, Author_Sentiment)
+

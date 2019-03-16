@@ -3,6 +3,7 @@ library(syuzhet)
 library(dplyr)
 library(readr)
 library(stringi)
+library(tidyr)
 corpus <- "SupremeCourtCorpusFinalEncoded"
 the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
@@ -16,6 +17,14 @@ for(i in 1:length(the_dirs)){
     text_v <- get_text_as_string(file.path(corpus, the_dirs[i], the_files[x]))
     # remove numbers
     text_v <- gsub("\\d+", " ", text_v)
+    text_v <- gsub("to the location of the note in the document", " ", text_v)
+    text_v <- gsub("Link to the location of the note in the document", " ", text_v)
+    text_v <- gsub("to the text of the note", " ", text_v)
+    text_v <- gsub("Link to the text of the note", " ", text_v)
+    text_v <- gsub("LEdHN", " ", text_v)
+    text_v <- gsub("HN", " ", text_v)
+    text_v <- gsub(".,Äôs", "'s", text_v)
+    text_v <- gsub("internal quotation marks omitted", " ", text_v)
     word_tokens <- tokenize_words(text_v)
     
     # raw token counts
@@ -85,14 +94,14 @@ wide_relative_df <- select(long_form, ID, Feature, Freq) %>%
   spread(Feature, Freq, fill = 0)
 
 save(wide_relative_df, file="Data/wide_relative_df.RData")
-rm(wide_relative_df)
+#rm(wide_relative_df)
 
 # Repeat for raw counts instead of the relative frequencies
 wide_raw_df <- select(long_form, ID, Feature, Count) %>% 
   spread(Feature, Count, fill = 0)
 
 save(wide_raw_df, file="Data/wide_raw_df.RData")
-rm(wide_raw_df)
+#rm(wide_raw_df)
 
 # load the metadata which was copied from Political Judges into this directory.
 load("Data/metadata.RData")

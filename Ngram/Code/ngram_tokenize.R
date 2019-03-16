@@ -12,7 +12,7 @@ the_dirs <- dir(corpus, pattern = ".Cleaned")
 metadata <- NULL
 long_result <- NULL
 
-for(i in 1:2){ #length(the_dirs)
+for(i in 1:length(the_dirs)) {
   justice_result <- NULL
   the_files <- dir(file.path(corpus, the_dirs[i]))
   for(x in 1:length(the_files)){
@@ -38,16 +38,15 @@ for(i in 1:2){ #length(the_dirs)
     justice_result <- rbind(justice_result, ngram_df)
 
     # create a master file with metadata
-    metadata <- rbind(metadata, data.frame(the_dirs[i], x, sum(word_t$Count), the_files[x]))
+    metadata <- rbind(metadata, data.frame(the_dirs[i], x, sum(ngram_df$Count), the_files[x]))
 
     # monitor progress. . .
     cat(the_dirs[i], "---", x, the_files[x], "\n")
   }
   long_result <- rbind(long_result, justice_result)
 }
-
-# this is the file I want to mutate
-temp_name <- paste("Ngram/RData/", "ngram_data", ".RData", sep="")
+# this is the file I want to mutate332
+temp_name <- paste("Ngram/RData/", "long_result", ".RData", sep="")
 save(long_result, file=temp_name)
 
 

@@ -32,7 +32,7 @@ for(i in 1:length(the_dirs)) {
 
 
 save(sentiment_result, file="Sentiment/Data/sentiment_result.RData")
-
+write.csv(sentiment_result, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Sentiment/Results/sentiment_result.csv")
 load("Sentiment/Data/sentiment_result.RData")
 
 
@@ -52,6 +52,8 @@ new <- rbind(sentiment_result, sentiment_mean)
 
 sentiment_groups <- group_by(sentiment_result, Author, Year) %>%
   summarise(year_sent = mean(`Mean Sentiment`))
+write.csv(sentiment_groups, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Sentiment/Results/sentiment_groups.csv")
+
 
 
 

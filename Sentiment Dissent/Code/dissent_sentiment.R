@@ -31,7 +31,7 @@ for(i in 1:length(the_dirs)) {
 
 
 save(sentiment_result, file="Sentiment Dissent/Data/sentiment_result.RData")
-
+write.csv(sentiment_result, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Sentiment Dissent/Results/sentiment_result.csv")
 load("Sentiment Dissent/Data/sentiment_result.RData")
 
 

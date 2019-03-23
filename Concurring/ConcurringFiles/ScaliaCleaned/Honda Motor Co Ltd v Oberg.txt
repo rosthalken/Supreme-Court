@@ -1,0 +1,12 @@
+﻿
+I join the opinion of the Court, but a full explanation of why requires that I supplement briefly the description of what has occurred here.
+ 
+Before the 1910 amendment to Article VII, § 3, of the Oregon Constitution, Oregon courts had developed and were applying common-law standards that limited the size of damages awards. See, e.g., Adcock v. Oregon R. Co., 45 Or. 173, 179-182, 77 P. 78, 80 (1904) (approving trial court’s decision to grant a remittitur because the jury’s damages award was excessive); see also Van Lom v. Schneiderman, 187 Or. 89, 96-98, 112-113, 210 P.2d 461, 464, 471 (1949). The 1910 amendment, by its terms, did not eliminate those substantive standards but altered the procedures of judicial review: “[N]o fact tried by a jury shall be otherwise re-examined in any court of this state, unless the court can affirmatively say there is no evidence to support the verdict” (emphasis added). The Oregon courts appear to believe that a state-law “reasonableness” limit upon the amount of punitive damages subsists, but cannot be enforced through the process of judicial review. In Van Lom, for example, the Oregon Supreme Court had no trouble concluding that the damages award was excessive, see *436 187 Or., at 91-93, 210 P.2d, at 462, but held that the amendment had removed its “power to correct a miscarriage of justice by ordering a new trial,” id., at 112-113, 210 P.2d, at 471.
+ 
+The Court’s opinion establishes that the right of review eliminated by the amendment was a procedure traditionally accorded at common law. The deprivation of property without observing (or providing a reasonable substitute for) an important traditional procedure **2343 for enforcing state-prescribed limits upon such deprivation violates the Due Process Clause.
+ 
+
+
+
+
+

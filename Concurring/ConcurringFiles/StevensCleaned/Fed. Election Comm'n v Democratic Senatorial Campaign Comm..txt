@@ -1,0 +1,33 @@
+﻿
+The issue presented in this case is whether the National Republican Senatorial Committee (NRSC) violated the Federal Election Campaign Act, 2 U. S. C. § 441 et seq. (1976 ed. and Supp. IV), by making expenditures that state political committees are authorized to make under § 441a(d)(1). Section 441a(d)(1) authorizes "the national committee of a political party and a State committee of a political party, including any subordinate committee of a State committee," to make certain expenditures in connection with a candidate's general election campaign,    subject to defined limitations. See § 441a(d)(3). Since the NRSC clearly is not "the national committee of a political party," 1Link to the text of the note or "a State committee of a political party, including any subordinate committee of a State committee," 2Link to the text of the note it is clear that nothing in § 441a(d)(3) limits the permissible expenditure of funds by the NRSC.
+
+The NRSC is, however, a "political committee"    as that term is defined in the statute. 3Link to the text of the note    Section 441a(a)(2)(A) provides     that no multicandidate political committee may make contributions to a candidate that exceed $ 5,000. 4Link to the text of the note Section 441a(h) provides, however, that "amounts totaling not more than $ 17,500 may be contributed to a candidate for nomination for election, or for election, to the United States Senate during the year in which an election is held in which he is such a candidate, by the Republican or Democratic Senatorial Campaign Committee. . . ." No section of the statute directly limits expenditures by the Republican or Democratic Senatorial Campaign     Committees. 5Link to the text of the note However, § 441a(a)(7)(B)(i) provides that "expenditures made by any person in cooperation, consultation, or concert, with, or at the request or suggestion of, a candidate, his authorized political committees, or their agents, shall be considered to be a contribution to such candidate."
+
+Thus, the only way that the NRSC could be said to have violated the statute in this case is if it made expenditures "in cooperation, consultation, or concert" with a candidate that exceeded $ 17,500. The record discloses that the NRSC in several instances made expenditures that exceeded $ 17,500. As I understand the record, however, it does not demonstrate that these expenditures were made in cooperation, consultation, or concert with the candidates. The record simply is silent on this point.
+
+The only way that the NRSC could be said to have violated the statute, therefore, is if, as a matter of law, it is     incapable of making expenditures that are not made in cooperation,     consultation, or concert with a candidate. In other words, the NRSC could not be said to have violated the statute unless the NRSC is deemed as a matter of law to be an agent of the candidate on whose behalf it expends funds. If this is the case, however, it would appear to me to follow almost automatically that the NRSC may act as an agent for the state committees     in spending the amounts that state committees are authorized to spend by § 441a(d), since state committees are largely controlled by the state candidates that they serve. It would seem incongruous to hold that the NRSC must be treated as an agent of a candidate when it makes expenditures, but may not act as a lawful agent of that candidate's state committee.
+
+I concur fully in the conclusion of the Court that the agency relationship utilized in this case does not violate the Act, and I join its opinion subject only to the caveat that I am not entirely sure that the expenditures at issue in this case "otherwise would be impermissible," ante, at 28, and n. 1. I assume, arguendo, that this is so, for otherwise petitioners    would bear absolutely no burden to justify the expenditures made in this case. 6Link to the text of the note
+
+Section 431(14) defines the term "national committee" as "the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the national level, as determined by the Commission." 2 U. S. C. § 431(14) (1976 ed., Supp. IV).
+
+2Link to the location of the note in the document
+Section 431(15) defines the term "State committee" as "the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level, as determined by the Commission." 2 U. S. C. § 431(15) (1976 ed., Supp. IV).
+
+3Link to the location of the note in the document
+Section 431(4) defines the term "political committee" as --
+
+"(A) any committee, club, association, or other group of persons which receives contributions aggregating in excess of $ 1,000 during a calendar year or which makes expenditures aggregating in excess of $ 1,000 during a calendar year. . . ." 2 U. S. C. § 431(4) (1976 ed., Supp. IV).
+
+4Link to the location of the note in the document
+Section 441a(a)(2)(A) provides:
+
+"No multicandidate political committee shall make contributions --
+
+"(A) to any candidate and his authorized political committees with respect to any election for Federal office which, in the aggregate, exceed $ 5,000." 2 U. S. C. § 441a(a)(2)(A).
+
+5Link to the location of the note in the document
+The Act carefully distinguishes between "contributions" and "expenditures." See § 431(8) (defining the term "contribution"); § 431(9) (defining the term "expenditure").
+
+6Link to the location of the note in the document
+Moreover, this case would have been much easier for me to decide if the parties had begun their presentations with an appropriate explanation of the relevant provisions of the statute instead of an unstated assumption that is not entirely obvious.

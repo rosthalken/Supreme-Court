@@ -1,0 +1,21 @@
+﻿
+        
+        Cent. States v. Cent. Transp., 472 U.S. 559, 105 S. Ct. 2833 (1985)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom THE CHIEF JUSTICE and JUSTICE REHNQUIST join, concurring in part and dissenting in part.
+
+If an employer who participates in a multiemployer benefit plan enters into an agreement that authorizes the trustees of the plan to conduct an audit of the employer's personnel records, such an agreement is not prohibited by ERISA. That is the proposition of law that I understand the Court to announce today and I agree with it.
+
+ [*583]  In my opinion, the right to conduct an audit of the kind involved in this case must be granted by contract; it is not conferred by ERISA itself. My disagreement with the Court is based on our differing interpretations of the particular contract documents in this case.
+
+The Pension Fund trust agreements, as the Court accurately quotes, provide that "each Employer shall promptly furnish to the Trustees, upon reasonable demand" information concerning "its Employees." App. to Pet. for Cert. A-46. The term "Employees," however, the first letter of which is capitalized in the trust agreements, does not comprise  [***466]  all [****42]  employees of respondents. Instead, Article I, § 3, expressly provides that "[the] term 'Employee' as used herein shall include," in pertinent part, persons who are both employed pursuant to the collective-bargaining agreement and covered by the pension plan. Id., at A-43. *Link to the text of the note Thus, the trustees have  [**2847]  power to audit personnel records only of covered employees.
+
+Nor do the trust agreements require this Court to acquiesce in the trustees' understandable assertion of power to investigate whatever personnel records they deem necessary. It is true that Article IV provides that interpretations of the trust agreements adopted by a majority of the [****43]  trustees "in good faith shall be binding upon the Union, Employees and Employers." Id., at A-48. But as the Court of Appeals pointed out, this broad language "does not . . . give the trustees carte blanche powers to undertake an audit of the records of all of [respondents'] employees. They are limited in their discretion by . . . the common law concept that a trustee may only act within the scope of his or her authority." 698 F.2d 802, 810 (1983).
+
+ [*584]  In sum, although I acknowledge that the provisions of those documents that the Court has quoted lend support to its conclusion, I find the painstaking and accurate analysis of the complete set of documents in Judge Kennedy's opinion for the Court of Appeals far more persuasive. See id., at 806-810. Because the dispute over the meaning of these particular documents is not a matter of special public interest, I simply record my agreement with the Court of Appeals' interpretation of the contract. To that extent, I respectfully dissent.
+
+The general language italicized by the Court, ante, at 566, in context authorizes audits of records in addition to those specifically listed, but only as to covered employees. If the language were construed to encompass records of noncovered employees, the limitations in the preceding sentence of the trust agreements would be read out of the contract.

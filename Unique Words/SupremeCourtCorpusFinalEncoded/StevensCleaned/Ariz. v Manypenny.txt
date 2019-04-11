@@ -1,0 +1,10 @@
+﻿
+There is a distinction between a court's power to accept an appeal and an executive's power to prosecute an appeal. The question whether the United States Court of Appeals in this case had jurisdiction to entertain the appeal is a federal     question. I agree with the Court's conclusion that such jurisdiction is conferred by 28 U. S. C. § 1291. *Link to the text of the note
+
+The question whether the prosecutor had authority to prosecute an appeal is, I believe, a question controlled by     the law of the sovereign that the prosecutor represents. I therefore agree with the Court's conclusion that the holding in United States v. Sanges, 144 U.S. 310, to the effect that a federal prosecutor had no such authority in 1892, is not controlling in this case. The controlling authority is conferred by Arizona, which does empower its prosecutors to appeal in the situation presented here.
+
+Although this simple analysis persuades me to join the Court's opinion, I write separately to emphasize that it lends no support to an argument that 18 U. S. C. § 3731 or any other federal statute would authorize an appeal by a state prosecutor.
+
+Title 28 U. S. C. § 1291 provides in part:
+
+"The courts of appeals shall have jurisdiction of appeals from all final decisions of the district courts of the United States . . . ."

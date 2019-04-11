@@ -1,0 +1,7 @@
+﻿
+I cannot accept the majority’s interpretation of the term “intent” in 18 U.S.C. § 2119 (1994 ed. and Supp. III) to include the concept of conditional intent. The central difficulty in this case is that the text is silent as to the meaning of “intent”—the carjacking statute does not define that word, and Title 18 of the United States Code, unlike some state codes, lacks a general section defining intent to include conditional intent. See, e.g., Del.Code Ann., Tit. 11, § 254 (1995); Haw.Rev.Stat. § 702–209 (1993); 18 Pa. Cons.Stat. § 302(f) (1998). As the majority notes, ante, at 971–972, there is some authority to support its view that the specific intent to commit an act may be conditional. In my view, that authority does not demonstrate that such a usage was part of a well-established historical tradition. Absent a more settled tradition, it cannot be presumed that Congress was familiar with this usage when it enacted the statute. For these reasons, I agree with Justice SCALIA the statute cannot be read to include the concept of conditional intent and, therefore, respectfully dissent.
+ 
+
+
+
+

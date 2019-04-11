@@ -1,0 +1,22 @@
+﻿
+        
+        Dunaway v. New York, 442 U.S. 200, 99 S. Ct. 2248 (1979)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, concurring.
+Although I join the Court's opinion, I add this comment on the significance of two factors that may be considered when determining whether a confession has been obtained by exploitation [****40]  of an illegal arrest.
+
+The temporal relationship between the arrest and the confession may be an ambiguous  [**2261]  factor. If there are no relevant intervening circumstances, a prolonged detention may well be a more serious exploitation of an illegal arrest than a short one. Conversely, even an immediate confession may have been motivated by a prearrest event such as a visit with a minister.
+
+The flagrancy of the official misconduct is relevant, in my judgment, only insofar as it has a tendency to motivate the defendant. A midnight arrest with drawn guns will be equally frightening whether the police acted recklessly or in good faith. Conversely, a courteous command has the same effect on the arrestee whether the officer thinks he has probable cause or knows that he does not. In either event, if the Fourth Amendment is violated, the admissibility question will turn on the causal relationship between that violation and the defendant's subsequent confession.
+
+I recognize that the deterrence rationale for the exclusionary  [*221]  rule is sometimes interpreted quite differently. 1Link to the text of the note Under that interpretation, exclusion is applied as a substitute for punishment of the offending [****41]  officer; if he acted recklessly or flagrantly, punishment is appropriate, but if he acted in good faith, it is not. 2Link to the text of the note But when evidence is excluded at a criminal trial, it is the broad societal interest in effective law enforcement that suffers. The justification for the exclusion of evidence obtained by improper methods is to motivate the law enforcement profession as a whole -- not the aberrant individual officer -- to adopt and enforce regular procedures that will avoid the future invasion of the citizen's constitutional rights. For that reason, exclusionary rules should embody objective criteria rather than subjective considerations.
+
+See, e. g., MR. JUSTICE REHNQUIST, dissenting, post, at 226.
+
+2Link to the location of the note in the document
+I would agree that the officer's subjective state of mind is relevant when he is being sued for damages, but this case involves the question whether the evidence he has obtained is admissible at trial.
+

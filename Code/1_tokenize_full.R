@@ -23,7 +23,7 @@ for(i in 1:length(the_dirs)){
     text_v <- gsub("Link to the text of the note", " ", text_v)
     text_v <- gsub("LEdHN", " ", text_v)
     text_v <- gsub("HN", " ", text_v)
-    text_v <- gsub(".,Äôs", "'s", text_v)
+    text_v <- gsub(",Äôs", "'s", text_v)
     text_v <- gsub("internal quotation marks omitted", " ", text_v)
     word_tokens <- tokenize_words(text_v)
     

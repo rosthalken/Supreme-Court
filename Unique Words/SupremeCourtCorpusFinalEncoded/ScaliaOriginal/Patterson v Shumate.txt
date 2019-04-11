@@ -1,0 +1,27 @@
+﻿
+
+
+112 S.Ct. 2242
+Supreme Court of the United States
+John R. PATTERSON, Trustee, Petitioner
+v.
+Joseph B. SHUMATE, Jr.
+No. 91-913.
+|
+Argued April 20, 1992.
+|
+Decided June 15, 1992.
+ 
+
+Justice SCALIA, concurring.
+
+The Court’s opinion today, which I join, prompts several observations.
+ 
+When the phrase “applicable nonbankruptcy law” is considered in isolation, the phenomenon that three Courts of Appeals could have thought it a synonym for “state law” is mystifying. When the phrase is considered together with the rest of the Bankruptcy Code (in which Congress chose to refer to state law as, logically enough, “state law”), the phenomenon calls into question whether our legal culture has so far departed from attention to text, or is so lacking in agreed-upon methodology for creating and interpreting **2251 text, that it any longer makes sense to talk of “a government of laws, not of men.”
+ 
+Speaking of agreed-upon methodology: It is good that the Court’s analysis today proceeds on the assumption that use of the phrases “state law” and “applicable nonbankruptcy law” in other provisions of the Bankruptcy Code is highly relevant to whether “applicable nonbankruptcy law” means “state law” in § 541(c)(2), since consistency of usage within the same statute is to be presumed. Ante, at 2246-2247, and n. 2. This application of a normal and obvious principle of statutory construction would not merit comment, except that we explicitly rejected it, in favor of a one-subsection-at-a-time approach, when interpreting another provision of this very statute earlier this Term. See Dewsnup v. Timm, 502 U.S. 410, 416-417, 112 S.Ct. 773, 777-778, 116 L.Ed.2d 903 (1992);  id., at 420-423, 112 S.Ct., at 780-783 (SCALIA, J. dissenting). “[W]e express no opinion,” our decision said, “as to whether the words [at issue] have different meaning in other provisions of the Bankruptcy Code.” Id., at 417, n. 3, 112 S.Ct., at 778, n. 3. I trust *767 that in our search for a neutral and rational interpretive methodology we have now come to rest, so that the symbol of our profession may remain the scales, not the seesaw.
+ 
+
+
+
+

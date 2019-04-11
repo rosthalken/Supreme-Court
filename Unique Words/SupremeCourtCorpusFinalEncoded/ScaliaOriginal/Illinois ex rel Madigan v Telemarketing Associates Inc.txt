@@ -1,0 +1,24 @@
+﻿
+
+
+123 S.Ct. 1829
+Supreme Court of the United States
+ILLINOIS ex rel. Lisa MADIGAN, Attorney General of Illinois, Petitioner,
+v.
+TELEMARKETING ASSOCIATES, INC., et al.
+No. 01–1806.
+|
+Argued March 3, 2003.
+|
+Decided May 5, 2003.
+
+Justice SCALIA, with whom Justice THOMAS joins, concurring.
+
+The question presented by the petition for certiorari in this case reads as follows: “Whether the First Amendment categorically prohibits a State from pursuing a fraud action against a professional fundraiser who represents that donations will be used for charitable purposes but in fact keeps the vast majority (in this case 85 percent) of all funds donated.” Pet. for Cert. i. I join the Court’s opinion because I think it clear from the opinion that if the only representation made by the fundraiser were the one set forth in the question presented (“that donations will be used for charitable purposes”), and if the only evidence of alleged failure to comply with that representation were the evidence set forth in the question presented (that the fundraiser “keeps the *625 vast majority (in this case 85 percent) of all funds donated”), the answer to the question would be yes.
+ 
+It is the teaching of Riley v. National Federation of Blind of N. C., Inc., 487 U.S. 781, 793, 108 S.Ct. 2667, 101 L.Ed.2d 669 (1988), and Secretary of State of Md. v. Joseph H. Munson Co., 467 U.S. 947, 966, 104 S.Ct. 2839, 81 L.Ed.2d 786 (1984), that since there is such wide disparity in the legitimate expenses borne by charities, it is not possible to establish a maximum percentage that is reasonable. It also follows from that premise that there can in general be no reasonable expectation on the part of donors as to what fraction of the gross proceeds goes to expenses. When that proposition is combined with the unquestionable fact that one who is promised, without further specification, that his charitable contribution will go to a particular cause must reasonably understand that it will go there after the deduction of legitimate expenses, the conclusion must be that the promise is not broken (and hence fraud is not committed) by the mere fact that expenses are very high. Today’s judgment, however, rests upon a “solid core” of misrepresentations, ante at 1840, that go well beyond mere commitment of the collected funds to the charitable purpose.
+ 
+
+
+
+

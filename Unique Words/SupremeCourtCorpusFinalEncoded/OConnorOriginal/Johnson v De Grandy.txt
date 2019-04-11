@@ -1,0 +1,18 @@
+﻿
+        
+        Johnson v. De Grandy, 512 U.S. 997, 114 S. Ct. 2647 (1994)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+The critical issue in these cases is whether § 2 of the Voting Rights Act of 1965, 42 U.S.C. § 1973, requires courts to "maximize" the number of districts in which minority voters may elect their candidates of choice. The District Court, applying the maximization principle, operated "on the apparent assumption that what could have been done to create additional Hispanic supermajority districts should have been done." Ante, at 1009. The Court today makes [****51]  clear that the District Court was in error, and that the Voting Rights Act does not require maximization. Ante, at 1017 ("Failure to maximize cannot be the measure of § 2"); ante, at 1022 (the District Court improperly "equated dilution with failure to maximize the number of reasonably compact majority-minority districts").
+
+But today's opinion does more than reject the maximization principle. The opinion's central teaching is that proportionality -- defined as the relationship between the number of majority-minority voting districts and the minority group's share of the relevant population -- is always relevant evidence in determining vote dilution, but is never itself dispositive. Lack of proportionality is probative evidence of vote dilution. "Any  [***800]  theory of vote dilution must necessarily rely to some extent on a measure of minority voting strength that makes some reference to the proportion between the minority group and the electorate at large." Thornburg v. Gingles, 478 U.S. 30, 84, 92 L. Ed. 2d 25, 106 S. Ct. 2752 (1986) (O'CONNOR, J., concurring in judgment). Thus, in evaluating the Gingles preconditions and the totality of the circumstances [****52]  a court must always consider the relationship between the number of majority-minority voting districts and the minority group's share of the population. Cf. id., at 99 ("The relative lack of minority electoral success under a challenged plan, when compared with the success that would be predicted under the measure of undiluted minority voting strength the court is employing, can constitute powerful evidence of vote dilution").
+
+ [*1026]  The Court also makes clear that proportionality is never dispositive. Lack of proportionality can never by itself prove dilution, for courts must always carefully and searchingly review the totality of the circumstances, including the extent to which minority groups have access to the political process. Ante, at 1011-1012. Nor does the presence of proportionality prove the absence of dilution. Proportionality is not a safe harbor for States; it does not immunize their election schemes from § 2 challenge. Ante, at 1017-1021.
+
+In sum, the Court's carefully crafted approach treats proportionality as relevant evidence, but does not make it the only relevant evidence. In doing this the Court makes clear that § 2 does not require maximization [****53]  of minority voting strength, yet remains faithful to § 2's command that minority voters be given equal opportunity to participate in the political process and to elect representatives of their choice. With this understanding, I join the opinion of the Court.
+

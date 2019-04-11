@@ -1,0 +1,39 @@
+﻿
+        
+        Overton v. Ohio, 534 U.S. 982, 122 S. Ct. 389 (2001)
+        
+
+
+      
+
+Justice Breyer, with whom Justice Stevens, Justice O'Connor and Justice Souter join, respecting the denial of the petition for writ of certiorari.
+
+An Ohio court convicted Desarie Overton of a drug crime. She sought to suppress key evidence--the drugs--on the ground that  [*983]  the police, when seizing the drugs, were acting pursuant to an arrest warrant that "was not based on probable cause." 2000 Ohio App. LEXIS 3919, No. L 99-1317, 2000 WL 1232422, *2 (Ohio App. Lucas County, Sept. 1, 2000). The Ohio Court of Appeals rejected Overton's claim, and the Supreme Court of Ohio dismissed her appeal. She now seeks certiorari. She says that the Toledo police simply inserted her name and address into a previously prepared "form complaint" or affidavit which contained a general description of the crime; and that they submitted this "form complaint" to the Magistrate as the sole evidence supporting the issuance of the [****2]  warrant. She argues that the warrant therefore failed to meet minimal constitutional standards. I agree with Overton and would summarily reverse the judgment below on the ground that the warrant is clearly inadequate under well-established Supreme Court case law.
+
+The Fourth Amendment provides that "no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized." U.S. Const., Amdt. 4. The probable-cause determination must be made by a neutral magistrate in order "to insure that the deliberate, impartial judgment of a judicial officer will be interposed between the citizen and the police, to assess the weight and credibility of the information which the complaining officer adduces as probable cause." Wong Sun v. United States, 371 U.S. 471, 481-482, 9 L. Ed. 2d 441, 83 S. Ct. 407 (1963).
+
+As far as the record before us reveals, the only evidence in this case offered to the Magistrate to show "probable cause" for issuing the warrant consisted of a "complaint" presented to the Magistrate, signed by Detective Andre Woodson. That complaint sets forth Overton's name, the date of the offense, the [****3]  name of the offense ("permitting drug abuse"), and the statutory reference. It further reads:
+
+"The defendant, being the owner, lessee, or occupant of certain premises, did knowingly permit such premises to be used for the commission of a felony drug abuse offense, to-wit: Desarie Overton being the lessee, owner, or occupant of 620 Belmont, Toledo, Ohio 43607, knowingly permitted Cocaine, a Schedule Two controlled substance to be sold and possessed by the occupants, there, both being in violation of the Ohio Revised Code, a felony drug abuse offense. This  [*984]  offense occurred in Toledo, Lucas County, Ohio." Appendix, infra.
+
+This "complaint" sets forth the relevant crime in general terms, it refers to Overton, and it says she committed the crime. But nowhere does it indicate how Detective Woodson knows, or why he believes, that Overton committed the crime.
+
+This Court has previously made clear that affidavits or complaints of this kind do not provide sufficient support for the issuance of an arrest warrant. In  [***318]  Giordenello v. United States, 357 U.S. 480, 486, 2 L. Ed. 2d 1503, 78 S. Ct. 1245 (1958), which involved a federal prosecution, the Court found that a complaint identical in all material respects [****4]  to the one before us failed to meet the "probable cause" requirement contained in Rule 4 of the Federal Rules of Criminal Procedure because it contained "no affirmative allegation that the affiant spoke with personal knowledge of the matters contained therein," failed to "indicate any sources for the complainant's  [**390]  belief," and neglected to "set forth any other sufficient basis upon which a finding of probable cause could be made." For those reasons, the Magistrate could not "assess independently the probability that the petitioner committed the crime charged." 357 U.S. 480, at 487, 78 S. Ct. 1245, 2 L. Ed. 2d 1503.
+
+Subsequently, in Aguilar v. Texas, 378 U.S. 108, 112, n.3, 12 L. Ed. 2d 723, 84 S. Ct. 1509 (1964) (abrogated on other grounds by Illinois v. Gates, 462 U.S. 213, 230, 76 L. Ed. 2d 527, 103 S. Ct. 2317 (1983)), which involved a state prosecution, the Court noted that Giordenello had construed Rule 4's "probable cause" requirement "'in light of the constitutional' requirement of probable cause which that Rule implements." And it added that the "principles announced in Giordenello derived, therefore, from the Fourth Amendment, and not from our supervisory power." Ibid.
+
+Then, in Whiteley v. Warden, Wyo. State Penitentiary, 401 U.S. 560, 28 L. Ed. 2d 306, 91 S. Ct. 1031 (1971), [****5]  which also involved a state prosecution, the Court again considered a complaint similar to the one before us. That complaint said:
+
+I, C.W. Ogburn, do solemnly swear that on or about the 23 day of November, A.D. 1964, in the County of Carbon and State of Wyoming, the said Harold Whiteley and Jack Daley, defendants did then and there unlawfully break and enter a locked and sealed building [describing the location and ownership  [*985]  of the building]." Id., at 563 (alteration in original) (internal quotation marks omitted).
+
+The Court, citing Giordenello and Aguilar, wrote that the
+
+"decisions of this Court concerning Fourth Amendment probable-cause requirements before a warrant for either arrest or search can issue require that the judicial officer issuing such a warrant be supplied with sufficient information to support an independent judgment that probable cause exists for the warrant." Id., at 564 (emphasis added).
+
+The Court added:
+"In the instant case--so far as the record stipulated to by the parties reveals--the sole support for the arrest warrant issued at Sheriff Ogburn's request was the complaint reproduced above. That [****6]  complaint consists of nothing more than the complainant's conclusion that the individuals named therein perpetrated the offense described in the complaint." Id., at 564-565 (footnotes omitted).
+
+The Court went on to conclude that "the complaint on which the warrant issued here clearly could not support a finding of probable cause by the issuing magistrate." Id. at 568.
+
+I can find no relevant difference between the complaint before us and the one at issue in Whiteley. And Whiteley is clearly controlling on this point. Arizona v. Evans, 514 U.S. 1, 13, 131 L. Ed. 2d 34, 115 S. Ct. 1185 (1995) (casting doubt on Whiteley's exclusionary rule discussion but stating that Whiteley clearly retains relevance in determining whether police officers have violated the Fourth Amendment . . ."). Nor can I find any basis, on the papers before us, to conclude that the evidence was admissible despite the inadequacy of the arrest warrant.
+I consequently conclude that the city of Toledo clearly violated the Fourth Amendment warrant requirement. Because the Court already has answered directly the basic legal question presented  [***319]  in this case, I would not grant certiorari for the purpose [****7]  of hearing that question argued once again. I would, however, summarily reverse the decision below. I realize that we cannot act as a court of simple error correction and that the unpublished intermediate court decision below lacks significant value as precedent. Nonetheless, the matter has a general aspect. The highlighted print on the complaint, see Appendix, infra, offers some  [*986]  support for Overton's  [**391]  claims that the "complaint" is a form that the police filled in with her name and address. And that fact, if true, helps to support her claim that her case is not unique. That possibility, along with the clarity of the constitutional error, convinces me that the appropriate disposition of this case is a summary reversal.

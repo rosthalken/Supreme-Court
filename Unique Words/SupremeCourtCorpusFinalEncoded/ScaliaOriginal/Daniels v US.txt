@@ -1,0 +1,31 @@
+﻿
+
+
+121 S.Ct. 1578
+Supreme Court of the United States
+Earthy D. DANIELS, Jr., Petitioner,
+v.
+UNITED STATES.
+No. 99-9136.
+|
+Argued Jan. 8, 2001.
+|
+Decided April 25, 2001.
+*385 Justice SCALIA, concurring in part.
+
+I agree with the Court that 28 U.S.C. § 2255 (1994 ed., Supp. V) does not (with the Gideon exception, see Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799 (1963)) permit inquiry into whether a conviction later used to enhance a federal sentence was unconstitutionally obtained, and I agree with the Court’s reasoning so far as it goes. I have another reason for reaching that result, however, and one that prevents me from joining that portion of the Court’s opinion which speculates that “[t]here may be rare circumstances in which § 2255 would be available,” such as when “no channel of review was actually available to a defendant with respect to a prior conviction, due to no fault of his own,” ante, at 1580, 1584. Simply put, “the text of § 2255 is” not “broad enough to cover a claim that an enhanced federal sentence violates due process,” ante, at 1584, if the enhancement is based on prior convictions.
+ 
+In addition to the practical reasons Justice O’CONNOR identifies as counseling against petitioner’s interpretation of § 2255, there stands the very text of that provision. “[W]e have long recognized that ‘the power to award the writ [of habeas corpus] by any of the courts of the United States, must be given by written law,’ ” Felker v. Turpin, 518 U.S. 651, 664, 116 S.Ct. 2333, 135 L.Ed.2d 827 (1996), quoting Ex parte Bollman, 4 Cranch [8 U.S.] 75, 94, 2 L.Ed. 554 (1807). Section 2255 authorizes a challenge by “[a] prisoner in custody under sentence of a court established by Act of Congress claiming the right to be released upon the ground that the sentence was imposed in violation of the Constitution or laws of the United States.” (Emphases added.) We have already determined, in Custis v. United States, 511 U.S. 485, 114 S.Ct. 1732, 128 L.Ed.2d 517 (1994), that a sentencing court does not violate the Due Process Clause by imposing a sentence enhanced by prior, purportedly tainted, convictions, unless the taint is the result of a Gideon violation.* It follows ineluctably that *386 § 2255 does not establish any right to challenge federal sentences based on their enhancement by stale, non-Gideon-tainted, convictions.
+ 
+This conclusion is reinforced (if reinforcement is possible) by comparing the text of § 2255 with that of § 2254. The latter, governing habeas challenges to state convictions, provides that “[t]he ineffectiveness or incompetence of counsel during Federal or State collateral postconviction proceedings shall not be a ground for relief in a proceeding arising under § 2254.” 28 U.S.C. § 2254(i) (1994 ed., Supp. V). There is no conceivable reason why this bar would be placed upon challenges to state convictions under § 2254, but not upon challenges to state convictions under § 2255. Congress did not expect challenges to state convictions (used **1586 to enhance federal convictions) to be brought under § 2255.
+ 
+Perhaps precepts of fundamental fairness inherent in “due process” suggest that a forum to litigate challenges like petitioner’s must be made available somewhere for the odd case in which the challenge could not have been brought earlier. But it would not follow from this that federal sentencing must provide the remedy; much less that federal sentencing need not provide the remedy but § 2255 (which is entirely dependent upon the impropriety of prior federal sentencing) *387 must do so. Fundamental fairness could be achieved just as well-indeed, better-by holding that the rendering jurisdiction must provide a means for challenge when enhancement is threatened or has been imposed. Such a constitutional rule, combined with a rule that any sentence already imposed must be adjusted accordingly, would prevent sentencing hearings from being routinely complicated by inquiries into prior convictions, and would locate those inquiries where they can best be conducted: in the rendering jurisdiction. It would also avoid a possible gap in protection that would result from using § 2255 (and in state-court cases, § 2254) for this inappropriate purpose-arising from the fact that, as discussed above, § 2254 cannot be used to remedy ineffective assistance of postconviction counsel. (We have left open the question whether such ineffective assistance can establish a constitutional violation, see Coleman v. Thompson, 501 U.S. 722, 755, 111 S.Ct. 2546, 115 L.Ed.2d 640 (1991).) But § 2255 cannot possibly be the means of relief.
+ 
+For these reasons, I join the opinion of the Court only in part.
+ 
+
+
+
+
+*
+Justice SOUTER asserts that Custis “merely held (with [the] exception [of Gideon violations] ) that neither the ACCA nor the Constitution provides a forum at the sentencing hearing for challenges to the underlying conviction.” Post, at 1587, n. 1 (dissenting opinion). But the Constitution would “provide a forum” at the sentencing hearing if it were unconstitutional to sentence on the basis of invalid but nonetheless outstanding prior convictions. (Assuredly the Constitution does not permit unconstitutional acts.) Custis necessarily held, therefore, that it is not unconstitutional (with the Gideon exception) to sentence on the basis of invalid but nonetheless outstanding prior convictions. Justice SOUTER apparently understood this at the time Custis was decided. His dissent began: “The Court answers a difficult constitutional question that I believe the underlying statute does not pose,” 511 U.S., at 498, 114 S.Ct. 1732, which question turns out to be “whether the Constitution permits courts to enhance a defendant's sentence on the basis of a prior conviction the defendant can show was obtained in violation of his right to effective assistance of counsel,” id., at 505, 114 S.Ct. 1732.

@@ -1,0 +1,162 @@
+﻿
+LEdHN   This action requires us to consider the circumstances under which a manufacturer of a generic drug, designed to duplicate the appearance of a similar drug marketed by a competitor under a registered trademark, can be held vicariously liable for infringement of that trademark by pharmacists who dispense the generic drug.
+
+    I
+
+In 1955, respondent Ives Laboratories, Inc. (Ives), received a patent on the drug cyclandelate, a vasodilator used in long-term therapy for peripheral and cerebral vascular diseases. Until its patent expired in 1972, Ives retained the exclusive right to make and sell the drug, which it did under the registered trademark CYCLOSPASMOL. 1Link to the text of the note Ives marketed    the drug, a white     powder, to wholesalers, retail pharmacists, and hospitals in colored gelatin capsules. Ives arbitrarily selected     a blue capsule, imprinted with "Ives 4124," for its 200 mg dosage and a combination blue-red capsule, imprinted with "Ives 4148," for its 400 mg dosage.
+
+After Ives' patent expired, several generic drug manufacturers, including petitioners    Premo Pharmaceutical Laboratories, Inc., Inwood Laboratories, Inc., and MD Pharmaceutical Co., Inc. (collectively the generic manufacturers), began marketing cyclandelate. 2Link to the text of the note They intentionally copied the appearance  [3]  of the CYCLOSPASMOL capsules, selling cyclandelate in 200 mg and 400 mg capsules in colors identical to those selected by Ives. 3Link to the text of the note
+
+The marketing methods used by Ives reflect normal industry practice. Because cyclandelate can be obtained only by prescription, Ives does not direct its advertising    to the ultimate consumer. Instead, Ives' representatives pay personal visits to physicians, to whom they distribute product literature and "starter samples." Ives initially directed these efforts toward convincing physicians that CYCLOSPASMOL is superior to other vasodilators. Now that its patent has expired and generic manufacturers have entered the market, Ives concentrates on convincing physicians to indicate on prescriptions that a generic drug cannot be substituted for CYCLOSPASMOL. 4Link to the text of the note
+
+       The generic manufacturers also follow a normal industry practice by promoting their products primarily by distribution     of catalogs to wholesalers, hospitals, and retail pharmacies, rather than by contacting physicians directly. The catalogs truthfully describe generic cyclandelate as "equivalent" or "comparable" to CYCLOSPASMOL. 5Link to the text of the note In addition, some of the catalogs include price comparisons of the generic drug and CYCLOSPASMOL and some refer to the color of the generic capsules. The generic products reach wholesalers, hospitals, and pharmacists in bulk containers which correctly indicate the manufacturer of the product contained therein.
+
+    A pharmacist, regardless of whether he is dispensing CYCLOSPASMOL or a generic     drug, removes the capsules from the container in which he receives them and dispenses them to the consumer in the pharmacist's own bottle with his     own label attached. Hence, the final consumer sees no identifying marks other than those on the capsules themselves.
+
+II
+
+A
+
+Ives instituted this action in the United States District Court for the Eastern District of New York under §§ 32 and 43(a) of the Trademark Act of 1946 (Lanham Act), 60 Stat. 427, as amended, 15 U. S. C. § 1051 et seq., and under New York's unfair competition law, N. Y. Gen. Bus. Law § 368-d (McKinney 1968). 6Link to the text of the note
+
+Ives' claim under § 32, 60 Stat. 437, as amended, 15 U. S. C. § 1114, 7Link to the text of the note    derived from its allegation that some pharmacists had     dispensed generic    drugs mislabeled as CYCLOSPASMOL. 8Link to the text of the note     Ives contended that the generic manufacturers' use of lookalike capsules and of catalog entries comparing prices and revealing the colors of the generic  [4]  capsules induced pharmacists illegally to substitute a generic drug for CYCLOSPASMOL and to mislabel the substitute drug CYCLOSPASMOL. Although Ives did not allege that the petitioners themselves applied the Ives trademark to the drug products they produced and distributed, it did allege that the petitioners contributed to the infringing activities of pharmacists who mislabeled generic cyclandelate.
+
+Ives' claim under § 43(a), 60 Stat. 441, 15 U. S. C. § 1125(a), 9Link to the text of the note    alleged that the petitioners falsely designated the origin of their products by copying the capsule colors used by Ives and by promoting the generic products as equivalent to CYCLOSPASMOL. In support of its claim, Ives argued that the colors of its capsules were not     functional 10Link to the text of the note and that     they had developed a secondary meaning for the consumers. 11Link to the text of the note
+
+Contending that pharmacists would continue to mislabel generic drugs as CYCLOSPASMOL so long as imitative products were available, Ives asked that the court enjoin the petitioners from marketing cyclandelate capsules in the same colors and form as Ives uses for CYCLOSPASMOL. In    addition, Ives sought damages pursuant to § 35 of the Lanham Act, 60 Stat. 439, as amended, 15 U. S. C. § 1117.
+
+B
+
+The District Court denied Ives'     request for an order preliminarily enjoining the petitioners from selling generic drugs identical in appearance to those produced by Ives. 455 F.Supp. 939 (1978). Referring to the claim based upon § 32, the District Court stated that, while the "knowing and deliberate instigation" by the petitioners of mislabeling by pharmacists would justify holding the petitioners as well as the pharmacists liable for trademark infringement, Ives had made no showing sufficiently to justify preliminary relief. Id., at 945. Ives had not established that the petitioners conspired with the pharmacists or suggested that they disregard physicians' prescriptions.
+
+The Court of Appeals for the Second Circuit affirmed. 601 F.2d 631 (1979). To assist the District Court in the upcoming trial on the merits, the appellate court defined the elements of a claim based upon § 32 in some detail. Relying primarily upon Coca-Cola Co. v. Snow Crest Beverages, Inc., 64 F.Supp. 980 (Mass. 1946),    aff'd, 162 F.2d 280 (CA1), cert. denied, 332 U.S. 809 (1947), the court stated that the petitioners would be liable  [5]  under § 32 either if they suggested, even by implication, that retailers fill bottles with generic cyclandelate and label the bottle with Ives' trademark or if     the petitioners continued to sell cyclandelate to retailers whom they knew or had reason to know were engaging in infringing practices. 601 F.2d, at 636.
+
+C
+
+After a bench trial on remand, the District Court entered judgment for the petitioners. 488 F.Supp. 394 (1980). Applying the test approved by the Court of Appeals to the claim based upon § 32, the District Court found that the petitioners had not suggested, even by implication, that pharmacists should dispense generic drugs incorrectly identified as CYCLOSPASMOL. 12Link to the text of the note
+
+    In reaching that conclusion, the court first looked for direct evidence that the petitioners intentionally induced trademark infringement. Since the petitioners' representatives do not make personal visits to physicians and pharmacists, the petitioners were not in a position directly to suggest improper drug substitutions. Cf. William R. Warner & Co. v. Eli Lilly & Co., 265 U.S. 526, 530-531 (1924); Smith, Kline & French Laboratories v. Clark & Clark, 157 F.2d 725, 731 (CA3), cert. denied, 329 U.S. 796 (1946). Therefore, the court concluded, improper suggestions, if any, must have come from catalogs and promotional materials. The court determined, however, that those materials could not "fairly be read" to suggest trademark infringement. 488 F.Supp., at 397.
+
+The trial court next considered evidence of actual instances of mislabeling by pharmacists, since frequent improper substitutions     of a generic drug for CYCLOSPASMOL could provide circumstantial evidence that the petitioners, merely by making available imitative drugs in conjunction with comparative price     advertising, implicitly    had suggested that pharmacists substitute improperly. After reviewing the evidence     of incidents of mislabeling, the District Court concluded that such incidents occurred too infrequently to justify the inference that the petitioners' catalogs and use of imitative colors had "impliedly invited" druggists to mislabel. Ibid. Moreover, to the extent mislabeling had occurred, the court found it resulted from pharmacists' misunderstanding of the requirements of the New York Drug Substitution Law, rather than from deliberate attempts to pass off generic cyclandelate as CYCLOSPASMOL. Ibid.
+
+The District Court also found that Ives failed to establish its claim based upon § 43(a). In reaching its conclusion, the court found that the blue and blue-red colors were functional to patients as well as to doctors and hospitals: many elderly patients associate color with therapeutic effect; some patients commingle medications in a container and rely on color to differentiate one from another; colors are of some, if limited, help in identifying drugs in emergency situations; and use of the same color for brand name drugs and their generic equivalents helps avoid confusion on    the part of those responsible for dispensing drugs. Id., at 398-399. In addition, because Ives had failed to show that the colors indicated the drug's origin, the court found that the colors had not acquired a secondary meaning. Id., at 399.
+
+Without expressly stating that the District Court's findings were clearly erroneous, and for reasons which we discuss below, the Court of Appeals concluded that the petitioners violated § 32. 638 F.2d 538 (1981). The Court of Appeals did not reach Ives' other claims. We granted certiorari, 454 U.S. 891 (1981), and now reverse the judgment of the Court of Appeals.
+
+III
+
+A
+
+LEdHN   As the lower courts correctly discerned, HN5 liability for trademark infringement can extend beyond those who actually mislabel goods with the mark of another. Even if a manufacturer does not directly control others in the chain of distribution,     it can be held responsible for their infringing activities under certain circumstances.     Thus, if a manufacturer or distributor intentionally induces another to infringe a trademark, or if it continues to supply its product to one whom it knows or has reason to know is engaging in trademark infringement, the manufacturer or distributor is contributorially responsible for any harm done as a result of the deceit. 13Link to the text of the note See  [6]  William R. Warner & Co. v. Eli Lilly & Co., supra;     Coca-Cola Co. v. Snow Crest Beverages, Inc., supra. 
+
+LEdHN   
+
+    LEdHN[3] [3]It is undisputed that those pharmacists who mislabeled generic drugs with Ives' registered trademark violated § 32. 14Link to the text of the note         However, whether these petitioners were liable for the pharmacists' infringing acts depended upon whether, in fact, the petitioners intentionally induced the pharmacists to mislabel generic drugs or, in fact, continued to supply cyclandelate to pharmacists whom the petitioners knew were mislabeling generic drugs. The District Court concluded that Ives made neither of those factual showings.
+
+    B
+
+LEdHN    LEdHN   In reviewing the factual findings of the District Court, the Court of Appeals was bound by the "clearly erroneous" standard of Rule 52(a), Federal Rules of Civil Procedure. Pullman-Standard v. Swint, ante, p. 273. HN6 That Rule recognizes and rests upon the unique opportunity afforded the trial court judge to evaluate the credibility of witnesses and to weigh the evidence. Zenith Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100, 123 (1969). Because of the deference due the trial judge, unless an appellate court is left with the "definite and firm conviction that a mistake has been committed," United States v. United States Gypsum Co., 333 U.S. 364, 395 (1948), it must accept the trial court's findings. 15Link to the text of the note
+
+LEdHN   
+
+    IV
+
+LEdHN   In reversing the District Court's judgment, the Court of Appeals initially held that the trial court failed to give sufficient weight to the evidence Ives offered to show a "pattern of illegal substitution and mislabeling in New York. . . ." 16Link to the text of the note   638 F.2d, at 543. By rejecting the District Court's findings simply because it     would have given more weight to evidence of mislabeling than did the trial court, the Court of Appeals  [7]  clearly erred. HN7 Determining the weight and credibility of the evidence is the special province of the trier of fact. Because the trial court's findings concerning the significance of the instances of mislabeling were not clearly erroneous, they should not have been disturbed.
+
+    LEdHN   Next, after completing its own review of the evidence, the Court of Appeals concluded that the evidence was "clearly sufficient to establish a § 32 violation." Ibid. In reaching its conclusion, the Court of Appeals was influenced by several factors. First, it thought the petitioners reasonably could have anticipated misconduct by a substantial number of the pharmacists who     were provided imitative, lower priced products which, if substituted for the higher priced brand name without passing on savings to consumers, could provide an economic advantage to the pharmacists. Ibid. 17Link to the text of the note Second, it     disagreed with the trial court's finding that the mislabeling which did occur reflected confusion about state law requirements. Id., at 544. 18Link to the text of the note Third, it concluded that illegal substitution and mislabeling in New York are neither de minimis nor inadvertent. Ibid. 19Link to the text of the note Finally, the Court of Appeals indicated it was further influenced by the fact that the petitioners did not offer "any persuasive evidence of a legitimate reason unrelated to CYCLOSPASMOL"     for     producing an imitative product. Ibid. 20Link to the text of the note
+
+    LEdHN   
+
+
+
+    LEdHN[6] [6]Each of those conclusions is contrary to the findings of the District Court. HN8 An appellate court cannot substitute its interpretation of the evidence for that of the trial court simply because the reviewing court "might give the facts another construction, resolve the ambiguities differently, and find a     more sinister cast to actions which the District Court apparently deemed innocent." United States v. Real Estate Boards, 339 U.S. 485, 495 (1950).
+
+V
+
+The Court of Appeals erred in setting aside findings of fact that were not clearly erroneous. Accordingly, the judgment of the Court of Appeals that the petitioners violated § 32 of the Lanham Act is reversed.
+
+ [8]  LEdHN[7] [7]Although the District Court also dismissed Ives' claims alleging that the petitioners     violated § 43(a) of the Lanham Act and the state unfair competition law, the Court of Appeals did not address those claims. Because § 43(a)     prohibits a broader range of practices than does § 32, as may the state unfair competition law, the District Court's decision dismissing Ives' claims based upon those statutes must be independently     reviewed. Therefore, we remand to the Court of Appeals for further proceedings consistent with this opinion.
+
+Reversed and remanded.
+
+1Link to the location of the note in the document
+Under the Trademark Act of 1946 (Lanham Act), 60 Stat. 427, as amended, 15 U. S. C. § 1051 et seq., the term "trade-mark" includes "any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify his goods and distinguish them from those manufactured or sold by others." 15 U. S. C. § 1127. A "registered mark" is one registered in the United States Patent and Trademark Office under the terms of the Lanham Act "or under the Act of March 3, 1881, or the Act of February 20, 1905, or the Act of March 19, 1920." Ibid.
+
+2Link to the location of the note in the document
+The generic manufacturers purchase cyclandelate and empty capsules and assemble the product for sale to wholesalers and hospitals. The petitioner wholesalers, Darby Drug Co., Inc., Rugby Laboratories, Inc., and Sherry Pharmaceutical Co., Inc., in turn, sell to other wholesalers, physicians, and pharmacies.
+
+3Link to the location of the note in the document
+Initially, the generic manufacturers did not place any identifying mark on their capsules. After Ives initiated this action, Premo imprinted "Premo" on its capsules and Inwood imprinted "Inwood 258."
+
+4Link to the location of the note in the document
+Since the early 1970's, most States have enacted laws allowing pharmacists to substitute generic drugs for brand name drugs under certain conditions. See generally Note, Consumer Protection and Prescription Drugs: The Generic Drug Substitution Laws, 67 Ky. L. J. 384 (1978-1979). The New York statutes involved in this action are typical of these generic substitution laws. New York law requires that prescription forms contain two lines, one of which a prescribing physician must sign. N. Y. Educ. Law § 6810 (McKinney Supp. 1981-1982). If the physician signs over the words "substitution permissible," substitution is mandatory if a substitute generic drug is on an approved list, N. Y. Educ. Law § 6816-a (McKinney Supp. 1981-1982); N. Y. Pub. Health Law § 206.1(o) (McKinney Supp. 1981-1982), and permissible if another generic drug is available. Unless the physician directs otherwise, the pharmacist must indicate the name of the generic manufacturer and the strength of the drug dispensed on the label. N. Y. Educ. Law § 6816-a(1)(c). In addition, the prescription form must specifically state that, unless the physician signs above the line "dispense as written," the prescription will be filled generically. § 6810(6)(a).
+
+If a pharmacist mislabels a drug or improperly substitutes, he is guilty of a misdemeanor and subject to a fine, §§ 6811, 6815, 6816, and to revocation of his license. § 6808.
+
+5Link to the location of the note in the document
+Ives conceded that CYCLOSPASMOL and the petitioners' generic equivalents are bioequivalent and have the same bioavailability. See 455 F.Supp. 939, 942 (EDNY 1978), and 488 F.Supp. 394, 396 (EDNY 1980). Bioavailability is an absolute term which measures both the rate and the amount of a drug which reaches the general circulation from a defined dosage. Drugs are "bioequivalent" if, when administered in equal amounts to the same individual, they reach general circulation at the same relative rate and to the same relative extent. Remington's Pharmaceutical Sciences 1368 (15th ed. 1975).
+
+6Link to the location of the note in the document
+The state law claim was not discussed in the decision under review, and no further reference will be made to it here.
+
+7Link to the location of the note in the document
+HN1 Section 32 of the Lanham Act, 60 Stat. 437, as amended, 15 U. S. C. § 1114, provides in part:
+
+"(1) Any person who shall, without the consent of the registrant --
+
+"(a) use in commerce any reproduction, counterfeit, copy, or colorable imitation of a registered mark in connection with the sale, offering for sale, distribution, or advertising of any goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive; or
+
+"(b) reproduce, counterfeit, copy, or colorably imitate a registered mark and apply such reproduction, counterfeit, copy, or colorable imitation to labels, signs, prints, packages, wrappers, receptacles or advertisements intended to be used in commerce upon or in connection with the sale, offering for sale, distribution, or advertising of goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive,
+
+"shall be liable in a civil action by the registrant for the remedies hereinafter provided. Under subsection (b) of this section, the registrant shall not be entitled to recover profits or damages unless the acts have been committed with knowledge that such imitation is intended to be used to cause confusion, or to cause mistake or to deceive."
+
+8Link to the location of the note in the document
+The claim involved two types of infringements. The first was "direct" infringement, in which druggists allegedly filled CYCLOSPASMOL prescriptions marked "dispense as written" with a generic drug and mislabeled the product as CYCLOSPASMOL. The second, "intermediate" infringement, occurred when pharmacists, although authorized by the prescriptions to substitute, allegedly mislabeled a generic drug as CYCLOSPASMOL. The one retail pharmacy originally named as a defendant consented to entry of a decree enjoining it from repeating such actions. 455 F.Supp., at 942.
+
+9Link to the location of the note in the document
+HN2 Section 43(a) of the Lanham Act, 60 Stat. 441, 15 U. S. C. § 1125(a), provides:
+
+"(a) Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation."
+
+10Link to the location of the note in the document
+HN3 In general terms, a product feature is functional if it is essential to the use or purpose of the article or if it affects the cost or quality of the article. See Sears, Roebuck & Co. v. Stiffel Co., 376 U.S. 225, 232 (1964); Kellogg Co. v. National Biscuit Co., 305 U.S. 111, 122 (1938).
+
+11Link to the location of the note in the document
+HN4 To establish secondary meaning, a manufacturer must show that, in the minds of the public, the primary significance of a product feature or term is to identify the source of the product rather than the product itself. See Kellogg Co. v. National Biscuit Co., supra, at 118.
+
+12Link to the location of the note in the document
+The District Court also found that the petitioners did not continue to provide drugs to retailers whom they knew or should have known were engaging in trademark infringement. 488 F.Supp., at 397. The Court of Appeals did not discuss that finding, and we do not address it.
+
+13Link to the location of the note in the document
+JUSTICE WHITE, in his opinion concurring in the result, voices his concern that we may have "silently [acquiesced] in a significant change in the test for contributory infringement." Post, at 861. His concern derives from his perception that the Court of Appeals abandoned the standard enunciated by Judge Friendly in its first opinion, a standard which both we and JUSTICE WHITE approve, post, at 859-860. The Court of Appeals, however, expressly premised its second opinion on "the governing legal principles . . . set forth in Judge Friendly's opinion upon the earlier appeal, 601 F.2d 631 (2d Cir. 1979)," and explicitly claimed to have rendered its second decision by "[applying] those principles . . . ." 638 F.2d 538, 542 (1981).
+
+JUSTICE WHITE's concern is based on a comment by the Court of Appeals that the generic manufacturers "could reasonably anticipate" illegal substitution of their drugs. Id., at 543. If the Court of Appeals had relied upon that statement to define the controlling legal standard, the court indeed would have applied a "watered down" and incorrect standard. As we read the Court of Appeals' opinion, however, that statement was intended merely to buttress the court's conclusion that the legal test for contributory infringement, as earlier defined, had been met. See infra, at 856-857.
+
+14Link to the location of the note in the document
+Such blatant trademark infringement inhibits competition and subverts both goals of the Lanham Act. By applying a trademark to goods produced by one other than the trademark's owner, the infringer deprives the owner of the goodwill which he spent energy, time, and money to obtain. See S. Rep. No. 1333, 79th Cong., 2d Sess., 3 (1946). At the same time, the infringer deprives consumers of their ability to distinguish among the goods of competing manufacturers. See H. R. Rep. No. 944, 76th Cong., 1st Sess., 3 (1939).
+
+15Link to the location of the note in the document
+Of course, if the trial court bases its findings upon a mistaken impression of applicable legal principles, the reviewing court is not bound by the clearly erroneous standard. United States v. Singer Manufacturing Co., 374 U.S. 174, 194, n. 9 (1963). However, in this instance the District Court applied correct legal principles when it adopted the precise test developed by the Court of Appeals. Compare 601 F.2d 631, 636 (1979), with 488 F.Supp., at 397.
+
+16Link to the location of the note in the document
+As the opinions from the lower courts reveal, more than one inference can be drawn from the evidence presented. Prior to trial, test shoppers hired by Ives gave CYCLOSPASMOL prescriptions on which the "substitution permissible" line was signed to 83 New York pharmacists. Forty-eight of the pharmacists dispensed CYCLOSPASMOL; the rest dispensed a generic drug. Ten of the thirty-five pharmacists who dispensed a generic drug included the word CYCLOSPASMOL on the label, although 5 of those 10 also included some form of the word "generic." Nine of the ten told the consumer of the substitution. Only 1 of the 10 charged the brand name price for the generic drug. 488 F.Supp., at 397.
+
+The District Court concluded that that evidence did not justify the inference that the petitioners' catalogs invite pharmacists to mislabel. Ibid. The Court of Appeals, emphasizing that 10 of the 35 druggists who dispensed a generic drug mislabeled it as CYCLOSPASMOL, found a pattern of substitution and mislabeling. 638 F.2d, at 543. The dissenting judge on the appellate panel, emphasizing that only 1 of 83 pharmacists attempted an illegal substitution and reaped a profit made possible by the color imitation, concluded the facts supported the District Court's finding that mislabeling resulted from confusion about the substitution laws rather than from profit considerations. Id., at 546.
+
+On the basis of the record before us, the inferences drawn by the District Court are not, as a matter of law, unreasonable.
+
+17Link to the location of the note in the document
+The Court of Appeals cited no evidence to support its conclusion, which apparently rests upon the assumption that a pharmacist who has been provided an imitative generic drug will be unable to resist the temptation to profit from illegal activity. We find no support in the record for such a far-reaching conclusion. Moreover, the assumption is inconsistent with the District Court's finding that only a "few instances," rather than a substantial number, of mislabelings occurred. 488 F.Supp., at 397.
+
+18Link to the location of the note in the document
+The Court of Appeals characterized the District Court's finding as resting on "a short and casual exchange with a witness . . . ." 638 F.2d, at 544. The District Court, however, stated that its conclusion that pharmacists did not understand the drug substitution law rested upon the fact that, in numerous instances, a pharmacist told a consumer that state law prohibited filling prescriptions with generic products, even though the consumer had presented a prescription allowing generic substitution. 488 F.Supp., at 397-398.
+
+19Link to the location of the note in the document
+In reaching that conclusion, the Court of Appeals took judicial notice of the fact that, in May 1980, six indictments were handed down in New York City charging pharmacists with substituting cyclandelate for CYCLOSPASMOL. We note that the evidence of which the Court of Appeals took judicial notice not only involved no convictions but also reflected knowledge that was not available when the District Court rendered its decision. Moreover, even if the District Court failed to consider relevant evidence, which would have been an error of law, the Court of Appeals, rather than make its own factual determination, should have remanded for further proceedings to allow the trial court to consider the evidence. See Pullman-Standard v. Swint, ante, at 291-292.
+
+20Link to the location of the note in the document
+The Court of Appeals reached that conclusion despite the District Court's express finding that, for purposes of § 43(a), the capsule colors were functional. See supra, at 853. As the dissent below noted, the Court of Appeals' majority either disregarded the District Court's finding of functionality, see 638 F.2d, at 545, n. 1 (Mulligan, J., dissenting), or implicitly rejected that finding as not "persuasive." See id., at 547.
+
+While the precise basis for the Court of Appeals' ruling on this issue is unclear, it is clear that the Court of Appeals erred. The appellate court was not entitled simply to disregard the District Court's finding of functionality. While the doctrine of functionality is most directly related to the question of whether a defendant has violated § 43(a) of the Lanham Act, see generally Note, The Problem of Functional Features: Trade Dress Infringement Under Section 43(a) of the Lanham Act, 82 Colum. L. Rev. 77 (1982), a finding of functionality may also be relevant to an action involving § 32. By establishing to the District Court's satisfaction that uniform capsule colors served a functional purpose, the petitioners offered a legitimate reason for producing an imitative product.
+
+Nor was the Court of Appeals entitled simply to dismiss the District Court's finding of functionality as not "persuasive." If the District Court erred as a matter of law, the Court of Appeals should have identified the District Court's legal error. If the Court of Appeals disagreed with the District Court's factual findings, it should not have dismissed them without finding them clearly erroneous.

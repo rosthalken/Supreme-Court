@@ -61,7 +61,8 @@ smooth_sentiment <- ggplot(data=sentiment_groups, aes(x=Year, y=year_sent, group
   #geom_line(aes(linetype=Author)) +
   geom_smooth(aes(colour = Author), se = FALSE) +
   xlab("Year") +
-  ylab("Sentiment")
+  ylab("Sentiment") +
+  ggsave("Sentiment Dissent/Results/SmoothSquare.pdf")
 
 # Good
 grid_sentiment <- plotted_sentiment + 

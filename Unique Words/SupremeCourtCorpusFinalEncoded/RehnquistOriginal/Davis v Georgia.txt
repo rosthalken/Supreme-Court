@@ -1,0 +1,24 @@
+﻿
+
+
+97 S.Ct. 399
+Supreme Court of the United States
+Curfew DAVIS
+v.
+State of GEORGIA.
+No. 76-5403.
+|
+Dec. 6, 1976.
+
+Mr. Justice REHNQUIST, with whom THE CHIEF JUSTICE and Mr. Justice BLACKMUN join, dissenting.
+
+As is clear from the most cursory reading, Witherspoon v. Illinois, 391 U.S. 510, 88 S.Ct. 1770, 20 L.Ed.2d 776 (1968), does not inexorably lead to the result this Court now reaches. Indeed, much of the language in that opinion would support the reasoning, and the result, reached by the Supreme Court of Georgia. The extension of Witherspoon to cover the case where a sole venireman is excluded in violation of its test deserves plenary consideration, not a per se rule that precludes application *124 of even the harmless-error test of Chapman v. California, 386 U.S. 18, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967). There is no indication that the Supreme Court of Georgia was wrong when it observed that the “record is completely void of any evidence of a systematic and intentional exclusion of a qualified group of jurors so as to deny the appellant a jury of veniremen representing a cross section of the community,” 236 Ga. 804, 809-810, 225 S.E.2d 241, 245.
+ 
+It is, moreover, unclear whether the State was entitled to another peremptory challenge,* and surely Witherspoon does not decide whether the presence of unexercised peremptory challenges might render harmless the improper exclusion of a limited number of veniremen. Finally, the defect in this case is not that a juror was improperly excluded because she was not irrevocably opposed to the death penalty; rather, the defect is a failure to question sufficiently to determine whether or not she was irrevocably opposed. It is not inconceivable that a hearing with the excluded juror could be conducted now to finish the aborted questioning and determine whether she would have, in fact, been excludable for cause.
+ 
+The effects of the arguably improper exclusion, in short, are too murky to warrant summary reversal of the sentence imposed. Since I do not believe this case is controlled by our past decisions, I would grant certiorari and set the case for argument.
+ 
+
+
+
+

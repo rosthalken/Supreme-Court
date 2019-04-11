@@ -1,0 +1,20 @@
+﻿AMERICAN MANUFACTURERS MUTUAL INSURANCE COMPANY, ET AL., PETITIONERS v. DELORES SCOTT SULLIVAN ET AL.
+
+No. 97-2000
+
+SUPREME COURT OF THE UNITED STATES
+
+526 U.S. 40;
+
+January 19, 1999, Argued 
+March 3, 1999, Decided
+
+JUSTICE STEVENS, concurring in part and dissenting in part.
+Because the individual respondents suffered work-related injuries, they are entitled to have their employers, or the employers' insurers, pay for whatever "reasonable" and "necessary" treatment they may need. Pa. Stat. Ann. Tit. 77 §§ 531(1)(i), (5) (Purdon Supp. 1998). That right -- whether described as a "claim" for payment or a "cause of action" -- is unquestionably a species of property protected by the Due Process Clause of the Fourteenth Amendment. See, e.g., Tulsa Professional Collection Services, Inc. v. Pope, 485 U.S. 478, 485, 99 L. Ed. 2d 565, 108 S. Ct. 1340 (1988). Disputes over the reasonableness or necessity of particular treatments are resolved by decisionmakers who are state actors and who must follow procedures established by Pennsylvania law. Because the resolution of such disputes determines the scope of the claimants' property  [**992]  interests, the Constitution requires that the procedure be fair. Logan v. Zimmerman Brush Co., 455 U.S. 422, 71 L. Ed. 2d 265, 102 S. Ct. 1148 [*64]  (1982). * That is true whether the claim is asserted against a private insurance carrier or against a public entity that self-insures. It is equally clear that the State's duty to establish and administer a fair procedure for resolving the dispute obtains whether the dispute is initiated by the filing of a claim or by an insurer's decision to withhold payment until the reasonableness issue is resolved.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+* As the Court correctly notes, "the State's role in creating, supervising, and setting standards for the URO process [do not] differ in any meaningful sense from the creation and administration of any forum for resolving disputes." Ante, at 12.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+In my judgment the significant questions raised by this case are: (1) as in any case alleging that state statutory processes violate the Fourteenth Amendment, whether Pennsylvania's procedure was fair when the case was commenced, and (2) if not, whether it was fair after the State modified its rules in response to the Court of Appeals' decision. See ante at 4, n.3. In my opinion the Court of Appeals correctly concluded that the original procedure was deficient because it did not give employees either notice that a request for utilization  [***153]  review would automatically suspend their benefits or an opportunity to provide relevant evidence and argument to the state actor vested with initial decisional authority. I would therefore affirm the judgment of the Court of Appeals insofar as it mandated the change described in the Court's footnote 3. I do not, however, find any constitutional defect in the procedures that are now in place, and therefore agree that the judgment should be reversed to the extent that it requires any additional modifications. It is not unfair, in and of itself, for a State to allow either a private or a publicly owned party to withhold payment of a state-created entitlement pending resolution of a dispute over its amount.
+Thus, although I agree with much of what the Court has written, I do not join its opinion for two reasons. First, I think it incorrectly assumes that the question whether the [*65]  insurance company is a state actor is relevant to the controlling question whether the state procedures are fair. The relevant state actors, rather than the particular parties to the payment disputes, are the state-appointed decisionmakers who implement the exclusive procedure that the State has created to protect respondents' rights. These state actors are defendants in this suit. See ante, at 9. Second, the Court fails to answer either the question whether the State's procedures were fair when the case was filed or the question whether they are fair now.

@@ -1,0 +1,33 @@
+﻿
+
+
+109 S.Ct. 2037
+Supreme Court of the United States
+ASARCO INCORPORATED, et al., Petitioners
+v.
+Frank KADISH, et ux., et al.
+No. 87–1661.
+|
+Argued Feb. 27, 1989.
+|
+Decided May 30, 1989.
+ 
+
+Chief Justice REHNQUIST, with whom Justice SCALIA joins, concurring in part and dissenting in part.
+
+I join Part I of the Court’s opinion, and I also agree with Justice KENNEDY’s conclusion in Part II–B–1 that respondents, plaintiffs below, have failed to show the sort of “injury in fact” necessary to satisfy Article III standing requirements. Ante, at 2043–2045. This requirement “tends to assure that the legal questions presented ... will be resolved, not in the rarified atmosphere of a debating society, but in a concrete factual context conducive to a realistic appreciation of the consequences of judicial action.” Valley Forge Christian College v. Americans United for Separation of Church & State, Inc., 454 U.S. 464, 472, 102 S.Ct. 752, 758, 70 L.Ed.2d 700 (1982). For me, absence of standing disposes of this case and requires dismissal of the appeal. Doremus v. Board of Education of Hawthorne, 342 U.S. 429, 72 S.Ct. 394, 96 L.Ed. 475 (1952).
+ 
+In Doremus, we dismissed an appeal from state court by taxpayers because they lacked standing. The Court now says that although the Doremus case is good law for plaintiffs who lack standing but lost in the state court on the merits of their federal claim, it is not good law for such plaintiffs who prevailed on the merits of their federal question in the state courts. The fact that such a rule has a very one-sided application does not necessarily mean it is wrong, but it should at least require a very persuasive justification—a more persuasive one than the Court provides in its opinion.
+ 
+The Court justifies the result it reaches by saying that the state-court judgment adverse to petitioners is itself a form of “injury” which supplies Article III standing. The difficulty with this explanation is that petitioners—mineral lessees and defendants in the courts below—have always been able to show that a judgment adverse to their position would “injure” them in a very real sense. The defect in the state-court *635 proceedings, so far as Article III standing is concerned, was not that the proceedings did not threaten to injure petitioners, but that the operation and enforcement of the challenged statute did not injure plaintiffs-respondents. The subsequent proceedings in the state court have obviously not cured this defect.
+ 
+One could, of course, analogize the proceedings on certiorari in this Court to the commencement of what might be called the federal phase of the lawsuit, and say that for such purpose petitioners are like the plaintiff filing a suit in the federal district court: therefore it is petitioners’ standing, not that of respondents, which should concern us at this stage of the litigation. Certainly some of our mootness cases following United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950), indicate that where a judgment entered in a lower federal court no longer has a present effect on the parties, we will not only not review the case but we will direct the vacation of the judgment of the lower courts. But while a present effect of the judgment on the parties may be a necessary condition for continuing federal jurisdiction, **2055 I do not believe that it is inevitably a sufficient condition.
+ 
+The Court’s opinion makes much of the fact that “ ‘the record shows the existence of a genuine case or controversy,’ ” ante, at 2046, and that “[t]hese parties remain adverse....” Ibid. But most of our case law limiting federal standing does not depend on any conclusion that the parties were not “adverse” or that there was no “genuine case or controversy” in the lay sense of those terms. See Warth v. Seldin, 422 U.S. 490, 95 S.Ct. 2197, 45 L.Ed.2d 343 (1975); Valley Forge Christian College v. Americans United for Separation of Church & State, supra; DeFunis v. Odegaard, 416 U.S. 312, 94 S.Ct. 1704, 40 L.Ed.2d 164 (1974); Linda R.S. v. Richard D., 410 U.S. 614, 93 S.Ct. 1146, 35 L.Ed.2d 536 (1973). In each of these cases the parties were emphatically adverse to one another and vigorously contended with one another as to how the lawsuit should be decided. No one suggested that the cases *636 were trumped up, or that they were “friendly suits.” The shortcoming in each of them was the failure of the plaintiffs to establish actual injury to themselves as a result of the governmental action which they sought to challenge on federal grounds. To have considered their cases on the merits would have required us to decide the questions presented “in the rarified atmosphere of a debating society”; the plaintiffs had simply a generalized grievance about governmental action which they claimed was prohibited by federal statute or by the United States Constitution. And that is really all that the Court has before it in the present case.
+ 
+The Court is concerned with the fact that if it applies Doremus as sauce for the goose as well as for the gander state courts will remain free to decide important questions of federal statutory and constitutional law without the possibility of review in this Court. This is true, but I think it a rather unremarkable proposition. Some state courts render advisory decisions on federal law of no binding force even within the State. See, e.g., Mass. Const., Art. LXXXV (amending the Massachusetts Constitution to provide: “Each branch of the legislature, as well as the governor or the council, shall have authority to require the opinions of the justices of the supreme judicial court, upon important questions of law, and upon solemn occasions”); Mich. Const., Art. 3, § 8 (“Either house of the legislature or the governor may request the opinion of the supreme court on important questions of law upon solemn occasions as to the constitutionality of legislation after it has been enacted into law but before its effective date”). In each instance, the interpretation of federal law may affect the governance of the State and thereby make some people better off and some worse off. Yet none of these decisions of federal law are reviewable in this or any other federal court. I see no reason to fear that our dismissal of the present appeal would lead to a legal landscape in which we would no longer have the opportunity to *637 review many important decisions on questions of federal law. Therefore I see no reason why this Court should bend its Article III jurisprudence out of shape to avoid a largely imaginary problem.
+ 
+
+
+
+

@@ -1,0 +1,46 @@
+﻿
+
+
+122 S.Ct. 431
+Supreme Court of the United States
+UNITED STATES POSTAL SERVICE, Petitioner,
+v.
+Maria A. GREGORY.
+No. 00–758.
+|
+Argued Oct. 9, 2001.
+|
+Decided Nov. 13, 2001.
+ 
+
+Justice THOMAS, concurring.
+
+While I join the Court’s opinion as far as it goes, it does not go far enough. The Court concludes that the adequacy of the mechanism the Merit Systems Protection Board used to review prior disciplinary actions pending in collectively bargained grievance proceedings (the so-called Bolling framework) is a question “not before us.” Ante, at 435. I think it is.
+ 
+The Federal Circuit below held that the Board, in assessing the reasonableness of petitioner’s decision to terminate respondent, abused its discretion by relying upon prior disciplinary actions that were pending in collectively bargained grievance proceedings. 212 F.3d 1296, 1300 (2000).
+ 
+Petitioner now contests the Federal Circuit’s holding by arguing that the Board’s consideration of prior disciplinary actions subject to pending grievances does not constitute an abuse of discretion because the Board’s use of the Bolling framework, see Bolling v. Department of Air Force, 8 MSPB 658, 9 M.S.P.R. 335 (1981), provides employees with more than adequate procedural safeguards.1 Brief for Petitioner 27–28. Respondent, by contrast, counters that the Bolling framework not only is insufficient to prevent the “unfairness” *12 inherent in the Board’s consideration of prior disciplinary actions subject to pending grievances, but also is inconsistent with the agency’s statutory burden to show that its decision is supported by a “preponderance of the evidence.” See Brief for Respondent 34–37. Properly disposing of this case requires that we address these arguments.2
+ 
+This is not a difficult task because the Bolling framework provides federal employees with more than adequate procedural safeguards. Title 5 U.S.C. § 7503(b), for instance, sets forth the basic procedural protections to which employees receiving minor discipline are entitled pursuant to the Civil Service Reform Act of 1978 (CSRA).3 Conspicuously absent from the statutory provision is any opportunity to appeal a minor disciplinary action to the Board. Thus, as petitioner points out, “it can hardly be said that the Bolling framework for collateral review of prior discipline conflicts with the CSRA, when Congress chose not to provide for any [Board] review of minor disciplinary actions.” See Reply Brief for Petitioner 12–13 (emphasis in original).
+ 
+Respondent’s argument that the Bolling framework conflicts with the “preponderance of the evidence” standard set forth in 5 U.S.C. § 7701(c)(1)(B) is also unavailing. The logical consequence of respondent’s position is that the Board *13 would be required to review de novo all facts supporting all prior disciplinary actions relied upon by an agency to justify the reasonableness of a penalty, whether or not the **438 prior actions were ever grieved.4 Nothing in the CSRA supports this rather remarkable proposition. At most, the statute requires an agency to prove the existence of prior disciplinary actions; it does not place the burden on the agency to prove the facts underlying those actions.
+ 
+The central flaw in the Federal Circuit’s decision is that it relies on the mistaken assumption that the Board’s review process and collectively bargained grievance proceedings are somehow linked. 212 F.3d, at 1300. This assumption is not supported by the CSRA. Under the statute, the Board’s review process and collectively bargained grievance procedures constitute entirely separate structures. As a result, the Board need not wait for an employee’s pending grievances to be resolved before taking account of prior disciplinary actions in its assessment of the reasonableness of a penalty given in a subsequent disciplinary action.5
+ 
+*14 For these reasons, I agree with the Court’s decision to vacate the judgment of the Federal Circuit and remand for further proceedings.6
+ 
+
+
+
+1
+Petitioner's argument is certainly quite relevant here as the Board Administrative Law Judge below considered prior disciplinary actions in respondent's case pursuant to the Bolling framework. See ante, at 433–434; App. to Pet. for Cert. A–36 to A–37.
+2
+The Court accurately notes that respondent's brief in the Federal Circuit merely argued that the Board erred by relying upon prior disciplinary actions and nowhere mentioned the Bolling framework. See ante, at 434–435. Petitioner, however, has put the Bolling framework squarely into play by relying upon it to support its contention that the Board's practice of considering prior disciplinary actions is not an abuse of discretion. Given that petitioner, in defending the Board's practice, raises the Bolling framework for the first time in this Court, respondent surely has not waived her right to argue that the protections provided by the Bolling framework are inadequate to save the practice invalidated by the Federal Circuit.
+3
+This statutory provision applies to suspensions for 14 days or less. 5 U.S.C. § 7503(a). Respondent's prior disciplinary actions pending in grievance proceedings fall into this category.
+4
+Justice GINSBURG's suggestion to the contrary, see post, at 439, n. 2 (opinion concurring in judgment), rests on the assumption that the Board's review process and collectively bargained grievance proceedings are somehow linked. As explained infra, at 438, such an assumption is erroneous. Title 5 U.S.C. § 7701(c)(1)(B) either requires an agency to prove by a preponderance of the evidence all facts supporting all prior disciplinary actions relied upon by an agency or it does not. Whether an employee has chosen to access collectively bargained grievance proceedings with respect to a prior disciplinary action is irrelevant to answering this question. Indeed, Justice GINSBURG's reasoning still suggests that the Board must review de novo all facts supporting all prior minor disciplinary actions relied upon by agencies in cases where employees are not represented by a union as such employees have no ability to access collectively bargained grievance proceedings. Such a requirement, however, is nowhere to be found in the CSRA.
+5
+Neither would it be, as Justice GINSBURG intimates, “arbitrary and capricious” for the Board to disregard an arbitrator's reversal of a prior disciplinary action. Post, at 439 (opinion concurring in judgment). Such an argument, like the Federal Circuit's holding below, rests on the erroneous premise that the CSRA inextricably ties together the Board's review process and collectively bargained grievance proceedings. To be sure, the Board has chosen to link its review to collectively bargained grievance proceedings—at least to some extent—by adopting a policy of not relying upon disciplinary actions that have been reversed through grievance proceedings. Cf. Jones v. Department of Air Force, 24 M.S.P.R. 429, 430–431 (1984). But the Board is not required to do so. Neither Justice GINSBURG nor the Federal Circuit cites any statutory provision mandating that the Board must take this step. The CSRA simply establishes no link between the Board's review process, which is designed to protect an employee's statutory rights, and grievance proceedings, which adjudicate rights secured through collective-bargaining agreements. As the Court points out: “Independent Board review of disciplinary actions ... may at times result in the Board reaching a different conclusion than the arbitrator.” Ante, at 436.
+6
+Given the Board's stated policy of not relying upon disciplinary actions that have already been overturned in grievance proceedings at the time of Board review, see n. 5, supra, I agree that a remand is necessary for the Federal Circuit to consider the relevance of the fact that one of respondent's prior disciplinary actions had already been reversed when the Board finalized its review of her case.

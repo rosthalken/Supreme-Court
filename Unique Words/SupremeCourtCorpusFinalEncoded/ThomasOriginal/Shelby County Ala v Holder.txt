@@ -1,0 +1,49 @@
+﻿
+
+
+133 S.Ct. 2612
+Supreme Court of the United States
+SHELBY COUNTY, ALABAMA, Petitioner
+v.
+Eric H. HOLDER, Jr., Attorney General, et al.
+No. 12–96.
+|
+Argued Feb. 27, 2013.
+|
+Decided June 25, 2013.
+Justice THOMAS, concurring.
+
+I join the Court’s opinion in full but write separately to explain that I would find § 5 of the Voting Rights Act unconstitutional as well. The Court’s opinion sets forth the reasons.
+ 
+“The Voting Rights Act of 1965 employed extraordinary measures to address an extraordinary problem.” Ante, at 2618. In the face of “unremitting and ingenious defiance” of citizens’ constitutionally protected right to vote, § 5 was necessary to give effect to the Fifteenth Amendment in particular regions of the country. South Carolina v. Katzenbach, 383 U.S. 301, 309, 86 S.Ct. 803, 15 L.Ed.2d 769 (1966). Though § 5’s preclearance requirement represented a “shar[p] depart[ure]” from “basic principles” of federalism and the equal sovereignty of the States, ante, at 2622, 2623, the Court upheld the measure against early constitutional challenges because it was necessary at the time to address “voting discrimination where it persist[ed] on a pervasive scale.” Katzenbach, supra, at 308, 86 S.Ct. 803.
+ 
+Today, our Nation has changed. “[T]he conditions that originally justified [§ 5] no longer characterize voting in the covered jurisdictions.” Ante, at 2618. As the Court explains: “ ‘[V]oter turnout and registration rates now approach parity. Blatantly discriminatory evasions of federal decrees are rare. And minority candidates hold office at unprecedented levels.’ ” Ante, at 2625 (quoting *2632 Northwest Austin Municipal Util. Dist. No. One v. Holder, 557 U.S. 193, 202, 129 S.Ct. 2504, 174 L.Ed.2d 140 (2009)).
+ 
+In spite of these improvements, however, Congress increased the already significant burdens of § 5. Following its reenactment in 2006, the Voting Rights Act was amended to “prohibit more conduct than before.” Ante, at 2621. “Section 5 now forbids voting changes with ‘any discriminatory purpose’ as well as voting changes that diminish the ability of citizens, on account of race, color, or language minority status, ‘to elect their preferred candidates of choice.’ ” Ante, at 2621. While the pre–2006 version of the Act went well beyond protection guaranteed under the Constitution, see Reno v. Bossier Parish School Bd., 520 U.S. 471, 480–482, 117 S.Ct. 1491, 137 L.Ed.2d 730 (1997), it now goes even further.
+ 
+It is, thus, quite fitting that the Court repeatedly points out that this legislation is “extraordinary” and “unprecedented” and recognizes the significant constitutional problems created by Congress’ decision to raise “the bar that covered jurisdictions must clear,” even as “the conditions justifying that requirement have dramatically improved.” Ante, at 2627. However one aggregates the data compiled by Congress, it cannot justify the considerable burdens created by § 5. As the Court aptly notes: “[N]o one can fairly say that [the record] shows anything approaching the ‘pervasive,’ ‘flagrant,’ ‘widespread,’ and ‘rampant’ discrimination that faced Congress in 1965, and that clearly distinguished the covered jurisdictions from the rest of the Nation at that time.” Ante, at 2629. Indeed, circumstances in the covered jurisdictions can no longer be characterized as “exceptional” or “unique.” “The extensive pattern of discrimination that led the Court to previously uphold § 5 as enforcing the Fifteenth Amendment no longer exists.” Northwest Austin, supra, at 226, 129 S.Ct. 2504 (THOMAS, J., concurring in judgment in part and dissenting in part). Section 5 is, thus, unconstitutional.
+ 
+While the Court claims to “issue no holding on § 5 itself,” ante, at 2631, its own opinion compellingly demonstrates that Congress has failed to justify “ ‘current burdens’ ” with a record demonstrating “ ‘current needs.’ ” See ante, at 2622 (quoting Northwest Austin, supra, at 203, 129 S.Ct. 2504). By leaving the inevitable conclusion unstated, the Court needlessly prolongs the demise of that provision. For the reasons stated in the Court’s opinion, I would find § 5 unconstitutional.
+ 
+
+
+1
+The Court purports to declare unconstitutional only the coverage formula set out in § 4(b). See ante, at 2631. But without that formula, § 5 is immobilized.
+2
+The Constitution uses the words “right to vote” in five separate places: the Fourteenth, Fifteenth, Nineteenth, Twenty–Fourth, and Twenty–Sixth Amendments. Each of these Amendments contains the same broad empowerment of Congress to enact “appropriate legislation” to enforce the protected right. The implication is unmistakable: Under our constitutional structure, Congress holds the lead rein in making the right to vote equally real for all U.S. citizens. These Amendments are in line with the special role assigned to Congress in protecting the integrity of the democratic process in federal elections. U.S. Const., Art. I, § 4 (“[T]he Congress may at any time by Law make or alter” regulations concerning the “Times, Places and Manner of holding Elections for Senators and Representatives.”); Arizona v. Inter Tribal Council of Ariz., Inc., ––– U.S., ––––, –––– – ––––, 133 S.Ct. 2247, –––– – ––––, 186L.Ed.2d 239 (2013).
+3
+Acknowledging the existence of “serious constitutional questions,” see ante, at 2630 (internal quotation marks omitted), does not suggest how those questions should be answered.
+4
+This number includes only changes actually proposed. Congress also received evidence that many covered jurisdictions engaged in an “informal consultation process” with DOJ before formally submitting a proposal, so that the deterrent effect of preclearance was far broader than the formal submissions alone suggest. The Continuing Need for Section 5 Pre–Clearance: Hearing before the Senate Committee on the Judiciary, 109th Cong., 2d Sess., pp. 53–54 (2006). All agree that an unsupported assertion about “deterrence” would not be sufficient to justify keeping a remedy in place in perpetuity. See ante, at 2627. But it was certainly reasonable for Congress to consider the testimony of witnesses who had worked with officials in covered jurisdictions and observed a real-world deterrent effect.
+5
+For an illustration postdating the 2006 reauthorization, see South Carolina v. United States, 898 F.Supp.2d 30 (D.D.C.2012), which involved a South Carolina voter-identification law enacted in 2011. Concerned that the law would burden minority voters, DOJ brought a § 5 enforcement action to block the law's implementation. In the course of the litigation, South Carolina officials agreed to binding interpretations that made it “far easier than some might have expected or feared” for South Carolina citizens to vote. Id., at 37. A three-judge panel precleared the law after adopting both interpretations as an express “condition of preclearance.” Id., at 37–38. Two of the judges commented that the case demonstrated “the continuing utility of Section 5 of the Voting Rights Act in deterring problematic, and hence encouraging non-discriminatory, changes in state and local voting laws.” Id., at 54 (opinion of Bates, J.).
+6
+Because preclearance occurs only in covered jurisdictions and can be expected to stop the most obviously objectionable measures, one would expect a lower rate of successful § 2 lawsuits in those jurisdictions if the risk of voting discrimination there were the same as elsewhere in the country.
+7
+This lawsuit was filed by Shelby County, a political subdivision of Alabama, rather than by the State itself. Nevertheless, it is appropriate to judge Shelby County's constitutional challenge in light of instances of discrimination statewide because Shelby County is subject to § 5's preclearance requirement by virtue of Alabama's designation as a covered jurisdiction under § 4(b) of the VRA. See ante, at 2621 – 2622. In any event, Shelby County's recent record of employing an at-large electoral system tainted by intentional racial discrimination is by itself sufficient to justify subjecting the county to § 5's preclearance mandate. See infra, at 2646.
+8
+Congress continued preclearance over Alabama, including Shelby County, after considering evidence of current barriers there to minority voting clout. Shelby County, thus, is no “redhead” caught up in an arbitrary scheme. See ante, at 2629.
+9
+The Court does not contest that Alabama's history of racial discrimination provides a sufficient basis for Congress to require Alabama and its political subdivisions to preclear electoral changes. Nevertheless, the Court asserts that Shelby County may prevail on its facial challenge to § 4's coverage formula because it is subject to § 5's preclearance requirement by virtue of that formula. See ante, at 2630 (“The county was selected [for preclearance] based on th[e] [coverage] formula.”). This misses the reality that Congress decided to subject Alabama to preclearance based on evidence of continuing constitutional violations in that State. See supra, at 2647, n. 8.
+
+

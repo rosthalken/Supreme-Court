@@ -1,0 +1,106 @@
+﻿
+        
+        Mobil Oil Corp. v. Higginbotham, 436 U.S. 618, 98 S. Ct. 2010 (1978)
+        
+
+
+      
+
+ [*618]   [****2]   [***583]   [**2011]  MR. JUSTICE STEVENS delivered the opinion of the Court.
+
+LEdHN[1A] [1A]This case involves death on the high seas. The question is whether, in addition to the damages authorized by federal statute, a decedent's survivors may also recover damages under general maritime law. The United States Court of Appeals for the Fifth Circuit, disagreeing with the First Circuit, held  [*619]  that survivors may recover for their "loss of society," as well as for their pecuniary loss. 1Link to the text of the note We reverse.
+
+ [****3]  Petitioner used a helicopter in connection with its oil drilling operations in the Gulf of Mexico about 100 miles from the Louisiana shore. On August 15, 1967, the helicopter crashed outside Louisiana's territorial waters, killing the pilot and three passengers. In a suit brought by the passengers' widows, in their representative capacities, the District Court accepted admiralty jurisdiction 2Link to the text of the note [****4]   [**2012]  and found that the deaths were caused by petitioner's negligence. The court awarded damages equal to the pecuniary losses suffered by the families of two passengers. 3Link to the text of the note Although the court valued the two families' loss of society at $ 100,000 and $ 155,000, it held that the law did not authorize recovery for this loss. 4Link to the text of the note The Court of Appeals reversed, holding that the plaintiffs were entitled to claim  [*620]  damages for loss of society. We granted certiorari limited to this issue. 434 U.S. 816.
+
+ [***584]  I
+
+In 1877, the steamer Harrisburg collided with a schooner in Massachusetts coastal waters. The schooner sank, and its first officer drowned. Some five years later, his widow brought a wrongful-death action against the Harrisburg. This Court held that admiralty afforded no remedy for wrongful death in the absence of an applicable state or federal statute. The Harrisburg, 119 U.S. 199. Thereafter, suits arising out  [****5]  of maritime fatalities were founded by necessity on state wrongful-death statutes. See, e. g., The Hamilton, 207 U.S. 398.
+
+In 1920, Congress repudiated the rule of The Harrisburg for maritime deaths occurring beyond the territorial waters of any State. It passed HN1 the Death on the High Seas Act (hereinafter sometimes DOHSA), 5Link to the text of the note creating a remedy in admiralty for wrongful deaths more than three miles from shore. This Act limits the class of beneficiaries to the decedent's "wife, husband, parent, child, or dependent relative," 6Link to the text of the note establishes a two-year period of limitations, 7Link to the text of the note allows suits filed by the victim to continue as wrongful-death actions if the victim dies of his injuries while suit is pending, 8Link to the text of the note and provides that contributory negligence will not bar recovery. 9Link to the text of the note [****6]  With respect to damages, the statute declares: "The recovery . . . shall be a fair and just compensation for the pecuniary loss sustained by the persons for whose benefit the suit is brought . . . ." 10Link to the text of the note
+
+ [*621]  In the half century between 1920 and 1970, deaths on the high seas gave rise to federal suits under DOHSA, while those in territorial waters were largely governed by state wrongful-death statutes. 11Link to the text of the note DOHSA brought a measure of uniformity and predictability to the law on the high seas, but in territorial waters, where The Harrisburg made state law the only source of a wrongful-death remedy, the continuing impact of  [**2013]  that decision produced uncertainty 12Link to the text of the note [****7]  and incongruity. 13Link to the text of the note The  [***585]  reasoning of The Harrisburg, which was dubious at best in 1886, 14Link to the text of the note became less and less satisfactory as the years passed.
+
+In 1970, therefore, the Court overruled The Harrisburg. In Moragne v. States Marine Lines, Inc., 398 U.S. 375, the Court held that a federal remedy for wrongful death does exist under general maritime law. The case concerned a death in Florida's [****8]  territorial waters. The defendant argued that Congress, by limiting DOHSA to the high seas, had evidenced an intent to preclude federal judicial remedies in territorial waters. The Court concluded, however, that the reason Congress confined  [*622]  DOHSA to the high seas was to prevent the Act from abrogating, by its own force, the state remedies then available in state waters. Id., at 400.
+
+In Moragne the Court left various subsidiary questions concerning the nonstatutory death remedy -- such as the schedule of beneficiaries and the limitations period -- for "further sifting through the lower courts in future litigation." Id., at 408. A few years later, in Sea-Land Services, Inc. v. Gaudet, 414 U.S. 573, the Court confronted some of these questions. Among the issues addressed in Gaudet was the measure of survivors' damages. 15Link to the text of the note The Court held that awards could include compensation for loss of support and services, for funeral expenses, and for loss of society, but not for mental anguish or grief. Id., at 583-591. The Court recognized that DOHSA, which compensates only for pecuniary [****9]  losses, did not allow awards for loss of society. But the accident in Gaudet, like that in Moragne, took place in territorial waters, where DOHSA does not apply. The Court chose not to adopt DOHSA's pecuniary-loss standard; instead it followed the "clear majority of States" and "the humanitarian policy of the maritime law," both of which favored recovery for loss of society. 414 U.S., at 587-588. In sum, the Court made a policy determination in Gaudet which differed from the choice made by Congress when it enacted the Death on the High Seas Act.
+
+ [****10]  II
+
+LEdHN[1B] [1B]The Gaudet opinion was broadly written. It did not state that the place where death occurred had an influence on its  [*623]  analysis. Gaudet may be read, as it has been, to replace entirely the Death on the High  [***586]  Seas Act. 16Link to the text of the note Its holding, however, applies  [**2014]  only to coastal waters. We therefore must now decide which measure of damages to apply in a death action arising on the high seas -- the rule chosen by Congress in 1920 or the rule chosen by this Court in Gaudet.
+
+ [****11]  As the divergence of views among the States discloses, there are valid arguments both for and against allowing recovery for loss of society. Courts denying recovery cite two reasons: (1) that the loss is "not capable of measurement by any material or pecuniary standard," and (2) that an award for the loss "would obviously include elements of passion, sympathy and similar matters of improper character." 1 S. Speiser, Recovery for Wrongful Death § 3:49 (2d ed. 1974). 17Link to the text of the note Courts allowing the award counter: (1) that the loss is real, however intangible it may be, and (2) that problems of measurement should not justify denying all relief. See generally Sea-Land Services, Inc. v. Gaudet, supra, at 588-590.
+
+ [****12]  In this case, however, we need not pause to evaluate the opposing policy arguments. Congress has struck the balance for us. It has limited survivors to recovery of their pecuniary losses. Respondents argue that Congress does not have the  [*624]  last word on this issue -- that admiralty courts have traditionally undertaken to supplement maritime statutes and that such a step is necessary in this case to preserve the uniformity of maritime law. Neither argument is decisive.
+
+We recognize today, as we did in Moragne, the value of uniformity, but a ruling that DOHSA governs wrongful-death recoveries on the high seas poses only a minor threat to the uniformity of maritime law. 18Link to the text of the note Damages aside, none of the issues on which DOHSA is explicit have been settled to the contrary by this Court in either Moragne or Gaudet. Nor are other disparities likely to develop. As Moragne itself implied, 19Link to the text of the note DOHSA should be the courts' primary guide as they refine the nonstatutory death remedy, both because  [***587]  of the interest in uniformity and because Congress' considered judgment has great force in its own right. It is true that the measure of damages in coastal waters [****13]  will differ from that on the high seas, but even if this difference proves significant, 20Link to the text of the note a desire for uniformity cannot override the statute.
+
+ [****14] 
+
+ [*625]   [**2015]  LEdHN[2] [2]We realize that, because Congress has never enacted a comprehensive maritime code, admiralty courts have often been called upon to supplement maritime statutes. The Death on the High Seas Act, however, announces Congress' considered judgment on such issues as the beneficiaries, the limitations period, contributory negligence, survival, and damages. See nn. 6-10, supra. The Act does not address every issue of wrongful-death law, see, e. g., n. 15, supra, but when it does speak directly to a question, the courts are not free to "supplement" Congress' answer so thoroughly that the Act becomes meaningless.
+
+In Moragne, the Court recognized a wrongful-death remedy that supplements federal statutory remedies. But that holding depended on our conclusion that Congress withheld a statutory remedy in coastal waters in order to encourage and preserve supplemental remedies. 398 U.S., at 397-398. Congress did not limit DOHSA beneficiaries to recovery of their pecuniary losses in order to encourage the creation of nonpecuniary supplements. See generally Barbe v. Drummond, 507 F.2d 794, 801 n. 10 (CA1 1974); Wilson v. Transocean Airlines, 121 F.Supp. 85 (ND Cal. 1954).  [****15]  There is a basic difference between filling a gap left by Congress' silence and rewriting rules that Congress has affirmatively and specifically enacted. In the area covered by the statute, it would be no more appropriate to prescribe a different measure of damages than to prescribe a different statute of limitations, or a different class of beneficiaries. Perhaps the wisdom we possess  [*626]  today would enable us to do a better job of repudiating The Harrisburg than Congress did in 1920, but even if that be true, we have no authority to substitute our views for those expressed by Congress in a duly enacted statute.
+
+Accordingly, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+It is so ordered.
+
+Compare Barbe v. Drummond, 507 F.2d 794, 800-802 (CA1 1974), with Higginbotham v. Mobil Oil Corp., 545 F.2d 422 (CA5 1977). The members of the Higginbotham panel expressed their agreement with Barbe, supra, but considered the issue foreclosed in their Circuit by Law v. Sea Drilling Corp., 510 F.2d 242, on rehearing, 523 F.2d 793 (CA5 1975). In that case, another Fifth Circuit panel stated that the statutory remedy provided by the Death on the High Seas Act was no longer needed. Id., at 798. See also n. 16, infra.
+
+2Link to the location of the note in the document
+357 F.Supp. 1164, 1167 (WD La. 1973). The District Court bottomed admiralty jurisdiction on a finding that the helicopter was the functional equivalent of a crewboat. The ruling has not been challenged in this Court. Cf. Executive Jet Aviation, Inc. v. Cleveland, 409 U.S. 249, 271-272.
+
+3Link to the location of the note in the document
+360 F.Supp. 1140 (WD La. 1973). One family received $ 362,297, the other $ 163,400. The District Court held that the third passenger's family could claim benefits only under the Longshoremen's and Harbor Workers' Compensation Act. 33 U. S. C. § 901 et seq. The Court of Appeals reversed this ruling. 545 F.2d, at 431-433.
+
+4Link to the location of the note in the document
+The former figure included $ 50,000 for one widow and $ 50,000 for her only daughter. The latter figure included $ 25,000 for the second widow and for each of two minor children, as well as $ 20,000 for each of four older children. 360 F.Supp., at 1144-1148.
+
+5Link to the location of the note in the document
+41 Stat. 537, 46 U. S. C. § 761 et seq.
+
+6Link to the location of the note in the document
+§ 761.
+
+7Link to the location of the note in the document
+§ 763.
+
+8Link to the location of the note in the document
+§ 765.
+
+9Link to the location of the note in the document
+§ 766. In addition, the statute preserved the applicability of local law on the Great Lakes, in the Panama Canal Zone, and within the States' territorial waters. § 767. Rights under foreign wrongful-death laws were also preserved. § 764.
+
+10Link to the location of the note in the document
+§ 762.
+
+11Link to the location of the note in the document
+The death of a seaman was an exception to this rule. The Jones Act gives a remedy to the dependents of a seaman killed in the course of employment by his employer's negligence, no matter where the wrong takes place. § 688.
+
+12Link to the location of the note in the document
+In The Tungus v. Skovgaard, 358 U.S. 588, for example, the Court could not definitively determine whether New Jersey law allowed recovery for unseaworthiness or required proof of negligence.
+
+13Link to the location of the note in the document
+Three anomalies were identified in Moragne v. States Marine Lines, Inc., 398 U.S. 375. In States with limited wrongful-death remedies, shipowners were liable if their breach of a maritime duty caused injury but not if the breach caused death. Furthermore, deaths due to unseaworthiness had a remedy on the high seas, but often went unremedied inside the three-mile limit. Finally, "true" seamen were denied the benefit of state wrongful-death laws while longshoremen doing seamen's work could assert claims under state law. Id., at 395-396.
+
+14Link to the location of the note in the document
+The Court in The Harrisburg arrived at its conclusion after rejecting arguments founded on nothing more than "good reason," "natural equity," and the experience of nations like France and Scotland. 119 U.S., at 212-213.
+
+15Link to the location of the note in the document
+The primary issue in Gaudet was whether a decedent's survivors could bring a Moragne action even though the decedent himself had sued and recovered damages before dying. DOHSA offered no guidance on this issue. 414 U.S., at 583 n. 10. In the course of providing its own answer, the Court addressed the contention that the survivors' recovery would simply duplicate the decedent's. The Court outlined the elements of damages under the new maritime-death remedy and noted that several were distinct from those available to the decedent himself.
+
+16Link to the location of the note in the document
+As Chief Judge Brown put it in Law v. Sea Drilling Corp., 523 F.2d 793 (CA5 1975): "It is time that the dead hand of The Harrisburg -- whether in the courts or on the elbow of the congressional draftsmen of DOHSA -- follow the rest of the hulk to an honorable rest in the briney deep. . . . No longer does one need . . . DOHSA as a remedy. There is a federal maritime cause of action for death on navigable waters -- any navigable waters -- and it can be enforced in any court." Id., at 798.
+
+17Link to the location of the note in the document
+The award contemplated by Gaudet is especially difficult to compute, for the jury must calculate the value of the lost love and affection without awarding damages for the survivors' grief and mental anguish, even though that grief is probably the most tangible expression of the survivors' emotional loss. See Sea-Land Services, Inc. v. Gaudet, 414 U.S., at 585-586, n. 17. See also G. Gilmore & C. Black, Law of Admiralty 372 (2d ed. 1975).
+
+18Link to the location of the note in the document
+Moragne proclaimed the need for uniformity in a far more compelling context. When Moragne was decided, fatal accidents on the high seas had an adequate federal remedy, while the same accidents nearer shore might yield more generous awards, or none at all, depending on the law of the nearest State. The only disparity that concerns us today is the difference between applying one national rule to fatalities in territorial waters and a slightly narrower national rule to accidents farther from land.
+
+19Link to the location of the note in the document
+Moragne recognized that the courts would need to devise a limitations period and a schedule of beneficiaries for the new death remedy. The Court considered several alternative solutions to these problems. Only DOHSA, however, figured prominently in the discussion of both issues. 398 U.S., at 405-408.
+
+20Link to the location of the note in the document
+It remains to be seen whether the difference between awarding loss-of-society damages under Gaudet and denying them under DOHSA has a great practical significance. It may be argued that the competing views on awards for loss of society, see supra, at 623, can best be reconciled by allowing an award that is primarily symbolic, rather than a substantial portion of the survivors' recovery. We have not been asked to rule on the propriety of the large sums that the District Court would have awarded for loss of society in this case. See n. 4, supra.
+
+Similarly, there may be no great disparity between DOHSA and Gaudet on the issue of funeral expenses. Gaudet awards damages to dependents who have paid, or will pay, for the decedent's funeral, evidently on the theory that, but for the wrongful death, the decedent would have accumulated an estate large enough to pay for his own funeral. 414 U.S., at 591. On that theory, the cost of the funeral could also be considered a pecuniary loss suffered by the dependent as a result of the death.

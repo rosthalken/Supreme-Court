@@ -1,0 +1,198 @@
+﻿
+        
+        Southland Corp. v. Keating, 465 U.S. 1, 104 S. Ct. 852 (1984)
+        
+
+
+      
+
+JUSTICE O'CONNOR, with whom JUSTICE REHNQUIST joins, dissenting.
+
+Section 2 of the Federal Arbitration Act (FAA) (also known as the United States Arbitration Act) provides that a written arbitration agreement "shall be valid, irrevocable,  [*22]  and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract." 1Link to the text of the note Section 2 does not, on its face, identify which judicial forums are bound by its requirements or what procedures govern its enforcement. The FAA deals with these matters in §§ 3 and 4. Section 3 provides:
+
+"If any suit or proceeding be brought in any of the courts of the United States upon any issue referable to arbitration . . . the court .  [****41]  . . shall on application of one of the parties stay the trial of the action until such arbitration has been had in accordance with the terms of the agreement . . . ." 2Link to the text of the note
+
+Section 4 specifies that a party aggrieved by another's refusal to arbitrate
+
+"may petition any United States district court which, save for such agreement, would have jurisdiction under title 28, in a civil action or in admiralty of the subject matter . . . for an order directing that such arbitration proceed in the manner provided for in such agreement. . . ." 3Link to the text of the note
+
+ [****42]  Today, the Court takes the facial silence of § 2 as a license to declare that state as well as federal courts must apply § 2. In addition, though this is not spelled out in the opinion, the Court holds that in enforcing this newly discovered federal right state courts must follow procedures specified in § 3. The Court's decision is impelled by an understandable desire to encourage the use of arbitration,  [***20]  but it utterly fails to recognize  [*23]  the clear congressional intent underlying the FAA. Congress intended to require federal, not state, courts to respect arbitration agreements.
+
+I
+
+The FAA was enacted in 1925. As demonstrated infra, at 24-29, Congress thought it was exercising its power to dictate either procedure or "general federal law" in federal courts. The issue presented here is the result of three subsequent decisions of this Court.
+
+In 1938 this Court decided Erie R. Co. v. Tompkins, 304 U.S. 64. Erie denied the Federal Government the power to create substantive law solely by virtue of the Art. III power to control federal-court jurisdiction. Eighteen years later the Court decided Bernhardt v. Polygraphic Co., 350 U.S. 198 (1956). [****43]  Bernhardt held that the duty to arbitrate a contract dispute is outcome-determinative -- i. e. "substantive" -- and therefore a matter normally governed by state law in federal diversity cases.
+
+ [**865]  Bernhardt gave rise to concern that the FAA could thereafter constitutionally be applied only in federal-court cases arising under federal law, not in diversity cases. 4Link to the text of the note In Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 U.S. 395, 404-405 (1967), we addressed that concern, and held that the FAA may constitutionally be applied to proceedings in a federal diversity court. 5Link to the text of the note The FAA covers only contracts involving interstate commerce or maritime affairs, and Congress "plainly has power to legislate" in that area. Id., at 405.
+
+ [****44]  [*24]  Nevertheless, the Prima Paint decision "carefully avoided any explicit endorsement of the view that the Arbitration Act embodied substantive policies that were to be applied to all contracts within its scope, whether sued on in state or federal courts." P. Bator, P. Mishkin, D. Shapiro, & H. Wechsler, Hart and Wechsler's The Federal Courts and the Federal System 731-732 (2d ed. 1973). 6Link to the text of the note Today's case is the first in which this Court has had occasion to determine whether the FAA applies to state-court proceedings. One statement on the subject did appear in Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1  [***21]  (1983), but that case involved a federal, not a state, court proceeding; its dictum concerning the law applicable in state courts was wholly unnecessary to its holding.
+
+ [****45]  II
+
+The majority opinion decides three issues. First, it holds that § 2 creates federal substantive rights that must be enforced by the state courts. Second, though the issue is not raised in this case, the Court states, ante, at 15-16, n. 9, that § 2 substantive rights may not be the basis for invoking federal-court jurisdiction under 28 U. S. C. § 1331. Third, the Court reads § 2 to require state courts to enforce § 2 rights using procedures that mimic those specified for federal courts by FAA §§ 3 and 4. The first of these conclusions is unquestionably wrong as a matter of statutory construction; the second appears to be an attempt to limit the damage done by the first; the third is unnecessary and unwise.
+
+ [*25]  A
+
+One rarely finds a legislative history as unambiguous as the FAA's. That history establishes conclusively that the 1925 Congress viewed the FAA as a procedural statute, applicable only in federal courts, derived, Congress believed, largely from the federal power to control the jurisdiction of the federal courts.
+
+In 1925 Congress emphatically believed arbitration to be a matter of "procedure." At hearings on the Act congressional [****46]  Subcommittees were told: "The theory on which you do this is that you have the right to tell the Federal courts how to proceed." 7Link to the text of the note  [**866]  The House Report on the FAA stated: "Whether an agreement for arbitration shall be enforced or not is a question of procedure . . . ." 8Link to the text of the note [****48]  On the floor of the House Congressman Graham assured his fellow Members that the FAA
+
+"does not involve any new principle of law except to provide a simple method . . . in order to give enforcement. . . . It creates no new legislation, grants no new rights, except a remedy to enforce an agreement in commercial contracts and in admiralty contracts." 9Link to the text of the note
+
+ [*26]  A month after the Act was signed into law the American Bar Association Committee that had drafted and pressed for passage of the federal legislation wrote:
+
+"The statute establishes a procedure  [***22]  in the Federal courts for the enforcement of arbitration agreements. . . . A Federal statute providing for the enforcement of arbitration agreements does relate solely to procedure of the Federal courts. . . . [Whether] or not an arbitration agreement is to be enforced is a question of the law of procedure and is determined by [****47]  the law of the jurisdiction wherein the remedy is sought. That the enforcement of arbitration contracts is within the law of procedure as distinguished from substantive law is well settled by the decisions of our courts." 10Link to the text of the note
+
+Since Bernhardt, a right to arbitration has been characterized as "substantive," and that holding is not challenged here. But Congress in 1925 did not characterize the FAA as this Court did in 1956. Congress believed that the FAA established nothing more than a rule of procedure, a rule therefore applicable only in the federal courts. 11Link to the text of the note
+
+If characterizing the FAA as procedural was not [****49]  enough, the draftsmen of the Act, the House Report, and the early commentators all flatly stated that the Act was intended to affect only federal-court proceedings. Mr. Cohen, the American Bar Association member who drafted the bill, assured two congressional Subcommittees in joint hearings:
+
+"Nor can it be said that the Congress of the United States, directing its own courts . . . , would infringe upon  [*27]  the provinces or prerogatives of the States. . . . [The] question of the enforcement relates to the law of remedies and not to substantive law. The rule must be changed for the jurisdiction in which the agreement is sought to be enforced . . . . There is no disposition therefore by means of the Federal bludgeon to force an individual State into an unwilling submission to arbitration enforcement." 12Link to the text of the note [****50] 
+
+The House Report on the FAA unambiguously stated: "Before [arbitration] contracts could be enforced in the Federal courts . . . this law is essential. The bill declares that such agreements shall be recognized  [**867]  and enforced by the courts of the United States." 13Link to the text of the note
+
+ [****51]  Yet  [***23]  another indication that Congress did not intend the FAA to govern state-court proceedings is found in the powers  [*28]  Congress relied on in passing the Act. The FAA might have been grounded on Congress' powers to regulate interstate and maritime affairs, since the Act extends only to contracts in those areas. There are, indeed, references in the legislative history to the corresponding federal powers. More numerous, however, are the references to Congress' pre-Erie power to prescribe "general law" applicable in all federal courts. 14Link to the text of the note At the congressional hearings, for example: "Congress rests solely upon its power to prescribe the jurisdiction and duties of the Federal courts." 15Link to the text of the note And in the House Report:
+
+"The matter is properly the subject of Federal action. Whether an agreement for arbitration shall be enforced or not is a question of procedure to be determined by the law court in which the proceeding is brought and not one of substantive law to be determined by the law of the forum in which the contract is made. . . ." 16Link to the text of the note
+
+Plainly, a power derived from Congress' Art. III control over federal-court jurisdiction would not by any flight [****52]  of fancy permit Congress to control proceedings in state courts.
+
+ [****53]  [*29]  The foregoing cannot be dismissed as "ambiguities" in the legislative history. It is accurate to say that the entire history contains only one ambiguity, and that appears in the single sentence of the House Report cited by the Court ante, at 12-13. That ambiguity, however, is definitively resolved elsewhere in the same House Report, see supra, at 27, and throughout the rest of the legislative history.
+
+B
+
+The structure of the FAA itself runs directly contrary to the reading the Court today gives to § 2. Sections 3 and 4 are the implementing provisions  [***24]  of the Act, and they expressly apply only to federal courts. Section 4 refers to the "United States district [courts]," and provides that it can be invoked only in a court that has jurisdiction  [**868]  under Title 28 of the United States Code. As originally enacted, § 3 referred, in the same terms as § 4, to "courts [or court] of the United States." 17Link to the text of the note [****54]  There has since been a minor amendment in § 4's phrasing, but no substantive change in either section's limitation to federal courts. 18Link to the text of the note
+
+ [****55]  [*30]  None of this Court's prior decisions has authoritatively construed the Act otherwise. It bears repeating that both Prima Paint and Moses H. Cone involved federal-court litigation. The applicability of the FAA to state-court proceedings was simply not before the Court in either case. Justice Black would surely be surprised to find either the majority opinion or his dissent in Prima Paint cited by the Court today, as both are, ante, at 11, 12. His dissent took pains to point out:
+
+
+
+"The Court here does not hold . . . that the body of federal substantive law created by federal judges under the Arbitration Act is required to be applied by state courts. A holding to that effect -- which the Court seems to leave up in the air -- would flout the intention of the framers of the Act." 388 U.S., at 424 (footnotes omitted).
+
+Nothing in the Prima Paint majority opinion contradicts this statement.
+
+The Prima Paint majority gave full but precise effect to the original congressional intent -- it recognized that notwithstanding the intervention of Erie the FAA's restrictive focus on maritime and interstate contracts permits [****56]  its application in federal diversity courts. Today's decision, in contrast, glosses over both the careful crafting of Prima Paint and the historical reasons that made Prima Paint necessary, and gives the FAA a reach far broader than Congress intended. 19Link to the text of the note
+
+ [*31]  III
+
+ [***25]  Section 2, like the rest of the FAA, should have no application whatsoever in state courts. Assuming, to the contrary, that § 2 does create a federal right that the state [****57]  courts must enforce, state courts should nonetheless be allowed, at least in the first instance, to fashion their own procedures for enforcing the right. Unfortunately, the Court seems to direct that the arbitration clause at issue here must be specifically enforced; apparently no other means of enforcement is permissible. 20Link to the text of the note
+
+ [****58]   [**869]  It is settled that a state court must honor federally created rights and that it may not unreasonably undermine them by invoking contrary local procedure. "'[The] assertion of federal rights, when plainly and reasonably made, is not to be defeated under the name of local practice.'" Brown v. Western R. Co. of Alabama, 338 U.S. 294, 299 (1949). But absent specific direction from Congress the state courts have always been permitted to apply their own reasonable procedures when enforcing federal rights. Before we undertake to read a set of complex and mandatory procedures into § 2's brief and general language, we should at a minimum allow state courts and legislatures a chance to develop their own methods for enforcing the new federal rights. Some might choose to award compensatory or punitive damages for the violation of an arbitration agreement; some might award litigation costs to the party who remained willing to arbitrate; some might affirm the "validity and enforceability"  [*32]  of arbitration agreements in other ways. Any of these approaches could vindicate § 2 rights in a manner fully consonant with the language and background of [****59]  that provision. 21Link to the text of the note
+
+The unelaborated terms of § 2 certainly invite flexible enforcement. At common law many jurisdictions were hostile to arbitration agreements. Kulukundis Shipping Co. v. Amtorg Trading Corp., 126 F.2d 978, 982-984 (CA2 1942). That hostility was reflected in two different doctrines: "revocability," which allowed parties to repudiate arbitration agreements at any time before the arbitrator's award was made, and "invalidity" or "unenforceability," equivalent rules 22Link to the text of the note that flatly denied  [***26]  any remedy for the failure to honor an arbitration agreement. In contrast, common-law jurisdictions that enforced arbitration agreements did so in at least three different ways -- through actions for damages, actions for specific enforcement, or by enforcing sanctions imposed by trade and commercial associations on members who violated [****60]  arbitration agreements. 23Link to the text of the note In 1925 a forum allowing any one of these remedies would have been thought to recognize the "validity" and "enforceability" of arbitration clauses.
+
+This Court has previously rejected the view that state courts can adequately protect federal rights only if "such courts in enforcing the Federal right are to be treated as Federal courts and subjected pro hac vice to [federal] limitations . . . ." Minneapolis & St. Louis R. Co. v. Bombolis, 241 U.S. 211, 221 (1916). As explained by Professor Hart:
+
+ [*33]  "The general rule,  [****61]  bottomed deeply in belief in the importance of state control of state judicial procedure, is that federal law takes the state courts as it finds them. . . . Some differences in remedy and procedure are inescapable if the different governments are to retain a measure of independence in deciding how justice should be administered. If the differences become so conspicuous as to affect advance calculations of outcome, and so to induce an undesirable shopping between forums, the remedy does not lie in the sacrifice of the independence of either government. It lies rather in provision by the federal government, confident of the justice of its own procedure,  [**870]  of a federal forum equally accessible to both litigants." 24Link to the text of the note
+
+In summary, even were I to accept [****62]  the majority's reading of § 2, I would disagree with the Court's disposition of this case. After articulating the nature and scope of the federal right it discerns in § 2, the Court should remand to the state court, which has acted, heretofore, under a misapprehension of federal law. The state court should determine, at least in the first instance, what procedures it will follow to vindicate the newly articulated federal rights. Cf. Missouri ex rel. Southern R. Co. v. Mayfield, 340 U.S. 1, 5 (1950).
+
+IV
+
+The Court, ante, at 15-16, rejects the idea of requiring the FAA to be applied only in federal courts partly out of concern with the problem of forum shopping. The concern is unfounded. Because the FAA makes the federal courts equally accessible to both parties to a dispute, no forum shopping would be possible even if we gave the FAA a construction  [*34]  faithful to the congressional intent. In controversies involving incomplete diversity of citizenship there is simply no access to federal court and therefore no possibility of forum shopping. In  [***27]  controversies with complete diversity of citizenship the FAA grants federal-court access [****63]  equally to both parties; no party can gain any advantage by forum shopping. Even when the party resisting arbitration initiates an action in state court, the opposing party can invoke FAA § 4 and promptly secure a federal-court order to compel arbitration. See, e. g., Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983).
+
+Ironically, the FAA was passed specifically to rectify forum-shopping problems created by this Court's decision in Swift v. Tyson, 16 Pet. 1 (1842). 25Link to the text of the note By 1925 several major commercial States had passed state arbitration laws, but the federal courts refused to enforce those laws in diversity cases. 26Link to the text of the note The drafters of the FAA might have anticipated Bernhardt by legislation and required federal diversity courts to adopt the arbitration law of the State in which they sat. But they deliberately chose a different approach. As was pointed out at congressional hearings, 27Link to the text of the note an additional goal of the Act was to make arbitration agreements enforceable even in federal courts located in States that had no arbitration law. The drafters' plan for maintaining reasonable harmony between state and federal [****64]  practices was not to bludgeon States into compliance, but rather to adopt a uniform federal law, patterned after New York's path-breaking state statute, 28Link to the text of the note and simultaneously to press for passage of coordinated  [*35]  state legislation. The key language of the Uniform Act for Commercial Arbitration was, accordingly, identical to that in § 2 of the FAA. 29Link to the text of the note
+
+ [****65]  [**871]  In summary, forum-shopping concerns in connection with the FAA are a distraction that does not withstand scrutiny. The Court ignores the drafters' carefully devised plan for dealing with those problems.
+
+V
+
+Today's decision adds yet another chapter to the FAA's already colorful history. In 1842 this Court's ruling in Swift v. Tyson, supra, set up a major obstacle to the enforcement of state arbitration laws in federal diversity courts. In 1925 Congress sought to rectify the problem by enacting the FAA; the intent was to create uniform law binding only in the federal courts. In Erie R. Co. v. Tompkins, 304 U.S. 64 (1938), and then in Bernhardt Polygraphic Co., 350 U.S. 198 (1956), this Court significantly curtailed federal power. In 1967 our decision in Prima Paint upheld the application  [***28]  of the FAA in a federal-court proceeding as a valid exercise of Congress' Commerce Clause and admiralty powers. Today the Court discovers a federal right in FAA § 2 that the state courts must enforce. Apparently confident that state courts are not competent to devise their own procedures for protecting [****66]  the newly discovered federal right, the Court summarily prescribes a specific procedure, found nowhere in § 2 or its common-law origins, that the state courts are to follow.
+
+ [*36]  Today's decision is unfaithful to congressional intent, unnecessary, and, in light of the FAA's antecedents and the intervening contraction of federal power, inexplicable. Although arbitration is a worthy alternative to litigation, today's exercise in judicial revisionism goes too far. I respectfully dissent.
+
+1Link to the location of the note in the document
+9 U. S. C. § 2.
+
+2Link to the location of the note in the document
+9 U. S. C. § 3 (emphasis added).
+
+3Link to the location of the note in the document
+9 U. S. C. § 4 (emphasis added). Section 9, which addresses the enforcement of arbitration awards, is also relevant. "If no court is specified in the agreement of the parties, then such application may be made to the United States court in and for the district within which such award was made. . . ." 9 U. S. C. § 9 (emphasis added).
+
+4Link to the location of the note in the document
+Justice Frankfurter made precisely this suggestion in Bernhardt. 350 U.S., at 208 (concurring opinion).
+
+5Link to the location of the note in the document
+Two Circuits had previously addressed the problem. Robert Lawrence Co. v. Devonshire Fabrics, Inc., 271 F.2d 402 (CA2 1959), cert. dism'd pursuant to stipulation of counsel, 364 U.S. 801 (1960); American Airlines, Inc. v. Louisville & Jefferson County Air Bd., 269 F.2d 811 (CA6 1959).
+
+6Link to the location of the note in the document
+In Robert Lawrence, supra, the Second Circuit had flatly announced -- in dictum, of course -- that the FAA was "a declaration of national law equally applicable in state or federal courts." 271 F.2d, at 407. One Justice in Prima Paint was prepared to adopt wholesale the Second Circuit's more broadly written opinion. 388 U.S., at 407 (Harlan, J., concurring). But the Prima Paint majority opinion did not do so. In these circumstances, the majority opinion speaks loudly by its complete silence regarding the Act's applicability to state courts.
+
+7Link to the location of the note in the document
+Arbitration of Interstate Commercial Disputes, Joint Hearings on S. 1005 and H. R. 646 before the Subcommittees of the Committees on the Judiciary, 68th Cong., 1st Sess., 17 (1924) (hereinafter Joint Hearings) (statement of Mr. Cohen, American Bar Association). See also Sales and Contracts to Sell in Interstate and Foreign Commerce, and Federal Commercial Arbitration, Hearing on S. 4213 and S. 4214 before a Subcommittee of the Senate Committee on the Judiciary, 67th Cong., 4th Sess., 2 (1923) (hereinafter Senate Hearing).
+
+8Link to the location of the note in the document
+H. R. Rep. No. 96, 68th Cong., 1st Sess., 1 (1924). To similar effect, the Senate Report noted that the New York statute, after which the FAA was patterned, had been upheld against constitutional attack the previous year in Red Cross Line v. Atlantic Fruit Co., 264 U.S. 109 (1924). S. Rep. No. 536, 68th Cong., 1st Sess., 3 (1924). In Red Cross Justice Brandeis based the Court's approval of the New York statute on the fact that the statute effected no change in the substantive law.
+
+9Link to the location of the note in the document
+65 Cong. Rec. 1931 (1924).
+
+10Link to the location of the note in the document
+Committee on Commerce, Trade and Commercial Law, The United States Arbitration Law and Its Application, 11 A. B. A. J. 153, 154-155 (1925). See also Cohen & Dayton, The New Federal Arbitration Law, 12 Va. L. Rev. 265, 275-276 (1926).
+
+11Link to the location of the note in the document
+That Congress chose to apply the FAA only to proceedings related to commercial and maritime contracts does not suggest that the Act is "substantive." Cf. Fed. Rule Civ. Proc. 81; Fed. Rule Evid. 1101; Fed. Rule Crim. Proc. 54.
+
+12Link to the location of the note in the document
+Joint Hearings 39-40 (emphasis added). "The primary purpose of the statute is to make enforcible [sic] in the Federal courts such agreements for arbitration. . . ." Id., at 38 (statement of Mr. Cohen). See also Senate Hearing 2 ("This bill follows the lines of the New York arbitration law, applying it to the fields wherein there is Federal jurisdiction").
+
+13Link to the location of the note in the document
+H. R. Rep. No. 96, supra, at 1. Commentators writing immediately after passage of the Act uniformly reached the same conclusion. The A.B.A. Committee that drafted the legislation wrote: "So far as the present law declares simply the policy of recognizing and enforcing arbitration agreements in the Federal courts it does not encroach upon the province of the individual states." Committee on Commerce, Trade and Commercial Law, supra, at 155. See also Cohen & Dayton, supra, at 276-277; Baum & Pressman, The Enforcement of Commercial Arbitration Agreements in the Federal Courts, 8 N. Y. U. L. Q. Rev. 428, 459 (1931). Williston wrote: "Inasmuch as arbitration acts are deemed procedural, the United States Act applies only to the federal courts . . . ." 6 S. Williston & G. Thompson, The Law of Contracts 5368 (rev. ed. 1938).
+
+More recent students of the FAA uniformly and emphatically reach the same conclusion. Prima Paint, 388 U.S., at 424 (Black, J., dissenting); Note, 73 Harv. L. Rev. 1382 (1960); Note, Erie, Bernhardt, and Section 2 of the United States Arbitration Act: A Farrago of Rights, Remedies, and a Right to a Remedy, 69 Yale L. J. 847, 863 (1960); Note, Scope of the United States Arbitration Act in Commercial Arbitration: Problems in Federalism, 58 Nw. U. L. Rev. 468, 492 (1963).
+
+14Link to the location of the note in the document
+For my present purpose it is enough to recognize that Congress relied at least in part on its Art. III power over the jurisdiction of the federal courts. See Prima Paint, 388 U.S., at 405, and n. 13 (majority opinion); id., at 416-420 (Black, J., dissenting).
+
+15Link to the location of the note in the document
+Joint Hearings 38. See also id., at 17, 37-38.
+
+16Link to the location of the note in the document
+H. R. Rep. No. 96, supra n. 8, at 1. Immediately after the FAA's enactment the A.B.A. drafters of the Act wrote:
+
+"[The FAA] rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts. So far as congressional acts relate to the procedure in the Federal courts, they are clearly within the congressional power." Committee on Commerce, Trade and Commercial Law, supra n. 10, at 156.
+
+Numerous other commentators writing shortly after the FAA's passage, as well as more recently, have made similar statements. See, e. g., Cohen & Dayton, supra n. 10, at 275; Baum & Pressman, supra, at 430-431; Note, 73 Harv. L. Rev., at 1383; Note, 58 Nw. U. L. Rev., at 481.
+
+17Link to the location of the note in the document
+The use of identical language in both sections was natural: § 3 applies when the party resisting arbitration initiates the federal-court action; § 4 applies to actions initiated by the party seeking to enforce an arbitration provision. Phrasing the two sections differently would have made no sense.
+
+18Link to the location of the note in the document
+In 1954, as a purely clerical change, Congress inserted "United States district court" in § 4 as a substitute for "court of the United States." Both House and Senate Reports explained: "'United States district court' was substituted for 'court of the United States' because, among Federal courts, such a proceeding would be brought only in a district court." H. R. Rep. No. 1981, 83d Cong., 2d Sess., 8 (1954); S. Rep. No. 2498, 83d Cong., 2d Sess., 9 (1954).
+
+Even without this history, § 3's "courts of the United States" is a term of art whose meaning is unmistakable. State courts are "in" but not "of" the United States. Other designations of federal courts as the courts "of" the United States are found, for example, in 28 U. S. C. § 2201 (1976 ed., Supp. V) (declaratory judgments); Fed. Rule Evid. 501; and the Norris-La Guardia Act, 29 U. S. C. § 104, see Boys Markets, Inc. v. Retail Clerks, 398 U.S. 235, 247 (1970) (BRENNAN, J.). References to state and federal courts together as courts "in" or "within" the United States are found in the Supremacy Clause ("Judges in every state"); 11 U. S. C. § 306 (1982 ed.); 22 U. S. C. § 2370(e)(2); and 28 U. S. C. § 1738. See also W. Sturges, Commercial Arbitrations and Awards § 480, p. 937 (1930).
+
+19Link to the location of the note in the document
+The Court suggests, ante, at 12, that it is unlikely that Congress would have created a federal substantive right that the state courts were not required to enforce. But it is equally rare to find a federal substantive right that cannot be enforced in federal court under the jurisdictional grant of 28 U. S. C. § 1331. Yet the Court states, ante, at 15-16, n. 9, that the FAA must be so construed. The simple answer to this puzzle is that in 1925 Congress did not believe it was creating a substantive right at all.
+
+20Link to the location of the note in the document
+If my understanding of the Court's opinion is correct, the Court has made § 3 of the FAA binding on the state courts. But as we have noted, supra, at 29, § 3 by its own terms governs only federal-court proceedings. Moreover, if § 2, standing alone, creates a federal right to specific enforcement of arbitration agreements §§ 3 and 4 are, of course, largely superfluous. And if § 2 implicitly incorporates §§ 3 and 4 procedures for making arbitration agreements enforceable before arbitration begins, why not also § 9 procedures concerning venue, personal jurisdiction, and notice for enforcing an arbitrator's award after arbitration ends? One set of procedures is of little use without the other.
+
+21Link to the location of the note in the document
+See Note, 69 Yale L. J., at 864-865; Note, 73 Harv. L. Rev., at 1385; Note, 58 Nw. U. L. Rev., at 493.
+
+22Link to the location of the note in the document
+See J. Cohen, Commercial Arbitration and the Law 53-252 (1918); Sturges, supra, §§ 15-17 (discussing "revocability"); id., § 22 (treating as equivalent different courts' declarations that arbitration agreements were "contrary to public policy," "invalid," "not binding upon the parties," "unenforceable," or "void"). See also Note, 73 Harv. L. Rev., at 1384.
+
+23Link to the location of the note in the document
+See Sturges, supra, §§ 22-24.
+
+24Link to the location of the note in the document
+Hart, The Relations Between State and Federal Law, 54 Colum. L. Rev. 489, 508 (1954). See generally P. Bator, P. Mishkin, D. Shapiro, & H. Wechsler, Hart and Wechsler's The Federal Courts and the Federal System 567-573 (2d ed. 1973).
+
+25Link to the location of the note in the document
+See Joint Hearings 16 (statement of Mr. Cohen, A. B. A.); Senate Hearing 2. See also Cohen & Dayton, supra n. 10, at 275-276; Sturges & Murphy, Some Confusing Matters Relating to Arbitration under the United States Arbitration Act, 17 Law & Contemp. Prob. 580, 590 (1952).
+
+26Link to the location of the note in the document
+See, e. g., Atlantic Fruit Co. v. Red Cross Line, 276 F. 319 (SDNY 1921), aff'd, 5 F.2d 218 (CA2 1924); Lappe v. Wilcox, 14 F.2d 861 (NDNY 1926).
+
+27Link to the location of the note in the document
+Joint Hearings 35.
+
+28Link to the location of the note in the document
+See S. Rep. No. 536, supra n. 8, at 3.
+
+29Link to the location of the note in the document
+The Uniform Act tracked the "valid, irrevocable, and enforceable" language of § 2. See 47 A. B. A. Rep. 318 (1922). It was also hoped that other States might pattern their arbitration statutes directly after the federal Act. See, e. g., Joint Hearings 28. By 1953 it was reported that arbitration statutes "quite similar" to the FAA had been enacted in 12 other States. Kochery, The Enforcement of Arbitration Agreements in the Federal Courts: Erie v. Tompkins, 39 Cornell L. Q. 74, 76, n. 7 (1953). See also Ludwig Mowinckels Rederi v. Dow Chemical Co., 25 N. Y. 2d 576, 584-585, 255 N. E. 2d 774, 778-779 (1970).

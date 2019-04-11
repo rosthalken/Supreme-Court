@@ -1,0 +1,62 @@
+﻿
+        
+        Reed v. Campbell, 476 U.S. 852, 106 S. Ct. 2234 (1986)
+        
+
+
+      
+
+[*852]   [***861]   [**2236]  JUSTICE STEVENS delivered the opinion of the Court.
+
+LEdHN[1A] [1A]Prince Ricker, appellant's father, died intestate on December 22, 1976. At that time, § 38 of the Texas Probate Code  [*853]  provided that a decedent's estate should descend to "his children and their descendants," 1Link to the text of the note but § 42 prohibited an illegitimate child from inheriting from her father unless her parents had subsequently married. 2Link to the text of the note [****4]  In Trimble v. Gordon, 430 U.S. 762 (1977) -- decided four months after Ricker's death -- we held that HN1 a total statutory disinheritance, from the paternal [****3]  estate, of children born out of wedlock and not legitimated by the subsequent marriage of their parents is unconstitutional. In this case, the Texas Court of Appeals held that § 42 of the Texas Probate Code nevertheless prevented appellant from sharing in her father's estate because Trimble does not apply retroactively. 3Link to the text of the note The Texas Supreme Court refused appellant's application of error, noting "no reversible error." We noted probable jurisdiction, 474 U.S. 1018 (1985), and now reverse.
+
+I
+
+Only a few facts need be stated. In November 1957, Prince Ricker and appellant's mother participated in a  [***862]  ceremonial marriage, but it was invalid because Ricker's divorce from his first wife was not final. Appellant was born a year later. Ricker was lawfully married three times, once before and twice after his liaison with appellant's mother. He was  [*854]  survived by five legitimate children (two from his first and three from his third marriage) and by appellant.
+
+Shortly after Ricker's death in 1976, his oldest daughter was appointed administratrix of his estate. The estate was still open in February 1978, when appellant formally notified the administratrix [****5]  and the Probate Court of her claim to a one-sixth share of the estate. In due course, she filed a formal complaint; a jury found that Ricker was her father but the trial court concluded that he was never validly married to her mother and denied her claim.
+
+In the Court of Appeals, appellant contended that she was entitled to inherit even if she was illegitimate because § 42 was unconstitutional, and also that she was entitled to be legitimated on various theories. The appellate court rejected all her arguments. 4Link to the text of the note
+
+ [**2237]  II
+
+LEdHN[2] [2]Although the question presented in  [****6]  this case is framed in terms of "retroactivity," its answer is governed by a rather clear distinction that has emerged from our cases considering the constitutionality of statutory provisions that impose special burdens on illegitimate children. In these cases, we have unambiguously concluded that HN3 a State may not justify discriminatory treatment of illegitimates in order to express its disapproval of their parents' misconduct. 5Link to the text of the note [****7]  We have,  [*855]  however, also recognized that there is a permissible basis for some "distinctions made in part on the basis of legitimacy"; 6Link to the text of the note specifically, we have upheld statutory provisions that have an evident and substantial relation to the State's interest in providing for the orderly and just distribution of a decedent's property at death. Lalli v. Lalli, 439 U.S. 259 (1978). 7Link to the text of the note
+
+HN5 The  [***863]  state interest in the orderly disposition of decedents' estates may justify the imposition of special requirements [****8]  upon an illegitimate child who asserts a right to inherit from her father, and, of course, it justifies the enforcement of generally applicable limitations on the time and the manner in which claims may be asserted. After an estate has been finally distributed, the interest in finality may provide an additional, valid justification for barring the belated assertion of claims, even though they may be meritorious and even though mistakes of law or fact may have occurred during the  [*856]  probate process. We find no such justification for the State's rejection of appellant's claim in this case.
+
+The Texas courts have relied on Trimble v. Gordon, 430 U.S. 762 (1977), as a basis for holding § 42 invalid in cases that were pending on April 26, 1977 -- the date Trimble was decided. See Winn v. Lackey, 618 S. W. 2d 910 (Tex. Civ. App. 1981); Lovejoy v. Lillie, 569 S. W. 2d 501 (Texas Civ. App. 1978). Although the administration of Prince Ricker's estate was in progress on that date, the court refused to apply Trimble because appellant's claim was not asserted until later. Thus, the test applied by the  [****9]  Texas court resulted in the denial of appellant's claim because of the conjunction of two facts: (1) her father died before April 26, 1977, and (2) her claim was filed after April 26, 1977.
+
+LEdHN[1B] [1B]There is nothing in the record to explain why these two facts, either separately or in combination, should have prevented the applicability of Trimble, and the allowance of  [**2238]  appellant's claim, at the time when the trial court was required to make a decision. At that time, the governing law had been established: Trimble had been decided, and it was clear that § 42 was invalid. The state interest in the orderly administration of Prince Ricker's estate would have been served equally well regardless of how the merits of the claim were resolved. In this case, then, neither the date of his death nor the date the claim was filed had any impact on the relevant state interest in orderly administration; their conjunction similarly had no impact on that state interest.
+
+HN6 The interest in equal treatment protected by the Fourteenth Amendment to the Constitution -- more specifically, the interest in avoiding unjustified discrimination against children born out of wedlock, see Mathews v. Lucas, 427 U.S. 495, 505 (1976)  [****10]  -- should therefore have been given controlling effect. That interest requires that appellant's claim to a share in her father's estate be protected  [***864]  by the full applicability of Trimble to her claim. 8Link to the text of the note
+
+ [*857]  The judgment of the Texas Court of Appeals is therefore reversed,  [****11]  and the case is remanded to that court for further proceedings not inconsistent with this opinion.
+
+It is so ordered.
+
+See HN2 Tex. Prob. Code Ann. § 38(a) (Vernon 1980) ("Where any person having title to any estate, . . . shall die intestate, leaving no husband or wife, it shall descend and pass in parcenary to his kindred, male and female, in the following course: 1. To his children and their descendants . . .").
+
+2Link to the location of the note in the document
+See Tex. Prob. Code Ann. § 42 (Vernon 1956) ("For the purpose of inheritance to, through, and from an illegitimate child, such child shall be treated the same as if he were the legitimate child of his mother, so that he and his issue shall inherit from his mother and from his maternal kindred, both descendants, ascendants, and collaterals in all degrees, and they may inherit from him") (emphasis added).
+
+3Link to the location of the note in the document
+"Under the rule of Winn v. Lackey, [618 S. W. 2d 910 (Tex. Civ. App. 1981)] and the out-of-state cases cited therein, the equal protection argument fails as Trimble v. Gordon, 430 U.S. 762 . . . (1977), has not been applied retroactively where the father died before the case came down and suit was filed afterwards." 682 S. W. 2d 697, 700 (Tex. App. 1984).
+
+4Link to the location of the note in the document
+In her jurisdictional statement, appellant raised several questions that relate to the legitimation issue. Because we hold that she is entitled to relief on her principal claim, and because the legitimation questions appear not to have been properly presented as federal questions, see appellant's brief before the Texas Court of Appeals (presenting only the Trimble question as a federal constitutional issue), we do not reach the legitimation issue.
+
+5Link to the location of the note in the document
+HN4 "It is true, of course, that the legal status of illegitimacy, however defined, is, like race or national origin, a characteristic determined by causes not within the control of the illegitimate individual, and it bears no relation to the individual's ability to participate in and contribute to society. The Court recognized in Weber [v. Aetna Casualty & Surety Co., 406 U.S. 164 (1972)] that visiting condemnation upon the child in order to express society's disapproval of the parents' liaisons
+
+"'is illogical and unjust. Moreover, imposing disabilities on the illegitimate child is contrary to the basic concept of our system that legal burdens should bear some relationship to individual responsibility or wrongdoing. Obviously, no child is responsible for his birth and penalizing the illegitimate child is an ineffectual -- as well as an unjust -- way of deterring the parent.' 406 U.S., at 175. (Footnote omitted.)" Mathews v. Lucas, 427 U.S. 495, 505 (1976).
+
+6Link to the location of the note in the document
+Ibid.
+
+7Link to the location of the note in the document
+"The presence in this case of the State's interest in the orderly disposition of a decedent's property at death distinguishes it from others in which that justification for an illegitimacy-based classification was absent. E. g., Jimenez v. Weinberger, 417 U.S. 628 (1974); Gomez v. Perez, 409 U.S. 535 (1973); Weber v. Aetna Casualty & Surety Co., 406 U.S. 164, 170 (1972); Levy v. Louisiana, 391 U.S. 68 (1968)." 439 U.S., at 268, n. 6 (opinion of POWELL, J.).
+
+Although the dissenters did not believe the state interest was sufficient to support the particular statute before the Court in that case, they agreed with the basic proposition that this state interest may justify some differential treatment -- "New York might require illegitimates to prove paternity by an elevated standard of proof," id., at 279 (BRENNAN, J., dissenting).
+
+8Link to the location of the note in the document
+In addition to concluding that Trimble did not apply, the Texas Court of Appeals stated that "[even] if the plaintiff could claim under section 42(b) as amended, her exclusion from the inheritance under that statute does not deny her constitutional equal protection since a rational state basis supports that legislation." 682 S. W. 2d, at 700. We read that statement, not as an alternative ground for the court's judgment, but as the rejection of an alternative ground for appellant's recovery. To read it as assuming that the amended statute defeated appellant's claim, even if Trimble applied, would, in the context of this case and the amended statute's requirements, raise serious due process questions.

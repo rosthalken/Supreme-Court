@@ -1,0 +1,27 @@
+﻿
+
+
+123 S.Ct. 1140
+Supreme Court of the United States
+Delbert W. SMITH and Bruce M. Botelho, Petitioners,
+v.
+John DOE I, et al.
+No. 01–729.
+|
+Argued Nov. 13, 2002.
+|
+Decided March 5, 2003. Rehearing Denied April 28, 2003. See 538 U.S. 1009, 123 S.Ct. 1925.
+ 
+
+Justice THOMAS, concurring.
+
+I join the Court’s opinion upholding the Alaska Sex Offender Registration Act (ASORA) against ex post facto challenge. I write separately, however, to reiterate that “there is no place for [an implementation-based] challenge” in our ex post facto jurisprudence. Seling v. Young, 531 U.S. 250, 273, 121 S.Ct. 727, 148 L.Ed.2d 734 (2001) (THOMAS, J., concurring in judgment). Instead, the determination whether a scheme is criminal or civil must be limited to the analysis of the obligations actually created by statute. See id., at 273–274, 121 S.Ct. 727 (“[T]o the extent that the conditions result from the fact that the statute is not being applied according to its terms, the conditions are not the effect of the statute, but rather the effect of its improper implementation”). As we have stated, the categorization of a proceeding as civil or criminal is accomplished by examining “the statute on its face.” Hudson v. United States, 522 U.S. 93, 100, 118 S.Ct. 488, 139 L.Ed.2d 450 (1997) (internal quotation marks omitted).
+ 
+In this case, ASORA does not specify a means of making registry information available to the public. It states only that
+“[i]nformation about a sex offender ... that is contained in the central registry ... is confidential and not subject to public disclosure except as to the sex offender’s ... name, aliases, address, photograph, physical description, description of motor vehicles, license numbers of motor vehicles, and vehicle identification numbers of motor vehicles, place of employment, date of birth, crime for which convicted, date of conviction, place and court of conviction, length and conditions of sentence, and a *107 statement as to whether the offender ... is in compliance with requirements of AS 12.63 or cannot be located.” Alaska Stat. § 18.65.087(b) (2000).
+By considering whether Internet dissemination renders ASORA punitive, the Court has strayed from the statute. With this qualification, I concur.
+ 
+
+
+
+

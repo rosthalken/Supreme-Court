@@ -1,0 +1,27 @@
+﻿
+
+
+108 S.Ct. 2225
+Supreme Court of the United States
+NEW YORK STATE CLUB ASSOCIATION, INC., Appellant
+v.
+CITY OF NEW YORK et al.
+No. 86–1836.
+|
+Argued Feb. 23, 1988.
+|
+Decided June 20, 1988.
+
+Justice SCALIA, concurring in part and concurring in the judgment.
+I concur in the judgment of the Court, and join all except Part IV of its opinion. I note that Part III assumes for purposes of its analysis, but does not hold, the existence of a constitutional right of private association for other than expressive or religious purposes.
+ 
+With respect to the equal protection issue discussed in Part IV of the opinion, I do not believe that the mere fact that benevolent orders “are unique,” ante, at 2235, suffices to establish that a rational basis exists for their exemption. As forgiving as the rational-basis test is, it does not go that far. There must at least be some plausible connection between the respect in which they are unique and the purpose of the law.
+ 
+It is true, as appellant urges, that under the New York State statute to which Local Law 63 technically refers, no characteristic must be possessed in order to qualify as a “benevolent order” except the characteristic of being listed by the legislature in § 2.* See N.Y.Ben.Ord.Law § 2 *21 McKinney 1951 and Supp.1988). In fact, however, all the organizations that have been listed—or at least all I am familiar with—share the characteristic of being what might be called lodges or fraternal organizations. They include, for example, the American Legion, the Jewish War Veterans of the United States, the Catholic War Veterans, the Disabled American Veterans, AMVETS, the Veterans of Foreign Wars, various orders of Masons, the Independent Order of Odd Fellows, the Loyal Order of Moose, the Knights of Columbus, the Improved Benevolent and Protective Order of Elks of the World, the Nobles of the Mystic Shrine, the Ancient Order of Hibernians, and the Knights of Malta. When the City Council stated that it had heard no testimony that “benevolent orders” were “places where business activity is prevalent,” Local Law No. 63, § 1, App. 15, I think it meant by “benevolent orders” organizations of that sort. While the fit between lodge and fraternal type organizations and the present or future content of § 2 of the New York State law may not be perfect, we do not require that for ordinary equal protection analysis. See, e.g., Vance v. Bradley, 440 U.S. 93, 108, 99 S.Ct. 939, 948, 59 L.Ed.2d 171 (1979). I am content that it was rational to refer to that law as a means of identifying a category composed almost entirely of such associations; and that it was rational to think that such organizations did not significantly contribute to the problem the City Council was addressing. A lodge is not likely to be a club where men dine with clients and conduct business. Appellant introduced no evidence to the contrary.
+ 
+
+
+*
+The Court, ante, at 2236, relies upon the Appellate Division's statement that benevolent orders are organized “ ‘ “solely for the benefit of [their] membership and their beneficiaries.” ’ ” If I thought this to be an interpretation of New York law, I would honor it. In fact, however, it seems plain to me that the Appellate Division was not interpreting one section but misciting another. The language is quoted (with appropriate citation) from a provision of New York law dealing not with benevolent orders but with “fraternal benefit societies.” N.Y.Ins.Law § 4501(a) (McKinney 1985). The two are quite different, although an organization can qualify as both. See §§ 4501, 4502. In any event, even if benevolent orders were required to possess the characteristic of being “solely for the benefit of [their] membership and of their beneficiaries,” that would not distinguish them from appellant's organizations. All of the clubs covered by Local Law 63 seemingly meet that description, since it establishes an exception to the “distinctly private” exemption of the New York City Human Rights Law (Local Law No. 97 of 1965), N.Y.C.Admin.Code § 8–107(2) (1986).
+
+

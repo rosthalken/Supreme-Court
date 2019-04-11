@@ -1,0 +1,23 @@
+﻿
+
+
+110 S.Ct. 1376
+Supreme Court of the United States
+Robert A. BUTTERWORTH, Jr., Attorney General of Florida, et al., Petitioners
+v.
+Michael SMITH.
+No. 88-1993.
+|
+Argued Jan. 16, 1990.
+|
+Decided March 21, 1990.
+Justice Scalia, concurring.
+
+The Court holds that the Florida statute is unconstitutional “insofar as [it] prohibits a grand jury witness from disclosing his own testimony after the term of the grand jury has ended.” Ante, at 1378. I join the Court’s opinion because I interpret that to refer to the information contained within the witness’ testimony, but not necessarily to the fact that the witness conveyed that information to the grand jury. I take that to be the meaning of the Court’s later clarification that we affirm “respondent’s First Amendment right to make a truthful statement of information he acquired on his own.”  Ante, at 1383.
+ 
+I think there is considerable doubt whether a witness can be prohibited, even while the grand jury is sitting, from making public what he knew before he entered the grand jury room. Quite a different question is presented, however, by a witness’ disclosure of the grand jury proceedings, which is knowledge he acquires not “on his own” but only by virtue of being made a witness. And it discloses those proceedings for the witness to make public, not what he knew, but what it was he told the grand jury he knew. There may be quite good reasons why the State would want the latter information-which is in a way information of the State’s own creation-to remain confidential even after the term of the grand jury has expired. It helps to assure, for one thing, that grand jurors will not be intimidated in the execution **1384 of their duties by the fear of unjustified public criticism to which they cannot respond. To allow them to respond, on the *637 other hand-by denying that the witness in fact said what he claims to have said, or by pointing out the contradictory testimony of other witnesses-would have its own adverse effects, including the subjection of grand jurors to a degree of press attention and public prominence that might in the long run deter citizens from fearless performance of their grand jury service. I do not say that these state interests are necessarily sufficient, but only that they are not presented by the narrow question we decide today.
+ 
+
+
+
+

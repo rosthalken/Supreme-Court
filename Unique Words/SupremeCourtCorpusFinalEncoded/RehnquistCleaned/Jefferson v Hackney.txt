@@ -1,0 +1,197 @@
+﻿
+Appellants in this case challenge certain computation procedures that the State of Texas uses in its federally assisted welfare program. Believing that neither the Constitution nor the federal welfare statute prohibits the State from adopting these policies, we affirm the judgment of the three-judge court below upholding the state procedures.
+
+I
+Appellants are Texas recipients of Aid to Families With Dependent Children (AFDC). They brought two class *537 actions, which were consolidated in the United States District Court for the Northern District of Texas, seeking injunctive and declaratory relief against state welfare officials. A three-judge court was convened pursuant to 28 U.S.C. s 2281.
+The Texas State Constitution provides a ceiling on the amount the State can spend on welfare assistance grants.1 In **1727 order to allocate this fixed pool of welfare money among the numerous individuals with acknowledged need, the State has adopted a system of percentage grants. Under this system, the State first computes the monetary needs of individuals eligible for relief under each of the federally aided categorical assistance programs.2 Then, since the constitutional ceiling on welfare is insufficient to bring each recipient up to this full standard of need, the State applies a percentage reduction factor3 in order to arrive at a reduced standard of need in each category that the State can guarantee.
+Appellants challenge the constitutionality of applying a lower percentage reduction factor to AFDC than to *538 the other categorical assistance programs. They claim a violation of equal protection because the proportion of AFDC recipients who are black or Mexican-American is higher than the proportion of the aged, blind, or disabled welfare recipients who fall within these minority groups. Appellants claim that the distinction between the programs is not rationally related to the purposes of the Social Security Act, and violates the Fourteenth Amendment for that reason as well. In their original complaint, appellants also argued that any percentage-reduction reduction system violated s 402(a)(23) of the Social Security Act of 1935, as amended, 81 Stat. 898, 42 U.S.C. s 602(a)(23), which required each State to make certain cost-of-living adjustments to its standard of need.
+The three-judge court rejected appellants’ constitutional arguments, finding that the Texas system is neither racially discriminatory nor unconstitutionally arbitrary. The court did, however, accept the statutory claim that Texas’ percentage reductions in the AFDC program violate the congressional command of s 402(a)(23). 304 F.Supp. 1332 (ND Tex.1969).
+Subsequent to that judgment, this Court decided Rosado v. Wyman, 397 U.S. 397, 90 S.Ct. 1207, 25 L.Ed.2d 442 (1970). Rosado held that, although s 402(a)(23) required States to make cost-of-living adjustments in their standard -of-need calculations, it did not prohibit use of percentage-reduction systems that limited the amount of welfare assistance actually paid. 397 U.S., at 413, 90 S.Ct., at 1218. This Court then vacated and remanded the first Jefferson judgment for further proceedings consistent with Rosado. 397 U.S. 821, 90 S.Ct. 1517, 25 L.Ed.2d 807 (1970).
+On remand, the District Court entered a new judgment, denying all relief. Then, in a motion to amend the judgment, appellants raised a new statutory claim. They argued for the first time that although a percentage-reduction system may be consistent with the statute, the *539 specific procedures that Texas uses for computing that reduction violate the congressional enactment. The District Court rejected this argument and denied without opinion appellants’ motion to amend the judgment. This appeal under 28 U.S.C. s 1253 then followed, and we noted probable jurisdiction. 404 U.S. 820, 92 S.Ct. 115, 30 L.Ed.2d 47 (1971).
+
+**1728 II
+Appellants’ statutory argument relates to the method that the State uses to compute the percentage reduction when the recipient also has some outside income. Texas, like many other States,4 first applies the percentage-reduction factor to the recipient’s standard of need, thus arriving at a reduced standard of need that the State can guarantee for each recipient within the present budgetary restraints. After computing this reduced standard of need, the State then subtracts any nonexempt5 income in order to arrive at the level of benefits that the recipient needs in order to reach his reduced standard of need. This is the amount of welfare the recipient is given.
+Under an alternative system used by other States, the order of computation is reversed. First, the outside income is subtracted from the standard of need, in order to determine the recipient’s ‘unmet need.’ Then, the percentage-reduction factor is applied to the unmet need, in order to determine the welfare benefits payable.
+The two systems of accounting for outside income yield different results.6 Under the Texas system all *540 welfare recipients with the same needs have the same amount of money available each month, whether or not they have outside income. Since the outside income is applied dollar for dollar to the reduced standard of need, which the welfare department would otherwise pay in full, it does not result in a net improvement in the financial position of the recipient. Under the alternative system, on the other hand, any welfare recipient who also has outside income is in a better financial position because of it. The reason is that the percentage-reduction factor there is applied to the ‘unmet need,’ after the income has been subtracted. Thus, in effect, the income-earning recipient is able to ‘keep’ all his income, while he receives only a percentage of the remainder of his standard of need.7
+**1729 *541 Each of the two systems has certain advantages. Appellants note that under the alternative system there is a financial incentive for welfare recipients to obtain outside income. The Texas computation method eliminates any such financial incentive, so long as the outside income remains less than the recipient’s reduced standard of need.8 However, since Texas’ pool of available welfare funds is fixed, any increase in benefits paid to the working poor would have to be offset by reductions elsewhere. Thus, if Texas were to switch to the alternative system of recognizing outside income, it would be forced to lower its percentage-reduction factor, in order to keep down its welfare budget. Lowering the percentage would result in less money for those who need the welfare benefits the most—those with no outside income—and the State has been unwilling to do this.
+Striking the proper balance between these competing policy considerations is, of course, not the function of this Court. ‘There is no question that States have considerable latitude in allocating their AFDC resources, since each State is free to set its own standard of need and to determine the level of benefits by the amount of funds it devotes to the program.’ King v. Smith, 392 U.S. 309, 318—319, 88 S.Ct. 2128, 2134, 20 L.Ed.2d 1118 (1968) (footnotes omitted).9 So long as the State’s actions are not in violation of any specific provision of the Constitution or the Social Security Act, appellants’ policy arguments must be addressed to a different forum.
+*542 [1] Appellants assert, however, that the Texas computation procedures are contrary to s 402(a)(23):
+‘(a) A State plan for aid and services to needy families with children must
+ 
+‘(23) provide that by July 1, 1969, the amounts used by the State to determine the needs of individuals will have been adjusted to reflect fully changes in living costs since such amounts were established, and any maximums that the State imposes on the amount of aid paid to families will have been proportionately adjusted.’
+ 
+Recognizing that this statutory language, by its terms, hardly provides much support for their theory, appellants seek to rely on what they perceive to have been the broad congressional purpose in enacting the provision.
+ 
+In Rosado v. Wyman, supra, the Court reviewed the history of this section and rejected the argument that it had worked any radical shift in the AFDC program. Id., 397 U.S., at 414 and n. 17, 90 S.Ct., at 1218. AFDC has long been referred to as a ‘scheme of cooperative federalism,’ King v. Smith, 392 U.S., at 316, 88 S.Ct., at 2133, and the Rosado Court dismissed as ‘adventuresome’ any interpretation of s 402(a)(23) that would deprive the States of their traditional discretion to set the levels of payments. 397 U.S., at 414—415 and n. 17, 90 S.Ct., at 1218—1219. Instead, the statute was meant to require the States to make cost-of-living adjustments to their standards of need, thereby serving ‘two broad purposes’:
+‘First, to require States to face up realistically to the magnitude of the public assistance requirement and lay bare the extent to which their programs fall short of fulfilling actual need; second, to prod the States to apportion their payments on a more equitable basis.’ Id., at 412—413, 90 S.Ct., at 1218.
+ 
+*543 Texas has complied with these two requirements. Effective May 1, 1969, the standard of need for AFDC recipients **1730 was raised 11% to reflect the rise in the cost of living, and the State shifted from a maximum-grant system to its present percentage-reduction system. In this way, the State has fairly recognized and exposed the precise level of unmet need, and by using a percentage-reduction system it has attempted to apportion the State’s limited benefits more equitably.
+Although Texas has thus responded to the ‘two broad purposes’ of s 402(a)(23), appellants argue that Congress also intended that statute to increase the total number of recipients of AFDC, so that more people would qualify for the subsidiary benefits that are dependent on receipt of AFDC cash assistance.10 The Texas computation procedures are thought objectionable since they do not increase the welfare rolls to quite the same extent as would the alternative method of recognizing outside income.
+[2] We do not agree that Congress intended s 402(a)(23) to invalidate any state computation procedures that do not absolutely maximize individual eligibility for subsidiary benefits. The cost-of-living increase that Congress mandated would, of course, generally tend to increase eligibility,11 but there is nothing in the legislative history *544 indicating that this was part of the statutory purpose. Indeed, at the same time Congress enacted s 402(a)(23) it included another section designed to induce States to reduce the number of individuals eligible for the AFDC program.12 Thus, what little legislative history there is on the point, see Rosado v. Wyman, 397 U.S., at 409—412, 90 S.Ct., at 1216—1218, tends to undercut appellants’ theory. See Lampton v. Bonin, 304 F.Supp. 1384, 1391—1392 (E.D.La.1969) (Cassibry, J., dissenting). See generally Note, 58 Geo.L.J. 591 (1970).
+ 
+[3] Appellants also argue that the Texas system should be held invalid because the alternative computation method results in greater work incentives for welfare recipients.13 The history and purpose of the Social Security Act do indicate Congress’ desire to help those on welfare become self-sustaining. Indeed, Congress has specifically mandated certain work incentives in s 402(a) (8). There is no dispute here, however, about Texas’ compliance with these very detailed provisions for work incentives. Neither their inclusion in the Act nor the language used by Congress in other sections of the Act supports the inference that Congress mandated the States to change their income-computation procedures in other, completely unmentioned areas.
+ 
+[4] [5] Nor are appellants aided by their reference to Social Security Act s 402(a) (10), 42 U.S.C. s 602(a)(10), which provides that AFDC benefits must ‘be furnished *545 with reasonable promptness to all eligible individuals.’ That section was enacted at a time when persons whom the State had determined **1731 to be eligible for the payment of benefits were placed on waiting lists, because of the shortage of state funds. The statute was intended to prevent the States from denying benefits even temporarily, to a person who has been found fully qualified for aid. See H.R.Rep.No.1300, 81st Cong., 1st Sess., 48, 148 (1949); 95 Cong.Rec. 13934 (remarks of Rep. Forand). Section 402(a)(10) also prohibits a State from creating certain exceptions to standards specifically enunciated in the federal Act. See, e.g., Townsend v. Swank, 404 U.S. 282, 92 S.Ct. 502, 30 L.Ed.2d 448 (1971). It does not, however, enact by implication a generalized federal criterion to which States must adhere in their computation of standards of need, income, and benefits.14 Such an interpretation would be an intrusion into an area in which Congress has given the States broad discretion, and we cannot accept appellants’ invitation to change this longstanding statutory scheme simply for policy consideration reasons of which we are not the arbiter.
+ 
+
+III
+[6] We turn, then, to appellants’ claim that the Texas system of percentage reductions violates the Fourteenth Amendment. Appellants believe that once the State has computed a standard of need for each recipient, it is arbitrary and discriminatory to provide only 75% of that standard to AFDC recipients, while paying 100% of recognized need to the aged, and 95% to the disabled and the blind. They argue that if the State adopts a *546 percentage-reduction system, it must apply the same percentage to each of its welfare programs.
+ 
+This claim was properly rejected by the court below. It is clear from the statutory framework that, although the four categories of public assistance found in the Social Security Act have certain common elements, the States were intended by Congress to keep their AFDC plans separate from plans under the other titles of the Act.15 A State is free to participate in one, several, or all of the categorical assistance programs, as it chooses. It is true that each of the programs is intended to assist the needy, but it does not follow that there is only one constitutionally permissible way for the State to approach this important goal.
+[7] This Court emphasized only recently, in Dandridge v. Williams, 397 U.S. 471, 485, 90 S.Ct. 1153, 1161, 25 L.Ed.2d 491 (1970), that in ‘the area of economics and social welfare, a State does not violate the Equal Protection Clause merely because the classifications made by its laws are imperfect.’ A legislature may address a problem ‘one step at a time,’ or even ‘select one phase of one field and apply a remedy there, neglecting the others.’ Williamson v. Lee Optical Co., 348 U.S. 483, 489, 75 S.Ct. 461, 465, 99 L.Ed. 563 (1955). So long as its judgments are rational, and not invidious, the legislature’s efforts to tackle the problems of the poor and the needy are not subject to a constitutional straitjacket. The very complexity of the problems suggests that there will be more *547 than one constitutionally permissible method of solving them.
+ 
+**1732 The standard of judicial review is not altered because of appellants’ unproved allegations of racial discrimination. The three-judge court found that the ‘payment by Texas of a lesser percentage of unmet needs to the recipients of the AFDC than to the recipients of other welfare programs is not the result of racial or ethnic prejudice and is not violative of the federal Civil Rights Act or the Equal Protection Clause of the 14th Amendment.’ The District Court obviously gave careful consideration to this issue, and we are cited by its opinion to a number of subsidiary facts to support its principal finding quoted above. There has never been a reduction in the amount of money appropriated by the legislature to the AFDC program, and between 1943 and the date of the opinion below there had been five increases in the amount of money appropriated by the legislature for the program, two of them having occurred since 1959.16 The overall percentage increase in appropriation for the programs between 1943 and the time of the District Court’s hearing in this case was 410% for AFDC, as opposed to 211% for OAA and 200% for AB. The court further concluded:
+‘The depositions of Welfare officials conclusively establish that the defendants did not know the racial make-up of the various welfare assistance categories prior to or at the time when the orders here under attack were issued.’
+Appellants in their brief in effect abandon any effort *548 to show that these findings of fact were clearly erroneous, and we hold they were not.
+ 
+[8] Appellants are thus left with their naked statistical argument: that there is a larger percentage of Negroes and Mexican-Americans in AFDC than in the other programs,17 and that the AFDC is funded at 75% whereas the other programs are funded at 95% and 100% of recognized need. As the statistics cited in the footnote demonstrate, the number of minority members in all categories is substantial. The basic outlines of eligibility for the various categorical grants are established by Congress, not by the States; given the heterogeneity of the Nation’s population, it would be only an infrequent coincidence that the racial composition of each grant class was identical to that of the others. The acceptance of appellants’ constitutional theory would render suspect each difference in treatment among the grant classes, however lacking in racial motivation and however otherwise rational the treatment might be. Few legislative efforts to deal with the difficult problems posed by current welfare programs could survive *549 such scrutiny, and we do **1733 not find it required by the Fourteenth Amendment.18
+ 
+Applying the traditional standard of review under that amendment, we cannot say that Texas’ decision to provide somewhat lower welfare benefits for AFDC recipients is invidious or irrational. Since budgetary constraints do not allow the payment of the full standard of need for all welfare recipients, the State may have concluded that the aged and infirm are the least able of the categorical grant recipients to bear the hardships of an inadequate standard of living. While different policy judgments are of course possible, it is not irrational for the State to believe that the young are more adaptable than the sick and elderly, especially because the latter have less hope of improving their situation in the years remaining to them. Whether or not one agrees with this state determination, there is nothing in the Constitution that forbids it.19
+[9] Similarly, we cannot accept the argument in Mr. *550 Justice MARSHALL’S dissent that the Social Security Act itself requires equal percentages for each categorical assistance program. The dissent concedes that a State might simply refuse to participate in the AFDC program, while continuing to receive federal money for the other categorical programs. See post, at 1746. Nevertheless, it is argued that Congress intended to prohibit any middle ground—once the State does participate in a program it must do so on the same basis as it participates in every other program. Such an all-or-nothing policy judgment may well be defensible, and the dissenters may be correct that nothing in the statute expressly rejects it. But neither does anything in the statute approve or require it.20
+ 
+**1734 *551 In conclusion, we re-emphasize what the Court said in Dandridge v. Williams, 397 U.S., at 487, 90 S.Ct., at 1162—1163:
+‘We do not decide today that the (state law) is wise, that it best fulfills the relevant social and economic objectives that (the State) might ideally espouse, or that a more just and humane system could not be devised. Conflicting claims of morality and intelligence are raised by opponents and proponents of almost every measure, certainly including the one before us. But the intractable economic, social, and even philosophical problems presented by public welfare assistance programs are not the business of this Court. . . . (T)he Constitution does not empower this Court to second-guess state officials charged with the difficult responsibility of allocating limited public welfare funds among the myriad of potential recipients.’
+ 
+Affirmed.
+
+
+
+
+1
+Originally, the Texas Constitution prohibited all welfare programs. Section 51 of Art. III of the Constitution, Vernon's Ann.St., provided that the legislature ‘shall have no power to make any grant or authorize the making of any grant of public moneys to any individual, association of individuals, municipal or other corporations whatsoever . . ..’ However, beginning in 1933, exceptions to this rule were added to the state constitution in s 51—a, which now allows participation in the federal welfare programs, but limits state financing to the sum of $80,000,000. The legislature cannot exceed this welfare budget without a state constitutional amendment.
+2
+Old Age Assistance (OAA), 42 U.S.C. s 301 et seq.; Aid to Families with Dependent Children (AFDC), 42 U.S.C. s 601 et seq.; Aid to the Blind (AB), 42 U.S.C. s 1201 et seq.; Aid for the Permanently and Totally Disabled (APTD), 42 U.S.C. s 1351 et seq.
+3
+At the present time these factors are: OAA—100%; AB—95%; APTD—95%; and AFDC—75%. At the time this suit was instituted the AFDC percentage was 50%, but it was raised to 75% following a recent amendment of s 51—a. See n. 1, supra.
+4
+Nineteen of the 26 States that use a percentage-reduction system follow the Texas procedure of accounting for outside income. See Memorandum for the United States as Amicus Curiae 8, 15—16.
+5
+A certain portion of earned income must be exempted as a work incentive. See 42 U.S.C. s 602(a)(8).
+6
+Assuming two identical families, each with a standard of need of $200, and outside, nonexempt income of $100, the two systems would produce these results:
+Texas System
+Alternative System
+$ 200
+(need)
+$ 200
+(need)
+X .75
+(% reduction factor)
+—100
+(outside income)
+$ 150
+(reduced need)
+$ 100
+(unmet need)
+—100
+(outside income)
+X .75
+(% reduction factor)
+$ 50
+(benefits payable)
+$ 75
+(benefits payable)
+7
+Assuming two families with identical standards of need, but only one with outside income, the alternative system leaves more money in the hands of the family with outside income:
+Outside Income
+No Outside Income
+$ 200
+(need)
+$ 200
+(need)
+—100
+(outside income)
+— 0
+(outside income)
+$ 100
+(unmet need)
+$ 200
+(unmet need)
+X .75
+(% reduction factor)
+X .75
+(reduction factor)
+$ 75
+(benifits payable)
+$ 150
+(benifits payable)
+TOTAL INCOME (outside income
+TOTAL INCOME (outside income
+plus benefits payable = $175
+plus benefits payable) = $150
+8
+Under the Texas system, once the income rises above the reduced standard of need the individual no longer receives any cash assistance. He then would have a financial incentive, since his income would be rising above the maximum he could expect from the welfare system.
+9
+For a general review of the statutory scheme, see Rosado v. Wyman, 397 U.S. 397, 407—412, 90 S.Ct. 1207, 1215—1218, 25 L.Ed.2d 442 (1970).
+10
+Certain care-and-training provisions of the Social Security Act are available only to those who receive money payments under the categorical assistance programs. See 42 U.S.C. s 602(a)(14), (15); 42 U.S.C. ss 602(a) (19), 632; 42 U.S.C. s 1396a(a)(10). Under the Texas computation procedures, those whose income exceeds their reduced standard of need receive no cash benefits and thus do not qualify for these subsidiary benefits, although they do have ‘unmet need’ qualifying them for aid under the alternative computation procedure.
+11
+The Court in Rosado recognized this as one of several effects attributable to s 402(a)(23). 397 U.S., at 413, 90 S.Ct., at 1218. See also id., at 409 n. 13, 90 S.Ct., at 1216. The Court did not, however, hold that each one of these effects was intended by Congress. In fact, the Rosado holding as to the ‘two broad purposes' of Congress was stated above, and the Texas system is perfectly consistent with it. The Court mentioned widened eligibility simply as one of several possible effects that might follow from the statute as so construed.
+12
+Act of Jan. 2, 1968, Pub.L.No. 90—248, Tit. II, s 208, 81 Stat. 894, repealed, 83 Stat. 45.
+13
+See n. 7, supra.
+14
+Appellants' reliance on language from Dandridge v. Williams, 397 U.S. 471, 480—481, 90 S.Ct. 1153, 1159—1160, 25 L.Ed.2d 491 (1970), is misplaced. The Court there explicitly failed to reach the State's argument that the purpose of s 402(a)(10) was primarily to prevent the use of waiting lists. Id., at 481 n. 12, 90 S.Ct., at 1159.
+15
+Each categorical assistance program is embodied in a separate title of the Social Security Act, see n. 2, supra, and requires a state plan independent of the plans under the other titles. In 1962, however, Congress enacted 42 U.S.C. ss 1381—1385, which for the first time enabled States to combine their plans, but only for the non-AFDC programs. Thus, while Congress has now enabled States to adopt a common plan for the other programs, it considered AFDC sufficiently different so as to require an independent plan.
+16
+Since the original opinion below, there has been an additional increase. Following a constitutional amendment, see n. 3, supra, the appropriation has risen from $6,150,000 to $23,100,000.
+17
+Percentage of Negroes
+Percentage of
+Number of
+Program
+Year
+and Mexican-Americans
+White-Anglos
+Recipients
+OAA
+1969
+39.8
+60.2
+1968
+38.7
+61.3
+230,000
+1967
+37.0
+63.0
+APTD
+1969
+46.9
+53.1
+1968
+45.6
+54.4
+4,213
+1967
+46.2
+53.8
+AB
+1969
+55.7
+44.3
+1968
+54.9
+45.1
+14,043
+AFDC
+1969
+87.0
+13.0
+1968
+84.9
+15.1
+136,000
+1967
+86.0
+14.0
+18
+In James v. Valtierra, 402 U.S. 137, 91 S.Ct. 1331, 28 L.Ed.2d 678 (1971), it was contended that a California referendum requirement violated the Fourteenth Amendment because it imposed a mandatory referendum in the case of an ordinance authorizing low income housing, while referenda with respect to other types of ordinances had to be initiated by the action of private individuals. The Court responded:
+‘But of course a lawmaking procedure that ‘disadvantages' a particular group does not always deny equal protection. Under any such holding, presumably a State would not be able to require referendums on any subject unless referendums were required on all, because they would always disadvantage some group. And this Court would be required to analyze governmental structures to determine whether a gubernatorial veto provision or a filibuster rule is likely to ‘disadvantage’ any of the diverse and shifting groups that make up the American people.' Id., at 142, 91 S.Ct., at 1334.
+19
+Just as the State's actions here do not violate the Fourteenth Amendment, we conclude that they do not violate Title VI of the Civil Rights Act of 1964, 42 U.S.C. s 2000d et seq. The Civil Rights Act prohibits discrimination in federally financed programs. We have, however, upheld the findings of nondiscriminatory purpose in the percentage reductions used by Texas, and have concluded that the variation in percentages is rationally related to the purposes of the separate welfare programs. The Court's decision in Griggs v. Duke Power Co., 401 U.S. 424, 91 S.Ct. 849, 28 L.Ed.2d 158 (1971), is therefore inapposite. In Griggs, the employment tests having racially discriminatory effects were found not to be job-related, and for that reason were impermissible under the specific language of Title VII of the Civil Rights Act. Since the Texas procedure challenged here is related to the purposes of the welfare programs, it is not proscribed by Title VI simply because of variances in the racial composition of the different categorical programs.
+20
+Mr. Justice MARSHALL's dissent cites the 1950 amendments to the Social Security Act as support for its novel statutory theory that States must provide equal aid levels in each welfare category. The 1950 amendments included ‘a revised method of determining the Federal share of assistance costs,’ 95 Cong.Rec. 13932, so that the Federal Government would pay a substantially equal percentage of matching funds to state plans in each of the categorical assistance programs. See S.Doc. No. 208, 80th Cong., 2d Sess., 101. But this revision of the grant-in-aid formula in s 403 of the Act was not accompanied by any corresponding amendment of s 402, the section of the Act dealing with congressional limitations on state AFDC programs. Indeed, proponents of the 1950 amendments explicitly recognized and endorsed the longstanding policy that the Federal Government sets only minimum AFDC standards, while leaving the States ‘wide discretion both in determining policies and in setting standards of need.’ S.Doc. No. 208, supra, at 101. The enactment of a modified grant-in-aid formula hardly suggests Congress' intent to engage in ‘extensive alteration of the basic underlying structure of an established program.’ Rosado v. Wyman, 397 U.S., at 414 n. 17, 90 S.Ct., at 1219.
+

@@ -1,0 +1,39 @@
+﻿
+
+
+111 S.Ct. 2749
+Supreme Court of the United States
+VIRGINIA BANKSHARES, INC., et al., Petitioners
+v.
+Doris I. SANDBERG et al.
+No. 89–1448.
+|
+Argued Oct. 9, 1990.
+|
+Decided June 27, 1991.
+ 
+
+Justice SCALIA, concurring in part and concurring in the judgment.
+
+I
+As I understand the Court’s opinion, the statement “In the opinion of the Directors, this is a high value for the shares” *1109 would produce liability if in fact it was not a high value and the directors knew that. It would not produce liability if in fact it was not a high value but the directors honestly believed otherwise. The statement “The Directors voted to accept the proposal because they believe it offers a high value” would not produce liability if in fact the directors’ genuine motive was quite different—except that it **2767 would produce liability if the proposal in fact did not offer a high value and the Directors knew that.
+ 
+I agree with all of this. However, not every sentence that has the word “opinion” in it, or that refers to motivation for directors’ actions, leads us into this psychic thicket. Sometimes such a sentence actually represents facts as facts rather than opinions—and in that event no more need be done than apply the normal rules for § 14(a) liability. I think that is the situation here. In my view, the statement at issue in this case is most fairly read as affirming separately both the fact of the Directors’ opinion and the accuracy of the facts upon which the opinion was assertedly based. It reads as follows:
+“The Plan of Merger has been approved by the Board of Directors because it provides an opportunity for the Bank’s public shareholders to achieve a high value for their shares.” App. to Pet. for Cert. 53a.
+Had it read “because in their estimation it provides an opportunity, etc.”, it would have set forth nothing but an opinion. As written, however, it asserts both that the board of directors acted for a particular reason and that that reason is correct. This interpretation is made clear by what immediately follows: “The price to be paid is about 30% higher than the [last traded price immediately before announcement of the proposal].... [T]he $42 per share that will be paid to public holders of the common stock represents a premium of approximately 26% over the book value.... [T]he bank earned $24,767,000 in the year ended December 31, 1986....” Id., at 53a–54a. These are all facts that support *1110 and that are obviously introduced for the purpose of supporting—the factual truth of the “because” clause, i.e., that the proposal gives shareholders a “high value.”
+ 
+If the present case were to proceed, therefore, I think the normal § 14(a) principles governing misrepresentation of fact would apply.
+ 
+
+II
+I recognize that the Court’s disallowance (in Part II–B–2) of an action for misrepresentation of belief is entirely contrary to the modern law of torts, as authorities cited by the Court make plain. See Vulcan Metals Co. v. Simmons Mfg. Co., 248 F. 853, 856 (CA2 1918); W. Keeton, D. Dobbs, R. Keeton, & D. Owen, Prosser and Keeton on Law of Torts § 109 (5th ed. 1984), cited ante, at 2759. I have no problem with departing from modern tort law in this regard, because I think the federal cause of action at issue here was never enacted by Congress, see Thompson v. Thompson, 484 U.S. 174, 190–192, 108 S.Ct. 513, 521–523, 98 L.Ed.2d 512 (1988) (SCALIA, J., concurring in judgment), and hence the more narrow we make it (within the bounds of rationality) the more faithful we are to our task.
+ 
+* * *
+ 
+I concur in the judgment of the Court, and join all of its opinion except Part II.
+ 
+
+
+
+
+

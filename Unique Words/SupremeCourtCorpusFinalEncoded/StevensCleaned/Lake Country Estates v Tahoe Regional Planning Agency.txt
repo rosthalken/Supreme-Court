@@ -1,0 +1,203 @@
+﻿
+LEdHN    LEdHN   We granted certiorari to decide whether the Tahoe Regional Planning Agency, an entity created by Compact between California and Nevada, is entitled to the immunity that the Eleventh Amendment provides to the compacting States themselves. 1Link to the text of the note 436 U.S. 943. The case also presents the question whether the individual members of the Agency's governing body are entitled to absolute immunity from federal damages claims when acting in a legislative capacity.
+
+    Lake Tahoe, a unique mountain lake, is located partly in California and partly in Nevada. The Lake Tahoe Basin, an area comprising 500 square miles, is a popular resort area that has grown rapidly in recent years. 2Link to the text of the note
+
+       In 1968, the States of California and Nevada agreed to create a single agency to coordinate and regulate development in the Basin and to     conserve its natural resources. As required by the Constitution, 3Link to the text of the note in 1969 Congress gave its consent to the Compact, and the Tahoe Regional Planning Agency (TRPA) was organized. 4Link to the text of the note The Compact authorized TRPA to adopt and to enforce a regional plan for land use, transportation, conservation, recreation, and public services. 5Link to the text of the note
+
+    Petitioners own property in the Lake Tahoe Basin. In 1973, they filed a complaint     in the United States District Court for the Eastern District of California alleging that TRPA, the individual members of its governing body, and its executive officer had adopted a land-use ordinance and general plan, and engaged in other conduct, that destroyed the economic value of petitioners' property. 6Link to the text of the note Petitioners alleged that respondents had thereby taken their property without due process of law and without just compensation in violation of the Fifth and Fourteenth Amendments to the Constitution of the United States. They sought monetary and equitable relief.
+
+Petitioners advanced alternative theories to support their     federal claim. First, they asserted that the alleged violations of the Fifth and Fourteenth Amendments gave rise to    an implied cause of action, comparable to the claim based on an alleged violation of the Fourth Amendment recognized in Bivens v. Six Unknown Fed. Narcotics Agents, 403 U.S. 388, and that jurisdiction could be predicated on 28 U. S. C. § 1331. 7Link to the text of the note Second, they claimed that respondents had acted under color of state law and therefore their cause of action was authorized by 42 U. S. C. § 1983 8Link to the text of the note    and jurisdiction was provided by 28 U. S. C. § 1343. 9Link to the text of the note
+
+The     District Court dismissed the complaint. Although it concluded that the complaint sufficiently alleged a cause of     action for "inverse condemnation," 10Link to the text of the note it held that such an action could not be brought against TRPA because that agency did not have the authority to condemn property. The court also held that the individual defendants were immune from liability for the exercise of the discretionary functions alleged in the complaint.
+
+    On appeal, the Court of Appeals for the Ninth Circuit affirmed the dismissal of TRPA, but reinstated the complaint against the individual respondents. 566 F.2d 1353. Addressing first the questions of cause of action and jurisdiction, the Court of Appeals rejected petitioners' claims based on §§ 1983 and 1343. The court held that congressional approval had transformed the Compact between the States into federal law. As a result, the respondents were acting pursuant to federal authority, rather than under color of state law, and §§ 1983 and 1343 could not be invoked to provide a cause of action and federal jurisdiction. But the court accepted petitioners' alternative argument: It held that they had alleged a deprivation of due process in violation of the Fifth and Fourteenth Amendments, that an implied remedy comparable to that upheld in Bivens, supra, was available, and that federal jurisdiction was provided by § 1331.
+
+    Having found a cause of action and a basis for federal jurisdiction, the court turned to the immunity questions. Although the point had not been argued, the Court of Appeals decided that the Eleventh Amendment immunized    TRPA from suit in a federal court. With respect to the individual respondents, the Court of Appeals held that absolute immunity should be afforded for conduct of a legislative character and qualified immunity for executive action. Since the record did not adequately disclose whether the challenged conduct was legislative or executive, the court remanded for a hearing.
+
+Petitioners ask this Court to hold that TRPA is not entitled to Eleventh Amendment immunity and that the individual     respondents are not entitled to absolute immunity when acting in a legislative capacity. Because none of the respondents filed a cross-petition for certiorari, we have no occasion to review the Court of Appeals' additional holding that a violation of the Due Process Clause was adequately alleged. 11Link to the text of the note For     purposes of our decision, we assume the sufficiency of those allegations.
+
+       I
+
+LEdHN[3] [3]Before addressing the immunity issues, we must consider whether petitioners properly invoked the jurisdiction of a federal court. While respondents did not cross petition for certiorari, they now argue that the Bivens rationale does not apply to a claim based on the deprivation of property rather than liberty, and therefore the Court of Appeals' jurisdictional analysis was defective.
+
+LEdHN[4] [4]HN1 We do not normally address any issues other than those fairly comprised within the questions presented by the petition for certiorari and any cross petitions. An exception to this rule is the question of jurisdiction: even if not raised by the parties, we cannot ignore the absence of federal jurisdiction. In this case, however, respondents' attack on the Court of Appeals' Bivens holding fails to support dismissal for want of jurisdiction for two reasons.
+
+First, respondents' "jurisdictional" arguments are not squarely directed at jurisdiction itself, but rather at the existence of a remedy for the alleged violation of their federal rights. Faced with a similar claim in Mt. Healthy Board of Ed. v. Doyle, 429 U.S. 274, we found that the cause-of-action argument    was "not of the jurisdictional sort which the     Court raises on its own motion." Id., at 279. Since the petitioners in Mt. Healthy had "failed to preserve the issue whether the complaint stated a claim upon which relief could be granted," id., at 281, the Court simply assumed, without deciding, that the suit could properly be brought.
+
+Second, HN2 even if the lack of a cause of action were considered a jurisdictional defect in a suit brought under § 1331, 12Link to the text of the note we may not dismiss for that reason if the record discloses that federal jurisdiction does in fact exist. In this case, we need not even reach the Bivens question to conclude that there is both a cause of action and federal jurisdiction.
+
+
+
+    LEdHN   HN3 Section 1983 provides a remedy     for individuals alleging deprivations of their constitutional    rights by action taken "under color of state law." The Court of Appeals incorrectly assumed that the requirement of federal approval of the interstate Compact foreclosed the possibility that the conduct of TRPA and its officers could be found to be "under color of state law" within the meaning of § 1983. 13Link to the text of the note
+
+The Compact had its genesis in the actions of the compacting States, and it remains part of the statutory law of both States. 14Link to the text of the note The actual implementation of TRPA, after federal approval was obtained, depended upon the appointment    of governing members and executives by the two States and their subdivisions and upon mandatory financing secured, by the terms of the Compact, from the counties. 15Link to the text of the note In discharging their duties as officials of TRPA, the state and county appointees necessarily have also served the interests of the political units that appointed them. The federal involvement, by contrast, is limited to the appointment of one nonvoting member to the governing board. 16Link to the text of the note While congressional consent to the original Compact was required, the States may confer additional powers and duties on TRPA without further congressional action. And each State retains an absolute right to withdraw from the Compact.
+
+LEdHN[6] [6]Even if it were not well settled that § 1983 must be given     a liberal construction, 17Link to the text of the note these     facts adequately characterize the alleged actions of the respondents as "under color of state law" within the meaning of that statute. Federal jurisdiction therefore rests on § 1343, and there is no need to address the question whether there is an implied remedy for violation of the Fifth or the Fourteenth Amendment.
+
+II
+
+LEdHN   The Court of Appeals held that California and Nevada had delegated authority ordinarily residing in each of those States to TRPA. Because "the bi-state Authority     serves as an agency of     the participant states, exercising a specially aggregated slice of state power," the court concluded "that the TRPA is protected by sovereign immunity, preserved for the states by the Eleventh Amendment." 566 F.2d, at 1359-1360.
+
+    The reasoning of the Court of Appeals would extend Eleventh Amendment immunity to every bistate agency unless that immunity were expressly waived. TRPA argues that the propriety of this result is evidenced by the special constitutional requirement of congressional approval of any interstate compact. Any agency that is so important that it could not even be created by the States without a special Act of Congress should receive the same immunity that is accorded to the States themselves.
+
+We cannot accept such an expansive reading of the Eleventh Amendment. By its terms, HN5the protection afforded by that Amendment is only available to "one of the United States." It is true, of course, that some agencies exercising     state power have been permitted to invoke the Amendment in order to protect the state treasury from liability that would have had essentially the same practical consequences as a judgment against the State itself.     18Link to the text of the note But the Court has consistently refused to construe the Amendment to afford protection to political subdivisions such as counties and municipalities, even though such entities exercise a "slice of state power." 19Link to the text of the note
+
+If an interstate compact discloses that the compacting States created an agency comparable to a county or municipality, which has no Eleventh Amendment immunity, the Amendment should not be construed to immunize such an entity. Unless there is good reason to believe that the States structured the new agency to enable it to enjoy the special constitutional protection of the States themselves, and that    Congress concurred in that purpose, there would appear to be no justification for reading additional meaning into the limited language of the Amendment.
+
+California and Nevada have both filed briefs in this Court disclaiming any intent to confer immunity on TRPA. They point to provisions of their Compact that indicate that TRPA is to be regarded as a political subdivision rather than an arm of the State. Thus TRPA is described in Art. III (a) as a "separate legal entity" and in Art. VI (a) as a "political subdivision." Under the terms of the Compact, 6 of the 10 governing members of TRPA are appointed by counties and cities, and only 4 by the 2 States. 20Link to the text of the note    Funding under the     Compact must be provided by the counties, not the States. 21Link to the text of the note Finally, instead of the state treasury being directly responsible for judgments against TRPA, Art. VII (f) expressly provides that obligations of TRPA shall not be binding on either State.
+
+The regulation of land use is traditionally a function performed by local governments. Concern with the     proper performance of that function in the bistate area was a primary motivation for the creation of TRPA itself, and gave rise to the specific controversy at issue in this litigation. Moreover, while TRPA, like cities, towns, and counties, was originally created by the States, its authority to make rules within its jurisdiction is not subject to veto at the state level. Indeed, that TRPA is not in fact an arm of the State subject to its     control is perhaps most forcefully demonstrated by the fact that California has resorted to litigation in an unsuccessful attempt to impose its will on TRPA. 22Link to the text of the note
+
+
+
+LEdHN[7] [7]The intentions of Nevada and California, the terms of the Compact, and the actual operation of TRPA make clear    that nothing short of an absolute rule, such as that implicit in the holding of the Court of Appeals, would allow TRPA to claim the sovereign immunity provided by the Constitution to Nevada and California. Because the Eleventh Amendment prescribes no such rule, we hold that TRPA is subject to "the judicial power of the United States" within the meaning of that Amendment. 23Link to the text of the note
+
+III
+
+LEdHN   We turn, finally, to petitioners' challenge to the Court of Appeals' holding that the individual respondents are absolutely     immune from federal damages liability for actions taken in their legislative capacities.
+
+The immunity of legislators from civil suit for what they do or say as legislators has its roots in    the parliamentary struggles of 16th- and 17th-century England; such immunity was consistently recognized in the common law and was taken as a matter of course by our Nation's founders. 24Link to the text of the note In Tenney v. Brandhove, 341 U.S. 367, this Court reasoned that Congress, in enacting § 1983 as part of the Civil Rights Act of 1871, could not have intended "to overturn the tradition of legislative freedom achieved in England by Civil War and carefully preserved in the formation of State and National Governments here." 341 U.S., at 376. It therefore held that HN6 state legislators are absolutely immune from suit under § 1983 for actions "in the sphere of legitimate legislative activity." 341 U.S., at 376.
+
+    Petitioners do not challenge the validity of the holding in Tenney, or of the decisions recognizing the absolute immunity of federal legislators. 25Link to the text of the note Rather, their claim is that absolute immunity should be limited to the federal and state levels, and should not extend to individuals acting in a legislative capacity at a     regional level. In support of this proposed distinction, petitioners argue that the source of immunity for state legislators is found in constitutional provisions, such as the Speech or Debate Clause, which have no application to a body such as TRPA. In addition, they point out that because state legislatures have effective means of disciplining their members that TRPA does not have, the threat of possible     personal liability is necessary to deter lawless conduct by the governing members of TRPA. 26Link to the text of the note
+
+    
+
+    LEdHN[8] [8]LEdHN[9] [9]We find these arguments unpersuasive. The Speech or Debate Clause of the United States Constitution 27Link to the text of the note is no more applicable to the members of state legislatures than to the members of TRPA. The States are, of course, free to adopt similar clauses in their own constitutions, and many have in fact done so. 28Link to the text of the note These clauses reflect the central importance attached to legislative freedom in our Nation. But the absolute immunity for state legislators recognized in Tenney reflected the Court's interpretation of federal law; the decision did not depend on the presence of a speech or debate clause in the constitution of any State, or on any particular set of state rules or procedures available to discipline erring legislators. Rather, the rule of that case recognizes the need for     immunity to protect the "public good." As Mr. Justice Frankfurter pointed out:
+
+
+
+"Legislators are immune from deterrents to the uninhibited discharge of their legislative duty, not for their private indulgence but for the public good. One must not expect uncommon courage even in legislators. The privilege would be of little value if they could be subjected to the cost and inconvenience    and distractions of a trial upon a conclusion of the pleader, or to the hazard of a judgment against them based upon a jury's speculation as to motives. The holding of this Court in Fletcher v. Peck, 6 Cranch 87, 130, that it was not consonant with our scheme of government for a court to inquire into the motives of legislators, has remained unquestioned." 341 U.S., at 377.
+
+    This reasoning is equally applicable to federal, state, and regional legislators. 29Link to the text of the note    Whatever potential damages liability regional legislators may face as a matter of state law, we hold that petitioners' federal claims do not encompass the recovery of damages from the members of TRPA acting in a legislative capacity. 30Link to the text of the note
+
+    Like the Court of Appeals, we are unable to determine from the record the extent to which petitioners seek to impose liability upon the individual respondents for the performance of their legislative duties. We agree, however, that to the extent the evidence discloses that these individuals were acting in a capacity comparable to that of members of a state legislature, they are entitled to absolute immunity from federal damages liability.
+
+The judgment of the Court    of Appeals is reversed in part and affirmed in part.
+
+It is so ordered.
+
+See Edelman v. Jordan, 415 U.S. 651. The Eleventh Amendment provides:
+
+"The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State."
+
+2Link to the location of the note in the document
+The Senate Report on the Compact describes the lake and its background as follows:
+
+"Lake Tahoe, a High Sierra Mountain lake, is famed for its scenic beauty and pristine clarity. Of recent geologic origin, the 190-square-mile lake bore little evidence of even natural aging processes when it was discovered by John Fremont in 1844. Because of its size, its 1,645-foot depth and its physical features, Lake Tahoe was able to resist pollution even when human activity began accelerating as a result of settlement and early logging operations. Even by 1962 its waters were still so transparent that a metal disc 20 centimeters in diameter reportedly could be seen at a depth of 136 feet and a light transmittance to a depth of nearly 500 feet as detected with hydrophotometer.
+
+"Only two other sizable lakes in the world are of comparable quality -- Crater Lake in Oregon, which is protected as part of the Crater Lake National Park, and Lake Baikal in the Soviet Union. Only Lake Tahoe, however, is so readily accessible from large metropolitan centers and is so adaptable to urban development." S. Rep. No. 91-510, pp. 3-4 (1969).
+
+3Link to the location of the note in the document
+Article I, § 10, cl. 3, of the Constitution provides:
+
+"No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay."
+
+4Link to the location of the note in the document
+See Tahoe Regional Planning Compact, 83 Stat. 360, Cal. Gov't Code Ann. §§ 66800-66801 (West Supp. 1977), Nev. Rev. Stat. §§ 277.190-277.230 (1973) (hereinafter cited as Compact).
+
+5Link to the location of the note in the document
+Compact, Arts. V and VI.
+
+6Link to the location of the note in the document
+The States of California and Nevada and the county of El Dorado were originally named as defendants but either were not properly served or have been dismissed as parties.
+
+7Link to the location of the note in the document
+The amount in controversy exceeds $ 10,000. Title 28 U. S. C. § 1331, the general federal-question jurisdiction statute, provides in part:
+
+"The district courts shall have original jurisdiction of all civil actions wherein the matter in controversy exceeds the sum or value of $ 10,000, exclusive of interest and costs, and arises under the Constitution, laws, or treaties of the United States except that no such sum or value shall be required in any such action brought against the United States, any agency, thereof, or any officer or employee thereof in his official capacity."
+
+8Link to the location of the note in the document
+Title 42 U. S. C. § 1983 provides:
+
+"Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress."
+
+9Link to the location of the note in the document
+Title 28 U. S. C. § 1343 provides in part:
+
+"The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person:
+
+. . . .
+
+"(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage of any right, privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States."
+
+10Link to the location of the note in the document
+See 2 P. Nichols, Eminent Domain § 6.21 (rev. 3d ed. 1976).
+
+11Link to the location of the note in the document
+The issue we do not address is clearly stated in the following footnote to the Court of Appeals opinion:
+
+"Under the strict standard of pleading called for by Pacific States Box & Basket Co. v. White, 296 U.S. 176 . . . (1935), none of the complaints in any of the cases on appeal would withstand a motion to dismiss. They lack specific factual allegations which, if proved, would rebut the presumption of constitutionality that the Pacific States Court accorded acts of administrative and legislative bodies.
+
+"Although Pacific States has never been explicitly overruled, we do not believe that it represents the present state of the law because it was decided two years before the promulgation of the Federal Rules of Civil Procedure. We find no precedent in the Ninth Circuit applying Pacific States to an analogous case since the Rules took effect.
+
+"In Conley v. Gibson, 355 U.S. 41 . . . (1957), the Supreme Court explained the modern philosophy of pleading:
+
+"'[All] the Rules require is "a short and plain statement of the claim" that will give the defendant fair notice of what the plaintiff's claim is and the grounds upon which it rests. . . . The Federal Rules reject the approach that pleading is a game of skill in which one misstep by counsel may be decisive to the outcome and accept the principle that the purpose of pleading is to facilitate a proper decision on the merits.'
+
+" Id., at 47-48, . . . (citations omitted).
+
+"Thus a complaint should not be dismissed for insufficiency unless it appears to a certainty that plaintiff is entitled to no relief under any state of facts which could be proved in support of the claim. 2A J. Moore, Federal Practice para. 12.08 (1975).
+
+"The allegations of 'taking,' even though phrased in terms of inverse condemnation, are sufficient to show that appellants complained that the TRPA exercised its police powers improperly, and that they relied on the due process clauses of the Fifth and Fourteenth Amendments." 566 F.2d, at 1359 n. 9.
+
+12Link to the location of the note in the document
+See University of California Regents v. Bakke, 438 U.S. 265, 380 (WHITE, J.); United States v. Griffin, 303 U.S. 226, 229.
+
+13Link to the location of the note in the document
+LEdHN   HN4 The fact that the Compact at issue here required congressional consent to be effective clearly does not itself mean that action taken pursuant to it does not qualify as being "under color of state law." This Court has, in the past, accepted that state regulations are properly considered "state law" even though they required federal approval prior to their implementation. See Rosado v. Wyman, 397 U.S. 397; King v. Smith, 392 U.S. 309.
+
+14Link to the location of the note in the document
+See n. 4, supra.
+
+15Link to the location of the note in the document
+Compact, Arts. III (a), VII (a).
+
+16Link to the location of the note in the document
+§ 3, 83 Stat. 369. Section 6, 83 Stat. 369, also reserves to Congress the right to require TRPA to furnish information and data that it considers appropriate.
+
+17Link to the location of the note in the document
+Section 1983 originated as § 1 of the Civil Rights Act of 1871. In introducing that Act in Congress, Representative Shellabarger pointed out:
+
+"This act is remedial and in aid of the preservation of human liberty and human rights. All statutes and constitutional provisions authorizing such statutes are liberally and beneficently construed . . . the largest latitude consistent with the words employed is uniformly given in construing such statutes." Cong. Globe, 42d Cong., 1st Sess., App. 68 (1871).
+
+18Link to the location of the note in the document
+See Edelman v. Jordan, 415 U.S. 651; Ford Motor Co. v. Department of Treasury of Indiana, 323 U.S. 459.
+
+19Link to the location of the note in the document
+See Mt. Healthy Board of Ed. v. Doyle, 429 U.S. 274; Moor v. County of Alameda, 411 U.S. 693, 717-721; Lincoln County v. Luning, 133 U.S. 529, 530; Compact, Art. VIII (b).
+
+20Link to the location of the note in the document
+Compact, Art. III (a). In addition, 10 of the 17 members of the Advisory Planning Commission established by the Compact are to be associated with local agencies, 4 others are to be residents of the region, and only 1 is from state government. Compact, Art. III (h).
+
+21Link to the location of the note in the document
+Compact, Art. VII (a).
+
+22Link to the location of the note in the document
+See California v. TRPA, 516 F.2d 215 (CA9 1975).
+
+23Link to the location of the note in the document
+Because of our disposition of this question, we need not address petitioners' argument that, even assuming that TRPA might be entitled to Eleventh Amendment immunity, such protection was affirmatively waived by the compacting States. See Petty v. Tennessee-Missouri Bridge Comm'n, 359 U.S. 275.
+
+24Link to the location of the note in the document
+See Tenney v. Brandhove, 341 U.S. 367, 372-375; Scheuer v. Rhodes, 416 U.S. 232, 239 n. 4; Developments in the Law -- Section 1983 and Federalism, 90 Harv. L. Rev. 1133, 1200 (1977) (legislative immunity "enjoys a unique historical position").
+
+25Link to the location of the note in the document
+See Doe v. McMillan, 412 U.S. 306; Kilbourn v. Thompson, 103 U.S. 168.
+
+26Link to the location of the note in the document
+In support of these arguments, petitioners invoke decisions of the Courts of Appeals denying absolute immunity to subordinate officials such as county supervisors and members of a park district board. Williams v. Anderson, 562 F.2d 1081, 1101 (CA8 1977) (school board members); Jones v. Diamond, 519 F.2d 1090, 1101 (CA5 1975) (county supervisors); Curry v. Gillette, 461 F.2d 1003, 1005 (CA6 1972), cert. denied sub nom. Marsh v. Curry, 409 U.S. 1042 (alderman); Progress Development Corp. v. Mitchell, 286 F.2d 222, 231 (CA7 1961) (members of park district board and village board of trustees); Nelson v. Knox, 256 F.2d 312, 314-315 (CA6 1958) (city commissioners); Cobb v. Malden, 202 F.2d 701, 706-707 (CA1 1953) (McGruder, C. J., concurring) (city councilmen). Respondents, on the other hand, contend that in most, if not all, of the cases in which absolute immunity has been denied, the individuals were not in fact acting in a legislative capacity. We need not resolve this dispute. Whether individuals performing legislative functions at the purely local level, as opposed to the regional level, should be afforded absolute immunity from federal damages claims is a question not presented in this case.
+
+27Link to the location of the note in the document
+Article I, § 6, of the United States Constitution provides in part that "for any Speech or Debate in either House, [the Senators and Representatives] shall not be questioned in any other Place."
+
+28Link to the location of the note in the document
+See Tenney v. Brandhove, supra, at 375.
+
+29Link to the location of the note in the document
+There is no allegation in this complaint that any members of TRPA's governing board profited personally from the performance of any legislative act. App. 8-12. If the respondents have enacted unconstitutional legislation, there is no reason why relief against TRPA itself should not adequately vindicate petitioners' interests. See Monell v. New York City Dept. of Social Services, 436 U.S. 658.
+
+30Link to the location of the note in the document
+This holding is supported by the analysis in Butz v. Economou, 438 U.S. 478, which recognized absolute immunity for individuals performing judicial and prosecutorial functions within the Department of Agriculture. In that case, we rejected the argument that absolute immunity should be denied because the individuals were employed in the Executive Branch, reasoning that "[judges] have absolute immunity not because of their particular location within the Government but because of the special nature of their responsibilities." Id., at 511. This reasoning also applies to legislators.
+
+

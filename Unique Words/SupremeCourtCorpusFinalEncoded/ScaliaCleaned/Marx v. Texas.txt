@@ -1,0 +1,74 @@
+﻿
+ The Court today forgoes the opportunity to prevent an expansion of the exception it recently created to the Sixth Amendment right of the defendant "in all criminal prosecutions . . . to be confronted with the     witnesses against him." In Maryland v. Craig, 497 U.S. 836, 111 L. Ed. 2d 666, 110 S. Ct. 3157 (1990), the Court held for the first time that the right "to be confronted" with a trial witness does not necessarily require that the witness testify in the defendant's presence.     It said    that (a) as to the category of witnesses involved in that case, and (b) after the preliminary trial-court finding that the statute in that case required, the State could restrict the defendant to viewing the trial testimony over closed-circuit television. The witnesses at issue were the alleged child victim in a sexual abuse case, and other child victims testifying concerning their own abuse. The preliminary finding required was that testifying in the defendant's presence would cause the child serious emotional trauma. 497 U.S. at 840-841.
+
+I dissented in Craig, because I thought it subordinated the plain language of the Bill of Rights to the "tide of prevailing current opinion." 497 U.S. at 860. See also Danner v. Kentucky, 525 U.S. 1010 (1998) (SCALIA, J., dissenting from denial of certiorari). I do not think the Court should ever depart from the plain meaning of the Bill of Rights. But when it does take such a step into the dark it has an obligation, it seems to me, to clarify as soon as possible the extent of its permitted departure. The present case represents an expansion of Craig both as to the category of witness covered    and as to the finding required. First, it extends the holding of that case to a child witness whose abuse is neither the subject of the prosecution nor will be the subject of her testimony. The only basis for excusing her from real confrontation with the defendant is that, according to the prosecution, she also was the subject of sexual abuse, on another occasion, by the same defendant. The State's extension of our novel confrontation-via-TV jurisprudence to this situation should alone warrant our accepting this case for review.
+
+But the case expands Craig even further with regard to the preliminary finding. The state statute at issue in Craig permitted confrontation-via-TV only when the trial court found that real confrontation would produce "'serious emotional distress such that the child cannot reasonably communicate,'" 497 U.S. at 856 (quoting Md. Cts. & Jud. Proc. Code Ann. § 9-102(a)(1)(ii) (1989)). Our opinion left open the question of "the minimum showing of emotional trauma" constitutionally required. 497 U.S. at 856. If the lower court's opinion in this case is in the ballpark, the "minimum showing" required is no showing at all, and in    all abused-child-witness cases this Court's exception has swallowed the constitutional rule.
+
+The facts are as follows: Jeffrey Steven Marx was charged in separate indictments with sexually abusing B. J., a 13-year-old     girl, and J. M., a 6-year-old girl. Before the trial concerning Marx's abuse of B. J., the court held a hearing to determine whether to permit J. M. -- who had witnessed the abuse -- to testify via closed-circuit television as to what she had seen. At the hearing, the prosecutor asked J. M.'s mother whether J. M. would suffer additional "emotional . . . and psychological trauma," Tr. 68 (Apr. 17, 1995), were she to testify in Marx's presence. J. M.'s mother initially answered in the affirmative. After defense counsel clarified for J. M.'s mother that her daughter's testimony would deal only with the incidents between Marx and B. J., however, J. M.'s mother indicated that her daughter would be "ready for that":
+
+"Q. Do you understand we're talking about testifying just in the case that she's a witness in, not in the case in which she was allegedly abused in? Do you understand that?
+
+"A. Yes.
+
+"Q. Okay. And you understand all she's going to be asked to testify    to in this proceeding is what she allegedly saw through some window?   
+
+"A. Okay.
+
+"Q. Okay. You understand the difference now?
+
+"A. Okay. Well, that does make a difference.
+
+"Q. Well, sure. All she's going to be asked to testify to is what she --
+
+"A. Okay. So this isn't her case?
+
+"Q. No.
+
+. . . . .
+
+"A. Okay. Well, that she's okay with. I mean, she's ready for that.
+
+"Q. I mean, what she saw hasn't caused her any kind of emotional distress or problems, what she allegedly saw through a window?
+
+"A. No. She just -- I mean, she could probably do it." Id., at 69.
+
+In addition, Dr. Anita June Calvert, who had examined J. M., engaged in the following colloquy with the prosecutor:
+
+"Q. Okay. Doctor, do you feel like if she testifies in open court in the presence of Jeffrey Steven Marx, that she will --     the result would cause further serious emotional and physical distress than what she has now?
+
+"A. If no one was ugly to her, you know, made her feel really badly about it -- I think [she] is more of a talker than most. She will probably come on and do it.
+
+"Q. Of course, we can make her do that as you well know, but my concern    is what would be the emotional and physical distress that would cause -- that would be resulting from her testifying in open court in the presence of another.
+
+"A. In the presence of Jeffrey?
+
+"Q. Yes, ma'am.
+
+"A. She tells me she wants to. So unless she gets more frightened than I expect, that little girl would probably testify okay." Id., at 76.
+
+In response to questions from the judge, Dr. Calvert reiterated her belief that J. M. would suffer no additional trauma as a result of testifying.
+"Q. Do you feel like there would be any emotional or physical trauma if she were to be in confrontation with the defendant in the ordinary involvement in the courtroom trial?
+
+"A. You mean if she had to go and interact with him or if she just --
+
+"Q. If she had to sit there and testify from the witness stand.
+
+"A. I can't say for sure, but she says she wants to tell what happened, and she's a very strong little girl, strong-willed child like that.
+
+"Q. Do you think she would suffer any emotional or physical problems as a result of that confrontation?
+
+"A. I couldn't guarantee it, but I think -- occasionally there's a child who wants to tell their    story.
+
+"Q. Listen to my question.
+
+"A. Okay.
+
+"Q. Do you think that there would be any emotional or physical problems with her confronting -- testifying from that witness stand and having to confront her uncle?
+
+"A. Your Honor, I couldn't say for sure that there would not be. I wouldn't expect it." Id., at 77-78.
+
+Dr. Calvert subsequently testified that "if there was going to be any trauma to [J. M.]" from testifying in the presence of Marx, the risk of such trauma would of course be lessened if she were permitted to testify via closed-circuit television. Id., at 79 (emphasis added). The trial court, without any elaboration, granted the prosecution's motion to allow J. M. to testify outside of Marx's presence. A divided Court of Criminal Appeals of Texas affirmed. 987 S.W.2d 577 (1999) (en banc).
+Quite unlike the child witnesses in Craig, who "'wouldn't be able to communicate effectively,'" or who "'would     probably stop talking and . . . would withdraw and curl up,'" 497 U.S. at 842 (quoting Craig v. State, 316 Md. 551, 568-569, 560 A.2d 1120, 1128-1129 (1989)), the     witness exempted by the    court below affirmatively "wanted to" testify, and by all accounts was "ready for that." If the decision here is correct, the right to confrontation of allegedly abused child witnesses has not simply been, as I suggested in Danner, "watered down," 525 U.S. at 1012; it has been washed away.
+
+I respectfully dissent.

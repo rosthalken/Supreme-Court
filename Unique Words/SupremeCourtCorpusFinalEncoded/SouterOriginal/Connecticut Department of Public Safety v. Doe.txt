@@ -1,0 +1,20 @@
+﻿CONNECTICUT DEPARTMENT OF PUBLIC SAFETY, ET AL., PETITIONERS v. JOHN DOE, INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED
+
+No. 01-1231
+
+SUPREME COURT OF THE UNITED STATES
+
+123 S. Ct. 1160
+
+November 13, 2002, Argued 
+March 5, 2003, Decided
+
+JUSTICE SOUTER, with whom JUSTICE GINSBURG joins, concurring.
+I join the Court's opinion and agree with the observation that today's holding does not foreclose a claim that Connecticut's dissemination of registry information is actionable on a substantive due process principle. To the extent that libel might be at least a component of such a claim, our reference to Connecticut's disclaimer, ante, at 3, would not stand in the way of a substantive due process plaintiff. I write separately only to note that a substantive due process claim may not be the only one still open to a test by those in the respondents' situation.
+Connecticut allows certain sex offenders the possibility of avoiding the registration and reporting obligations of the statute. A court may exempt a convict from registration altogether if his offense was unconsented sexual contact, Conn. Gen. Stat. § 54-251(c) (2001), or sexual intercourse with a minor aged between 13 and 16 while the offender was more than two years older than the minor, provided the offender was under age 19 at the time of the offense, § 54-251(b). A court also has discretion to limit dissemination of an offender's registration information to law enforcement purposes if necessary to protect the identity of a victim who is related to the offender or, in the case of a sexual assault, who is the offender's spouse or cohabitor. §§ 54-255(a), (b). *  [*10]  Whether  [**1166]  the decision is to exempt an offender from registration or to restrict publication of registry information, it must rest on a finding that registration or public dissemination is not required for public safety. §§ 54-251(b), 54-255(a), (b). The State thus recognizes that some offenders within the sweep of the publication requirement are not dangerous to others in any way justifying special publicity on the Internet, and the legislative decision to make courts responsible for granting exemptions belies the State's argument that courts are unequipped to separate offenders who warrant special publication from those who do not.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+* To mitigate the retroactive effects of the statute, offenders in these categories who were convicted between October 1, 1988, and June 30, 1999, were allowed to petition a court for restricted dissemination of registry information. §§ 54-255(c)(1)-(4). A similar petition was also available to any offender who became subject to registration by virtue of a conviction prior to October 1, 1998, if he was not incarcerated for the offense, had not been subsequently convicted of a registrable offense, and had properly registered under the law. § 54-255(c)(5).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+The line drawn by the legislature between offenders who are sensibly considered eligible to seek discretionary relief from the courts and those  [***107]  who are not is, like all legislative choices affecting individual rights, open to challenge under the Equal Protection Clause. See, e. g., 3 R. Rotunda & J. Nowak, Treatise on Constitutional Law § 17.6 (3d ed. 1999); L. Tribe, American Constitutional Law § 16-34 (2d ed. 1988). The refusal to allow even the possibility of relief to, say, a 19-year-old who has consensual intercourse with a minor aged 16 is therefore a reviewable legislative determination. Today's case is no occasion to speak either to the possible merits of such a challenge or the standard of scrutiny that might be in order when considering it. I merely note that the Court's rejection of respondents' procedural due process claim does not immunize publication schemes like Connecticut's from an equal protection challenge.

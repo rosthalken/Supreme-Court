@@ -1,0 +1,14 @@
+﻿
+I join the judgment of the Court and its opinion except that portion, ante, at 1234–1235, asserting that the views of the Equal Employment Opportunity Commission—not only with respect to the particular point at issue here but apparently as a general matter—are not entitled to the deference normally accorded administrative agencies under Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). The case relied upon for the proposition that the EEOC’s interpretations have only the force derived from their “power to persuade” was decided in an era when we were disposed to give deference (as opposed to “persuasive force”) only to so-called “legislative regulations.” The reasoning of General Electric Co. v. Gilbert, 429 U.S. 125, 97 S.Ct. 401, 50 L.Ed.2d 343 (1976) was not that the EEOC (singled out from other agencies) was not entitled to deference, but that the EEOC’s guidelines, like the guidelines of all agencies without explicit rulemaking *260 power, could not be considered legislative rules and therefore could not be accorded deference. See id., at 141, 97 S.Ct., at 410.
+ 
+In an era when our treatment of agency positions is governed by Chevron, the “legislative rules vs. other action” dichotomy of Gilbert is an anachronism; and it is not even a correct description of that anachronism to say that Gilbert held that the EEOC (as opposed to all agency action other than legislative rules) is not entitled to deference. We recognized that only three years ago in EEOC v. Commercial Office Products Co., 486 U.S. 107, 108 S.Ct. 1666, 100 L.Ed.2d 96 (1988)—which case, rather than Gilbert, was our last word on deference to the EEOC. We said, in language quite familiar from our cases following Chevron, that “the EEOC’s interpretation of ambiguous language need only be reasonable to be entitled to deference.” Id., 486 U.S., at 115, 108 S.Ct., at 1671. Commercial Office Products has not been overruled (or even mentioned) in today’s opinion, so that the state of the law regarding deference to the EEOC is left unsettled.
+ 
+**1237 I would resolve these cases by assuming, without deciding, that the EEOC was entitled to deference on the particular point in question. But deference is not abdication, and it requires us to accept only those agency interpretations that are reasonable in light of the principles of construction courts normally employ. Given the presumption against extraterritoriality that the Court accurately describes, and the requirement that the intent to overcome it be “clearly expressed,” it is in my view not reasonable to give effect to mere implications from the statutory language as the EEOC has done. Cf. Sunstein, Law and Administration after Chevron, 90 Colum.L.Rev. 2071, 2114 (1990).
+ 
+On all other points, I join the opinion of the Court.
+ 
+
+
+
+
+

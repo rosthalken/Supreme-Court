@@ -1,0 +1,37 @@
+﻿525 U.S. 1010
+JAMES ARTHUR DANNER v. KENTUCKY
+Supreme Court of the United States
+November 16, 1998, Decided
+97-2057
+
+Justice Scalia, with whom JUSTICE THOMAS joins, dissenting.
+
+The Sixth Amendment guarantees a criminal defendant "the right . . . to be confronted with the witnesses against him." In this case, the Kentucky Supreme Court deprived James Danner of that right in defending against a prosecution for raping and sodomizing his daughter, because the victim of the asserted crime, now 15 years of age, vaguely protested that she could not be near him. The trial court conducted the following inquiry:
+
+"Q. Why is it that him being there in the room would make you unable to tell your side?
+
+"A: I don't know. I just can't. I just can't be near him.
+
+"Q. We've already talked about that you're not afraid of him, are you?
+
+"A. No.
+
+"Q. I know it's difficult to exactly put a finger on what it is about; but why do you think that you could tell when he's not in the room but you couldn't tell it with him in the room?
+
+"A.  [***2]  I don't know. I just can't be near him. I don't know why. I just can't.
+
+"Q. Do you think that if you were to try and you know if we had to take breaks or something, you would be able to do it?
+
+"A. I don't know." Pet. for Cert. 7.
+
+Even though the witness had expressly disclaimed fear of the defendant, the trial court concluded:
+
+"'The Court finds that due to factors which I cannot define but yet go much further than anxiety or nervousness, as referred [*1011]  to the various cases that have been cited, that compelling need exists for the use of the electronic equipment. And although I am not making this decision simply for the witnesses [sic] convenience, or to prevent her from being nervous or anxious, as  [**440]  that no doubt happens to all witnesses, the Court is convinced that due to the nature of [the] testimony and the age of the witness that face-to-face arrangement would inhibit the witness to a degree that the jury's search for the truth would be clouded.'" Id., at 7-8.
+
+The Kentucky Supreme Court affirmed Danner's conviction. 963 S.W.2d 632 (1998). Although petitioner objected that this procedure violated his constitutional right to confront his accuser, neither the trial court [***3]  nor the Supreme Court so much as mentioned the Sixth Amendment.
+
+Maryland v. Craig, 497 U.S. 836, 857, 111 L. Ed. 2d 666, 110 S. Ct. 3157 (1990), holds that a State may allow child witnesses in abuse cases to testify outside the presence of the defendant if "necessary to protect a child witness from trauma that would be caused by testifying in the physical presence of the defendant, at least where such trauma would impair the child's ability to communicate . . ." Id., at 7-8. The child witnesses in Craig were presumably all around the age of the principal child witness, who was seven. See Craig v. State, 316 Md. 551, 555-556, 560 A.2d 1120, 1122 (1989). Experts testified at trial that one child "wouldn't be able to communicate effectively," another "would probably stop talking and . . . withdraw and curl up," another would "become highly agitated, that he may refuse to talk or if he did talk, that he would choose his subject regardless of the questions," and another would "become extremely timid and unwilling to talk." Craig, 497 U.S. at 842 (internal quotation marks omitted.
+
+I believe Craig was wrongly decided, since the confrontation guaranteed by the Sixth Amendment covers all witnesses [***4]  in (as the text says) "all criminal prosecutions." (Emphasis added.) See 497 U.S. at 860 (Scalia, J., dissenting). This case, however, comes nowhere close to fitting within Craig's limited exception. Far from being rendered mute with fear at the prospect of facing her father, Danner's daughter did not even rule out the possibility of testifying if she could take breaks from the witness stand. Moreover, Craig hardly contemplates that the child-witness exception is available to 15-year-olds.
+
+ [*1012]  But for the precedent of Craig, the present case would be such an obvious and blatant violation of the Sixth Amendment that it would warrant summary reversal. Given Craig, however, it should be reviewed on certiorari and reversed to make clear that the exception we have created to the text of the Sixth Amendment is a narrow one. It is a dangerous business to water down the confrontation right so dramatically merely because society finds the charged crime particularly reprehensible. Indeed, the more reprehensible the charge, the more the defendant is in need of all constitutionally guaranteed protection for his defense.

@@ -1,0 +1,32 @@
+﻿
+
+
+107 S.Ct. 1637
+Supreme Court of the United States
+CTS CORPORATION, Appellant
+v.
+DYNAMICS CORPORATION OF AMERICA.
+INDIANA, Appellant
+v.
+DYNAMICS CORPORATION OF AMERICA.
+No. 86–71, 86–97.
+|
+Argued March 2, 1987.
+|
+Decided April 21, 1987.
+
+Justice SCALIA, concurring in part and concurring in the judgment.
+
+I join Parts I, III–A, and III–B of the Court’s opinion. However, having found, as those Parts do, that the Indiana *95 Control Share Acquisitions Chapter neither “discriminates against interstate commerce,” ante, at 1649, nor “create[s] an impermissible risk of inconsistent regulation by different States,” ante, at 1649, I would conclude without further analysis that it is not invalid under the dormant Commerce Clause. While it has become standard practice at least since Pike v. Bruce Church, Inc., 397 U.S. 137, 90 S.Ct. 844, 25 L.Ed.2d 174 (1970), to consider, in addition to these factors, whether the burden on commerce imposed by a state statute “is clearly excessive in relation to the putative local benefits,” id., at 142, 90 S.Ct., at 847, such an inquiry is ill suited to the judicial function and should be undertaken rarely if at all. This case is a good illustration of the point. Whether the control shares statute “protects shareholders **1653 of Indiana corporations,” Brief for Appellant in No. 86–97, p. 88, or protects incumbent management seems to me a highly debatable question, but it is extraordinary to think that the constitutionality of the Act should depend on the answer. Nothing in the Constitution says that the protection of entrenched management is any less important a “putative local benefit” than the protection of entrenched shareholders, and I do not know what qualifies us to make that judgment—or the related judgment as to how effective the present statute is in achieving one or the other objective—or the ultimate (and most ineffable) judgment as to whether, given importance-level x, and effectiveness-level y, the worth of the statute is “outweighed” by impact-on-commerce z.
+ 
+One commentator has suggested that, at least much of the time, we do not in fact mean what we say when we declare that statutes which neither discriminate against commerce nor present a threat of multiple and inconsistent burdens might nonetheless be unconstitutional under a “balancing” test. See Regan, The Supreme Court and State Protectionism: Making Sense of the Dormant Commerce Clause, 84 Mich.L.Rev. 1091 (1986). If he is not correct, he ought to be. As long as a State’s corporation law governs only its own corporations and does not discriminate against out-of-state interests, it should survive this Court’s scrutiny under *96 the Commerce Clause, whether it promotes shareholder welfare or industrial stagnation. Beyond that, it is for Congress to prescribe its invalidity.
+ 
+I also agree with the Court that the Indiana Control Share Acquisitions Chapter is not pre-empted by the Williams Act, but I reach that conclusion without entering into the debate over the purposes of the two statutes. The Williams Act is governed by the antipre-emption provision of the Securities Exchange Act of 1934, 15 U.S.C. § 78bb(a), which provides that nothing it contains “shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations thereunder.” Unless it serves no function, that language forecloses pre-emption on the basis of conflicting “purpose” as opposed to conflicting “provision.” Even if it does not have literal application to the present case (because, perhaps, the Indiana agency responsible for securities matters has no enforcement responsibility with regard to this legislation), it nonetheless refutes the proposition that Congress meant the Williams Act to displace all state laws with conflicting purpose. And if any are to survive, surely the States’ corporation codes are among them. It would be peculiar to hold that Indiana could have pursued the purpose at issue here through its blue-sky laws, but cannot pursue it through the State’s even more sacrosanct authority over the structure of domestic corporations. Prescribing voting rights for the governance of state-chartered companies is a traditional state function with which the Federal Congress has never, to my knowledge, intentionally interfered. I would require far more evidence than is available here to find implicit pre-emption of that function by a federal statute whose provisions concededly do not conflict with the state law.
+ 
+I do not share the Court’s apparent high estimation of the beneficence of the state statute at issue here. But a law can *97 be both economic folly and constitutional. The Indiana Control Share Acquisitions Chapter is at least the latter. I therefore concur in the judgment of the Court.
+ 
+
+
+
+
+

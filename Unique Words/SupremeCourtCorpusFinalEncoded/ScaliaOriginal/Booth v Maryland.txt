@@ -1,0 +1,33 @@
+﻿
+
+
+107 S.Ct. 2529
+Supreme Court of the United States
+John BOOTH, Petitioner
+v.
+MARYLAND.
+No. 86–5020.
+|
+Argued March 24, 1987.
+|
+Decided June 15, 1987.
+|
+Rehearing Denied Sept. 21, 1987.
+|
+See 483 U.S. 1056, 108 S.Ct. 31.
+ 
+ 
+ 
+Justice SCALIA, with whom THE CHIEF JUSTICE, Justice WHITE, and Justice O’CONNOR join, dissenting.
+The Court holds that because death is a “ ‘punishment different from all other sanctions,’ ” ante, at 2536, n. 12 (quoting Woodson v. North Carolina, 428 U.S. 280, 303–304, 96 S.Ct. 2978, 2990–2991, 49 L.Ed.2d 944 (1976) (plurality opinion of Stewart, POWELL, and STEVENS, JJ.)), considerations not relevant to “the defendant’s ‘personal responsibility and moral guilt’ ” cannot be taken into account in deciding whether a defendant who is eligible for the death penalty should receive it, ante, at 2533 (quoting Enmund v. Florida, 458 U.S. 782, 801, 102 S.Ct. 3368, 3378, 73 L.Ed.2d 1140 (1982)). It seems to me, however—and, I think, to most of mankind—that the amount of harm one causes does bear upon the extent of his “personal responsibility.” We may take away the license of a driver who goes 60 miles an hour on a residential street; but we will put him in jail for manslaughter if, though his moral guilt is no greater, he is unlucky enough to kill someone during the escapade.
+ 
+Nor, despite what the Court says today, do we depart from this principle where capital punishment is concerned. The Court’s opinion does not explain why a defendant’s eligibility for the death sentence can (and always does ) turn upon considerations not relevant to his moral guilt. If a bank robber aims his gun at a guard, pulls the trigger, and kills his target, he may be put to death. If the gun unexpectedly misfires, he may not. His moral guilt in both cases is identical, but his responsibility in the former is greater. Less than two months ago, we held that two brothers who planned and assisted in their father’s escape from prison could be sentenced to death because in the course of the escape their father and an accomplice murdered a married couple and two children. Tison v. Arizona, 481 U.S. 137, 107 S.Ct. 1676, 95 L.Ed.2d 127 (1987). Had their father allowed the victims to live, the brothers could not be put to death; but **2542 because he decided to kill, the brothers may. *520 The difference between life and death for these two defendants was thus a matter “wholly unrelated to the[ir] blameworthiness.” Ante, at 2534. But it was related to their personal responsibility, i.e., to the degree of harm that they had caused. In sum, the principle upon which the Court’s opinion rests—that the imposition of capital punishment is to be determined solely on the basis of moral guilt—does not exist, neither in the text of the Constitution, nor in the historic practices of our society, nor even in the opinions of this Court.
+ 
+Recent years have seen an outpouring of popular concern for what has come to be known as “victims’ rights”—a phrase that describes what its proponents feel is the failure of courts of justice to take into account in their sentencing decisions not only the factors mitigating the defendant’s moral guilt, but also the amount of harm he has caused to innocent members of society. Many citizens have found one-sided and hence unjust the criminal trial in which a parade of witnesses comes forth to testify to the pressures beyond normal human experience that drove the defendant to commit his crime, with no one to lay before the sentencing authority the full reality of human suffering the defendant has produced—which (and not moral guilt alone) is one of the reasons society deems his act worthy of the prescribed penalty. Perhaps these sentiments do not sufficiently temper justice with mercy, but that is a question to be decided through the democratic processes of a free people, and not by the decrees of this Court. There is nothing in the Constitution that dictates the answer, no more in the field of capital punishment than elsewhere.
+ 
+To require, as we have, that all mitigating factors which render capital punishment a harsh penalty in the particular case be placed before the sentencing authority, while simultaneously requiring, as we do today, that evidence of much of the human suffering the defendant has inflicted be suppressed, is in effect to prescribe a debate on the appropriateness of the capital penalty with one side muted. If that penalty *521 is constitutional, as we have repeatedly said it is, it seems to me not remotely unconstitutional to permit both the pros and the cons in the particular case to be heard.
+ 
+
+
+
+

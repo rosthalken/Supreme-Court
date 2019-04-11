@@ -1,0 +1,28 @@
+﻿
+
+
+120 S.Ct. 684
+Supreme Court of the United States
+Salvador MARTINEZ, Petitioner,
+v.
+COURT OF APPEAL OF CALIFORNIA, FOURTH APPELLATE DISTRICT.
+No. 98-7809.
+|
+Argued Nov. 9, 1999.
+|
+Decided Jan. 12, 2000.
+ 
+Justice SCALIA, concurring in the judgment.
+
+I do not share the apparent skepticism of today’s opinion concerning the judgment of the Court (often curiously described as merely the judgment of “the majority”) in Faretta v. California, 422 U.S. 806, 95 S.Ct. 2525, 45 L.Ed.2d 562 (1975). I have no doubt that the Framers of our Constitution, who were suspicious enough of governmental power-including judicial power-that they insisted upon a citizen’s right to be judged by an independent jury of private citizens, would not have found acceptable the compulsory assignment of counsel by the government to plead a criminal defendant’s case. While I might have rested the decision upon the Due Process Clause rather than the Sixth Amendment, I believe it was correct.
+ 
+That asserting the right of self-representation may often, or even usually, work to the defendant’s disadvantage is no more remarkable-and no more a basis for withdrawing the right-than is the fact that proceeding without counsel in custodial interrogation, or confessing to the crime, usually works to the defendant’s disadvantage. Our system of laws generally presumes that the criminal defendant, after being fully informed, knows his own best interests and does not need them dictated by the State. Any other approach is unworthy of a free people. As Justice Frankfurter eloquently put it for the Court in Adams v. United States ex rel. McCann, 317 U.S. 269, 63 S.Ct. 236, 87 L.Ed. 268 (1942), to require the acceptance of counsel “is to imprison a man in his privileges and call it the Constitution.” Id., at 280, 63 S.Ct. 236.
+ 
+In any event, Faretta is relevant to the question before us only to the limited extent that we must decide whether its holding applies to self-representation on appeal. It seems to me that question is readily answered by the fact that there is no constitutional right to appeal. See McKane v. Durston, 153 U.S. 684, 687-688, 14 S.Ct. 913, 38 L.Ed. 867 (1894). Since a State could, as 166 *166 far as the Federal Constitution is concerned, subject its trial-court determinations to no review whatever, it could a fortiori subject them to review which consists of a nonadversarial reexamination of convictions by a panel of government experts. Adversarial review with counsel appointed by the State is even less questionable than that.
+ 
+For these reasons, I concur in the judgment of the Court.
+ 
+
+
+
+

@@ -1,0 +1,165 @@
+﻿
+LEdHN   The question we granted certiorari to decide is whether evidence obtained in violation of Internal Revenue Service (IRS) regulations may be admitted at the criminal trial of a taxpayer accused of bribing an IRS agent. 436 U.S. 943 (1978).
+
+Unbeknown to respondent, three of his face-to-face conversations with    IRS Agent Yee were monitored by means of a radio transmitter concealed on Yee's person. Respondent moved to suppress tape recordings of the three conversations on the ground that the authorizations required by IRS regulations had not been secured. The District Court granted the motion. The Court of Appeals for the Ninth Circuit reversed as to the third tape; it concluded that adequate authorization had been obtained. 1Link to the text of the note As to the first two tapes, however, the Court of Appeals agreed with the District Court both that the IRS regulations had not been followed and that exclusion of the recordings was therefore required. It is the latter conclusion that is at issue here.
+
+    The Government argues that exclusion of probative evidence in a criminal trial is an inappropriate sanction for violation of an executive department's regulations. In this case, moreover, it argues that suppression is especially inappropriate because the violation of the regulation was neither deliberate nor prejudicial, and did not affect any constitutional     or statutory rights. We agree that suppression should not have been ordered in this case, and therefore reverse the judgment of the Court of Appeals.
+
+I
+
+LEdHN[2] [2]HN1 Neither the Constitution nor any Act of Congress requires that official approval be secured before conversations are overheard or recorded by Government agents with the consent of one of the conversants. 2Link to the text of the note    Such "consensual electronic surveillance" between taxpayers and IRS agents is, however, prohibited by IRS regulations unless appropriate prior authorization is obtained. 3Link to the text of the note
+
+The     IRS Manual sets forth in detail the procedures to be followed in obtaining such     approvals. 4Link to the text of the note For all types of requests     the regulations require an explanation of the reasons for the proposal, the type of equipment to be used, the names of the persons involved, and the duration of the proposed monitoring.
+
+    Approval by as many as three different levels of authority may be required, depending on the kind of surveillance that is contemplated and the circumstances of the request. Telephone conversations may be monitored with the approval of an Assistant Regional Inspector of the Internal Security Division. Such advance approval may be requested and given verbally, although the authorization must subsequently be     confirmed in writing. The monitoring of nontelephone conversations requires approval at the national as well as the regional level. In emergency situations, the Director, or Acting Director, Internal Security Division, or the Assistant Commissioner (Inspection) may authorize the recording. If there is at least 48 hours in which to obtain approval, a signed request must also be submitted to the Attorney General of the United States, or a designated Assistant Attorney General, by the Director     or Acting Director of the Internal Security Division.
+
+II
+
+On March 14, 1974, Agent Yee met with respondent and his wife in connection with an audit of their 1971 income tax returns. After Mrs. Caceres left the meeting, respondent offered Yee a "personal settlement"     of $ 500 in exchange for a favorable resolution of the audit. When he returned to the IRS office, Yee reported the offer to his superiors and prepared an affidavit describing it. 5Link to the text of the note
+
+The record reflects no further discussion of the offer until January 1975. It does indicate, however, that one telephone conversation between Yee and respondent, on March 21, 1974, was recorded with authorization, 6Link to the text of the note and that authority was also obtained to monitor face-to-face conversations with respondent from time to time     during the period between March and September 1974. 7Link to the text of the note    Yee continued to work on the     audit of respondent's records throughout this period, but his meetings, until January 1975, were with Mrs. Caceres and the Cacereses' accountant. 8Link to the text of the note
+
+On January 27, 1975, Yee had a meeting with respondent that was not recorded. According to Yee's affidavit, 9Link to the text of the note the meeting proceeded in two stages. First, he discussed his calculations with respondent, Mrs. Caceres, and their accountant. When respondent and his wife asked for an additional week to check their records, Yee told them it would be necessary to sign an extension because the statute of limitations would otherwise expire soon. Respondent stated that he would have to consult his attorney before signing any extension, and would call Yee with his decision later that day.
+
+Yee then left the office to return to his car. He was followed    by respondent, who revived the subject of a "personal settlement." This time, respondent indicated that he had $ 500 that he would give Yee immediately, with an additional $ 500 to be paid when the matter was finally settled. Yee refused the offer, but at respondent's insistence, eventually stated that he might consider it.
+
+In subsequent conversations initiated by Agent Yee, all of which were monitored, 10Link to the text of the note respondent indicated     that he was not prepared for another meeting with Yee. Finally, in a conversation on January 30 at 5:15 p. m., respondent agreed to a meeting the following day at 2 p. m. At 8:15 a. m. on the     31st, the Regional Inspector in San Francisco telephoned the Director of Internal Security in Washington and obtained emergency approval for the use of electronic equipment to monitor the meeting that afternoon. On the same day, a written request for authority to monitor face-to-face conversations for a period of 30 days was initiated and, in due course, forwarded to Washington for submission to the Department of Justice.
+
+    At the meeting on the 31st, respondent gave Yee $ 500 and promised to give him an additional $ 500 when he received a notice from IRS showing his deficiency at an amount upon which he and Yee had agreed. As in all his future meetings with respondent, Yee wore a concealed radio transmitter which allowed other agents to monitor and record their conversation.
+
+Yee next called respondent on February 5 and arranged a meeting for the next day to review the audit agreement. Because the Department of Justice had not yet acted on, or perhaps even received, the request for a 30-day authorization, the Regional Inspector again requested and obtained emergency approval to monitor the meeting with respondent. At the February 6 meeting, respondent renewed his promise to pay an additional $ 500 in connection with the 1971 return, and also offered Yee another $ 2,000 for help in settling his 1973 and 1974 returns.
+
+    On February 11, a Deputy Assistant Attorney General approved the request for authority to monitor Yee's conversations with respondent for 30 days. The approval was received in time to cover a meeting held that day at which Yee was paid the additional $ 500. Because the    30-day period did not commence until February 11, however, no approval from the Department of Justice was ever obtained for the earlier monitorings of January 31 and February 6.
+
+The District Court and the Court of Appeals both held that the two earlier meetings had not been monitored in accordance with IRS regulations, since Justice Department approval had     not been secured. The courts recognized that such approval is not required, by the terms of the regulations, in "emergency situations" when less than 48 hours is available to secure authorization. They recognized, too, that in each instance, less than 48 hours did exist between the time the IRS initiated its request for monitoring approval and the time of the scheduled meeting with Yee. But the courts concluded that neither meeting fell within the emergency provision of the regulations because the exigencies were the product of "government-created scheduling problems." 11Link to the text of the note
+
+    The Government does not challenge that conclusion. We are therefore presented with the question whether the tape recordings, and the testimony of the agents who monitored the January 31 and February 6 conversations, should be excluded     because of the violation of the IRS regulations.
+
+III
+
+HN2 A court's duty to enforce an agency regulation is most evident when compliance with the regulation is mandated by the Constitution or federal law. In Bridges v. Wixon, 326 U.S. 135, 152-153, for example, this Court held invalid a deportation ordered on the basis of statements which did not comply with the Immigration Service's rules requiring signatures and oaths, finding that the rules were designed "to afford [the alien] due process of law" by providing "safeguards against essentially unfair procedures." 12Link to the text of the note
+
+    LEdHN   In this case, however, unlike Bridges v. Wixon, the agency was not required by the Constitution or by statute to adopt any particular procedures or rules before engaging in consensual     monitoring and recording. HN3 While Title III of the Omnibus Crime Control and Safe Streets Act of 1968, 18 U. S. C. § 2510 et seq., regulates electronic surveillance conducted without the consent of either party to a conversation, federal statutes impose no restrictions on recording a conversation with the consent of one of the conversants.
+
+Nor does the Constitution protect the privacy of individuals in respondent's position. In Lopez v. United States, 373 U.S. 427, 439, we held that HN4 the Fourth Amendment provided no protection to an individual against the recording of his statements by the IRS agent to whom he was speaking. In doing so, we repudiated any suggestion that    the defendant had a "constitutional right to rely on possible flaws in the agent's memory, or to challenge the agent's credibility without being beset by corroborating evidence that is not susceptible of impeachment," concluding instead that "the risk that petitioner took in offering a bribe to [the IRS agent] fairly included the risk that the offer would be accurately reproduced in court, whether by faultless memory or mechanical recording." The same analysis was applied in United States v. White, 401 U.S. 745, to consensual monitoring and recording by means of a     transmitter concealed on an informant's person, even though the defendant did not know that he was speaking with a Government agent:
+
+"Concededly HN5 a police agent who conceals his police connections may write down for official use his conversations with a defendant and testify concerning them, without a warrant authorizing his encounters with the defendant and without otherwise violating the latter's Fourth Amendment rights. Hoffa v. United States, 385 U.S., at 300-303. For    constitutional purposes, no different result is required if the agent instead of immediately reporting and transcribing his conversations with defendant, either (1) simultaneously records them with electronic equipment which he is carrying on his person,     Lopez     v. United States, supra; (2) or carries radio equipment which simultaneously transmits the conversations either to recording equipment located elsewhere or to other agents monitoring the transmitting frequency. On Lee v. United States, [343 U.S. 747]. HN6 If the conduct and revelations of an agent operating without electronic equipment do not invade the defendant's constitutionally justifiable expectations of privacy, neither does a simultaneous recording of the same conversations made by the agent or by others from transmissions received from the agent to whom the defendant is talking and whose trustworthiness the defendant necessarily risks." United States v. White, supra, at 751 (opinion of WHITE, J.). 13Link to the text of the note
+
+    LEdHN   Our decisions in Lopez and White demonstrate that the IRS was not required by the Constitution to adopt these regulations. 14Link to the text of the note It is equally clear that the violations of agency regulations     disclosed by this record do not raise any constitutional questions.
+
+    LEdHN[4] [4]It is true, of course, that respondent's conversations were monitored without the approval of the Department of Justice, whereas the conversations of others in a similar position would, assuming the IRS generally follows its regulations, be recorded only with Justice Department approval. But this difference does not even arguably amount to a denial of equal protection. No claim is, or reasonably could be, made that if the IRS had more promptly addressed     this request to the Department of Justice, it would have been denied. As a result, any inconsistency of which respondent might complain is purely one of form, with no discernible effect in this case on     the action taken by the agency and its treatment of respondent.
+
+Moreover, the failure to secure Justice Department authorization, while conceded here to be a violation of the IRS regulations, was attributable to the fact that the IRS officials responsible for administration of the relevant regulations, both in San Francisco and Washington, construed the situation as an emergency within the meaning of those regulations. Their    construction of their own regulations, even if erroneous, was not obviously so. That kind of error by an executive agency in interpreting its own regulations surely does not raise any constitutional questions.
+
+LEdHN[5] [5]Nor is this a case in which the Due Process Clause is implicated because an individual has reasonably relied on agency     regulations promulgated for his guidance or benefit and has suffered substantially because of their violation by the agency. 15Link to the text of the note Respondent cannot reasonably contend that he relied on the regulation, or that its breach had any effect on his conduct. He did not know that his conversations with Yee were being recorded without proper authority. He was, of course, prejudiced in the sense that he would be better off if all monitoring had been postponed until after the Deputy Assistant Attorney General's approval was obtained on February 11, 1975, but precisely the same prejudice would have ensued if the approval had been issued more promptly. For the record makes it perfectly clear that a delay in processing the request, rather than any doubt about its propriety or sufficiency,     was the sole reason why advance authorization was not obtained before February 11.
+
+
+
+    LEdHN[6] [6]LEdHN   Finally, the Administrative Procedure Act 16Link to the text of the note provides no grounds for judicial enforcement of the regulation violated in this case. The APA authorizes judicial review and invalidation of agency action that is arbitrary, capricious, an abuse of discretion, or not in accordance with law, as well as action     taken "without observance of procedure required by law." 17Link to the text of the note    Agency violations of their own regulations, whether or not also in violation of the Constitution, may well be inconsistent with the standards of agency action which the APA directs the courts to enforce. 18Link to the text of the note       Indeed, some of our     most important decisions holding agencies bound by their regulations have been in cases originally brought under the APA. 19Link to the text of the note
+
+
+
+LEdHN   But this is not an APA case, and the remedy sought is not invalidation of the agency action. Rather, we are dealing with a criminal prosecution in which respondent seeks judicial enforcement of the agency regulations by means of the exclusionary rule. That rule has primarily rested on the judgment that the importance of deterring police conduct that may invade the constitutional rights of individuals throughout the community outweighs the importance of securing the conviction of the specific defendant on trial. 20Link to the text of the note In view of our     conclusion that none of respondent's constitutional rights has been violated here, either by the actual recording or by the agency violation of its own regulations, our precedents enforcing    the exclusionary rule to deter constitutional violations provide no support for the rule's application in this case. 21Link to the text of the note
+
+IV
+
+LEdHN[8] [8]Respondent argues that the regulations concerning electronic eavesdropping, even though not required by the Constitution or by statute, are of such importance in safeguarding the privacy of the citizenry that a rigid exclusionary rule should be applied to all evidence obtained in violation of any of their provisions. We do not doubt the importance of these rules. Nevertheless, without pausing to evaluate the Government's    challenge to our power to do so, 22Link to the text of the note we decline to adopt any rigid rule requiring federal courts to exclude any evidence obtained as a result of a violation of these rules.
+
+Regulations governing the conduct of criminal investigations are generally considered desirable, and may     well provide more valuable protection to the public at large than the deterrence flowing from the occasional exclusion of items of evidence in criminal trials. 23Link to the text of the note    Although we do not suggest that a suppression order in this case would cause the IRS to abandon or modify its electronic surveillance regulations, we cannot ignore the possibility that a rigid application of an exclusionary rule to every regulatory violation could have a serious         deterrent impact on the formulation of additional standards to govern prosecutorial and police procedures. 24Link to the text of the note Here, the Executive itself has provided for internal sanctions     in cases of knowing violations of the electronic-surveillance regulations. 25Link to the text of the note To go beyond that, and require exclusion in every case, would take away from the Executive Department the primary responsibility for fashioning the appropriate remedy for the violation of its regulations. But since the content, and indeed the existence, of the regulations would remain within the Executive's sole authority, the result might well be fewer and less protective regulations. In the long run, it is far better to have rules like those contained in the IRS Manual, and to tolerate occasional erroneous administration of the kind displayed by this record, than either to have no rules except those mandated by statute, or to have them framed in a mere precatory form.
+
+Nor can we accept respondent's further argument that even without a rigid rule of exclusion, his is a case in which evidence secured in violation of the agency regulation should be excluded on the basis of a more limited, individualized approach. Quite the contrary, this case exemplifies those situations in which evidence would not be excluded if a case-by-case approach were applied. The two conversations at    issue here were recorded with the approval of the IRS officials in San Francisco and Washington. In an emergency situation,     which the agents thought was present, this approval would have been sufficient. The agency action, while later found to be in violation of the regulations, nonetheless reflected a reasonable, good-faith attempt to comply in a situation in which no one questions that monitoring was appropriate and would have certainly received Justice Department authorization, had the request been received more promptly. In these circumstances, there is simply no reason why a court should exercise whatever discretion it may have to exclude evidence obtained in violation of the regulations.
+
+The judgment of the Court of Appeals is
+
+Reversed.
+
+545 F.2d 1182 (1976). The District Court suppressed evidence relating to the third conversation as well on the ground that the approval of a Deputy Assistant Attorney General was not sufficient to comply with the regulations. The Court of Appeals disagreed, concluding that the Attorney General's authority to approve such monitoring could be delegated not only to Assistant Attorneys General, as provided specifically in the regulation, but also to their deputies. That conclusion is not at issue here.
+
+2Link to the location of the note in the document
+See United States v. White, 401 U.S. 745, 752 (plurality opinion); Lopez v. United States, 373 U.S. 427; 18 U. S. C. § 2511 (2)(c); infra, at 749-751.
+
+3Link to the location of the note in the document
+The IRS regulations were drafted to conform to the requirements of the Attorney General's October 16, 1972, Memorandum to the Heads of Executive Departments and Agencies. The memorandum mandates Justice Department approval for all consensual monitoring of nontelephone conversations by federal departments and agencies. The only exceptions are if less than 48 hours is available to secure approval or if exigent circumstances preclude requests for advance authorization from the Justice Department; in such cases, monitoring may be instituted under the authorization of the head of the department or agency, or other officials designated by him.
+
+4Link to the location of the note in the document
+Paragraph 652.22 of the IRS Manual (in effect Sept. 1975) provides in pertinent part:
+
+"(1) The monitoring of non-telephone conversations with the consent of one party requires the advance authorization of the Attorney General or any designated Assistant Attorney General. Requests for such authority may be signed by the Director, Internal Security Division, or, in his/her absence, the Acting Director. This authority cannot be redelegated. These same officials may authorize temporary emergency monitoring when exigent circumstances preclude requesting the authorization of the Attorney General in advance. If the Director, Internal Security Division, cannot be reached, the Assistant Commissioner (Inspection) may grant emergency approval. This authority cannot be redelegated.
+
+"(2) Written approval of the Attorney General must be requested 48 hours prior to the use of mechanical, electronic or other devices to overhear, transmit or record a non-telephone private conversation with the permission of one party to the conversation. . . . Any requests being telefaxed into the National Office should be submitted four days prior to the anticipated equipment use. . . .
+
+"(3) [A request] must be signed and submitted by the Regional Inspector or Chief, Investigations Branch, to the Director, Internal Security Division. Such requests will contain [reason for such proposed use; type of equipment to be used; names of persons involved; proposed location of equipment; duration of proposed use (limited to 30 days from proposed beginning date); and manner or method of installation] . . . .
+
+. . . .
+
+"(6) When emergency situations occur, the Director or Acting Director, Internal Security Division, or the Assistant Commissioner (Inspection) will be contacted to grant emergency approval to monitor. This emergency approval authority cannot be redelegated. . . . Emergency authorization pursuant to this exception will not be given where the requesting official has in excess of 48 hours to obtain written advance approval from the Attorney General.
+
+"(7) If, at the time the emergency approval request is submitted, it is desired that approval for use of electronic equipment be given for an extended period, this should be indicated on the [appropriate form]. The Director, in addition to reporting his authorization for emergency use to the Attorney General, will also request approval for the Use of Electronic Equipment for the duration of that period specified by the requestor."
+
+5Link to the location of the note in the document
+App. 20, 23-24, 46.
+
+6Link to the location of the note in the document
+Id., at 25-27, 46.
+
+7Link to the location of the note in the document
+Requests for authorization to use electronic equipment to monitor nontelephone conversations are made on a form (No. 5177) that requires disclosure of the dates of previous authorizations. The form dated January 31, 1975, App. 63, is termed an extension, and reports prior authorizations dated March 25, April 24, May 24, June 27, July 23, and August 29, 1974. Under the regulations, a single authorization may cover a period of up to 30 days; the intervals between the dates of prior authorizations in this case are consistent with successive 30-day authorizations, although this has not been established by any evidence called to our attention.
+
+8Link to the location of the note in the document
+Yee had one follow--up conversation with respondent later in March, which was not monitored. From that point until January 1975, he had no further contact with respondent. App. to Pet. for Cert. 16a (opinion and order of the District Court); App. 21-22.
+
+9Link to the location of the note in the document
+Id., at 65-67.
+
+10Link to the location of the note in the document
+In the District Court, respondent moved to suppress evidence relating to these telephone conversations on the grounds that the monitoring had not been properly authorized. The District Court rejected that challenge, concluding that the applicable IRS regulations had been followed with respect to these conversations. App. to Pet. for Cert. 16a-17a. That ruling is not at issue here.
+
+11Link to the location of the note in the document
+545 F.2d, at 1187. See also App. to Pet. for Cert. 20a (opinion of District Court) ("the only 'emergency' was created wholly by the I. R. S.").
+
+12Link to the location of the note in the document
+See also United States ex rel. Bilokumsky v. Tod, 263 U.S. 149, 155 (Court assumed that "one under investigation with a view to deportation is legally entitled to insist upon the observance of rules promulgated by the Secretary pursuant to law").
+
+13Link to the location of the note in the document
+MR. JUSTICE WHITE further stated:
+
+"Nor should we be too ready to erect constitutional barriers to relevant and probative evidence which is also accurate and reliable. An electronic recording will many times produce a more reliable rendition of what a defendant has said than will the unaided memory of a police agent. It may also be that with the recording in existence it is less likely that the informant will change his mind, less chance that threat or injury will suppress unfavorable evidence and less chance that cross-examination will confound the testimony. Considerations like these obviously do not favor the defendant, but we are not prepared to hold that a defendant who has no constitutional right to exclude the informer's unaided testimony nevertheless has a Fourth Amendment privilege against a more accurate version of the events in question." 401 U.S., at 753.
+
+14Link to the location of the note in the document
+
+LEdHN   It does not necessarily follow, however, as a matter of either logic or law, that the agency had no duty to obey them. HN7 "Where the rights of individuals are affected, it is incumbent upon agencies to follow their own procedures. This is so even where the internal procedures are possibly more rigorous than otherwise would be required." Morton v. Ruiz, 415 U.S. 199, 235. See, e. g., United States ex rel. Accardi v. Shaughnessy, 347 U.S. 260 (holding habeas corpus relief proper where Government regulations "with the force and effect of law" governing the procedure to be followed in processing and passing upon an alien's application for suspension of deportation were not followed); Service v. Dulles, 354 U.S. 363 (invalidating Secretary of State's dismissal of an employee where regulations requiring approval of the Deputy Undersecretary and consultation of full record were not satisfied); Vitarelli v. Seaton, 359 U.S. 535 (invalidating dismissal of Interior Department employee where regulations governing hearing procedures for national security dismissals were not followed). See also Yellin v. United States, 374 U.S. 109 (reversing contempt conviction where congressional committee had not complied with its rules requiring it to consider a witness' request to be heard in executive session).
+
+15Link to the location of the note in the document
+In Raley v. Ohio, 360 U.S. 423, 437-438, we held that due process precluded the conviction of individuals for refusing to answer questions asked by a state investigating commission which itself had erroneously provided assurances, express or implied, that the defendants had a privilege under state law to refuse to answer. And in Cox v. Louisiana, 379 U.S. 559, the Court held that an individual could not be punished for demonstrating "near" a courthouse where the highest police officials of the city had advised the demonstrators that they could meet where they did without violating the statutory proscription against demonstrations "near" the courthouse. Cf. Arizona Grocery Co. v. Atchison, T. & S. F. R. Co., 284 U.S. 370 (holding invalid Interstate Commerce Commission's retroactive application of new rate); Columbia Broadcasting System, Inc. v. United States, 316 U.S. 407, 422 (agency regulations on which individuals are "entitled to rely" bind agency and are therefore ripe for judicial review). The underlying rationale of the foregoing cases is plainly inapplicable here.
+
+16Link to the location of the note in the document
+The Act was originally passed in 1946, 60 Stat. 237, and is codified at 5 U. S. C. § 551 et seq., and § 701 et seq.
+
+17Link to the location of the note in the document
+5 U. S. C. § 706.
+
+18Link to the location of the note in the document
+Cf. Board of Curators, Univ. of Mo. v. Horowitz, 435 U.S. 78, 92 n. 8; Vitarelli v. Seaton, supra, at 547 (Frankfurter, J., concurring in part and dissenting in part) ("This judicially evolved rule of administrative law is now firmly established and, if I may add, rightly so. He that takes the procedural sword shall perish with that sword").
+
+LEdHN   Even as a matter of administrative law, however, it seems clear that agencies are not required, at the risk of invalidation of their action, to follow all of their rules, even those properly classified as "internal." In American Farm Lines v. Black Ball Freight Service, 397 U.S. 532, 538, for example, ICC rules requiring certain information to be included in applications had not been followed. This Court rejected the argument that the agency action was therefore invalid, concluding that the Commission was "entitled to a measure of discretion in administering its own procedural rules in such a manner as it deems necessary to resolve quickly and correctly urgent transportation problems."
+
+19Link to the location of the note in the document
+See App. in Service v. Dulles, O. T. 1956, No. 407, p. 40; App. in Vitarelli v. Seaton, O. T. 1958, No. 101, p. 7. The complaints in both of these cases invoked 5 U. S. C. § 1009 (1964 ed.), the then-applicable APA judicial-review provision.
+
+20Link to the location of the note in the document
+See Linkletter v. Walker, 381 U.S. 618, 633, 636-637; Mapp v. Ohio, 367 U.S. 643, 656; Elkins v. United States, 364 U.S. 206, 217.
+
+21Link to the location of the note in the document
+Since no statute was violated by the recording of respondent's conversations, this Court's decision in Miller v. United States, 357 U.S. 301, is likewise inapplicable.
+
+22Link to the location of the note in the document
+The Government argues that Fed. Rule Evid. 402 and 18 U. S. C. § 3501 prohibited the Court of Appeals from exercising whatever supervisory power it might otherwise have to suppress evidence of respondent's statements to Yee. Brief for United States 42.
+
+23Link to the location of the note in the document
+See Amsterdam, Perspectives on the Fourth Amendment, 58 Minn. L. Rev. 349, 416-428 (1974); McGowan, Rule-Making and the Police, 70 Mich. L. Rev. 659 (1972).
+
+24Link to the location of the note in the document
+See F. Cooper, Administrative Agencies and the Courts 289-290 (1951) ("[Too] rigid an application of the doctrine prohibiting disregard of procedural rules would encourage the tendency of some agencies to proceed almost without rules. The doctrine should not be pressed so far as to induce agencies to adopt the protective device of promulgating procedural rules so vague in nature as to make it impossible to show a violation of the rules").
+
+25Link to the location of the note in the document
+See IRS Manual para. 652.1 (3) (in effect Sept. 1975) ("Any employee who knowingly violates or in any way knowingly countenances violation of this policy will be subject to disciplinary action and may be removed from the Service").

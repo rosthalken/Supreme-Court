@@ -1,0 +1,20 @@
+﻿VIRGINIA BANKSHARES, INC., ET AL., PETITIONERS v. DORIS I. SANDBERG, ET AL.
+
+No. 89-1448 
+
+SUPREME COURT OF THE UNITED STATES
+
+501 U.S. 1083
+
+October 9, 1990, Argued 
+June 27, 1991, Decided 
+
+JUSTICE STEVENS, with whom JUSTICE MARSHALL joins, concurring in part and dissenting in part.
+While I agree in substance with Parts I and II of the Court's opinion,  [***957]  I do not agree with the reasoning in Part III.
+In Mills v. Electric Auto-Lite Co., 396 U.S. 375, 24 L. Ed. 2d 593, 90 S. Ct. 616 (1970), the Court held that a finding that the terms of a merger were fair could not constitute a defense by the corporation to a shareholder action alleging that the merger had been accomplished by using a misleading proxy statement. The fairness of the transaction was, according to Mills, a matter to be considered at the remedy stage of the litigation.
+ [*1111]  On the question of the causal connection between the proxy solicitation and the harm to the plaintiff shareholders, the Court had this to say:
+"There is no need to supplement this requirement, as did the Court of Appeals, with a requirement of proof of whether the  [**2768]  defect actually had a decisive effect on the voting. Where there has been a finding of materiality, a shareholder has made a sufficient showing of causal relationship between the violation and the injury for which he seeks redress if, as here, he proves that the proxy solicitation itself, rather than the particular defect in the solicitation materials, was an essential link in the accomplishment of the transaction. This objective test will avoid the impracticalities of determining how many votes were affected, and, by resolving doubts in favor of those the statute is designed to protect, will effectuate the congressional policy of ensuring that the shareholders are able to make an informed choice when they are consulted on corporate transactions. Cf. Union Pac. R. Co. v. Chicago & N. W. R. Co., 226 F. Supp. 400, 411 (D. C. N. D. Ill. 1964); 2 L. Loss, Securities Regulation 962 n. 411 (2d ed. 1961); 5 id., at 2929-2930 (Supp. 1969)." Id., at 384-385.
+Justice Harlan writing for the Court then appended this footnote:
+"We need not decide in this case whether causation could be shown where the management controls a sufficient number of shares to approve the transaction without any votes from the minority. Even in that situation, if the management finds it necessary for legal or practical reasons to solicit proxies from minority shareholders, at least one court has held that the proxy solicitation might be sufficiently related to the merger to satisfy the causation requirement, see  [*1112]  Laurenzano v. Einbender, 264 F. Supp. 356 (D. C. E. D. N. Y. 1966) . . . ." Id., at 385, n. 7.
+
+The case before us today involves a merger that has been found by a jury to be unfair, not fair. The interest in providing a remedy to the injured minority shareholders therefore is stronger, not weaker, than in Mills. The interest in avoiding speculative controversy about the actual importance of the proxy solicitation is the same as in Mills. Moreover, as in Mills, these matters can be taken into account at the remedy stage in appropriate cases. Accordingly, I do not believe that it constitutes an unwarranted extension of the rationale of Mills to conclude that because management found it necessary -- whether for "legal or practical reasons" -- to solicit proxies from minority shareholders to obtain their approval of the merger, that solicitation  [***958]  "was an essential link in the accomplishment of the transaction." Id., at 385, and n. 7. In my opinion, shareholders may bring an action for damages under § 14(a) of the Securities Exchange Act of 1934, 48 Stat. 895, 15 U. S. C. § 78n(a), whenever materially false or misleading statements are made in proxy statements. That the solicitation of proxies is not required by law or by the bylaws of a corporation does not authorize corporate officers, once they have decided for whatever reason to solicit proxies, to avoid the constraints of the statute. I would therefore affirm the judgment of the Court of Appeals.

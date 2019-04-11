@@ -1,0 +1,28 @@
+﻿
+
+
+108 S.Ct. 2405
+Supreme Court of the United States
+Jose TORRES, Petitioner
+v.
+OAKLAND SCAVENGER COMPANY et al.
+No. 86–1845.
+|
+Argued Feb. 23, 1988.
+|
+Decided June 24, 1988.
+
+Justice SCALIA, concurring in the judgment.
+
+I agree with the judgment of the Court, but I do not believe that the principles set forth in its opinion produce it. If it is the fact that the requirements of the rules of procedure should be “liberally construed,” that “ ‘mere technicalities’ should not stand in the way of consideration of a case on its merits,” and that a rule is complied with if “the litigant’s action is the functional equivalent of what the rule requires,” ante, at 2409, it would seem to me that a caption listing the first party to the case and then adding “et al.” is enough to suggest that all parties are taking the appeal; and that the later omission of one of the parties in listing the appellants can, “liberally  **2410 viewed,” be deemed to create no more than an *319 ambiguity which does not destroy the effect of putting the appellee on notice.
+ 
+The principle that “mere technicalities” should not stand in the way of deciding a case on the merits is more a prescription for ignoring the Federal Rules than a useful guide to their construction and application. By definition all rules of procedure are technicalities; sanction for failure to comply with them always prevents the court from deciding where justice lies in the particular case, on the theory that securing a fair and orderly process enables more justice to be done in the totality of cases. It seems to me, moreover, that we should seek to interpret the rules neither liberally nor stingily, but only, as best we can, according to their apparent intent. Where that intent is to provide leeway, a permissive construction is the right one; where it is to be strict, a permissive construction is wrong. Thus, the very first of the Rules of Civil Procedure does not prescribe that they are to be “liberally construed,” but rather that they are to be “construed to secure the just, speedy, and inexpensive determination of every action.” Fed.Rule Civ.Proc. 1.
+ 
+The Appellate Rule at issue here requires the appellant to “specify the party or parties taking the appeal,” Fed.Rule App. Proc. 3(c), which suggests to me more than just a residual “et al.” Moreover, that it was thought necessary to specify that “informality of form or title” would not entail dismissal, ibid., suggests that a strict application was generally contemplated. I concur in today’s judgment, therefore, for essentially the same reasons that I dissented from the judgment in Houston v. Lack, 487 U.S. 266, 108 S.Ct. 2379, 101 L.Ed.2d 245 (1988), which the Court appropriately cites to support its reasoning in the present case, but which in my view stands in stark contrast to its conclusion.
+ *
+Although the Court's jurisdictional approach to the specificity requirement provides no greater protection to litigants than the equitable approach adopted by several Courts of Appeals, like all bright-line tests its application is more certain and predictable. This advantage, however, is of marginal significance inasmuch as few courts have found the notice function satisfied where a party's name is omitted, and those that have have acknowledged that it is the exceptional case in which such a finding is even possible. See Harrison v. United States, 715 F.2d 1311, 1313 (CA8 1983) (“[T]his is a very rare but appropriate case for a liberal construction of FRAP 3”); Williams v. Frey, 551 F.2d 932, 934, n. 1 (CA3 1977) (“Under most circumstances, the designation of the party appellant in the notice of appeal will govern”). Certainly no responsible lawyer would intentionally omit a party's name in reliance on an equitable construction of the notice of appeal.
+
+
+
+
+

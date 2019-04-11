@@ -1,0 +1,94 @@
+﻿
+    LEdHN[7] [7] LEdHN[8] [8] LEdHN[9] [9]A federal agency providing financial assistance to a public television station may, of course, attach conditions to its subsidy     that will have the effect of subjecting such a licensee to more stringent requirements than must be met by a commercial licensee. Or regulations may be promulgated under the Rehabilitation Act that impose special obligations on the subsidized licensee. Conceivably, the Federal Communications Commission might determine that the policies underlying the Communications Act require extraordinary efforts to make certain types of programming universally accessible, thereby placing heightened responsibility on certain stations. But unless and until such a     differential standard has been promulgated, HN6 the Federal Communications Commission does not abuse its discretion in interpreting the public interest standard, see FCC v. WNCN Listeners Guild, 450 U.S. 582 (1981), when it declines to impose a greater     obligation to provide special programming for the hearing impaired on a public licensee than on a commercial licensee. 19Link to the text of the note
+
+    The Court of Appeals was unanimous in its holding that the renewal of the seven commercial licensees was consistent with the public interest requirement in § 309 of the Federal Communications Act. Neither that court nor the Commission suggested that there was anything in the record that would justify treating the public licensee differently from the commercial licensees if both classes were to be judged under the same standard. The Court of Appeals' affirmance of the Commission's rejection of Gottfried's objection to the renewal of the commercial licenses therefore requires a like disposition of the objections to the renewal of the KCET-TV license. Accordingly, the judgment of the Court of Appeals is reversed insofar as it vacated the order of the Commission.
+
+It is so ordered.
+
+Section 504 of the Rehabilitation Act of 1973, 87 Stat. 394, as amended, and as set forth in 29 U. S. C. § 794 (1976 ed., Supp. V), provides:
+
+"§ 794. Nondiscrimination under Federal grants and programs; promulgation of rules and regulations
+
+"No otherwise qualified handicapped individual in the United States, as defined in section 706(7) of this title, shall, solely by reason of his handicap, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees."
+
+2Link to the location of the note in the document
+In her petition, Gottfried alleged, in part:
+
+"That the Licensee has violated, and remains in violation of Section 504 of the Rehabilitation Act of 1973, and the regulations promulgated thereunder, in that the Licensee has received and is receiving Federal financial assistance and has discriminated and is discriminating against the Petitioners 'solely by reason of [their] handicap', and said Petitioners have been and are 'excluded from participation in [and have been and are denied] the benefits of, [and have been and are being] subjected to discrimination' under the television services in connection with which Licensee has been and is receiving Federal financial assistance." App. in No. 79-1722 (CADC), p. 26 (brackets in original).
+
+3Link to the location of the note in the document
+"Captioning" refers to any of several technologies, see Captioning for the Deaf, 63 F. C. C. 2d 378 (1976), that project written text onto a television image so that deaf viewers receive information that is communicated to others by the soundtrack. See also n. 8, infra.
+
+4Link to the location of the note in the document
+"Contrary to Petitioners' unsupported charges (Petition, p. 3), KCET has responded to the needs of deaf and hearing-impaired persons in its service area. It has done so with three different types of programming: (a) Captioned ABC Evening News; (b) a variety of other programs, including children's programs, which were captioned or signed so as to be understandable to the deaf and hearing-impaired; and (c) special programs which have directly addressed needs and concerns of the deaf and hearing-impaired.
+
+. . . .
+
+"Over the past three years, KCET has presented more than 960 programs which were either captioned, signed or, in rare instances, which had no spoken words in them at all. All of these programs were understandable to the deaf and hearing-impaired. In many instances, KCET has promoted these programs by listing them as designed for the hearing-impaired audience. During the past three years, in addition to ABC Captioned News, these broadcasts have included such programs as 'Zoom', 'Once Upon a Classic', 'Nova', films of Ingmar Bergman, 'The Tribal Eye', 'Masterpiece Theatre', 'Adams Chronicles', 'President Carter's Clinton, Massachusetts Town Meeting', and many others.
+
+"In addition to programs designed to be understood by the deaf and hearing-impaired, KCET has devoted several special programs to substantive issues affecting those groups." App. in No. 79-1722 (CADC), pp. 106, 109.
+
+5Link to the location of the note in the document
+The response stated:
+
+"[The] station has not been responsive to the needs of the deaf and hearing impaired. In the station's viewing area, the deaf 20% of the population are not getting 20% of broadcast time; they were not even getting what other deaf in other viewing areas were receiving." Id., at 148.
+
+6Link to the location of the note in the document
+The response continued:
+
+"The Commission is a proper forum for the adjudication of claims of discrimination in broadcasting, as it is the Commission's obligation -- even apart from the Act -- to determine how the station has discharged its public trust obligations. The Act and the regulations thereunder, merely give further statutory and regulatory emphasis to that which the Commission is already charged to do under the law." Id., at 150.
+
+7Link to the location of the note in the document
+The Use of Telecasts to Inform and Alert Viewers with Impaired Hearing, 26 F. C. C. 2d 917 (1970). The Commission described the effect of its 1970 action as follows:
+
+"[It] was suggested that television stations could make use of visual as well as oral announcements of emergencies, utilize the [face] of newscasters wherever possible so as to permit lip reading, and feature visualization of materials in news, weather, and sports programs. The Commission hoped that the notice would alert licensees to our concern for the needs of the hearing impaired citizen and make television a truly valuable medium for that segment of the population -- estimated by the Department of Health, Education, and Welfare to include 13.4 million persons. We observed, however, that 'it may be necessary to begin rule making looking toward the adoption of minimum requirements.'" 69 F. C. C. 2d, at 454.
+
+8Link to the location of the note in the document
+"Through the use of an encoder at the transmitting end and a decoder at the receiving end, this closed captioning system could supply visual information -- captioning -- of the aural portion of the television program to those hearing impaired persons whose television sets were equipped to receive the captioned information while the rest of the viewing public would receive the normal visual and aural transmission. This differs from 'open' captioning utilized, for example, by PBS in its rebroadcast of the ABC Evening News. Open captioning is transmitted to all viewers who see a printed display of the text of the aural transmission at the bottom of the visual transmission." Ibid.
+
+9Link to the location of the note in the document
+Captioning for the Deaf, 63 F. C. C. 2d, at 389.
+
+10Link to the location of the note in the document
+"Generally speaking, [special programming for other segments of the community] can be achieved without any additional production techniques other than those utilized for regular programming. Obviously, that is not the situation confronting a licensee who might wish to program for the aurally handicapped. For such programming to be effective, it must offer some specific form of visual communication: sign language interpretations, captioning, or extensive utilization of charts, signs, and facial closeups to permit lip reading. Even sign language and lip reading efforts, according to Gottfried, serve to limit the number of deaf and hearing impaired since many do not effectively understand these methods." 69 F. C. C. 2d, at 458.
+
+11Link to the location of the note in the document
+Judge McGowan pointed out that on January 19, 1981, the Department of Education had issued a notice of intent to develop such regulations, and invited comments by March 5, 1981. 210 U. S. App. D. C., at 204, 655 F.2d, at 317. See 46 Fed. Reg. 4954.
+
+12Link to the location of the note in the document
+"Estimates of the number of citizens who have impaired hearing and therefore have need for the receipt of news and entertainment material through appropriate television programming range from 8.5 million to 20 million. Many of these persons, it appears, live alone and oftentimes do not receive important new information unless advised by neighbors or friends." The Use of Telecasts to Inform and Alert Viewers with Impaired Hearing, 26 F. C. C. 2d 917 (1970).
+
+13Link to the location of the note in the document
+As the Commission has observed:
+
+"In the fulfillment of his obligation the broadcaster should consider the tastes, needs and desires of the public he is licensed to serve . . . . He should reasonably attempt to meet all such needs and interests on an equitable basis." Report and Statement on Policy Re: Commission's En Banc Programming Inquiry, 25 Fed. Reg. 7291, 7295 (1960).
+
+Accord, In re Applications of Alabama Educational Television Comm'n, 50 F. C. C. 2d 461, 472 (1975); In re Applications of Capitol Broadcasting Co., 38 F. C. C. 1135, 1139 (1965).
+
+14Link to the location of the note in the document
+LEdHN   
+
+If such an enforcement obligation existed, it would have to derive from the Rehabilitation Act itself, since the general words "public interest" in the Communications Act are not sufficient to create it. In McLean Trucking Co. v. United States, 321 U.S. 67 (1944), we observed that an agency charged with promoting the "public interest" in a particular substantive area may not simply "ignore" the policies underlying other federal statutes. Id., at 80. But we also emphasized that such an agency is not automatically given "either the duty or the authority to execute numerous other laws." Id., at 79. Thus, in McLean Trucking the Interstate Commerce Commission had an administrative duty to consider the effect of a motor carrier merger on competing motor carriers in determining whether the merger would effectuate overall transportation policy, id., at 87, yet was "not to measure proposals for all-rail or all-motor consolidations by the standards of the anti-trust laws," id., at 85. Here, HN2 the FCC has an administrative duty to consider the needs of handicapped citizens in determining whether a license renewal would effectuate the policies behind the Communications Act but is by no means required to measure proposals for public television license renewals by the standards of § 504 of the Rehabilitation Act.
+
+15Link to the location of the note in the document
+In 1976, the President designated the Department of Health, Education, and Welfare as the agency responsible for coordinating the implementation of § 504. See Exec. Order No. 11914, 3 CFR 117 (1977). In 1980 that Executive Order was revoked and replaced by Exec. Order No. 12250, 3 CFR 298 (1981), which transferred the coordination and enforcement of authority for § 504 from HEW to the Department of Justice. Regulations previously adopted by HEW remain in effect pending the adoption of new regulations by the Department of Justice. See 28 CFR pt. 41 (1982).
+
+16Link to the location of the note in the document
+The Commission has explained its policy as follows:
+
+"Normally, we have declined to explore matters currently being litigated before the courts or to duplicate the ongoing investigative efforts of other government agencies charged with the responsibility of interpreting and enforcing the laws in question. Our restraint in this respect has not been predicated upon the unlikelihood of proving the violation of law. Indeed, conduct which does not contravene law may still run afoul of the public interest standard. . . . By our forbearance we have sought to maintain a proper working relationship with the judiciary and other governmental agencies and to avoid burdening applicants with unnecessary, costly multiple proceedings." FCC Form 303, 59 F. C. C. 2d 750, 763 (1976).
+
+17Link to the location of the note in the document
+LEdHN   
+
+This is not to say that the Commission may permit a licensee to ignore the needs of particular groups within the viewing public. The point is that the Commission's duties derive from the Communications Act, not from other federal statutes. In NAACP v. FPC, 425 U.S. 662, 670, n. 7 (1976), for example, this Court noted that the Commission's equal opportunity regulations could be regarded as "necessary . . . to ensure that its licensees' programming fairly reflects the tastes and viewpoints of minority groups." We then reiterated, however, that an agency's general duty to enforce the public interest does not require it to assume responsibility for enforcing legislation that is not directed at the agency:
+
+"It is useful again to draw on the analogy of federal labor law. No less than in the federal legislation defining the national interest in ending employment discrimination, Congress in its earlier labor legislation unmistakably defined the national interest in free collective bargaining. Yet it could hardly be supposed that in directing the Federal Power Commission to be guided by the 'public interest,' Congress thereby instructed it to take original jurisdiction over the processing of charges of unfair labor practices on the part of its regulatees." Id., at 671.
+
+18Link to the location of the note in the document
+We have previously emphasized the desirability of making changes in licensing policies prospective. In FCC v. National Citizens Committee for Broadcasting, 436 U.S. 775, 811 (1978), we wrote:
+
+"One of the most significant advantages of the administrative process is its ability to adapt to new circumstances in a flexible manner, see FCC v. Pottsville Broadcasting Co., 309 U.S., at 137-138, and we are unwilling to presume that the Commission acts unreasonably when it decides to try out a change in licensing policy primarily on a prospective basis."
+
+19Link to the location of the note in the document
+We note the Commission's argument that, if a differential standard were appropriate, commercial stations would be better able to afford the costs associated with special programming than public television stations, which cannot sell advertising and which serve the public in large part by airing programs of specialized interest that lack the mass appeal required for broadcast on network affiliates.

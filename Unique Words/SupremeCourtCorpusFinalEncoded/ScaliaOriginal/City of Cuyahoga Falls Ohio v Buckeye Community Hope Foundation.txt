@@ -1,0 +1,30 @@
+﻿
+
+
+123 S.Ct. 1389
+Supreme Court of the United States
+CITY OF CUYAHOGA FALLS, OHIO, et al., Petitioners,
+v.
+BUCKEYE COMMUNITY HOPE FOUNDATION, et al.
+No. 01-1269.
+|
+Argued Jan. 21, 2003.
+|
+Decided March 25, 2003.
+
+Justice SCALIA, with whom Justice THOMAS joins, concurring.
+
+I join the Court’s opinion, including Part III, which concludes that respondents’ assertions of arbitrary government conduct must be rejected. I write separately to observe that, even if there had been arbitrary government conduct, that would not have established the substantive-due-process violation that respondents claim.
+ 
+It would be absurd to think that all “arbitrary and capricious” government action violates substantive due process-even, for example, the arbitrary and capricious cancellation of a public employee’s parking privileges. The judicially created substantive component of the Due Process Clause protects, we have said, certain “fundamental liberty interest[s]” from deprivation by the government, unless the infringement is narrowly tailored to serve a compelling state interest. Washington v. Glucksberg, 521 U.S. 702, 721, 117 S.Ct. 2258, 138 L.Ed.2d 772 (1997). Freedom from delay in receiving a building permit is not among these “fundamental liberty interests.” To the contrary, the Takings Clause allows government confiscation of private property so long as it is taken for a public use and just compensation is paid; mere regulation of land use need not be “narrowly tailored” to effectuate a “compelling state interest.” Those who claim “arbitrary” deprivations of nonfundamental liberty interests must look to the Equal Protection Clause, and Graham v. Connor, 490 U.S. 386, 395, 109 S.Ct. 1865, 104 L.Ed.2d 443 (1989), precludes the use of “ ‘substantive due process’ ” *201 analysis when a more specific constitutional provision governs.
+ 
+As for respondents’ assertion that referendums may not be used to decide whether low-income housing may be built on their land: that is not a substantive-due-process claim, but rather a challenge to the procedures by which respondents were deprived of their alleged liberty interest in building on their land. There is nothing procedurally defective about conditioning the right to build low-income housing on the outcome of a popular referendum, cf. James v. Valtierra, 402 U.S. 137, 91 S.Ct. 1331, 28 L.Ed.2d 678 (1971), and the delay in issuing the permit was prescribed by a duly enacted provision of the Cuyahoga Falls City Charter (Art. 9, § 2), which surely constitutes “due process of law,” see Connecticut Dept. of Public Safety v. Doe, ante, 538 U.S., at 8, 123 S.Ct. 1160, 155 L.Ed.2d 98 (2003) (SCALIA, J., concurring).
+ 
+With these observations, I join the Court’s opinion.
+ 
+
+
+
+
+
+

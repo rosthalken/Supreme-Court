@@ -1,0 +1,24 @@
+﻿
+        
+        Roadway Express v. Piper, 447 U.S. 752, 100 S. Ct. 2455 (1980)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, concurring in part and dissenting in part.
+
+By its terms, 28 U. S. C. § 1927 applies to "cases in any court of the United States" and allows the recovery of excess [****35]  costs from "[any] attorney" who vexatiously multiplies the proceedings "in any case." 1Link to the text of the note This language is broad enough to encompass a civil rights class action alleging racial discrimination  [*770]  in employment. Two separate statutes specifically authorize the recovery of attorney's fees "as part of the costs" in this kind of litigation. 2Link to the text of the note Of course, such fees, like any other cost items, are normally recoverable only from the losing litigant rather than from the attorney personally. But it seems to me that § 1927 gives the court the power to assess against counsel any item of cost that could be assessed against a party when that attorney unreasonably and vexatiously multiplies the proceedings.
+
+The Court seems concerned about the fact that the standards for allowing a party to recover [****36]  fees differ for plaintiffs and defendants in civil rights litigation. Ante , at 762. I simply do not understand the relevance of that concern. As I read § 1927, the sanction may be applied to an obstreperous lawyer regardless of whether his client prevails, so long as fees may be awarded as part of the costs in the litigation.
+
+The Court also states that there "is no persuasive justification" for subjecting lawyers in different areas of practice to the risk of differing sanctions. Ante, at 763. But Congress has made a legislative  [***504]  decision to treat lawyers in civil rights litigation differently than they are treated in most types of litigation. Because of that congressional determination, lawyers in these cases are more likely to be well paid than other lawyers and, conversely, their misconduct may subject their clients to liability for the fees of opposing counsel. A conclusion that such special treatment also subjects these lawyers to an additional risk for failing to observe the normal proprieties that obtain in litigation does not strike me as anomalous.
+
+Ironically, the Court rejects my rather straightforward approach to the statutory language because [****37]  it "would constitute standardless judicial lawmaking," ante, at 762, but then, in Part III of its opinion, embarks on a venture of its own that  [*771]  surely fits that description neatly. Although a trial court has inherent contempt powers, I have the gravest doubts about its inherent power to order a lawyer to pay damages to an opposing litigant. Since it is not at all necessary to reach out to decide that issue, however, I would simply answer the statutory question presented by the certiorari petition.
+
+Although I do not disagree with the Court's discussion of Rule 37 in Part II-B of its opinion, I respectfully dissent from its construction of § 1927 and its inherent-power holding.
+
+See ante, at 756, n. 3.
+
+2Link to the location of the note in the document
+Title 42 U. S. C. § 1988 and § 2000e-5 (k) both authorize an award of attorney's fees to the prevailing party "as part of the costs" of the litigation.

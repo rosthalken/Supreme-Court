@@ -1,0 +1,40 @@
+﻿KURT HIERSCHE, PERSONAL REPRESENTATIVE OF THE ESTATE OF JEROME L. HIERSCHE, DECEASED v. UNITED STATES
+
+No. 91-774.
+
+SUPREME COURT OF THE UNITED STATES
+
+503 U.S. 923
+
+March 9, 1992, Decided 
+
+Memorandum of JUSTICE STEVENS respecting the denial of certiorari.
+Petitioner asks us to resolve a recurring conflict among the courts of appeals concerning the meaning of a once obscure sentence in §3 of the Mississippi Flood Control Act of 1928. 1  [*924]  During the past decade that sentence has assumed greater and  [***526]  greater importance because it has provided the Government with a defense to claims for personal injury and death caused by federal negligence, gross negligence, and even ''conscious governmental indifference to the safety of the public.'' United States v. James, 478 U.S. 597, 600 (1986) (citation and internal quotation marks omitted). 2
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 Section 3 of the statute, which is now codified as 33 U.S.C. §702c, reads in full as follows:
+''Sec. 3. Except when authorized by the Secretary of War upon the recommendation of the Chief of Engineers, no money appropriated under authority of this Act shall be expended on the construction of any item of the project until the States or levee districts have given assurances satisfactory to the Secretary of War that they will (a) maintain all flood-control works after their completion, except controlling and regulating spillway structures, including special relief levees; maintenance includes normally such matters as cutting grass, removal of weeds, local drainage, and minor repairs of main river levees; (b) agree to accept land turned over to them under the provisions of section 4; (c) provide without cost to the United States, all rights of way for levee foundations and levees on the main stem of the Mississippi River between Cape Girardeau, Missouri, and the Head of Passes.
+'' No liability of any kind shall attach to or rest upon the United States for any damage from or by floods or flood waters at any place: Provided, however, That if in carrying out the purposes of this Act it shall be found that upon any stretch of the banks of the Mississippi River it is impracticable to construct levees, either because such construction is not economically justified or because such construction would unreasonably restrict the flood channel, and lands in such stretch of the river are subjected to overflow and damage which are not now overflowed or damaged by reason of the construction of levees on the opposite banks of the river it shall be the duty of the Secretary of War and the Chief of Engineers to institute proceedings on behalf of the United States Government to acquire either the absolute ownership of the lands so subjected to overflow and damage or floodage rights over such lands.'' 45 Stat. 535-536 (emphasis added).
+2 As one court noted, while Congress often enacts special legislation to aid the victims of floods, thus mitigating the harsh effect of §702c with respect to property damage, Congress does not pass special legislation to assist individuals who suffer personal injury in flood-control waters as a result of Government negligence. See Fryman v. United States, 901 F.2d 79, 80 (CA7), cert. denied, 498 U.S.     (1990).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+This is the latest in an expanding series of tragic cases. Jerome Hiersche, a professional diver, contracted with the Government to inspect submerged fish screens at the hydroelectric intake on the John Day Dam on the Columbia River between Oregon and Washington. Although Government employees assured  [**1305]  him that the water flow to the fish bypass system would be shut off, they negligently failed to do so. Petitioner's head was drawn into an orifice in the fish bypass system, and he suffered fatal injuries. The Government defended this wrongful death action  [*925]  on the ground that the 1928 Act immunizes it from liability for all personal injuries caused by its employees in federal flood-control projects. Following this Court's unfortunate decision in James, as well as settled precedent in the Ninth Circuit, 3 the District Court and the Court of Appeals sustained that defense.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+3 See McCarthy v. United States, 850 F.2d 558 (CA9 1988), cert. denied, 489 U.S. 1052 (1989).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Since 1928 when Congress authorized the construction of the levees on the banks of the Mississippi River, the number and importance of federal flood-control projects has grown dramatically. In addition to controlling floods, these projects generate hydroelectric power and create artificial lakes that serve important recreational and conservation purposes. In some Circuits the Government's flood-control immunity would not constitute a defense in the case of injuries resulting from Government conduct that was unrelated to any flood-control purpose, see, e.g., Boyd v. United States ex rel. United States Army, Corps of Engineers, 881 F.2d 895 (CA10 1989); Hayes v. United States, 585 F.2d 701 (CA4 1978). If this case had arisen in one of those Circuits, the claim would likely succeed because Hiersche's assignment related to fish conservation and power generation, rather than flood control. But in the Ninth Circuit, if flood control was one of the purposes of the act of Congress authorizing the project itself, the immunity applies. 4 The Seventh Circuit has suggested that immunity might depend on whether the flood-control activities at the project increased the probability of injury. See Fryman v. United States, 901 F.2d 79 (CA7), cert. denied, 498 U.S.     (1990).
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+4 See United States v. McCarthy, 850 F.2d, at 562; see also Zavadil v. United States, 908 F.2d 334 (CA8 1990) (per curiam), cert. denied, 498 U.S.     (1991); Mocklin v. Orleans Levee District, 877 F.2d 427 (CA5 1989).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [***527]  This Court has a duty to resolve conflicts among the courts of appeals. As several scholars have recognized, however, that duty is not absolute. 5 Some conflicts are tolerable. Others can be resolved more effectively by Congress. This is such a case.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+5 See generally A. Hellman, Unresolved Intercircuit Conflicts: The Nature and Scope of the Problem, Final Report: Phase I, pp. 65-80 (1991) (report of Federal Judicial Center); Wallace, The Nature and Extent of Intercircuit Conflicts: A Solution Needed for a Mountain or a Molehill?, 71 Calif. L. Rev. 913, 929-931 (1983).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [*926]  The statute at issue here is an anachronism. It was enacted 18 years before the Federal Tort Claims Act, 28 U.S.C. §2671 et seq., waived the Federal Government's sovereign immunity from liability for personal injuries. At the time of its enactment, no consideration was given to the power generation, recreational, and conservation purposes of flood-control projects, or to their possible impact on the then nonexistent federal liability for personal injury and death caused by the negligent operation of such projects. Today this obsolete legislative remnant is nothing more than an engine of injustice. Congress, not this Court, has the primary duty to confront the question whether any part of this harsh immunity doctrine should be retained. 
+  

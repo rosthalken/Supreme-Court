@@ -1,0 +1,22 @@
+﻿
+        
+        Engle v. Isaac, 456 U.S. 107, 102 S. Ct. 1558 (1982)
+        
+
+
+      
+
+[*136]  JUSTICE STEVENS, concurring in part and dissenting in part.
+
+A petition for a writ of habeas corpus should be dismissed if it merely attaches a constitutional label to factual allegations that do not describe a violation of any constitutional right. In Part II-A of its opinion, the Court seems to agree with this proposition. See ante, at 119-121. The Court nevertheless embarks on an exposition of the procedural hurdles that must be surmounted before confronting the merits of an allegation that "states at least a plausible constitutional claim." Ante, at 122. Those rules, the Court  [***806]  states, "do not depend upon the type of claim raised by the prisoner." Ante, at 129. Yet, the Court concludes, they will not bar relief for "victims of a fundamental miscarriage of justice." Ante, at 135.
+
+In my opinion, the Court's preoccupation with procedural hurdles is more likely to complicate than to simplify the processing of habeas corpus petitions by federal judges. 1Link to the text of the note [****52]  In  [*137]  these cases, I would simply hold that neither of the exhausted claims advanced by respondents justifies [****51]  a collateral attack on their convictions. 2Link to the text of the note I agree  [**1577]  with the Court's rejection of the claim that the enactment of § 2901.05 imposed a constitutional burden on Ohio prosecutors to prove the absence of self-defense beyond a reasonable doubt. It seems equally clear to me that, apart from § 2901.05, the Constitution does not require the prosecutor to shoulder that burden whenever willfulness is an element of the offense, provided, of course, that the jury is properly instructed on the intent issue. Nothing in the Court's opinion persuades me that the second theory is any more "plausible" than the first.
+
+I would reverse on the merits the judgment of the Court of Appeals.
+
+The Court establishes in this case and in United States v. Frady, post, p. 152, that "to obtain collateral relief based on trial errors to which no contemporaneous objection was made, a convicted defendant must show both (1) 'cause' excusing his . . . procedural default, and (2) 'actual prejudice' resulting from the errors of which he complains." Post, at 167-168. I joined Frady because the Court applied the prejudice prong of the cause-and-prejudice standard in an appropriate fashion, concluding that the erroneous instruction did not "[infect the] entire trial with error of constitutional dimensions," post, at 170, and "[perceiving] no risk of a fundamental miscarriage of justice in this case," post, at 172. Like the prejudice prong, the cause prong has some relation to the inquiry I believe the Court should undertake in habeas corpus cases. See Rose v. Lundy, 455 U.S. 509, 547-548, n. 17 (STEVENS, J., dissenting). The failure to object generally indicates that defense counsel felt that the trial error was not critical to his client's case; presumably, therefore, the error did not render the trial fundamentally unfair.
+
+In these cases, however, the Court applies the cause prong without relating its application to the fairness of respondents' trials. Indeed, the Court categorically rejects respondents' argument "that their prejudice was so great that it should permit relief even in the absence of cause," noting that Wainwright v. Sykes, 433 U.S. 72, stated the cause-and-prejudice standard in the conjunctive. Ante, at 134, n. 43. I would not apply that standard, as the Court does in this case, to bar habeas corpus relief simply as a matter of procedural foreclosure.
+
+2Link to the location of the note in the document
+A third claim is that respondents were deprived of due process and equal protection of the laws because the Ohio Supreme Court refused to apply retroactively to their convictions its disapproval of the challenged jury instruction. The Court declines to address this claim on the ground that it was not expressly raised in the habeas corpus petition. Ante, at 124, n. 25. I am not sure whether it can be said that the claim has not been raised, but in any event I find the claim unpersuasive.

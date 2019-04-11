@@ -1,0 +1,24 @@
+﻿
+        
+        Carlisle v. United States, 517 U.S. 416, 116 S. Ct. 1460 (1996)
+        
+
+
+      
+
+JUSTICE  [****32]  GINSBURG, with whom JUSTICE SOUTER and JUSTICE BREYER join, concurring.
+
+I join the opinion of the Court and highlight features of the case key to my judgment.
+
+It is anomalous to classify time prescriptions, even rigid ones, *Link to the text of the note under the heading "subject matter jurisdiction." That most basic requirement relates to the subject matter of the case or controversy or the status of the parties to it. See 13 C. Wright, A. Miller, & E. Cooper, Federal Practice and Procedure § 3522, p. 78 (2d ed. 1984); Restatement (Second) of Judgments § 11 (1982) (defining "subject matter jurisdiction"  [*435]  as the "authority [of the court] to adjudicate the type of controversy involved in the action"); cf. United States v. Kember, 208 U.S. App. D.C. 380, 648 F.2d 1354, 1357-1358 (CADC 1980) (per curiam) (commenting on "manifold settings in which we employ the term [jurisdiction]" and distinguishing fundamental "jurisdiction" questions from issues of a less basic character); Center for Nuclear Responsibility, Inc. v. United States Nuclear Regulatory Comm'n, 251 U.S. App. D.C. 82, 781 F.2d 935, 945, n. 4 (CADC 1986) (Ginsburg, J., dissenting) (questioning "profligate use" of the word "jurisdiction," in diverse contexts, "to mean many  [****33]  things -- from the absence of a constitutional grant of judicial power to a statutory limit on time to appeal").
+
+Federal Rule of Criminal Procedure 29(c) concerns a matter less basic. It is simply a time prescription. Rule 29(c)'s prescription is a tight one, to be sure. Federal Rule of Criminal Procedure 45(b) makes that clear by precluding extensions, even for "excusable neglect," after expiration of the 7 days specified in Rule 29(c). But like limitation periods generally, see, e. g., Irwin v. Department  [**1471]  of Veterans Affairs, 498 U.S. 89, 95, 111 S. Ct. 453, 112 L. Ed. 2d 435 (1990) ("time requirements in lawsuits . . . are customarily subject to 'equitable tolling'"), the 29(c)/45(b) constraint is not utterly exceptionless.
+
+This Court has recognized one sharply honed exception to rules of the 29(c)/45(b) genre. That exception covers cases in which the trial judge has misled a party who could have -- and probably would have -- taken  [****34]  timely action had the trial judge conveyed correct, rather than incorrect, information. See Thompson v. INS, 375 U.S. 384, 386-387, 11 L. Ed. 2d 404, 84 S. Ct. 397 (1964) (per curiam) (had trial judge not misinformed party that his new trial motion was made "in ample time," party "could have, and presumably would have, filed the appeal within 60 days of the entry of the original judgment, rather than waiting, as he did, until after the trial court had disposed of the [new trial motion]"); Harris Truck Lines, Inc. v. Cherry Meat Packers, Inc., 371 U.S. 215, 216-217, 9 L. Ed. 2d 261, 83 S. Ct. 283 (1962) (per curiam) (instructing that petitioner's appeal be heard on the merits  [*436]  where petitioner had received from trial court an improperly grounded 14-day extension of the time to file his appeal); see also 4A Wright & Miller, Federal Practice and Procedure § 1168, at 501 (describing Thompson and Harris Truck Lines as "based on a theory similar to estoppel"). As the Court observes, however, this exception "is not pertinent here." See ante, at 428.
+
+Carlisle's counsel was not misled [***631]  by any trial court statement or action; rather, he neglected to follow plain instructions. Rule 29(c) clearly instructs that a  [****35]  motion for a judgment of acquittal be filed "within 7 days after the jury is discharged or within such further time as the court may fix during the 7-day period." Just as clearly, Rule 45(b) excludes motions for enlargement once seven days have run. I agree that a rule like 29(c) is framed to resist ad hoc relaxation. A time line must be drawn at some point, and it is not unreasonable to draw the line as the rulemakers did, rather than extend it out to the day set for sentencing.
+
+It bears emphasis, finally, that the Government recognizes legal avenues still open to Carlisle to challenge the sufficiency of the evidence to warrant his conviction: on appeal (subject to "plain error" standard); and through a postconviction motion, under 28 U.S.C. § 2255, asserting ineffective assistance of counsel. Brief for United States 38-39. In the rare situations JUSTICE STEVENS envisions -- delay of a meritorious motion due to an Act of God, see post, at 454, or cases comparable to those in which we would read and grant an out-of-time rehearing petition, see post, at 450-451 -- these modes of relief should provide an adequate corrective.
+
+*Link to the location of the note in the document
+See Fed. Rule Crim. Proc. 45(b) (listing time rules that are not subject to enlargement for "cause shown").

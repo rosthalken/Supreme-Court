@@ -1,0 +1,30 @@
+﻿
+        
+        DelCostello v. Int'l Bhd. of Teamsters, 462 U.S. 151, 103 S. Ct. 2281 (1983)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+For the past century federal judges have "borrowed" state statutes of limitations, not because they thought it was a sensible  [*173]  form of "interstitial law making," but rather because they were directed to do so by the Congress of the United States. 1Link to the text of the note
+
+ [****38]  Today the Court holds that the Rules of Decision Act does not determine the result in these cases, because it believes that a separate federal law, growing out of "the policies  [***495]  and requirements of the underlying cause of action," ante, at 159, n. 13, "otherwise [requires] or [provides]." The Court's opinion sets forth a number of reasons why it may make good sense to adopt a 6-month statute of limitations, but nothing in that opinion persuades me that the Constitution, treaties, or statutes of the United States "require or provide" that this particular limitations period must be applied to this case. 2Link to the text of the note
+
+ [****39]   [*174]  Congress has given us no reason to depart from our settled practice, grounded in the Rules of Decision Act, of borrowing analogous state statutes of limitation in cases such as this. For the reasons set forth in my separate opinion in United Parcel Service, Inc. v. Mitchell, 451 U.S. 56, 71 (1981), I believe that in a suit for a breach of the duty of fair representation, the appropriate "laws of the several states" are the statutes of limitations governing malpractice suits against attorneys. I would apply those laws to resolve the worker-union disputes in these two cases. And I would continue to abide by our holding in Mitchell in resolving the employee-employer dispute presented in No. 81-2386.
+
+For these reasons, I respectfully dissent.
+
+In 1789 the First Congress enacted the Rules of Decision Act (Act), Rev. Stat. § 721, 1 Stat. 92, plainly stating:
+
+"That the laws of the several states, except where the constitution, treaties or statutes of the United States shall otherwise require or provide, shall be regarded as rules of decision in trials at common law in the courts of the United States in cases where they apply."
+
+In 1895, construing that Act, we held that state statutes of limitations provided the relevant rules of decision in patent infringement actions, explaining:
+
+"That this section [Rev. Stat. § 721] embraces the statutes of limitations of the several States has been decided by this court in a large number of cases, which are collated in its opinion in Bauserman v. Blunt, 147 U.S. 647 . . . . Indeed, to no class of state legislation has the above provision been more steadfastly and consistently applied than to statutes prescribing the time within which actions shall be brought within its jurisdiction." Campbell v. Haverhill, 155 U.S. 610, 614.
+
+Accord, McClaine v. Rankin, 197 U.S. 154 (1905). In response to the suggestion that the Act was not intended to govern nondiversity cases raising federal questions -- such as patent suits or suits under the National Labor Relations Act -- we bluntly observed that "[the] section itself neither contains nor suggests such a distinction." 155 U.S., at 616.
+
+2Link to the location of the note in the document
+When the Court recognized the cause of action in Vaca v. Sipes, 386 U.S. 171 (1967), the majority explained: "We cannot believe that Congress, in conferring upon employers and unions the power to establish exclusive grievance procedures, intended to confer upon unions . . . unlimited discretion to deprive injured employees of all remedies for breach of contract." Id., at 186. But nothing in the language, structure, or legislative history of the National Labor Relations Act compels the further conclusion that Congress intended the federal judiciary to abandon the traditional practice of borrowing state statutes of limitations when no federal statute directly applies. Saying that a statute impliedly creates a cause of action is not the same thing as saying that it impliedly commands the courts to abandon the standard procedure for choosing limitations periods and instead to borrow a period that Congress established for a different purpose.

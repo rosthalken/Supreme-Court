@@ -1,0 +1,24 @@
+﻿
+
+
+114 S.Ct. 1473
+Supreme Court of the United States
+UNITED STATES, Petitioner
+v.
+John O. IRVINE and First Trust National Association.
+No. 92-1546.
+|
+Argued Dec. 6, 1993.
+|
+Decided April 20, 1994.
+
+Justice SCALIA, concurring in part and concurring in the judgment.
+
+I join the judgment of the Court, and its opinion except for Part III-A. It seems to me that the basis for the “reasonable time” limitation in the Regulation cannot be, as the Court says, ante, at 1479-1480, the need to deprive the beneficiary of “a virtually unlimited opportunity to consider estate planning consequences.” Considering estate planning consequences (not a malum in se ) is nowhere condemned by the tax laws, and I would see no basis for the Treasury Department’s arbitrarily declaring a disclaimer to be a gift solely in order to deter such consideration. The Secretary undoubtedly has broad discretion to determine the meaning of the term “transfer” as it is used in the gift tax statute, and undoubtedly may indulge an antagonism to estate planning in choosing among permissible meanings. But “disclaimer after opportunity for estate tax planning” is simply not a permissible meaning.
+ 
+The justification for the “reasonable time” limitation must, as always, be a textual one. It consists, in my view, of the fact that the failure to make a reasonably prompt disclaimer of a known bequest is an implicit acceptance. Qui tacet, consentire videtur. Thus, a later disclaimer, which causes the property to go to someone else by operation of law, is effectively a transfer to that someone else. (The implication from nondisclaimer is much weaker when the interest is a *243 contingent one, but Jewett v. Commissioner, 455 U.S. 305, 102 S.Ct. 1082, 71 L.Ed.2d 170 (1982), resolved that issue-perhaps incorrectly.) While state disclaimer laws have chosen to override the reasonable implication of nondisclaimer, the Treasury Department regulations correctly (or at least permissibly) conclude that the federal gift tax does not.
+ 
+
+
+
+

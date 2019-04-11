@@ -1,0 +1,16 @@
+﻿KENNETH LYNCE, PETITIONER v. HAMILTON MATHIS, SUPERINTENDENT, TOMOKA CORRECTIONAL INSTITUTION, ET AL.
+
+No. 95-7452.
+
+SUPREME COURT OF THE UNITED STATES
+
+519 U.S. 433
+
+November 4, 1996, Argued 
+February 19, 1997, Decided
+
+JUSTICE THOMAS, with whom JUSTICE SCALIA joins, concurring in part and concurring in the judgment.
+I understand the Court's opinion to hold that retroactively canceling petitioner's so-called "provisional credits" after he has used them to gain his freedom violates the Ex Post Facto Clause. This result naturally follows from our consistent view that the Clause is intended to prohibit laws that "retroactively alter the definition of crimes or increase the punishment  [*450]  for criminal acts." Collins v. Youngblood, 497 U.S. 37, 43, 111 L. Ed. 2d 30, 110 S. Ct. 2715 (1990).
+Whether a particular law retroactively increases a criminal punishment is often a close question. In California Dept. of Corrections v. Morales, 514 U.S. 499, 131 L. Ed. 2d 588, 115 S. Ct. 1597 (1995), for example, respondent challenged a retroactive change to the frequency of parole hearings. Given that the retroactive change "create[d] only the most speculative and attenuated risk of increasing the measure of punishment attached to the covered crimes," we found no ex post facto violation. Id., at 514.
+Unlike in Morales, the increase in petitioner's punishment here was neither "speculative" nor "attenuated." Petitioner pleaded nolo contendere to a charge of attempted murder and was duly sentenced. During the period of his confinement, petitioner accumulated release credits under a state statute adopted in response to prison overcrowding. Those credits enabled petitioner to be freed from prison before his sentence (as originally    imposed) had run. Shortly before petitioner secured his release, however, the Florida Legislature enacted a statute preventing certain categories of offenders from taking advantage of the provisional credits. Although petitioner's offense placed him among the offenders denied the opportunity to acquire those particular credits, the statute was not applied retroactively. Petitioner was thus released. The state attorney general subsequently issued an opinion giving the statute retroactive effect. The State thereafter rearrested petitioner and returned him to custody.
+Under these narrow circumstances, I agree with the Court that the State's retroactive nullification of petitioner's previously accrued, and then used, release credits violates the Constitution's ban on ex post facto lawmaking. I do not, however, join the majority's discussion of Weaver v. Graham, 450 U.S. 24, 67 L. Ed. 2d 17, 101 S. Ct. 960 (1981), which I find unnecessary to the resolution of this case. In Weaver, we considered whether a statute  [*451]  that merely altered the availability of "good conduct" credits ran afoul of the Ex Post Facto Clause. 450 U.S. at 25. The present case involves not merely an effect on the availability of future release credits, but the retroactive elimination of credits already earned and used. Accordingly, I concur in part and concur in the judgment.

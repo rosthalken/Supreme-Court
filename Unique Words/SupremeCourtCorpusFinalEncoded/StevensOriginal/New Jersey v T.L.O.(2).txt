@@ -1,0 +1,216 @@
+﻿
+        
+        New Jersey v. T. L. O., 469 U.S. 325, 105 S. Ct. 733 (1985)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom JUSTICE MARSHALL joins, and with whom JUSTICE BRENNAN joins as to Part I, concurring in part and dissenting in part.
+
+Assistant Vice Principal Choplick searched T. L. O.'s purse for evidence that she was smoking in the girls' restroom. Because T. L. O.'s suspected misconduct was not illegal and did not pose a serious threat to school discipline, the New Jersey Supreme Court held that Choplick's  [***754]  search  [*371]  of her purse was an unreasonable invasion of her privacy and that the evidence which he seized could not be used against her in criminal proceedings. The New Jersey court's holding was a careful response to the case it was required to decide.
+
+The State of New Jersey sought review in this Court, first arguing that the exclusionary rule is wholly inapplicable to searches conducted by school officials, and then contending that the Fourth Amendment itself provides no protection at all to the student's privacy. The Court has accepted neither of these frontal assaults on the Fourth Amendment. It has, however, seized upon this "no smoking" case to announce "the proper standard" that should govern searches by school [****82]  officials who are confronted with disciplinary problems far more severe than smoking in the restroom. Although I join Part II of the Court's opinion, I continue to believe that the Court has unnecessarily and inappropriately reached out to decide a constitutional question. See 468 U.S. 1214 (1984) (STEVENS, J., dissenting from reargument order). More importantly, I fear that the concerns that motivated the Court's activism have produced a holding that will permit school administrators to search students suspected of violating only the most trivial school regulations and guidelines for behavior.
+
+I
+
+The question the Court decides today -- whether Mr. Choplick's search of T. L. O.'s purse violated the Fourth Amendment -- was not raised by the State's petition for writ of certiorari. That petition only raised one question: "Whether the Fourth Amendment's exclusionary rule applies to searches made by public school officials and teachers in school." 1Link to the text of the note The State quite properly declined to submit the former question because "[it] did not wish to present what might appear to be solely a factual dispute to this Court." 2Link to the text of the note  [*372]  Since this Court has twice had the threshold [****83]  question argued, I believe that it should expressly consider the merits of the New  [**759]  Jersey Supreme Court's ruling that the exclusionary rule applies.
+
+The New Jersey Supreme Court's holding on this question is plainly correct. As the state court noted, this case does not involve the use of evidence in a school disciplinary proceeding; the juvenile proceedings brought against T. L. O. involved a charge that would have been a criminal offense if committed by an adult. 3Link to the text of the note Accordingly, the exclusionary rule issue decided by that court and later presented to this Court concerned only the use in a criminal proceeding of evidence obtained in a search conducted by a public school administrator.
+
+ [****84]  Having confined the issue to the law enforcement context, the New Jersey court then reasoned that this Court's cases have made it quite clear that the exclusionary rule is equally applicable "whether the public official who illegally obtained the  [***755]  evidence was a municipal inspector, See v. Seattle 387 U.S. 541 [1967]; Camara [v. Municipal Court,] 387 U.S. 523 [1967]; a firefighter, Michigan v. Tyler, 436 U.S. 499, 506 [1978]; or a school administrator or law enforcement official." 4Link to the text of the note It correctly concluded "that if an official search violates constitutional rights, the evidence is not admissible in criminal proceedings." 5Link to the text of the note
+
+When a defendant in a criminal proceeding alleges that she was the victim of an illegal search by a school administrator, the application of the exclusionary rule is a simple corollary of the principle that "all evidence obtained by [****85]  searches and seizures in violation of the Constitution is, by that same authority, inadmissible in a state court." Mapp v. Ohio, 367 U.S. 643, 655 (1961). The practical basis for this principle is, in part, its deterrent effect, see id., at 656, and as a general  [*373]  matter it is tolerably clear to me, as it has been to the Court, that the existence of an exclusionary remedy does deter the authorities from violating the Fourth Amendment by sharply reducing their incentive to do so. 6Link to the text of the note In the case of evidence obtained in school searches, the "overall educative effect" 7Link to the text of the note of the exclusionary rule adds important symbolic force to this utilitarian judgment.
+
+ [****86]  Justice Brandeis was both a great student and a great teacher. It was he who wrote:
+
+"Our Government is the potent, the omnipresent teacher. For good or for ill, it teaches the whole people by its example. Crime is contagious. If the Government becomes a lawbreaker, it breeds contempt for law; it invites every man to become a law unto himself; it invites anarchy." Olmstead v. United States, 277 U.S. 438, 485 (1928) (dissenting opinion).
+
+Those of us who revere the flag and the ideals for which it stands believe in the power of symbols. We cannot ignore that rules of law also have a symbolic power that may vastly exceed their utility.
+
+Schools are places where we inculcate the values essential to the meaningful exercise of rights and responsibilities by a self-governing citizenry. 8Link to the text of the note If the Nation's students  [**760]  can be convicted through the use of  [***756]  arbitrary methods destructive of personal liberty, they cannot help but feel that they have  [*374]  been dealt with unfairly. 9Link to the text of the note [****88]  The application of the exclusionary rule in criminal proceedings arising from illegal school searches makes an important statement to young people that "our society [****87]  attaches serious consequences to a violation of constitutional rights," 10Link to the text of the note and that this is a principle of "liberty and justice for all." 11Link to the text of the note
+
+Thus, the simple and correct answer to the question presented by the State's petition for certiorari would have required affirmance of a state court's judgment suppressing evidence. That result would have been dramatically out of character for a Court that not only grants prosecutors relief from suppression orders with distressing regularity, 12Link to the text of the note [****90]  but  [*375]  also is prone to rely on grounds not advanced by the parties in order to protect evidence from exclusion. 13Link to the text of the note  [**761]  In characteristic disregard of the  [***757]  doctrine of judicial restraint, the Court avoided that result in this case by ordering reargument and directing the parties to address a constitutional question that the parties, with good reason, had not asked the Court to decide. Because judicial activism undermines the Court's power to perform its central mission in a legitimate way, I dissented from the reargument order. See 468 U.S. 1214 (1984). I have not modified the views expressed [****89]  in that dissent, but since the majority has brought the question before us, I shall explain why I believe the Court has misapplied the standard of reasonableness embodied in the Fourth Amendment.
+
+II
+
+The search of a young woman's purse by a school administrator is a serious invasion of her legitimate expectations of privacy. A purse "is a common repository for one's personal effects and therefore is inevitably associated with the expectation of privacy." Arkansas v. Sanders, 442 U.S. 753, 762 (1979). Although such expectations must sometimes yield to the legitimate requirements of government, in assessing the constitutionality of a warrantless search, our decision must be guided by the language of the Fourth Amendment: "The right of the people to be secure in their persons, houses,  [*376]  papers and effects, against unreasonable searches and seizures, shall not be violated. . . ." In order to evaluate [****91]  the reasonableness of such searches, "it is necessary 'first to focus upon the governmental interest which allegedly justifies official intrusion upon the constitutionally protected interests of the private citizen,' for there is 'no ready test for determining reasonableness other than by balancing the need to search [or seize] against the invasion which the search [or seizure] entails.'" Terry v. Ohio, 392 U.S. 1, 20-21 (1968) (quoting Camara v. Municipal Court, 387 U.S. 523, 528, 534-537, (1967)). 14Link to the text of the note
+
+The "limited search for weapons" in Terry was justified by the "immediate interest of the police officer in taking steps to assure himself that the person with whom he is dealing is not armed with a weapon that could unexpectedly and fatally be used against him." 392 U.S., at 23, 25.  [****92]  When viewed from the institutional perspective, "the substantial need of teachers and administrators for freedom to maintain order in the schools," ante, at 341 (majority opinion), is no less acute. Violent, unlawful, or seriously disruptive conduct is fundamentally inconsistent with the principal function of teaching institutions which is to educate young people and prepare them for citizenship. 15Link to the text of the note When such conduct occurs  [***758]  amidst a sizable group of impressionable young people, it creates an explosive atmosphere that requires a prompt and effective response.
+
+ [****93]  Thus, warrantless searches of students by school administrators are reasonable when undertaken for those purposes.  [*377]  But the majority's statement of the standard for evaluating the reasonableness of such searches is not suitably adapted to that end. The majority holds that "a search of a student by a teacher or other school official will be 'justified at its inception' when there are reasonable grounds  [**762]  for suspecting that the search will turn up evidence that the student has violated or is violating either the law or the rules of the school." Ante, at 341-342. This standard will permit teachers and school administrators to search students when they suspect that the search will reveal evidence of even the most trivial school regulation or precatory guideline for student behavior. The Court's standard for deciding whether a search is justified "at its inception" treats all violations of the rules of the school as though they were fungible. For the Court, a search for curlers and sunglasses in order to enforce the school dress code 16Link to the text of the note is apparently just as important as a search for evidence of heroin addiction or violent gang activity.
+
+ [****94]  The majority, however, does not contend that school administrators have a compelling need to search students in  [*378]  order to achieve optimum enforcement of minor school regulations. 17Link to the text of the note [****95]  To the contrary, when minor violations are involved, there is every indication that the informal school disciplinary process, with only minimum requirements of due process, 18Link to the text of the note can function effectively without the power to search for enough evidence to prove a criminal case. In arguing that teachers and school administrators need the power to search students based on a lessened standard, the United States as amicus curiae relies heavily on empirical evidence of a contemporary crisis of violence and unlawful behavior that is seriously undermining the process of education in American  [***759]  schools. 19Link to the text of the note A standard better attuned to this concern would permit teachers and school administrators to search a student when they have reason to believe that the search will uncover evidence that the student is violating the law or engaging in conduct that is seriously disruptive of school order, or the educational process.
+
+This standard is properly directed at "[the] sole justification for the [warrantless] search." 20Link to the text of the note In addition, a standard  [*379]  that varies the extent of the permissible  [**763]  intrusion with the gravity of the suspected offense is also more consistent with common-law experience and this Court's precedent. Criminal law has traditionally recognized a distinction [****96]  between essentially regulatory offenses and serious violations of the peace, and graduated the response of the criminal justice system depending on the character of the violation. 21Link to the text of the note [****97]  The application of a similar distinction in evaluating the reasonableness of warrantless searches and seizures "is not a novel idea." Welsh v. Wisconsin, 466 U.S. 740, 750 (1984). 22Link to the text of the note
+
+In Welsh, police officers arrived at the scene of a traffic accident and obtained information indicating that the driver of the automobile involved was guilty of a first offense of  [*380]  driving while intoxicated -- a civil violation with a maximum fine of $ 200. The driver had left the scene of the accident, and the officers followed the suspect to his home where they arrested him without [****98]  a warrant. Absent exigent circumstances,  [***760]  the warrantless invasion of the home was a clear violation of Payton v. New York, 445 U.S. 573 (1980). In holding that the warrantless arrest for the "noncriminal, traffic offense" in Welsh was unconstitutional, the Court noted that "application of the exigent-circumstances exception in the context of a home entry should rarely be sanctioned when there is probable cause to believe that only a minor offense . . . has been committed." 466 U.S., at 753.
+
+The logic of distinguishing between minor and serious offenses in evaluating the reasonableness of school searches is almost too clear for argument. In order to justify the serious intrusion on the persons and privacy of young people that New Jersey asks this Court to approve, the State must identify "some real immediate and serious consequences." McDonald v. United States, 335 U.S. 451, 460 (1948) (Jackson, J., concurring, joined by Frankfurter, J.). 23Link to the text of the note While school  [**764]  administrators have entirely legitimate reasons for adopting school regulations and guidelines for student behavior, the authorization of  [****99]  searches to enforce them "displays a shocking lack of all sense of proportion." Id., 459. 24Link to the text of the note
+
+ [****100]   [*381]  The majority offers weak deference to these principles of balance and decency by announcing that school searches will only be reasonable in scope "when the measures adopted are reasonably related to the objectives of the search and not excessively intrusive in light of the age and sex of the student and the nature of the infraction." Ante, at 342 (emphasis added). The majority offers no explanation why a two-part standard is necessary to evaluate the reasonableness of the ordinary school search. Significantly, in the balance of its opinion the Court pretermits any discussion of the nature of T. L. O.'s infraction of the "no smoking" rule.
+
+The "rider" to the Court's standard for evaluating the reasonableness  [***761]  of the initial intrusion apparently is the Court's perception that its standard is overly generous and does not, by itself, achieve a fair balance between the administrator's right to search and the student's reasonable expectations of privacy. The Court's standard for evaluating the "scope" of reasonable school searches is obviously designed to prohibit physically intrusive searches of students by persons of the opposite sex for relatively minor offenses.  [****101]  The Court's effort to establish a standard that is, at once, clear enough to allow searches to be upheld in nearly every case, and flexible enough to prohibit obviously unreasonable intrusions of young adults' privacy only creates uncertainty in the extent of its resolve to prohibit the latter. Moreover, the majority's application of its standard in this case -- to permit a male administrator to rummage through the purse of a female high school student in order to obtain evidence that she was smoking  [*382]  in a bathroom -- raises grave doubts in my mind whether its effort will be effective. 25Link to the text of the note Unlike the Court, I believe the nature of the suspected infraction is a matter of first importance in deciding whether any invasion of privacy is permissible.
+
+ [****102]  III
+
+The Court embraces the standard applied by the New Jersey Supreme Court as equivalent to its own, and then deprecates the state court's application of the standard  [**765]  as reflecting "a somewhat crabbed notion of reasonableness." Ante, at 343. There is no mystery, however, in the state court's finding that the search in this case was unconstitutional; the decision below was not based on a manipulation of reasonable suspicion, but on the trivial character of the activity that promoted the official search. The New Jersey Supreme Court wrote:
+
+"We are satisfied that when a school official has reasonable grounds to believe that a student possesses evidence of illegal activity or activity that would interfere with school discipline and order, the school official has the right to conduct a reasonable search for such evidence.
+
+"In determining whether the school official has reasonable grounds, courts should consider 'the child's age, history, and school record, the prevalence and seriousness of the problem in the school to which the search was  [*383]  directed, the exigency to make the search without delay, and the probative value and reliability of the information [****103]  used as a justification for the search.'" 26Link to the text of the note
+
+The emphasized language in the state court's opinion focuses on the  [***762]  character of the rule infraction that is to be the object of the search.
+
+In the view of the state court, there is a quite obvious and material difference between a search for evidence relating to violent or disruptive activity, and a search for evidence of a smoking rule violation. This distinction does not imply that a no-smoking rule is a matter of minor importance. Rather, like a rule that prohibits a student from being tardy, its occasional violation in a context that poses no threat of disrupting school order and discipline offers no reason to believe that an immediate search is necessary to avoid unlawful conduct, violence, or a serious impairment of the educational process.
+
+A correct understanding [****104]  of the New Jersey court's standard explains why that court concluded in T. L. O.'s case that "the assistant principal did not have reasonable grounds to believe that the student was concealing in her purse evidence of criminal activity or evidence of activity that would seriously interfere with school discipline or order." 27Link to the text of the note The importance of the nature of the rule infraction to the New Jersey Supreme Court's holding is evident from its brief explanation of the principal basis for its decision:
+
+"A student has an expectation of privacy in the contents of her purse. Mere possession of cigarettes did not violate school rule or policy, since the school allowed smoking in designated areas. The contents of the handbag had no direct bearing on the infraction.
+
+"The assistant principal's desire, legal in itself, to gather evidence to impeach the student's credibility at a  [*384]  hearing on the disciplinary infraction does not validate the search." 28Link to the text of the note
+
+ [**766]  Like the New Jersey Supreme Court, I would view this case differently if the Assistant Vice Principal had reason to believe T. L. O.'s purse contained evidence of criminal activity, or of an activity that would seriously [****105]  disrupt school discipline. There was, however, absolutely no basis for any such assumption -- not even a "hunch."
+
+In this case, Mr. Choplick overreacted to what appeared to be nothing more than a minor infraction -- a rule prohibiting smoking in [****106]  the bathroom of the freshmen's and sophomores' building. 29Link to the text of the note It is, of course, true that he actually found evidence of serious wrongdoing by T. L. O., but no one claims that the prior search may be justified by his unexpected discovery. As far as the smoking infraction is concerned, the search for cigarettes merely tended to corroborate a teacher's eyewitness account of T. L. O.'s violation of a  [***763]  minor regulation designed to channel student smoking behavior into designated locations. Because this conduct was neither unlawful nor significantly disruptive of school order or the educational process, the invasion of privacy associated with the forcible opening of T. L. O.'s purse was entirely unjustified at its inception.
+
+A review of the sampling of school search cases relied on by the Court demonstrates how different this case is from those  [*385]  in which there was indeed [****107]  a valid justification for intruding on a student's privacy. In most of them the student was suspected of a criminal violation; 30Link to the text of the note [****108]  in the remainder either violence or substantial disruption of school order or the integrity of the academic process was at stake. 31Link to the text of the note Few involved matters as trivial as the no-smoking rule violated by T. L. O. 32Link to the text of the note The rule the Court adopts today is so open-ended that it may make the Fourth Amendment virtually meaningless in the school context. Although I agree that school administrators must have broad latitude to maintain order and discipline in our classrooms, that authority is not unlimited.
+
+IV
+
+The schoolroom is the first opportunity most citizens have to experience the power of government. Through it passes every citizen and public official, from schoolteachers to  [*386]  policemen and prison guards. The values they learn there, they take with them in life. One of our most cherished [****109]  ideals is the one contained in the Fourth Amendment: that the government may not  [**767]  intrude on the personal privacy of its citizens without a warrant or compelling circumstance. The Court's decision today is a curious moral for the Nation's youth. Although the search of T. L. O.'s purse does not trouble today's majority, I submit that we are not dealing with "matters relatively trivial to the welfare of the Nation. There are village tyrants as well as village Hampdens, but none who acts under color of law is beyond reach of the Constitution." West Virginia State Board of Education v. Barnette, 319 U.S. 624, 638 (1943).
+
+I respectfully dissent.
+
+Pet. for Cert. i.
+
+2Link to the location of the note in the document
+Supplemental Brief for Petitioner 6.
+
+3Link to the location of the note in the document
+State ex rel. T. L. O., 94 N. J. 331, 337, nn. 1 and 2, 342, n. 5, 463 A. 2d 934, 937, nn. 1 and 2, 939, n. 5 (1983).
+
+4Link to the location of the note in the document
+Id., at 341, 463 A. 2d, at 939.
+
+5Link to the location of the note in the document
+Id., at 341-342, 463 A. 2d, at 939.
+
+6Link to the location of the note in the document
+See, e. g., Stone v. Powell, 428 U.S. 465, 492 (1976); United States v. Janis, 428 U.S. 433, 453 (1976); United States v. Calandra, 414 U.S. 338, 347-348 (1974); Alderman v. United States, 394 U.S. 165, 174-175 (1969).
+
+7Link to the location of the note in the document
+Stone v. Powell, 428 U.S., at 493.
+
+8Link to the location of the note in the document
+See Board of Education v. Pico, 457 U.S. 853, 864-865 (1982) (BRENNAN, J., joined by MARSHALL and STEVENS, JJ.); id., at 876, 880 (BLACKMUN, J., concurring in part and concurring in judgment); Plyler v. Doe, 457 U.S. 202, 221 (1982); Ambach v. Norwick, 441 U.S. 68, 76 (1979); Tinker v. Des Moines Independent Community School Dist., 393 U.S. 503, 507, 511-513 (1969); Brown v. Board of Education, 347 U.S. 483, 493 (1954); West Virginia State Board of Education v. Barnette, 319 U.S. 624, 637 (1943).
+
+9Link to the location of the note in the document
+Cf. In re Gault, 387 U.S. 1, 26-27 (1967). JUSTICE BRENNAN has written of an analogous case:
+
+"We do not know what class petitioner was attending when the police and dogs burst in, but the lesson the school authorities taught her that day will undoubtedly make a greater impression than the one her teacher had hoped to convey. I would grant certiorari to teach petitioner another lesson: that the Fourth Amendment protects '[the] right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures'. . . . Schools cannot expect their students to learn the lessons of good citizenship when the school authorities themselves disregard the fundamental principles underpinning our constitutional freedoms." Doe v. Renfrow, 451 U.S. 1022, 1027-1028 (1981) (dissenting from denial of certiorari).
+
+10Link to the location of the note in the document
+Stone v. Powell, 428 U.S., at 492.
+
+11Link to the location of the note in the document
+36 U. S. C. § 172 (pledge of allegiance to the flag).
+
+12Link to the location of the note in the document
+A brief review of the Fourth Amendment cases involving criminal prosecutions since the October Term, 1982, supports the proposition. Compare Florida v. Rodriguez, ante, p. 1 (per curiam); United States v. Leon, 468 U.S. 897 (1984); Massachusetts v. Sheppard, 468 U.S. 981 (1984); Segura v. United States, 468 U.S. 796 (1984); United States v. Karo, 468 U.S. 705 (1984); Oliver v. United States, 466 U.S. 170 (1984); United States v. Jacobsen, 466 U.S. 109 (1984); Massachusetts v. Upton, 466 U.S. 727 (1984) (per curiam); Florida v. Meyers, 466 U.S. 380 (1984) (per curiam); Michigan v. Long, 463 U.S. 1032 (1983); Illinois v. Andreas, 463 U.S. 765 (1983); Illinois v. Lafayette, 462 U.S. 640 (1983); United States v. Villamonte-Marquez, 462 U.S. 579 (1983); Illinois v. Gates, 462 U.S. 213 (1983); Texas v. Brown, 460 U.S. 730 (1983); United States v. Knotts, 460 U.S. 276 (1983); Illinois v. Batchelder, 463 U.S. 1112 (1983) (per curiam); Cardwell v. Taylor, 461 U.S. 571 (1983) (per curiam), with Thompson v. Louisiana, ante, p. 17 (per curiam); Welsh v. Wisconsin, 466 U.S. 740 (1984); Michigan v. Clifford, 464 U.S. 287 (1984); United States v. Place, 462 U.S. 696 (1983); Florida v. Royer, 460 U.S. 491 (1983).
+
+13Link to the location of the note in the document
+E. g. United States v. Karo, 468 U.S., at 719-721; see also Segura v. United States, 468 U.S., at 805-813 (opinion of BURGER, C. J., joined by O'CONNOR, J.); cf. Illinois v. Gates, 459 U.S. 1028 (1982) (STEVENS, J., dissenting from reargument order, joined by BRENNAN and MARSHALL, JJ.)
+
+14Link to the location of the note in the document
+See also United States v. Brigoni-Ponce, 422 U.S. 873, 881-882 (1975); United States v. Martinez-Fuerte, 428 U.S. 543, 567 (1976).
+
+15Link to the location of the note in the document
+Cf. ante, at 353 (BLACKMUN, J., concurring in judgment) ("The special need for an immediate response to behavior that threatens either the safety of schoolchildren and teachers or the educational process itself justifies the Court in excepting school searches from the warrant and probable-cause requirement"); ante, at 350 (POWELL, J., concurring, joined by O'CONNOR, J.) ("Without first establishing discipline and maintaining order, teachers cannot begin to educate their students").
+
+16Link to the location of the note in the document
+Parent-Student Handbook of Piscataway [N. J.] H. S. (1979), Record Doc. S-1, p. 7. A brief survey of school rule books reveals that, under the majority's approach, teachers and school administrators may also search students to enforce school rules regulating:
+
+(i) secret societies;
+
+(ii) students driving to school;
+
+(iii) parking and use of parking lots during school hours;
+
+(iv) smoking on campus;
+
+(v) the direction of traffic in the hallways;
+
+(vi) student presence in the hallways during class hours without a pass;
+
+(vii) profanity;
+
+(viii) school attendance of interscholastic athletes on the day of a game, meet or match;
+
+(ix) cafeteria use and cleanup;
+
+(x) eating lunch off-campus; and
+
+(xi) unauthorized absence.
+
+See id., at 7-18; Student Handbook of South Windsor [Conn.] H. S. (1984); Fairfax County [Va.] Public Schools, Student Responsibilities and Rights (1980); Student Handbook of Chantilly [Va.] H. S. (1984).
+
+17Link to the location of the note in the document
+Cf. Camara v. Municipal Court, 387 U.S. 523, 535-536 (1967) ("There is unanimous agreement among those most familiar with this field that the only effective way to seek universal compliance with the minimum standards required by municipal codes is through routine periodic inspections of all structures. . . . [If] the probable cause standard . . . is adopted, . . . the reasonable goals of code enforcement will be dealt a crushing blow").
+
+18Link to the location of the note in the document
+See Goss v. Lopez, 419 U.S. 565, 583-584 (1975).
+
+19Link to the location of the note in the document
+"The sad truth is that many classrooms across the country are not temples of learning teaching the lessons of good will, civility, and wisdom that are central to the fabric of American life. To the contrary, many schools are in such a state of disorder that not only is the educational atmosphere polluted, but the very safety of students and teachers is imperiled." Brief for United States as Amicus Curiae 23.
+
+See also Brief for National Education Association as Amicus Curiae 21 ("If a suspected violation of a rule threatens to disrupt the school or threatens to harm students, school officials should be free to search for evidence of it").
+
+20Link to the location of the note in the document
+Terry v. Ohio, 392 U.S. 1, 29 (1968); United States v. Brignoni-Ponce, 422 U.S., at 881-882.
+
+21Link to the location of the note in the document
+Throughout the criminal law this dichotomy has been expressed by classifying crimes as misdemeanors or felonies, malum prohibitum or malum in se, crimes that do not involve moral turpitude or those that do, and major or petty offenses. See generally W. LaFave, Handbook on Criminal Law § 6 (1972).
+
+Some codes of student behavior also provide a system of graduated response by distinguishing between violent, unlawful, or seriously disruptive conduct, and conduct that will only warrant serious sanctions when the student engages in repetitive offenses. See, e. g., Parent-Student Handbook of Piscataway [N. J.] H. S. (1979), Record Doc. S-1, pp. 15-16; Student Handbook of South Windsor [Conn.] H. S. para. E (1984); Rules of the Board of Education of the District of Columbia, Ch. IV, §§ 431.1-.10 (1982). Indeed, at Piscataway High School a violation of smoking regulations that is "[a] student's first offense will result in assignment of up to three (3) days of after school classes concerning hazards of smoking." Record Doc. S-1, supra, at 15.
+
+22Link to the location of the note in the document
+In Goss v. Lopez, 419 U.S., at 582-583 (emphasis added), the Court noted that similar considerations require some variance in the requirements of due process in the school disciplinary context:
+
+"[As] a general rule notice and hearing should precede removal of the student from school. We agree . . . , however, that there are recurring situations in which prior notice and hearing cannot be insisted upon. Students whose presence poses a continuing danger to persons or property or an ongoing threat of disrupting the academic process may be immediately removed from school. In such cases the necessary notice and rudimentary hearing should follow as soon as practicable. . . ."
+
+23Link to the location of the note in the document
+In McDonald police officers made a warrantless search of the office of an illegal "numbers" operation. Justice Jackson rejected the view that the search could be supported by exigent circumstances:
+
+"Even if one were to conclude that urgent circumstances might justify a forced entry without a warrant, no such emergency was present in this case. . . . Whether there is reasonable necessity for a search without waiting to obtain a warrant certainly depends somewhat upon the gravity of the offense thought to be in progress as well as the hazards of the method of attempting to reach it. . . . [The defendant's] criminal operation, while a shabby swindle that the police are quite right in suppressing, was not one which endangered life or limb or the peace and good order of the community. . . ." 335 U.S., at 459-460.
+
+24Link to the location of the note in the document
+While a policeman who sees a person smoking in an elevator in violation of a city ordinance may conduct a full-blown search for evidence of the smoking violation in the unlikely event of a custodial arrest, United States v. Robinson, 414 U.S. 218, 236 (1973); Gustafson v. Florida, 414 U.S. 260, 265-266 (1973), it is more doubtful whether a search of this kind would be reasonable if the officer only planned to issue a citation to the offender and depart, see Robinson, 414 U.S., at 236, n. 6. In any case, the majority offers no rationale supporting its conclusion that a student detained by school officials for questioning, on reasonable suspicion that she has violated a school rule, is entitled to no more protection under the Fourth Amendment than a criminal suspect under custodial arrest.
+
+25Link to the location of the note in the document
+One thing is clear under any standard -- the shocking strip searches that are described in some cases have no place in the schoolhouse. See Doe v. Renfrow, 631 F.2d 91, 92-93 (CA7 1980) ("It does not require a constitutional scholar to conclude that a nude search of a 13-year-old child is an invasion of constitutional rights of some magnitude"), cert. denied, 451 U.S. 1022 (1981); Bellnier v. Lund, 438 F.Supp. 47 (NDNY 1977); People v. D., 34 N. Y. 2d 483, 315 N. E. 2d 466 (1974); M. J. v. State, 399 So. 2d 996 (Fla. App. 1981). To the extent that deeply intrusive searches are ever reasonable outside the custodial context, it surely must only be to prevent imminent, and serious harm.
+
+26Link to the location of the note in the document
+94 N. J., at 346, 463 A. 2d, at 941-942 (quoting State v. McKinnon, 88 Wash. 2d 75, 81, 558 P. 2d 781, 784 (1977)) (emphasis added).
+
+27Link to the location of the note in the document
+94 N. J., at 347, 463 A. 2d, at 942 (emphasis added).
+
+28Link to the location of the note in the document
+Ibid. The court added:
+
+"Moreover, there were not reasonable grounds to believe that the purse contained cigarettes, if they were the object of the search. No one had furnished information to that effect to the school official. He had, at best, a good hunch. No doubt good hunches would unearth much more evidence of crime on the persons of students and citizens as a whole. But more is required to sustain a search." Id., at 347, 463 A. 2d, at 942-943.
+
+It is this portion of the New Jersey Supreme Court's reasoning -- a portion that was not necessary to its holding -- to which this Court makes its principal response. See ante, at 345-346.
+
+29Link to the location of the note in the document
+See Parent-Student Handbook of Piscataway [N. J.] H. S. 15, 18 (1979), Record Doc. S-1. See also Tr. of Mar. 31, 1980, Hearing 13-14.
+
+30Link to the location of the note in the document
+See, e. g., Tarter v. Raybuck, 742 F.2d 977 (CA6 1984) (search for marihuana); M. v. Board of Education Ball-Chatham Community Unit School Dist. No. 5, 429 F.Supp. 288 (SD Ill. 1977) (drugs and large amount of money); D. R. C. v. State, 646 P. 2d 252 (Alaska App. 1982) (stolen money); In re W., 29 Cal. App. 3d 777, 105 Cal. Rptr. 775 (1973) (marihuana); In re G., 11 Cal. App. 3d 1193, 90 Cal. Rptr. 361 (1970) (amphetamine pills); In re Donaldson, 269 Cal. App. 2d 509, 75 Cal. Rptr. 220 (1969) (methedrine pills); State v. Baccino, 282 A. 2d 869 (Del. Super. 1971) (drugs); State v. D. T. W., 425 So. 2d 1383 (Fla. App. 1983) (drugs); In re J. A., 85 Ill. App. 3d 567, 406 N. E. 2d 958 (1980) (marihuana); People v. Ward, 62 Mich. App. 46, 233 N. W. 2d 180 (1975) (drug pills); Mercer v. State, 450 S. W. 2d 715 (Tex. Civ. App. 1970) (marihuana); State v. McKinnon, 88 Wash. 2d 75, 558 P. 2d 781 (1977) ("speed").
+
+31Link to the location of the note in the document
+See, e. g., In re L. L., 90 Wis. 2d 585, 280 N. W. 2d 343 (App. 1979) (search for knife or razor blade); R. C. M. v. State, 660 S. W. 2d 552 (Tex. App. 1983) (student with bloodshot eyes wandering halls in violation of school rule requiring students to remain in examination room or at home during midterm examinations).
+
+32Link to the location of the note in the document
+See, e. g., State v. Young, 234 Ga. 488, 216 S. E. 2d 586 (three students searched when they made furtive gestures and displayed obvious consciousness of guilt), cert. denied, 423 U.S. 1039 (1975); Doe v. State, 88 N. M. 347, 540 P. 2d 827 (1975) (student searched for pipe when a teacher saw him using it to violate smoking regulations).

@@ -1,0 +1,31 @@
+﻿
+
+
+111 S.Ct. 604
+Supreme Court of the United States
+John L. CHEEK, Petitioner,
+v.
+UNITED STATES.
+No. 89-658.
+|
+Argued Oct. 3, 1990.
+|
+Decided Jan. 8, 1991.
+
+Justice SCALIA, concurring in the judgment.
+
+I concur in the judgment of the Court because our cases have consistently held that the failure to pay a tax in the good-faith belief that it is not legally owing is not “willful.” I do not join the Court’s opinion because I do not agree with the test for willfulness that it directs the Court of Appeals to apply on remand.
+ 
+As the Court acknowledges, our opinions from the 1930’s to the 1970’s have interpreted the word “willfully” in the criminal tax statutes as requiring the “bad purpose” or “evil motive” of “intentional[ly] violat[ing] a known legal duty.” See, e.g., United States v. Pomponio, 429 U.S. 10, 12, 97 S.Ct. 22, 23, 50 L.Ed.2d 12 (1976); United States v. Murdock, 290 U.S. 389, 394-395, 54 S.Ct. 223, 225-226, 78 L.Ed. 381 (1933). It seems to me that today’s opinion squarely reverses that long-established statutory construction **614 when it says that a good-faith erroneous belief in the unconstitutionality of a tax law is no defense. It is quite impossible to say that a statute which *208 one believes unconstitutional represents a “known legal duty.” See Marbury v. Madison, 1 Cranch 137, 177-178, 2 L.Ed. 60 (1803).
+ 
+Although the facts of the present case involve erroneous reliance upon the Constitution in ignoring the otherwise “known legal duty” imposed by the tax statutes, the Court’s new interpretation applies also to erroneous reliance upon a tax statute in ignoring the otherwise “known legal duty” of a regulation, and to erroneous reliance upon a regulation in ignoring the otherwise “known legal duty” of a tax assessment. These situations as well meet the opinion’s crucial test of “reveal[ing] full knowledge of the provisions at issue and a studied conclusion, however wrong, that those provisions are invalid and unenforceable,” ante, at 612-613. There is, moreover, no rational basis for saying that a “willful” violation is established by full knowledge of a statutory requirement, but is not established by full knowledge of a requirement explicitly imposed by regulation or order. Thus, today’s opinion works a revolution in past practice, subjecting to criminal penalties taxpayers who do not comply with Treasury Regulations that are in their view contrary to the Internal Revenue Code, Treasury Rulings that are in their view contrary to the regulations, and even IRS auditor pronouncements that are in their view contrary to Treasury Rulings. The law already provides considerable incentive for taxpayers to be careful in ignoring any official assertion of tax liability, since it contains civil penalties that apply even in the event of a good-faith mistake, see, e.g., 26 U.S.C. §§ 6651, 6653. To impose in addition criminal penalties for misinterpretation of such a complex body of law is a startling innovation indeed.
+ 
+I find it impossible to understand how one can derive from the lonesome word “willfully” the proposition that belief in the nonexistence of a textual prohibition excuses liability, but belief in the invalidity (i.e., the legal nonexistence) of a textual prohibition does not. One may say, as the law does *209 in many contexts, that “willfully” refers to consciousness of the act but not to consciousness that the act is unlawful. See, e.g., American Surety Co. of New York v. Sullivan, 7 F.2d 605, 606 (CA2 1925) (L. Hand, J.); cf. United States v. International Minerals & Chemical Corp., 402 U.S. 558, 563-565, 91 S.Ct. 1697, 1700-1702, 29 L.Ed.2d 178 (1971). Or alternatively, one may say, as we have said until today with respect to the tax statutes, that “willfully” refers to consciousness of both the act and its illegality. But it seems to me impossible to say that the word refers to consciousness that some legal text exists, without consciousness that that legal text is binding, i.e., with the good-faith belief that it is not a valid law. Perhaps such a test for criminal liability would make sense (though in a field as complicated as federal tax law, I doubt it), but some text other than the mere word “willfully” would have to be employed to describe it-and that text is not ours to write.
+ 
+Because today’s opinion abandons clear and longstanding precedent to impose criminal liability where taxpayers have had no reason to expect it, because the new contours of criminal liability have no basis in the statutory text, and because I strongly suspect that those new contours make no sense even as a policy matter, I concur only in the judgment of the Court.
+ 
+
+
+
+
+

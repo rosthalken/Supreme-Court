@@ -1,0 +1,44 @@
+﻿SHELDON BARUCH TOIBB, PETITIONER v. STUART J. RADLOFF
+
+No. 90-368
+
+SUPREME COURT OF THE UNITED STATES
+
+501 U.S. 157
+
+April 22, 1991, Argued 
+June 13, 1991, Decided 
+
+JUSTICE STEVENS, dissenting.
+The Court's reading of the statute is plausible. It is supported by the omission of any prohibition against the use of Chapter 11 by consumer debtors and by the excerpt from the introduction to the Senate Report, quoted ante, at 162. Nevertheless, I am persuaded that the Court's reading is incorrect. Two chapters of the Bankruptcy Code -- Chapter 7, entitled "Liquidation," 11 U. S. C. § 701 et seq., and Chapter 13, entitled "Adjustment of  [***155]  Debts of an Individual With Regular Income," § 1301 et seq. -- unquestionably and unambiguously authorize relief for individual consumer debtors. Chapter 11, entitled "Reorganization," § 1101 et seq., was primarily designed to provide relief for corporate debtors but also unquestionably authorizes relief for individual proprietors of business enterprises. When the statute is read as a whole, however, it seems quite clear that Congress did not  [*167]  intend to authorize a "reorganization" of the affairs of an individual consumer debtor.
+Section 109(d) places a limit on the class of persons who may be a debtor under Chapter 11, but it does not state that all members of that class are eligible for Chapter 11 relief. 1 It states that "only a person that may be a debtor under Chapter 7 . . . may be a debtor under Chapter 11 . . . ." (Emphasis added.) It does not, however, state that every person entitled to relief under Chapter 7 is also entitled to relief under Chapter 11. In my judgment, the word "only" introduces sufficient ambiguity to justify a careful examination of other provisions of the Act, as well as the legislative history.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 Section 109(d) provides:
+"Only a person that may be a debtor under chapter 7 of this title, except a stockholder or a commodity broker, and a railroad may be a debtor under Chapter 11 of this title." 11 U. S. C. § 109(d) (emphasis added).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+This examination convinces me that consumer debtors may not avail themselves of  [**2203]  Chapter 11. The repeated references to the debtor's "business," 2 "the operation of the debtor's business," 3 and the "current or former management of the debtor" 4 make it abundantly clear that the principal focus of the chapter is upon business reorganizations. This conclusion is confirmed by the discussion of Chapter 11 in the Senate Report, which describes the provision as a "chapter for business reorganization" and repeatedly refers to a "business" as the subject of Chapter 11 relief. 5 See also 124  [*168]  Cong.  [***156]  Rec. 34007 (1978) (Chapter 11 is a "consolidated approach to business rehabilitation") (statement of Sen. DeConcini).
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+2 See, e. g., §§ 1101(2)(B), 1108.
+3 See, e. g., §§ 1103(c)(2), 1105, 1106(a)(3).
+4 See § 1104(b).
+5 The Senate Report contains the following explanation of Chapter 11 reorganizations:
+"Chapter 11 deals with the reorganization of a financially distressed business enterprise, providing for its rehabilitation by adjustment of its debt obligations and equity interests. It should be distinguished from the bankruptcy liquidation under chapter 7 or the adjustment of the debts of an individual with regular income under chapter 13.
+"Chapter 11 replaces chapters X, XI and XII of the Bankruptcy Act, Chapter 11 also includes special provisions for railroads in view of the impact of regulatory laws on railroad debtors and replaces section 77 of the Bankruptcy Act. A single chapter for all business reorganizations will simplify the law by eliminating unnecessary differences in detail that are inevitable under separately administered statutes.
+"Business reorganizations have been governed principally by chapters X and XI, both of which have been adopted by the Congress as part of the bankruptcy reforms in 1938. These chapters were not intended to be alternate paths of reorganization; they were to be mutually exclusive. Chapter X was meant for the reorganization of public companies and chapter XI for the rehabilitation of small and privately owned businesses.
+"That schematic design was well conceived, but flawed somewhat by the failure to include a definition of a 'public company.' As a result, considerable litigation developed, mostly on the initiative of the Securities and Exchange Commission, over whether a case belonged in chapter X or chapter XI. This issue came to the Supreme Court in three cases, the last one in SEC v. American Trailer Rentals, Inc., 379 U.S. 594, 13 L. Ed. 2d 510, 85 S. Ct. 513 (1965), but the Court did not enunciate a hard-and-fast rule for all cases. Although it announced some guidelines, management and creditors of large public companies have continued to resort to chapter XI.
+"The single chapter for business reorganization, which the bill provides, will eliminate unprofitable litigation over the preliminary issue as to which of the two chapters apply. . . .
+"Reorganization, in its fundamental aspects, involves the thankless task of determining who should share the losses incurred by an unsuccessful business and how the values of the estate should be apportioned among creditors and stockholders." S. Rep. No. 95-989, pp. 9-10 (1978).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+The House Report, however, is more significant because it emphasizes the relationship between different chapters of the Code. The Report unambiguously states that a Chapter 7 liquidation is "the only remedy" for "consumer debtors [who] are unable to avail themselves of the relief provided under chapter 13." H. R. Rep. No. 95-595, p. 125 (1977). See also 124 Cong. Rec., at 32392, 32405 (Chapter 11 is "a consolidated approach to business rehabilitation" and a "new commercial reorganization chapter") (statement of Rep. Edwards). The accuracy of the statement in the House Report  [*169]  is confirmed by a comparison of the text of Chapter 11 with the text of Chapter 13.
+Above, I noted the striking difference between the chapter titles -- "Reorganization" for Chapter 11 as opposed to "Adjustment of Debts of an Individual With Regular Income" for Chapter 13. Also significant is the conspicuous omission from Chapter 11 of both an important limit and an important protection included in Chapter 13. Chapter 13 relief is only available to individuals whose unsecured debts amount to less than $ 100,000 and whose secured debts are less than $ 350,000. See 11 U. S. C. § 109 (e). Chapter 11 contains no comparable limit. Congress would have accomplished little in imposing this limit on the adjustment of individual consumer debt through Chapter 13 if Congress at the same time allowed the individual  [**2204]  to avoid the limitation by filing under Chapter 11. 6
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+6 Although the Court believes that permitting consumer debtors to avail themselves of Chapter 11 will not adversely affect their creditors, ante, at 164-165, I am not so sure. It takes time and money to determine whether a plan will provide creditors with benefits equal to those available through liquidation and still more time and money to find out whether such a predictive decision turns out to be correct or incorrect. The "complex" Chapter 11 process, see S. Rep. No. 95-989, p. 3 (1978), will almost certainly consume more time and resources than the simpler Chapter 7 procedures.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+More important, the Code expressly provides that involuntary proceedings can only be instituted under Chapter 7 and Chapter 11. See 11 U. S. C. § 303 (a). A creditor therefore may not force an individual consumer debtor into an involuntary Chapter 13 proceeding. Under the Court's reading of the Act, however, a creditor could institute an involuntary proceeding under Chapter 11 against any individual with regular income. It seems highly unlikely that Congress intended to subject individual consumer debtors, such as pensioners, to involuntary Chapter 11 proceedings while at the same time prohibiting involuntary Chapter 13 proceedings against the same class of debtors.
+ [*170]  For these reasons, notwithstanding  [***157]  the excerpt from the Senate Report on which the Court relies, I would, in accordance with the clear statement in the House Report, read the statute as a whole to limit Chapter 11 relief to business debtors. I therefore respectfully dissent. 

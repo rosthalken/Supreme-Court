@@ -1,0 +1,34 @@
+﻿
+
+
+113 S.Ct. 2786
+Supreme Court of the United States
+William DAUBERT, et ux., etc., et al., Petitioners,
+v.
+MERRELL DOW PHARMACEUTICALS, INC.
+No. 92–102.
+|
+Argued March 30, 1993
+|
+Decided June 28, 1993.
+
+Chief Justice REHNQUIST, with whom Justice STEVENS joins, concurring in part and dissenting in part.
+
+The petition for certiorari in this case presents two questions: first, whether the rule of Frye v. United States, 54 App.D.C. 46, 293 F. 1013 (1923), remains good law after the enactment of the Federal Rules of Evidence; and second, if Frye remains valid, whether it requires expert scientific testimony to have been subjected to a peer review process in order to be admissible. The Court concludes, correctly in my view, that the Frye rule did not survive the enactment of the Federal Rules of Evidence, and I therefore join Parts I and II–A of its opinion. The second question presented in the petition for certiorari necessarily is mooted by this holding, but the Court nonetheless proceeds to construe Rules 702 and 703 very much in the abstract, and then offers some “general observations.” Ante, at 2796.
+ 
+“General observations” by this Court customarily carry great weight with lower federal courts, but the ones offered here suffer from the flaw common to most such observations—they are not applied to deciding whether particular testimony was or was not admissible, and therefore they tend to be not only general, but vague and abstract. This is particularly unfortunate in a case such as this, where the ultimate legal question depends on an appreciation of one or more bodies of knowledge not judicially noticeable, and subject to different interpretations in the briefs of the parties and their amici. Twenty-two amicus briefs have been filed in the case, and indeed the Court’s opinion contains no fewer than 37 citations to amicus briefs and other secondary sources.
+ 
+599 *599 The various briefs filed in this case are markedly different from typical briefs, in that large parts of them do not deal with decided cases or statutory language—the sort of material we customarily interpret. Instead, they deal with definitions of scientific knowledge, scientific method, scientific validity, and peer review—in short, matters far afield from the expertise of judges. This is not to say that such materials are not useful or even necessary in deciding how Rule 703 should be applied; but it is to say that the unusual subject matter should cause us to proceed with great caution in deciding more than we have to, because our reach can so easily exceed our grasp.
+ 
+But even if it were desirable to make “general observations” not necessary to decide **2800 the questions presented, I cannot subscribe to some of the observations made by the Court. In Part II–B, the Court concludes that reliability and relevancy are the touchstones of the admissibility of expert testimony. Ante, at 2794–95. Federal Rule of Evidence 402 provides, as the Court points out, that “[e]vidence which is not relevant is not admissible.” But there is no similar reference in the Rule to “reliability.” The Court constructs its argument by parsing the language “[i]f scientific, technical, or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue, ... an expert ... may testify thereto....” Fed.Rule Evid. 702. It stresses that the subject of the expert’s testimony must be “scientific ... knowledge,” and points out that “scientific” “implies a grounding in the methods and procedures of science” and that the word “knowledge” “connotes more than subjective belief or unsupported speculation.” Ante, at 2794–95. From this it concludes that “scientific knowledge” must be “derived by the scientific method.” Ante, at 2795. Proposed testimony, we are told, must be supported by “appropriate validation.” Ante, at 2795. Indeed, in footnote 9, the Court decides that “[i]n a case involving scientific evidence, evidentiaryreliability  *600 will be based upon scientific validity.” Ante, at 2795, n. 9 (emphasis inoriginal).
+ 
+Questions arise simply from reading this part of the Court’s opinion, and countless more questions will surely arise when hundreds of district judges try to apply its teaching to particular offers of expert testimony. Does all of this dicta apply to an expert seeking to testify on the basis of “technical or other specialized knowledge”—the other types of expert knowledge to which Rule 702 applies—or are the “general observations” limited only to “scientific knowledge”? What is the difference between scientific knowledge and technical knowledge; does Rule 702 actually contemplate that the phrase “scientific, technical, or other specialized knowledge” be broken down into numerous subspecies of expertise, or did its authors simply pick general descriptive language covering the sort of expert testimony which courts have customarily received? The Court speaks of its confidence that federal judges can make a “preliminary assessment of whether the reasoning or methodology underlying the testimony is scientifically valid and of whether that reasoning or methodology properly can be applied to the facts in issue.” Ante, at 2796. The Court then states that a “key question” to be answered in deciding whether something is “scientific knowledge” “will be whether it can be (and has been) tested.” Ante, at 2796. Following this sentence are three quotations from treatises, which not only speak of empirical testing, but one of which states that the “ ‘criterion of the scientific status of a theory is its falsifiability, or refutability, or testability,’ ” Ante, at 2796–97.
+ 
+I defer to no one in my confidence in federal judges; but I am at a loss to know what is meant when it is said that the scientific status of a theory depends on its “falsifiability,” and I suspect some of them will be, too.
+ 
+I do not doubt that Rule 702 confides to the judge some gatekeeping responsibility in deciding questions of the admissibility of proffered expert testimony. But I do not think 601 *601 it imposes on them either the obligation or the authority to become amateur scientists in order to perform that role. I think the Court would be far better advised in this case to decide only the questions presented, and to leave the further development of this important area of the law to future cases.
+ 
+
+
+
+

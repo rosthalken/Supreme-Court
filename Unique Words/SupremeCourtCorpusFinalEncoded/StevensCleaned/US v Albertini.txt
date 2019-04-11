@@ -1,0 +1,158 @@
+﻿
+In 1909 Congress enacted a new statute making it a federal crime to trespass on     military bases in specified circumstances. That statute, now codified as 18 U. S. C. § 1382, provided:
+
+"Whoever shall go upon any military reservation, army post, fort, or arsenal, for any purpose prohibited by law or military regulation made in pursuance of law, or whoever shall reenter or be found within any such reservation, post, fort, or arsenal, after having been removed therefrom or ordered     not to reenter by any officer or person in command or charge thereof, shall be fined not more than five hundred dollars, or imprisoned not more than six months, or both." 35 Stat. 1097.
+
+In my opinion, Congress did not intend to punish a visit to a military reservation under the second clause of this statute when circumstances reasonably indicated that the visit was not prohibited but welcome.
+
+In this case, respondent was "removed as a trespasser from Hickam Air Force Base," on March 2, 1972, and     "ordered not to reenter." 1Link to the text of the note The removal and order not to     return apparently were the result of respondent's destruction of Government property valued under $ 100 during a demonstration against the war in Vietnam. 2Link to the text of the note
+
+    Over nine years later, respondent was "found within . . . such reservation." Among 50,000 other civilians, he had accepted a widely advertised invitation to the public to attend the 32nd Annual Armed Forces Day Open House hosted by Hickam Air Force Base on May 16, 1981. A news release, issued by the Base, stated:
+
+"HICKAM HOSTS JOINT SERVICE OPEN HOUSE
+
+"Hickam Air Force Base, Hawaii (April 16, 1981) -- The 32nd Annual Armed Forces Day Open House will be held here Saturday May 16 from 9 a. m. to 4 p. m. The     theme this year is the 'U.S. Armed Forces -- Strong and Ready.'
+
+"Top local, country and western, and military entertainment -- provided by the Royal Hawaiian Band, the Aloha Airlines Musical/Hula Troupe, J. T. and the Rowdy Band, Dave West and the Chaingang, Chris Cassidy and the Rainbow Connection, the Skylarks and the Fleet Marine Force Pacific Band -- will perform during the open house.
+
+"    More than 30 aircraft from the U.S. Army, Navy, Air Force, Marine Corps, Coast Guard, Hawaii Army and Air National Guard, Civil Air Patrol and the     Wheeler Aero Club will be on display throughout the day.
+
+"Parachute jumps by the Navy and the Marine Corps, Marine    troops, rappelling from helicopters, aircraft flyovers by the Hawaii Air National Guard, Air Force and the Navy are also scheduled.
+
+"Additionally, a crash/rescue demonstration by the Hickam Fire Department, a helicopter rescue demonstration by the Coast Guard and several police dog demonstrations by the Hickam Security Police will be conducted that day.
+
+"Also open that day is the annual Air Force Hawaii Youth Festival. Carnival rides, games and a midway packed with food and drinks will be the main attractions. Air Force nominees, representing the various commands at Hickam will compete for the crown of Youth Festival Queen. The crowning ceremony will take place Friday evening at 6 p. m.
+
+"Hickam, normally a closed base, will be open to the public for the Armed Forces Day Open House." App. 46-47.
+
+Radio advertisements extended a similar invitation to the public to attend the open house. Id., at 48.
+
+In my opinion, respondent's visit to the open house in this case in response to a general invitation to the public extended     nine years after he was removed from the base and ordered not to reenter does not involve the kind of reentry that Congress intended to prohibit     when it enacted the 1909 statute. In reaching a contrary conclusion, the Court relies heavily on the ordinary meaning of the statutory language, the fact that respondent had committed a misdemeanor on the base in 1972, and the fact that respondent's removal in 1972 was evidenced by a "bar letter." The "plain language" argument proves too much, and the evidentiary arguments prove too little.
+
+I
+
+In Cafeteria Workers v. McElroy, 367 U.S. 886 (1961), this Court recognized "the historically unquestioned power of a commanding officer summarily to exclude civilians from the area of his command." Id., at 893. In exercising this power, a base commander is only limited by the Constitution and by the standard administrative requirement that "he must not act in an arbitrary or capricious manner. His action must be reasonable in relation to his responsibility to protect and preserve order on the installation and to safeguard persons and property thereon." 3Link to the text of the note Even with these limitations, civilians may be removed from military bases for a wide variety of reasons such as reconnoitering military fortifications or troop movements, carrying a concealed weapon    or a controlled substance, destroying Government property,     creating a disturbance, violating a traffic regulation, attempting to induce a soldier to visit a saloon or to engage in an immoral act, wandering into an area where a training exercise is in progress, or perhaps even "chewing gum in the wrong place." See n. 2, supra. 4Link to the text of the note
+
+        Congress enacted § 1382 as a supplement to the military's power to exclude unwelcome civilians from military installations. The Senate and House Committee Reports on the bill explain the reasons for enacting § 1382:
+
+"It is . . . designed to punish persons who, having been ejected from a fort, reservation, etc., return for the purpose of obtaining information respecting the strength, etc., of the fort, etc., or for the     purpose of inducing the men to visit saloons, dives, and similar places. Such persons may now go upon forts and reservations repeatedly for such purposes and there is no law to punish them." S. Rep. No. 10, 60th Cong., 1st Sess., 16 (1908); H. R. Rep. No. 2, 60th Cong., 1st Sess., 16 (1908). 5Link to the text of the note
+
+Section 1382 provides for criminal punishment, in addition to administrative ejectment, for a limited class of unwelcome visitors to military installations.
+
+        The power to initiate criminal proceedings under § 1382 is narrower than the base commander's broad power to exclude civilians from his facility. By its terms, the first clause of the statute only applies to persons who seek entry to a military installation for the purpose of committing unlawful acts. The second applies to any person who reenters the facility after physical removal or an order not to reenter. The limited criminal liability provided by Congress in § 1382 evinces a design to protect innocent or inadvertent entries onto military lands from becoming a criminal trespass. 6Link to the text of the note
+
+    The     two clauses of § 1382 were originally enacted as a single sentence; if they are read together, a plausible construction becomes apparent. The statute was aimed at trespassers -- civilians whom the military had the power to exclude but not to punish. The first clause authorized the punishment of a trespasser if it could be proved that he had entered "for any purpose prohibited by law or [lawful] military regulation"; the second clause made it unnecessary to prove any unlawful purpose if the trespasser "[reenters]" after having been removed. In many circumstances, of course, a second trespass in defiance of removal or an order not to reenter may safely be presumed to be motivated by an unlawful purpose -- especially when the reentry closely follows the exclusion from the base, and its circumstances are similar.
+
+When circumstances reasonably indicate to an individual that a visit to the base is permitted or even welcome, there is no "reentry" in defiance of authority as the statute here     presumes. Base authorities, of course, have ample power to exclude such individuals. But criminal prosecution of a person entering under these circumstances is fundamentally    inconsistent with Congress' intent to excuse innocent and inadvertent intrusions onto military reservations. No rule of construction requires that we attribute to Congress an intent which is at odds with its own design and which results "in patently absurd consequences." United States v. Brown, 333 U.S. 18, 27 (1948). In fact, this Court, "in keeping with the common-law tradition and with the     general injunction that 'ambiguity concerning the ambit of criminal statutes should be resolved in favor of lenity,' Rewis v. United States, 401 U.S. 808, 812 (1971), has on a number of occasions read a state-of-mind component into an offense even when the statutory definition did not in terms so provide." United States v. United States Gypsum Co., 438 U.S. 422, 437 (1978).
+
+II
+
+Adopting a starkly literal interpretation of the second clause of § 1382, the Court concludes that Congress intended to impose strict liability every time an individual is "found within" a military reservation after having been "removed therefrom or ordered not to reenter." Under this construction, the circumstances of neither the removal    nor the reentry are relevant to the criminal offense. Emphasizing the absence of any reference to the defendant's state of mind in the second clause, the Court rejects what it considers to be the "remarkable proposition" that a civilian removed from a base or ordered not to reenter may ever reasonably believe that he could safely return to the base. Ante, at 683. The Court's literal approach to the question of statutory construction, if applied with the frozen logic the Court purports to espouse, expands the coverage of the Act far beyond anything that Congress actually could have intended.
+
+    There are many situations in which the circumstances of the removal or order not to reenter simply do not suggest to     the reasonable citizen that a later reentry is barred. Under the Court's interpretation of the statute, a person who was removed from Hickam in 1972 because he was intoxicated, is guilty of a federal offense if he returns to attend an open house nine years later. Even worse, it is not inconceivable that at the 4 p. m. curfew hour many persons may not yet have departed the Hickam open house. If the base commander, or someone acting under his authority,     terminated the party with an address over the loudspeaker system which ended with an unambiguous order to depart within the next 30 minutes, hundreds -- perhaps thousands -- of civilians would have "been removed therefrom" within the literal meaning of § 1382. If the statutory language is interpreted literally, every one of these civilians would act at his peril if he accepted an invitation to the open house in the following year. 7Link to the text of the note
+
+    Moreover, highways or other public easements often bisect military reservations. Cf. Flower v. United States, 407 U.S. 197 (1972). Respondent has informed us that a substantial portion of the main runway at Honolulu International Airport lies inside the boundaries of Hickam Air Force Base. Brief for Respondent 8. If an individual who has been removed from Hickam is liable under § 1382 whenever he is thereafter "found within" its boundaries, he risks criminal punishment every time he departs on an airline flight that may use the runway traversing the base. The use of these military lands for the limited public purposes for which they     have been set aside does not involve the bold defiance of authority that is foreseen by the structure of the statute and reflected in its legislative history. Surely Congress did not intend to impose criminal liability for the use of a civilian airport -- even for persons who have been previously "removed" from a military base by administrative action, or ordered not to reenter.
+
+    The Court prefers to rely on the Due Process Clause to limit the oppressive and absurd consequences of its literal construction.     It seems wiser to presume that "the legislature intended exceptions to its language which would avoid results of this character. The reason of the law in such cases should prevail over its letter." United States v. Kirby, 7 Wall. 482, 486-487 (1869). At some point, common sense must temper the excesses of statutory literalism.
+
+III
+
+The Court repeatedly emphasizes that respondent received a "bar letter" ordering him not to reenter the base. The statute, however, contains     no requirement that the removal of a trespasser be documented in any way or that an order not to reenter be in writing. In 1909 Congress was concerned with trespassers who refused to obey verbal orders to depart. See n. 5, supra. The practice of issuing written orders not to reenter apparently arose after the enactment of the statute in order to serve an evidentiary function.
+
+The bar letter is evidence of the fact that its recipient has been removed from the base and ordered not to reenter. It is issued when prosecution for subsequent reentry is contemplated, 8Link to the text of the note but nothing in the statute gives such a letter any     greater legal effect than a sentry's ejectment of    a peddler or a panderer. As a matter of administration, the practice of issuing such bar letters is surely commendable, but it cannot, in my judgment, expand the coverage of the statute in the slightest.
+
+    The Court also seems to attach significance to the fact that the bar letter delivered to respondent in 1972 had been precipitated by an unlawful act. I agree, of course, that Congress could not have intended the statute to apply to a reentry following an invalid order of removal -- even if the literal wording of the Act draws no such distinction. But a verbal order to depart simply because the curfew hour has been reached has the same legal effect as an order to depart because a crime has been committed. In either event, a reentry will violate § 1382.
+
+In this case, the evidentiary significance of the 1972 removal and order not to reenter is significantly attenuated by the passage of nearly a decade from the date of the event. Every area of our laws recognizes that at some point, "even wrongdoers are entitled to assume that their sins may be forgotten." Wilson v. Garcia, 471 U.S. 261, 271 (1985). By limiting the effect of orders not to reenter to a period of one or two years, App. 60-62, recent military practice has recognized that the character of an individual may change dramatically over time. Cf. Fed. Rule Evid. 609(b). Indeed, until this case no    reported prosecution under § 1382 relied on a removal or order not to reenter of greater vintage. 9Link to the text of the note
+
+                A decade-old bar letter might provide a basis for excluding the recipient from a base under appropriate circumstances. It does not, however, provide persuasive evidence that a reasonable person would believe that its proscriptive effect continued in perpetuity to pre-empt the effect of a public invitation to attend an open house at the base. 10Link to the text of the note This is especially so when the original order was issued for a relatively minor transgression completely unrelated to the circumstances of the later intrusion.
+
+The refrain in the Court's opinion concerning bar letters that the respondent may have received from other military bases    in Hawaii is baffling considering its holding that the reasonableness of the later intrusion is irrelevant. The Court's reliance on these bar letters is especially puzzling since they are not contained in the record and may well have been invalid. 11Link to the text of the note In any case, the fact that respondent's opposition to military preparedness may have caused other base commanders to deliver bar letters to him is quite irrelevant to the question whether circumstances reasonably indicated     to him that his attendance at the Hickam open house was prohibited. At most, these unrelated incidents might have supported the removal of respondent from Hickam if he sought to enter, or perhaps the issuance of a fresh order barring reentry there. 12Link to the text of the note
+
+    The Court seems to regard "the effective lifetime of a bar order" as the critical issue. It concedes that the Constitution or military regulation may constrain a commanding officer's power to exclude a civilian from a military installation, and correctly observes that § 1382 does not place any limit on that power. Ante, at 682. What the Court overlooks is the distinction between the commander's power to exclude -- which is very broad indeed -- and the sovereign's power to punish which may not extend one inch beyond the authority conferred by Congress. 13Link to the text of the note
+
+In my opinion, Congress did not authorize the prosecution of a civilian who accepted a military base Commander's invitation to attend an open house on the base simply because the civilian had been "removed therefrom" and "ordered not to reenter" some nine years earlier.
+
+I respectfully dissent.
+
+In addition to his removal from the base, respondent received a two-paragraph form letter. The first paragraph reads as follows:
+
+"You are being removed as a trespasser from Hickam Air Force Base, a military reservation, and ordered not to reenter the confines of this installation without the written permission of the Commander or an officer designated by him to issue a permit of reentry." App. 43.
+
+The second paragraph of the letter calls the addressee's attention to 18 U. S. C. § 1382, which is quoted in full.
+
+2Link to the location of the note in the document
+During the bench trial, when the prosecution offered to prove respondent's 1972 offense, the following colloquy occurred:
+
+"THE COURT: Well, it really doesn't make any difference what he was arrested for or what he was convicted of. He was issued a bar letter, right?
+
+"MR. STARLING [for the United States]: Yes.
+
+"THE COURT: He could have been issued a bar letter for chewing gum in the wrong place.
+
+"MR. STARLING: Your Honor, I perceive that on the record it's not going to be clear as to who exactly got the bar letter.
+
+"THE COURT: Go ahead.
+
+"[MR. STARLING:] Okay. [What] was the outcome of the case involving --
+
+"THE COURT: If you know.
+
+"[MR. STARLING:] -- The incident on March 2nd, 1972?
+
+"[MR. SHISHIDO, FBI SPECIAL AGENT:] Following the incident on March 2nd, . . .
+
+"[MR. STARLING:] Yes.
+
+"[THE WITNESS:] Well, James Albertini along with two others were brought to trial in federal district court and convicted of --
+
+"MR. TRECKER [for the defendant]: Your Honor, we would object on the grounds that this -- the witness is obviously testifying from hearsay at this point.
+
+"THE COURT: I'll take judicial notice of the fact that I tried the case and they were convicted of misdemeanors, weren't they?
+
+"THE WITNESS: Yes.
+
+"THE COURT: Yes. Value under a hundred dollars." App. 7.
+
+3Link to the location of the note in the document
+U.S. Air Force Reg. No. 355-11, para. 1(b) (Sept. 10, 1971). See also U.S. Dept. of Defense Directive No. 5200.8, para. C (July 29, 1980); Cafeteria Workers v. McElroy, 367 U.S., at 898.
+
+4Link to the location of the note in the document
+The record in Greer v. Spock, 424 U.S. 828 (1976), indicated that bar orders "have been issued for offenses such as possession of marijuana or narcotics, assault, possession of stolen property, solicitation for prostitution, carrying concealed weapons, traffic offenses, contributing to the deliquency of a minor, impersonating a female, fraud, and unauthorized use of an ID card." Spock v. David, 469 F.2d 1047, 1055 (CA3 1972).
+
+5Link to the location of the note in the document
+The purpose of the section was outlined in the House debates on the bill:
+
+"Mr. WILLIAMS. . . . [The] object of this law is to keep out spies, and to keep out people who want to draw maps of forts and arsenals and who want to find out the sort of powder we are compounding. The object is to protect the military secrets of the Government from those in whose possession they might do harm . . . .
+
+. . . .
+
+"Mr. MOON[.] The object of this section has been clearly expressed by [Mr. Williams]. It was urged . . . by the War Department, not only for the purposes enumerated there, but to protect soldiers from people coming onto the reservation and taking them off to dives and illicit places surrounding the encampments. It was said to be a frequent occurrence that people would come with carriages and conveyances and time after time lure the soldiers away. They could be ordered away, but there was no law to punish them for reentering and constantly returning, and therefore they constantly defied authority by reappearing upon the reservation." 42 Cong. Rec. 689 (1908).
+
+See also id., at 589.
+
+6Link to the location of the note in the document
+The comment following the Model Penal Code section defining criminal trespass suggests that this design is a familiar one: "The common thread running through [statutes defining criminal trespass] is the element of unwanted intrusion, usually coupled with some sort of notice to would-be intruders that they may not enter." American Law Institute, Model Penal Code § 221.2, Comment 1 (1980). The Code requires that a criminal trespasser know "that he is not licensed or privileged" to enter the property. §§ 221.2(1), (2). It also provides an affirmative defense to any intruder who "reasonably believed that the owner of the premises . . . would have licensed him to enter or remain." § 221.2(3)(c).
+
+7Link to the location of the note in the document
+In response to this dissent, the Court has added a new paragraph disclaiming any suggestion that the statute would be applied literally "where anyone other than the base commander" issued the order not to reenter, or "where a person unknowingly or unwillingly reenters a military installation," ante, at 684. Having thus disclaimed the stark implications of its literal interpretation of the statute, the Court appears to rely instead on its own finding of fact that respondent must have known that his reentry was prohibited. I wonder if the Court would make the same finding if, instead of accepting an invitation to an open house, respondent had accepted an invitation to enlist in the Air Force.
+
+8Link to the location of the note in the document
+Paragraph 3(b) of U.S. Air Force Reg. 355-11 (Sept. 10, 1971) provides:
+
+"Removal of Violators. If unauthorized entry occurs, the violators may be apprehended, ordered to leave, and escorted off the installation by personnel carefully selected for such duties. The complete and proper identification of visitors, including the taking of photographs, must be accomplished. Violators who reenter an installation -- after having been removed from it or having been ordered, by an officer or person in command or charge, not to reenter -- may be prosecuted under 18 U. S. C. 1382. If prosecution for subsequent reentry is contemplated, the order not to reenter should be in writing (Attachment #1), so as to be easily susceptible of proof. Commanders are cautioned that only civil law enforcement authorities have the power to arrest and prosecute for unauthorized entry of Government property."
+
+9Link to the location of the note in the document
+Flower v. United States, 407 U.S. 197 (1972) (reentry 1 1/2 months after order barring reentry); United States v. Quilty, 741 F.2d 1031 (CA7 1984) (1 1/2 months); United States v. May, 622 F.2d 1000 (CA9) (176 defendants, 1 day; 5 defendants, 10 1/2 months), cert. denied sub nom. Phipps v. United States, 449 U.S. 984 (1980); United States v. Douglass, 579 F.2d 545 (CA9 1978) (16 days after bar letter, 1 day after verbal order not to reenter); Government of Canal Zone v. Brooks, 427 F.2d 346 (CA5 1970) (conviction affirmed 17 months after order issued); United States v. Jelinski, 411 F.2d 476 (CA5 1969) (reentry 7 1/2 months after order); Weissman v. United States, 387 F.2d 271 (CA10 1967) (2 days); Holdridge v. United States, 282 F.2d 302 (CA8 1960) (Blackmun, J., for the court) (same day).
+
+10Link to the location of the note in the document
+Cf. United States v. Gourley, 502 F.2d 785, 788 (CA10 1973) (order not to reenter held invalid where issued for expressive activity at football game held in stadium on Air Force Academy grounds, in part, because "spectators are actively encouraged to attend the games, and do so in large numbers with no restrictions whatever at the gates").
+
+11Link to the location of the note in the document
+At oral argument, the Government conceded that a bar order would be invalid if it had been issued in response to activity protected by the First Amendment. Tr. of Oral Arg. 13-14, 21. The order involved in Flower v. United States, 407 U.S. 197 (1972), is an example of such an order. See also n. 10, supra.
+
+12Link to the location of the note in the document
+No removal occurred until respondent was removed from the open house, and no new bar order was ever delivered to him. App. 28, 30.
+
+13Link to the location of the note in the document
+The relevant Air Force Regulation, n. 8, supra, however, does carefully distinguish between the power to exclude and the power to prosecute.

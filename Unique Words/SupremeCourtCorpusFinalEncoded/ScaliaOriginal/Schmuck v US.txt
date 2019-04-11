@@ -1,0 +1,35 @@
+﻿
+
+
+109 S.Ct. 1443
+Supreme Court of the United States
+Wayne T. SCHMUCK, Petitioner
+v.
+UNITED STATES.
+No. 87-6431.
+|
+Argued Nov. 30, 1988.
+|
+Decided March 22, 1989.
+|
+Rehearing Denied May 15, 1989.
+|
+See 490 U.S. 1076, 109 S.Ct. 2091.
+**1454 Justice SCALIA, with whom Justice BRENNAN, Justice MARSHALL, and Justice O’CONNOR join, dissenting.
+
+The Court today affirms petitioner’s mail fraud conviction under 18 U.S.C. § 1341. A jury found that petitioner had defrauded retail automobile purchasers by altering odometer readings on used cars and then selling the cars to unwitting dealers for resale. The scheme was a continuing one, and some dealers bought a number of the cars from petitioner over a period of time. When the dealers sold the cars, state law required them to submit title application forms to the appropriate state agency. The Court concludes that the dealers’ compliance with this requirement by mail caused the scheme to constitute mail fraud, because “a failure in this passage of title would have jeopardized Schmuck’s relationship of trust and goodwill with the retail dealers upon whose unwitting cooperation his scheme depended.” Ante, at 1449. In my view this is inconsistent with our prior cases’ application of the statutory requirement that mailings be “for the purpose of executing” a fraudulent scheme. 18 U.S.C. § 1341.
+ 
+The purpose of the mail fraud statute is “to prevent the post office from being used to carry [fraudulent schemes] into effect.” Durland v. United States, 161 U.S. 306, 314, 16 S.Ct. 508, 511, 40 L.Ed. 709 (1896); Parr v. United States, 363 U.S. 370, 389, 80 S.Ct. 1171, 1182, 4 L.Ed.2d 1277 (1960). The law does not establish a general federal remedy against fraudulent conduct, with use of the mails as the jurisdictional *723 hook, but reaches only “those limited instances in which the use of the mails is a part of the execution of the fraud, leaving all other cases to be dealt with by appropriate state law.” Kann v. United States, 323 U.S. 88, 95, 65 S.Ct. 148, 151, 89 L.Ed. 88 (1944) (emphasis added). In other words, it is mail fraud, not mail and fraud, that incurs liability. This federal statute is not violated by a fraudulent scheme in which, at some point, a mailing happens to occur-nor even by one in which a mailing predictably and necessarily occurs. The mailing must be in furtherance of the fraud.
+ 
+In Kann v. United States, we concluded that even though defendants who cashed checks obtained as part of a fraudulent scheme knew that the bank cashing the checks would send them by mail to a drawee bank for collection, they did not thereby violate the mail fraud statute, because upon their receipt of the cash “[t]he scheme ... had reached fruition,” and the mailing was “immaterial ... to any consummation of the scheme.” Id., at 94, 65 S.Ct., at 151. We held to the same effect in United States v. Maze, 414 U.S. 395, 400-402, 94 S.Ct. 645, 648-649, 38 L.Ed.2d 603 (1974), declining to find that credit card fraud was converted into mail fraud by the certainty that, after the wrongdoer had fraudulently received his goods and services from the merchants, they would forward the credit charges by mail for payment. These cases are squarely in point here. For though the Government chose to charge a defrauding of retail customers (to whom the innocent dealers resold the cars), it is obvious that, regardless of who the ultimate victim of the fraud may have been, the fraud was complete with respect to each car when petitioner pocketed the dealer’s money. As far as each particular transaction was concerned, it was as inconsequential to him whether the dealer resold the car as it was inconsequential to the defendant in Maze whether the defrauded merchant ever forwarded the charges to the credit card company.
+ 
+Nor can the force of our cases be avoided by combining all of the individual transactions into a single scheme, and saying, *724 as the Court does, that if the dealers’ mailings obtaining title for each retail purchaser had not occurred then the dealers would have stopped trusting petitioner for future transactions. (That conclusion seems to me a non sequitur, but I accept it for the sake of argument.) This establishes, at most, that the scheme could not technically have been consummated if the mechanical **1455 step of the mailings to obtain conveyance of title had not occurred. But we have held that the indispensability of such mechanical mailings, not strictly in furtherance of the fraud, is not enough to invoke the statute. For example, when officials of a school district embezzled tax funds over the course of several years, we held that no mail fraud had occurred even though the success of the scheme plainly depended on the officials’ causing tax bills to be sent by mail (and thus tax payments to be received) every year. Parr v. United States, 363 U.S., at 388-392, 80 S.Ct., at 1182-1184. Similarly, when those officials caused the school district to pay by mail credit card bills-a step plainly necessary to enable their continued fraudulent use of the credit card-we concluded that no mail fraud had occurred. Id., at 392-393, 80 S.Ct., at 1184-1185.
+ 
+I find it impossible to escape these precedents in the present case. Assuming the Court to be correct in concluding that failure to pass title to the cars would have threatened the success of the scheme, the same could have been said of failure to collect taxes or to pay the credit card bills in Parr. And I think it particularly significant that in Kann the Government proposed a theory identical to that which the Court today uses. Since the scheme was ongoing, the Government urged, the fact that the mailing of the two checks had occurred after the defendants had pocketed the fraudulently obtained cash made no difference. “[T]he defendants expected to receive further bonuses and profits,” and therefore “the clearing of these checks in the ordinary course was essential to [the scheme’s] further prosecution.” 323 U.S., at 95, 65 S.Ct., at 151. The dissenters in Kann agreed. “[T]his,” they said, “was not the last step in the fraudulent scheme. It was a *725 continuing venture. Smooth clearances of the checks were essential lest these intermediate dividends be interrupted and the conspirators be called upon to disgorge.” Id., at 96, 65 S.Ct., at 151 (Douglas, J., dissenting). The Court rejected this argument, concluding that “the subsequent banking transactions between the banks concerned were merely incidental and collateral to the scheme and not a part of it.” Id., at 95, 65 S.Ct., at 151. I think the mailing of the title application forms equivalently incidental here.
+ 
+What Justice Frankfurter observed almost three decades ago remains true: “The adequate degree of relationship between a mailing which occurs during the life of a scheme and the scheme is ... not a matter susceptible of geometric determination.” Parr v. United States, supra, 363 U.S., at 397, 80 S.Ct., at 1187 (dissenting opinion). All the more reason to adhere as closely as possible to past cases. I think we have not done that today, and thus create problems for tomorrow.
+ 
+
+
+
+

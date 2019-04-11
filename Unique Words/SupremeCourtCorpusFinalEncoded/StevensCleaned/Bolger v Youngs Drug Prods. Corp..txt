@@ -1,0 +1,45 @@
+﻿
+Two aspects of the Court's opinion merit further comment: (1) its conclusion that all of the communications at issue are properly classified as "commercial speech" (ante, at 68); and (2) its virtually complete rejection of offensiveness as a possibly     legitimate justification for the suppression of speech (ante, at 72). My views are somewhat different from the Court's on both of these matters.
+
+I
+
+Even if it may not intend to do so, the Court's opinion creates the impression that "commercial speech" is a fairly definite category    of communication that is protected by a fairly definite set of rules that differ from     those protecting other categories of speech. That impression may not be wholly warranted. Moreover, as I have previously suggested, we must be wary of unnecessary insistence on rigid classifications, lest speech entitled to "constitutional protection be inadvertently suppressed." Central Hudson Gas & Electric Corp. v. Public Service Comm'n of New York, 447 U.S. 557, 579 (1980) (STEVENS, J., concurring in judgment).
+
+I agree, of course, that the commercial aspects of a message may provide a justification for regulation that is not present when the communication has no commercial character. The interest in protecting consumers from commercial harm justifies a requirement that advertising be truthful; no such interest applies to fairy tales or soap operas. But advertisements may be complex mixtures of commercial and noncommercial elements: the noncommercial message does not obviate the need for appropriate commercial regulation (see ante, at 68); conversely, the commercial element does not necessarily provide a valid basis for noncommercial censorship.
+
+Appellee's    pamphlet entitled "Plain Talk about Venereal Disease" highlights the classification problem. On the one hand, the pamphlet includes statements that implicitly extol the quality of the appellee's products. 1Link to the text of the note    A law that protects     the public from suffering commercial harm as a result of such statements would appropriately be evaluated as a regulation of commercial speech. On the other hand, most of the pamphlet is devoted to a discussion of the symptoms, significant risks, and possibility of treatment for venereal disease. 2Link to the text of the note     That discussion does not appear to endanger any commercial interest whatsoever; it serves only to inform the public about a medical issue of regrettably great significance.
+
+I have not yet been persuaded that the commercial motivation of an author is sufficient to alter the state's power to regulate speech. Anthony Comstock surely had a constitutional    right to speak out against the use of contraceptives in his day. Like Comstock, many persons today are morally opposed to contraception, and the First Amendment commands the government to allow them to express their views in appropriate ways and in appropriate places. I believe that Amendment affords the same protection     to this appellee's views regarding the hygienic and family planning advantages of its contraceptive products.
+
+Because significant speech so often comprises both commercial and noncommercial elements, it may be more fruitful to focus on the nature of the challenged regulation rather     than the proper label for the communication. Cf. Farber, Commercial Speech and First Amendment Theory, 74 Nw. U. L. Rev. 372, 386-390 (1979). The statute at issue in this case prohibits the mailing of "[any] unsolicited advertisement of matter which is designed, adapted, or intended for preventing conception." Any legitimate interests the statute may serve are unrelated to the prevention of harm to participants in commercial exchanges. 3Link to the text of the note Thus, because it restricts speech by the appellee that has a significant noncommercial component, I have scrutinized    this statute in the same manner as I would scrutinize a prohibition on unsolicited mailings by an organization with absolutely no commercial interest in the subject.
+
+II
+
+Assuming that this case deals only with commercial speech, the Court implies, if it does not actually hold, that the fact that protected speech may be offensive to some persons is not a "sufficient justification for a prohibition of commercial speech." Ante, at 72. I think it essential to emphasize once again, however, that
+
+
+
+"a communication may be offensive in two different ways. Independently of the message the speaker intends to convey, the form of his communication may be offensive -- perhaps because it is too loud or    too ugly in a particular setting. Other speeches, even though elegantly phrased in dulcet tones, are offensive simply because the listener disagrees with the speaker's message." Consolidated Edison Co. v. Public Service Comm'n of New York, 447 U.S. 530, 546-548 (1980) (STEVENS, J., concurring in judgment) (footnotes omitted).
+
+    It matters whether a law regulates communications for their ideas or for their style. Governmental suppression of a specific point of view strikes at the core of First Amendment values. 4Link to the text of the note In contrast, regulations of form and context may strike a constitutionally appropriate balance between the advocate's right to convey a message and the recipient's interest in the quality of his environment:
+
+
+
+"The fact that the advertising of a particular subject matter is sometimes offensive does not deprive all such advertising of First Amendment protection; but it is equally clear to me that the existence of such protection does not deprive the State of all power to regulate such advertising in order to minimize its offensiveness. A picture     which may appropriately be included in an instruction book may be         excluded from a billboard." Carey v. Population Services International, 431 U.S. 678, 717 (1977) (opinion of STEVENS, J.).
+
+The statute at issue in this case censors ideas, not style. It prohibits appellee from mailing any unsolicited advertisement of contraceptives, no matter how unobtrusive and tactful; yet it permits anyone to mail unsolicited advertisements of devices intended to facilitate conception, no matter how coarse or grotesque. It thus excludes one advocate from a forum to which adversaries have unlimited access. I concur in the Court's judgment that the First Amendment prohibits the application of the statute to these materials.
+
+The pamphlet states that it was contributed by the appellee as a public service, identifying the brand name of appellee's products. It also states: "Ethical Manufacturers require strict standards of strength, durability, and reliability in manufacturing condoms. (prophylactics) Each condom must be individually tested to assure a quality condom." App. to Brief for Appellee 31.
+
+2Link to the location of the note in the document
+For example, the pamphlet includes the following question and answer:
+
+"WHAT ARE THE EARLY SYMPTOMS OR SIGNS OF SYPHILIS?
+
+"The first sign of infection is a single, painless sore where the germ has entered the body. This sore is called a Chancre (pronounced shank-er). It appears between two to six weeks after exposure to the infected person. This Chancre or sore will disappear even without treatment, but this only means that the disease has gone deeper into the body. The disease is not cured. The secondary stage of Syphilis which begins two to six months after the Chancre, can include skin rashes over all or part of the body, baldness, sore throat, fever and headaches. Even these will disappear without treatment, but the disease is still in the body . . . just waiting to create such 'final' problems as crippling the nervous system, syphilitic insanity, heart disease and death." Id., at 28.
+
+3Link to the location of the note in the document
+Because the right to decide whether to bear or beget a child is constitutionally protected, a government may not justify inhibiting access to contraceptives by claiming that, by their very nature, they harm consumers. See Carey v. Population Services International, 431 U.S. 678 (1977).
+
+4Link to the location of the note in the document
+See Young v. American Mini Theatres, Inc., 427 U.S. 50, 63 (1976) (opinion of STEVENS, J.).

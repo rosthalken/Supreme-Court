@@ -1,0 +1,33 @@
+﻿
+
+
+123 S.Ct. 748
+Supreme Court of the United States
+Jo Anne B. BARNHART, Commissioner of Social Security, Petitioner,
+v.
+PEABODY COAL CO. et al.
+Jo Anne B. Barnhart, Commissioner of Social Security, Petitioner,
+v.
+Bellaire Corporation et al.
+Michael H. Holland, et al., Petitioners,
+v.
+Bellaire Corporation et al.
+Nos. 01–705, 01–715.
+|
+Argued Oct. 8, 2002.
+|
+Decided Jan. 15, 2003.
+Justice THOMAS, dissenting.
+
+I fully agree with Justice SCALIA’s analysis in these cases and, accordingly, **769 join his opinion. I write separately, however, to reiterate a seemingly obvious rule: Unless Congress explicitly states otherwise, “we construe a statutory term in accordance with its ordinary or natural meaning.” FDIC v. Meyer, 510 U.S. 471, 476, 114 S.Ct. 996, 127 L.Ed.2d 308 (1994). Thus, absent a congressional directive to the contrary, “shall” must be construed as a mandatory command, see American Heritage Dictionary 1598 (4th ed.2000) (defining “shall” as (1)a. “Something that will take place or exist in the future .... b. Something, such as an order, promise, requirement, or obligation: You shall leave now. He shall answer for his misdeeds. The penalty shall not exceed two years in prison”). If Congress desires *185 for this Court to give “shall” a nonmandatory meaning, it must say so explicitly by specifying the consequences for noncompliance or explicitly defining the term “shall” to mean something other than a mandatory directive. Indeed, Congress is perfectly free to signify the hortatory nature of its wishes by choosing among a wide array of words that do, in fact, carry such meaning; “should,” “preferably,” and “if possible” readily come to mind.
+ 
+Given the foregoing, I disagree with Brock v. Pierce County, 476 U.S. 253, 106 S.Ct. 1834, 90 L.Ed.2d 248 (1986), and its progeny, to the extent they are taken, perhaps erroneously, see ante, at 765–766 (SCALIA, J., dissenting), to suggest that (1) “shall” is not mandatory and that (2) a failure to specify a consequence for noncompliance preserves the power to act in the face of such noncompliance, even where, as here, the grant of authority to act is coterminous with the mandatory command. I fail to see any reason for eviscerating the clear meaning of “shall,” other than the impermissible goal of saving Congress from its own choices in the name of achieving better policy. But Article III does not vest judges with the authority to rectify those congressional decisions that we view as imprudent.
+ 
+I also note that, under the Court’s current interpretive approach, there is no penalty at all for failing to comply with a duty if Congress does not specify consequences for noncompliance. The result is most irrational: If Congress indicates a lesser penalty for noncompliance (i.e., less than a loss of power to act), we will administer it; but if there is no lesser penalty and “shall” stands on its own, we will let government officials shirk their duty with impunity.
+ 
+Rather than depriving the term “shall” of its ordinary meaning, I would apply the term as a mandatory directive to the Commissioner. The conclusion then is obvious: The Commissioner has no power to make initial assignments after October 1, 1993.
+ 
+
+
+
+

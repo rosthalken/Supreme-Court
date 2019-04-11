@@ -1,0 +1,34 @@
+﻿
+
+
+110 S.Ct. 2658
+Supreme Court of the United States
+Louis W. SULLIVAN, Secretary of Health and Human Services, Petitioner
+v.
+Marilyn FINKELSTEIN.
+No. 89–504.
+|
+Argued April 24, 1990.
+|
+Decided June 18, 1990.
+|
+Opinion on Remand, 924 F.2d 483.
+ 
+
+Justice SCALIA, concurring in part.
+
+I join the opinion of the Court, except for footnote 8, which responds on the merits to “two arguments based on subsequent legislative history.”  Ante, at 2665, n. 8.
+ 
+The legislative history of a statute is the history of its consideration and enactment. “Subsequent legislative history”—which presumably means the post-enactment history of a statute’s consideration and enactment—is a contradiction in terms. The phrase is used to smuggle into judicial consideration legislators’ expressions not of what a bill currently under consideration means (which, the theory goes, reflects what their colleagues understood they were voting for), but of what a law previously enacted means.
+ 
+It seems to be a rule for the use of subsequent legislative history that the legislators or committees of legislators whose post-enactment views are consulted must belong to the institution that passed the statute. Never, for example, have I seen floor statements of Canadian MP’s cited concerning the meaning of a United States statute; only statements by Members of Congress qualify. No more connection than that, however, is required. It is assuredly not the rule that the legislators or committee members in question must have considered, or at least voted upon, the particular statute in question—or even that they have been members of the particular Congress that enacted it. The subsequent legislative history rejected as inconclusive in today’s footnote, for example, tells us (according to the Court’s analysis) what committees of the 99th and 95th Congresses thought the 76th Congress intended.
+ 
+*632 In my opinion, the views of a legislator concerning a statute already enacted are entitled to no more weight than the views of a judge concerning a statute not yet passed. In some situations, of course, the expression of a legislator relating to a previously enacted statute may bear upon the meaning of a provision in a bill under consideration—which provision, if passed, may in turn affect judicial interpretation of the previously enacted statute, since statutes in pari materia should be interpreted harmoniously. Such an expression would be useful, if at all, not because it was subsequent legislative history of the earlier statute, but because it was plain old legislative history of the later one.
+ 
+Arguments based on subsequent legislative history, like arguments based on antecedent futurity, should not be taken seriously, not even in a footnote.
+ 
+
+
+
+
+

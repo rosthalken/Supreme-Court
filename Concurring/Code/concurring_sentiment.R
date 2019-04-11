@@ -33,8 +33,8 @@ for(i in 1:length(the_dirs)) {
 save(sentiment_result, file="Concurring/Data/sentiment_result.RData")
 
 load("Concurring/Data/sentiment_result.RData")
-
-
+clean_df <- as.data.frame(table(sentiment_result$Author))
+write.csv(clean_df, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Concurring/Results/by_author_concur.csv")
 
 sentiment_groups <- group_by(sentiment_result, Author, Year) %>%
   summarise(year_sent = mean(`Mean Sentiment`))

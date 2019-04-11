@@ -1,0 +1,15 @@
+﻿
+        
+        Cunningham v. Hamilton Cty., 527 U.S. 198, 119 S. Ct. 1915 (1999)
+        
+
+
+      
+
+JUSTICE KENNEDY, concurring.
+
+This case comes to our argument docket, of course, so that we may resolve a split of authority in the Circuits on a jurisdictional issue, not because there is any division of opinion over the propriety of the underlying  [***195]  conduct. Cases involving sanctions against attorneys all too often implicate allegations that, when true, bring the law into great disrepute. Delays and abuses in discovery are the source of widespread injustice; and were we to hold sanctions orders against attorneys to be appealable as collateral orders, we would risk compounding the problem for the reasons [****27]  suggested by JUSTICE THOMAS  [*211]  in his opinion for the Court. Trial courts must have the capacity to ensure prompt compliance with their orders, especially when attorneys attempt to abuse the discovery process to gain a tactical advantage.
+
+It should be noted, however, that an attorney ordered to pay sanctions is not without a remedy in every case. If the trial court declines to stay enforcement of the order and the result is an exceptional hardship itself likely to cause an injustice, a petition for writ of mandamus might bring the issue before the Court of Appeals to determine if the trial court abused its discretion in issuing the order or denying the stay. See Richardson-Merrell, Inc. v. Koller, 472 U.S. 424, 435, 86 L. Ed. 2d 340, 105 S. Ct. 2757 (1985). In addition, if a contempt order is entered and there is no congruence of interests between the person subject to the order and a party to the underlying litigation, the order may be appealable. See In re Coordinated Pretrial Proceedings in Petroleum Products Antitrust Litigation, 747 F.2d 1303, 1305-1306 (CA9 1984). In United States Catholic Conference v. Abortion Rights Mobilization, Inc., 487 U.S. 72, 76, 101 L. Ed. 2d 69, 108 S. Ct. 2268 (1988), [****28]  a case involving a nonparty witness, we said: "The right of a nonparty to appeal an adjudication of contempt cannot be questioned. The order finding a nonparty witness in contempt is appealable notwithstanding the absence of a final judgment in the underlying action."
+
+The case before us, however, involves an order for sanctions and nothing more. I join the opinion of the Court and its holding that the order is not appealable under the collateral order doctrine.

@@ -1,0 +1,20 @@
+﻿
+        
+        N.Y. Gaslight Club v. Carey, 447 U.S. 54, 100 S. Ct. 2024 (1980)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, concurring in the judgment.
+While I agree with most of what is said in the Court's opinion, it is useful to emphasize that this federal litigation was commenced in order to obtain relief for respondent on the merits of her basic dispute with petitioners, and not simply to recover attorney's fees. Whether Congress intended to authorize [****33]  a separate federal action solely to recover costs, including attorney's fees, incurred in obtaining administrative relief in either a deferral or a nondeferral State is not only doubtful but is a question that is plainly not presented by this record.
+
+ [*72]  On July 13, 1977, when the EEOC issued respondent a letter notifying her that she had a right to file an action in federal court, and on September 30, 1977, when she commenced her federal-court action, state judicial review of the state administrative proceedings had not yet been completed. It was not until sometime in February 1978, after the federal judicial proceeding had been pending for several months, that all questions other than the fee issue were finally removed from the federal case. It is clear, therefore, that under the plain language of § 706 (k) of the Civil Rights Act of 1964, 78 Stat. 261, 42 U. S. C. § 2000e-5 (k), *Link to the text of the note the Federal District Court then had jurisdiction to allow the prevailing party to recover attorney's fees as a part of her costs.
+
+ [****34]  A quite different question would be presented if, before any federal litigation were commenced, an aggrieved party had obtained complete relief in the administrative proceedings. It is by no means clear that the statute, which merely empowers a "court" to award fees, would authorize a fee allowance when there is no need for litigation in the federal court to resolve the merits of the underlying dispute. Indeed, it is not even clear that the EEOC has the authority to issue a "right to sue" letter, empowering the complainant to bring suit in federal court, after the complainant has obtained complete relief on the merits of his claim in administrative proceedings. See § 706 (f)(1) of the Civil Rights Act of 1964 as amended, 42 U. S. C. § 2000e-5 (f)(1). In any event, the facts of this case present no occasion for the Court's resolution of the issue, ante, at 66. All that needs to be  [***740]  decided is whether an allowance of fees may properly cover the work  [*73]  performed in the administrative proceedings that were a prerequisite to the court action. I agree with the Court's disposition of that issue, and would also observe that the same analysis would apply to work [****35]  performed in appearing before the federal agency in a nondeferral State.
+
+Accordingly, I concur in the judgment.
+
+That section provides in part:
+
+"In any action or proceeding under this title the court, in its discretion, may allow the prevailing party . . . a reasonable attorney's fee as part of the costs. . . ."

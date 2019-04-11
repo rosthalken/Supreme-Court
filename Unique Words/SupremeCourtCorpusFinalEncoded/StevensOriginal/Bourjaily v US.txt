@@ -1,0 +1,27 @@
+﻿
+        
+        Bourjaily v. United States, 483 U.S. 171, 107 S. Ct. 2775 (1987)
+        
+
+
+      
+
+JUSTICE STEVENS, concurring.
+
+The rule against "bootstrapping" announced in Glasser v. United States, 315 U.S. 60, 74-75 (1942), has two possible interpretations. The more prevalent interpretation adopted by the Courts of Appeals is that the admissibility of the declaration under the co-conspirator rule must be determined  [****26]  entirely by independent evidence. The Court correctly holds that this reading of the Glasser rule is foreclosed by the plain language of Rule 104(a) of the Federal Rules of Evidence. That Rule unambiguously authorizes the trial judge to consider the contents of a proffered declaration in determining its admissibility.
+
+I have never been persuaded, however, that this interpretation of the Glasser rule is correct. In my view, Glasser holds that a declarant's out-of-court statement is inadmissible against his alleged co-conspirators unless there is some corroborating evidence to support the triple conclusion that there was a conspiracy among those defendants, that the declarant was a member of the conspiracy, and that the statement furthered the objectives of the conspiracy. An otherwise inadmissible hearsay statement cannot provide the sole evidentiary support for its own admissibility -- it cannot lift itself into admissibility entirely by tugging on its own bootstraps. It may, however, use its own bootstraps, together with other support, to overcome the objection. In the words  [*185]  of the Glasser opinion, there must be proof "aliunde," that is, evidence [****27]  from another source, that together  [***159]  with the contents of the statement satisfies the preliminary conditions for admission of the statement. Id., at 74. 1Link to the text of the note This interpretation of Glasser as requiring some but not complete proof "aliunde [**2784]  " is fully consistent with the plain language of Rule 104(a). 2Link to the text of the note [****28]  If, as I assume they did, the drafters of Rule 104(a) understood the Glasser rule as I do, they had no reason to indicate that it would be affected by the new Rule. 3Link to the text of the note
+
+Thus, the absence of any legislative history indicating an intent to change the Glasser rule is entirely consistent with the reasoning of the Court's opinion, which I join.
+
+Glasser had argued that "independently of the statements complained of, there is no proof connecting him with the conspiracy." 315 U.S., at 75 (emphasis added).
+
+2Link to the location of the note in the document
+While the more prevalent interpretation of Glasser is that the admissibility of the declaration must be determined entirely by independent evidence, other Courts of Appeals have concluded that Rule 104(a) cut back on Glasser, rather than eliminating it completely, and thus preserved its requirement of some proof aliunde. As the First Circuit concluded in United States v. Martorano, 557 F.2d 1, 12 (1977), cert. denied, 435 U.S. 922 (1978):
+
+"We believe the new rules [of evidence] must be taken as overruling Glasser to the extent that it held that the statement seeking admission cannot be considered at all in making the determination whether a conspiracy exists. Glasser, however, still stands as a warning to trial judges that such statements should ordinarily be given little weight. Here, where there is significant independent evidence of the existence of a conspiracy and where the statement seeking admission simply corroborates inferences which can be drawn from the independent evidence, we see no problem with the consideration of that statement" (emphasis added).
+
+See also United States v. Vinson, 606 F.2d 149, 153, n. 8 (CA6 1979), cert. denied, 444 U.S. 1074 (1980); United States v. Enright, 579 F.2d 980, 985, n. 4 (CA6 1978).
+
+3Link to the location of the note in the document
+The Advisory Committee Notes to Rule 104(a) are consistent with my view that some quantum of proof aliunde was, and still is, required: "An item, offered and objected to, may itself be considered in ruling on admissibility, though not yet admitted in evidence." 28 U. S. C. App., p. 681.

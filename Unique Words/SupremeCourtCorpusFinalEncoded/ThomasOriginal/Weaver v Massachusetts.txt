@@ -1,0 +1,12 @@
+﻿137 S.Ct. 1899
+Supreme Court of the United States
+Kentel Myrone WEAVER, Petitioner
+v.
+MASSACHUSETTS.
+No. 16–240.
+Argued April 19, 2017.
+Decided June 22, 2017.
+Justice THOMAS, with whom Justice GORSUCH joins, concurring.
+I write separately with two observations about the scope of the Court's holding. First, this case comes to us on the parties' “assumption[s]” that the closure of the courtroom during jury selection “was a Sixth Amendment violation” and that “defense counsel provided ineffective assistance” by “failing to object” to it. Ante, at 1905, 1913. The Court previously held in a per curiam opinion—issued without the benefit of merits briefing or argument—that the Sixth Amendment right to a public trial extends to jury selection. See Presley v. Georgia, 558 U.S. 209, 213, 130 S.Ct. 721, 175 L.Ed.2d 675 (2010); id., at 216, 130 S.Ct. 721 (THOMAS, J., dissenting). I have some doubts about whether that holding is consistent with the original understanding of the right to a public trial, and I would be open to reconsidering it in a case in which we are asked to do so.
+Second, the Court “assume[s],” for the “analytical purposes of this case,” that a defendant may establish prejudice under Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984), by demonstrating that his attorney's error led to a fundamentally unfair trial. Ante, at 1910 – 1911. According to Strickland, a defendant may establish prejudice by showing “a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different”; by showing an “[a]ctual or constructive denial of the assistance of counsel altogether”; or by showing that counsel labored under “an actual conflict of interest.” 466 U.S., at 692–694, 104 S.Ct. 2052. Strickland did not hold, as the Court assumes, that a defendant may establish prejudice by showing that his counsel's errors “rendered the trial fundamentally unfair.” Ante, at 1911. Because the Court concludes that the closure during petitioner's jury selection did not lead to fundamental unfairness in any event, ante, at 1913 – 1914, no part of the discussion about fundamental unfairness, see ante, at 1910 – 1913, is necessary to its result.
+In light of these observations, I do not read the opinion of the Court to preclude the approach set forth in Justice ALITO's opinion, which correctly applies our precedents.

@@ -35,7 +35,8 @@ save(sentiment_result, file="Sentiment/Data/sentiment_result.RData")
 write.csv(sentiment_result, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Sentiment/Results/sentiment_result.csv")
 load("Sentiment/Data/sentiment_result.RData")
 
-
+sentiment_total_mean <- mean(sentiment_result$`Mean Sentiment`)
+  
 
 # Adding mean of sentiment throughout career
 sentiment_mean <- group_by(sentiment_result, Author) %>%
@@ -54,8 +55,16 @@ sentiment_groups <- group_by(sentiment_result, Author, Year) %>%
   summarise(year_sent = mean(`Mean Sentiment`))
 write.csv(sentiment_groups, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Sentiment/Results/sentiment_groups.csv")
 
+sentiment_number <- sentiment_result %>% group_by(Author) %>% count(Year)
+write.csv(sentiment_number, "/Users/rosamondthalken/Documents/Graduate School/Thesis/Thesis Code/Sentiment/Results/sentiment_number.csv")
 
 
+yearly_sentiment <- ggplot(data = sentiment_number, aes(x=Year, y=n, group = Author)) +
+  facet_wrap(~ Author, ncol=3) +
+  geom_bar(stat="identity") +
+  xlab("Year") +
+  ylab("Number of Documents")
+  
 
 # ggplot(data=sentiment_groups, aes(x=Year, y=year_sent, group=Author)) +
 #   geom_line(aes(linetype=Author)) +
@@ -75,9 +84,8 @@ smooth_sentiment <- ggplot(data=sentiment_groups, aes(x=Year, y=year_sent, group
   geom_smooth(aes(colour = Author), se = FALSE) +
   ylim(-.20, .20) +
   xlab("Year") +
-  ylab("Sentiment")
-
-
+  ylab("Sentiment") +
+  ggsave("Sentiment/Results/SmoothSquare.pdf")
 grid_sentiment <- plotted_sentiment + 
   facet_wrap(~ Author, ncol=3) +
   theme(legend.position="none")+
@@ -85,3 +93,14 @@ grid_sentiment <- plotted_sentiment +
   ylab("Sentiment")
 
 
+for(i in 1:length(rdata_files)){
+  load(file.path("Sentiment/RData", rdata_files[i]))
+  sentiment_linear <- group_by(sentiment_result, Author, Year) %>%
+    summarise(year_sent = mean(`Mean Sentiment`))
+  author_plotted <- ggplot(data=sentiment_linear, aes(x=Year, y=year_sent, group=Author)) +
+    geom_line(aes(linetype=Author)) +
+    geom_smooth()
+  temp_name <- paste("Sentiment/Results/", sentiment_result$Author, ".pdf", sep="")
+  #save(author_plotted, file=temp_name)
+  ggsave(temp_name)
+}

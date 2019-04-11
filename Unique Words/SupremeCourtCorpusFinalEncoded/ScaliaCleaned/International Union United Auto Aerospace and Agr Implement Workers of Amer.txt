@@ -1,0 +1,16 @@
+﻿I generally agree with the Court’s analysis, but have some reservations, several of which bear mention.
+ 
+First, I think it irrelevant that there was “evidence in the record about the debilitating effect of lead exposure on the male reproductive system,” ante, at 1203. Even without such evidence, treating women differently “on the basis of pregnancy” constitutes discrimination “on the basis of sex,” because Congress has unequivocally said so. Pregnancy Discrimination Act, 92 Stat. 2076, 42 U.S.C. § 2000e(k).
+ 
+Second, the Court points out that “Johnson Controls has shown no factual basis for believing that all or substantially all women would be unable to perform safely ... the duties of the job involved,” ante, at 1208 (internal quotation marks omitted). In my view, this is not only “somewhat academic in light of our conclusion that the company may not exclude fertile women at all,” ibid.; it is entirely irrelevant. By reason of the Pregnancy Discrimination Act, it would not matter if all pregnant women placed their children at risk in taking these jobs, just as it does not matter if no men do so. As Judge Easterbrook put it in his dissent below: “Title VII gives parents the power to make occupational decisions affecting their families. A legislative forum is available to those who believe that such decisions should be made elsewhere.” 886 F. 2d 871, 915 (CA7 1989).
+ 
+Third, I am willing to assume, as the Court intimates, ante, at 1208-1209, that any action required by Title VII cannot give rise to liability under state tort law. That assumption, however, does not answer the question whether an action is required by Title VII (including the BFOQ provision) even if it is subject to liability under state tort law. It is perfectly reasonable to believe that Title VII has accommodated state tort law through the BFOQ exception. However, all that need be said in the present case is that Johnson has not demonstrated a substantial risk of tort liability-which is *224 alone enough to defeat a tort-based assertion of the BFOQ exception.
+ 
+Last, the Court goes far afield, it seems to me, in suggesting that increased cost alone-short of “costs ... so prohibitive as to threaten the survival of the employer’s business,” ante, at 1209-cannot support a bfoq defense. See ante, at 1207. I agree with JUSTICE WHITE’s concurrence, ante, at 1211, that nothing in our prior cases suggests this, and in my view it is wrong. I think, for example, that a shipping company may refuse to hire pregnant women as crew members on long voyages because the on-board facilities for foreseeable emergencies, though quite feasible, would be inordinately expensive. **1217 In the present case, however, Johnson has not asserted a cost-based BFOQ.
+ 
+I concur in the judgment of the Court.
+ 
+
+
+
+

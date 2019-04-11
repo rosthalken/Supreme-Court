@@ -1,0 +1,10 @@
+﻿
+Although I agree with the result reached by the Court, my reasoning is somewhat different. Like Justice BREYER, I *40 believe that without knowledge of the contents of city charters the Attorney General could no more have known the precise practical effect of the second sentence of the Georgia statute than he could have known the precise practical effect of the first, see post, at 406–407. But there is, nonetheless, a critical difference between the two sentences. As far as appears, the first sentence (giving effect to plurality voting provisions contained **403 in municipal charters) does not effect any change in voting. To think it did, one would have to suppose that prior to the statute various municipalities were ignoring their charters, which is most unlikely. So the first sentence did not inform the Attorney General “in some unambiguous and recordable manner” that a change was afoot, see City of Rome v. United States, 446 U.S. 156, 169, n. 6, 100 S.Ct. 1548, 1557 n. 6, 64 L.Ed.2d 119 (1980) (internal quotation marks omitted).
+ 
+The second sentence, however, sets forth a default rule of majority voting for all municipalities that have not treated the matter in their charters. To think that this effects a change, one need only believe that some municipalities have no charter provision on point, and that a subset of those have adopted a practice of plurality voting. Such a belief is not only reasonable; it is virtually essential unless one is to consider the statute pointless. As to the second sentence, therefore, the Attorney General ought to have known that he was approving a switch to majority voting in some municipalities. If that seemed to him possibly troublesome, I think the burden was upon him to inquire further, and not upon the State, every time it enacts a statewide statute affecting voting, to submit a city-by-city breakdown of the consequences. City of Rome need not and should not be extended that far.
+ 
+
+
+
+
+

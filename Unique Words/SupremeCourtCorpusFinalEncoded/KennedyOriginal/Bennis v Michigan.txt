@@ -1,0 +1,17 @@
+﻿
+        
+        Bennis v. Michigan, 516 U.S. 442, 116 S. Ct. 994 (1996)
+        
+
+
+      
+
+JUSTICE KENNEDY, dissenting.
+
+The forfeiture of vessels pursuant [****56]  to the admiralty and maritime law has a long, well-recognized tradition, evolving as it did from the necessity of finding some source of compensation for injuries done by a vessel whose responsible owners were often half a world away and beyond the practical reach of the law and its processes. See Harmony v. United States, 43 U.S. 210, 2 HOW 210, 233, 11 L. Ed. 239 (1844); Republic Nat. Bank of Miami v. United States, 506 U.S. 80, 87-88, 121 L. Ed. 2d 474, 113 S. Ct. 554 (1992). The prospect of deriving prompt compensation from in rem forfeiture, and the impracticality of adjudicating the innocence of the owners or their good-faith efforts in finding a diligent and trust-worthy master, combined to eliminate the owner's lack of culpability as a defense. See Harmony v. United States, supra, at 233. Those realities provided a better justification for forfeiture than earlier, more mechanistic rationales. Cf. Calero-Toledo v. Pearson Yacht Leasing Co., 416 U.S. 663, 680-681, 40 L. Ed. 2d 452, 94 S. Ct. 2080 (1974) (discussing deodands). The tradeoff, of course, was that the owner's absolute liability [****57]  was limited to the amount of the vessel and (or) its cargo. For that reason, it seems to me inaccurate, or at least not well supported, to say that the owner's personal culpability was part of the forfeiture rationale. Austin v. United States, 509 U.S. 602, 625, 125 L. Ed. 2d 488, 113 S. Ct. 2801 (1993) (SCALIA, J., concurring in part and concurring in judgment); id., at 628-629 (KENNEDY, J., concurring in part and concurring in  [**1011]  judgment). As JUSTICE STEVENS observes, however, ante, 516 U.S. at 466-467, even the well-recognized  [*473]  tradition of forfeiture in admiralty has not been sufficient for an unequivocal confirmation from this Court that a vessel in all instances is seizable when it is used for criminal activity without the knowledge or consent of the owner, see Calero-Toledo v. Pearson Yacht Leasing Co., supra, 416 U.S. at 688-690. Cf. The William Bagaley, 72 U.S. 377, 5 Wall. 377, 410-411, 18 L. Ed. 583 (1867) (discussing English cases holding knowledge or culpability relevant to the forfeiture of a cargo owner's interest).
+
+We can assume the continued validity [****58]  of our admiralty forfeiture cases without in every analogous instance extending them to the automobile,  [***92]  which is a practical necessity in modern life for so many people. At least to this point, it has not been shown that a strong presumption of negligent entrustment or criminal complicity would be insufficient to protect the government's interest where the automobile is involved in a criminal act in the tangential way that it was here. Furthermore, as JUSTICE STEVENS points out, ante, 516 U.S. at 462-463, the automobile in this case was not used to transport contraband, and so the seizure here goes beyond the line of cases which sustain the government's use of forfeiture to suppress traffic of that sort.
+
+This forfeiture cannot meet the requirements of due process. Nothing in the rationale of the Michigan Supreme Court indicates that the forfeiture turned on the negligence or complicity of petitioner, or a presumption thereof, and nothing supports the suggestion that the value of her co-ownership is so insignificant as to be beneath the law's protection.
+
+For these reasons, and with all respect, I dissent.

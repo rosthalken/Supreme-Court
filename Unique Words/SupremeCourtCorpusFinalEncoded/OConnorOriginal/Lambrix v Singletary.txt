@@ -1,0 +1,17 @@
+﻿
+        
+        Lambrix v. Singletary, 520 U.S. 518, 117 S. Ct. 1517 (1997)
+        
+
+
+      
+
+JUSTICE O'CONNOR, dissenting.
+
+Although I agree with much of the reasoning set forth in Part II of the Court's opinion, I disagree with its disposition of the case. I would instead vacate the judgment of the Court of Appeals and remand the case so that the Court of Appeals might consider the procedural bar issue in the first instance.
+
+The Court holds that, as a general practice, a federal habeas court should consider whether the relief a habeas petitioner requests is a "new rule" under Teague v. Lane, 489 U.S. 288, 103 L. Ed. 2d 334, 109 S. Ct. 1060 (1989), only after resolving the State's argument that his claim is procedurally barred. Ante, at 6. Usually,  [*547]  then, when a federal habeas court has before it contentions that a petitioner's claim is barred both on state procedural grounds and because the petitioner seeks to rely on a "new rule" under Teague, the court should consider the Teague question only after the procedural bar issue has been resolved in the petitioner's favor. As the Court recognizes, addressing the procedural bar issue first avoids unnecessary consideration of constitutional questions and accords fitting respect to the State's procedural rules, which [****54]  are indispensable to the administration of its criminal justice system. Ante, at 5-6.
+
+With this much of the Court's opinion I agree. Of course, there may be exceptions to the rule that the procedural bar issue should be resolved first. One case might be where the procedural bar question is excessively complicated, but the Teague issue can be easily resolved. The Court of Appeals here gave no reason for  [***799]  its failure to consider the Florida Supreme Court's determination that petitioner's claim based on Espinosa v. Florida, 505 U.S. 1079, 120 L. Ed. 2d 854, 112 S. Ct. 2926 (1992), was procedurally barred. Indeed, the Court of Appeals did not even discuss the state court's holding, let alone decide that resolution of the procedural bar issue would be inappropriate in this case. I see no reason to think resolution of the procedural bar question would be especially troublesome, nor do I see any other reason  [**1535]  for the Court of Appeals' failure to give priority to the State's argument that an independent and adequate state ground barred petitioner's Espinosa claim.
+
+Accordingly, I would remand the case to the Court of Appeals for it to resolve the procedural bar issue. As the Court points out, the Court [****55]  of Appeals is better suited to evaluating matters of state procedure than are we. Ante, at 6. In my view, then, it is premature to address the State's contention that petitioner's Espinosa claim is barred on Teague grounds. Nevertheless, since the Court reaches the question, I wish to express my agreement with JUSTICE STEVENS' resolution of the Teague issue.

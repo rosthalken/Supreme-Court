@@ -1,0 +1,73 @@
+﻿
+        
+        Hazelwood Sch. Dist. v. United States, 433 U.S. 299, 97 S. Ct. 2736 (1977)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, dissenting.
+The basic framework in a pattern-or-practice suit brought by the Government under Title VII of the Civil Rights Act of 1964 is the same as that in any other lawsuit. The plaintiff has the burden of proving a prima facie case; if he does so, the burden of rebutting that case shifts to the defendant. 1Link to the text of the note In this  [*315]  case, since neither  [***782]  party complains that any relevant evidence was excluded, our task is to decide (1) whether the Government's evidence established a prima facie case; and (2), if so, whether the remaining evidence is sufficient to carry Hazelwood's burden of rebutting that prima facie case.
+
+ [****26]  I
+
+The first question is clearly answered by the Government's statistical evidence, its historical evidence, and its evidence relating to specific acts of discrimination.
+
+One-third of the teachers hired by Hazelwood resided in the city of St. Louis at the time of their initial employment. As Mr. Justice Clark explained in his opinion for the Court of Appeals, it was therefore appropriate to treat the city, as well as the county, as part of the relevant labor market. 2Link to the text of the note  [*316]  In that market, 15% of the teachers were black. In the Hazelwood District at  [**2746]  the time of trial less than 2% of the teachers were black. An even more telling statistic is that after Title VII became applicable to it, only 3.7% of the new teachers hired by Hazelwood were black. Proof of these gross disparities was in itself sufficient to make out a prima facie case of discrimination. See Teamsters v. United States, 431 U.S. 324, 339; Castaneda v. Partida, 430 U.S. 482, 494-498.
+
+ [****27]  As a matter of history, Hazelwood employed no black teachers until 1969. Both before and after the 1972 amendment making the statute applicable to public school districts, Hazelwood used a standardless and largely subjective hiring procedure. Since "relevant aspects of the decisionmaking process had undergone little change," it is proper to infer that the pre-Act policy of preferring white teachers continued to influence Hazelwood's hiring practices. 3Link to the text of the note
+
+ [****28]  The  [***783]  inference of discrimination was corroborated by post-Act evidence that Hazelwood had refused to hire 16 qualified black applicants for racial reasons. Taking the Government's evidence as a whole, there can be no doubt about the sufficiency of its prima facie case.
+
+ [*317]  II
+
+Hazelwood "offered virtually no additional evidence in response," ante, at 303. It challenges the Government's statistical analysis by claiming that the city of St. Louis should be excluded from the relevant market and pointing out that only 5.7% of the teachers in the county (excluding the city) were black. It further argues that the city's policy of trying to maintain a 50% black teaching staff diverted teachers from the county to the city. There are two separate reasons why these arguments are insufficient: they are not supported by the evidence; even if true, they do not overcome the Government's case.
+
+The petitioners offered no evidence concerning wage differentials, commuting problems, or the relative advantages of teaching in an inner-city school as opposed to a suburban school. Without any such evidence in the record, it is difficult to understand why the simple fact that the city  [****29]  was the source of a third of Hazelwood's faculty should not be sufficient to demonstrate that it is a part of the relevant market. The city's policy of attempting to maintain a 50/50 ratio clearly does not undermine that conclusion, particularly when the record reveals no shortage of qualified black applicants in either Hazelwod or other suburban school districts. 4Link to the text of the note Surely not all of the 2,000 black teachers employed by the city were unavailable for employment in Hazelwood at the time of their initial hire.
+
+But even if it were proper to exclude the city of St. Louis from the market, the statistical evidence would still tend to prove discrimination. With the city excluded, 5.7% of the teachers in the remaining market were black. On the basis of a random selection, one [****30]  would therefore expect 5.7% of  [*318]  the 405 teachers hired by Hazelwood in  [**2747]  the 1972-1973 and 1973-1974 school years to have been black. But instead of 23 black teachers, Hazelwood hired only 15, less than two-thirds of the expected number. Without the benefit of expert testimony, I would hesitate to infer that the disparity between 23 and 15 is great enough, in itself, to prove discrimination. 5Link to the text of the note It is perfectly clear, however,  [***784]  that whatever probative force this disparity has, it tends to prove discrimination and does absolutely nothing in the way of carrying Hazelwood's burden of overcoming the Government's prima facie case.
+
+ [****31]  Absolute precision in the analysis of market data is too much to expect. We may fairly assume that a nondiscriminatory selection process would have resulted in the hiring of somewhere between the 15% suggested by the Government and the 5.7% suggested by petitioners, or perhaps 30 or 40 black teachers, instead of the 15 actually hired. 6Link to the text of the note On that assumption, the Court of Appeals' determination that there were 16 individual cases of discriminatory refusal to hire black applicants in the post-1972 period seems remarkably accurate.
+
+In sum, the Government is entitled to prevail on the present record. It proved a prima facie case, which Hazelwood failed to rebut. Why, then, should we burden a busy federal court with another trial? Hazelwood had an opportunity to offer evidence to dispute the 16 examples of racially [****32]  motivated refusals to hire; but as the Court notes, the Court of Appeals has already "held that none of the 16 prima facie cases of  [*319]  individual discrimination had been rebutted by the petitioners. See 534 F.2d 805, 814 (CA8)." Ante, at 306 n. 10. Hazelwood also had an opportunity to offer any evidence it could muster to show a change in hiring practices or to contradict the fair inference to be drawn from the statistical evidence. Instead, it "offered virtually no additional evidence in response," ante, at 303.
+
+Perhaps "a totally different story" might be told by other statistical evidence that was never presented, ante, at 310. No lawsuit has ever been tried in which the losing party could not have pointed to a similar possibility. 7Link to the text of the note It is always possible to imagine more evidence which could have been offered, but at some point litigation must come to an end. 8Link to the text of the note
+
+ [****33]   [*320]   [***785]   [**2748]  Rather than depart from well-established rules of procedure, I would affirm the judgment of the Court of Appeals. 9Link to the text of the note Since that judgment reflected a correct appraisal of the record, I see no reason to prolong this litigation with a remand neither side requested. 10Link to the text of the note
+
+"At the initial, 'liability' stage of a pattern-or-practice suit the Government is not required to offer evidence that each person for whom it will ultimately seek relief was a victim of the employer's discriminatory policy. Its burden is to establish a prima facie case that such a policy existed. The burden then shifts to the employer to defeat the prima facie showing of a pattern or practice by demonstrating that the Government's proof is either inaccurate or insignificant. An employer might show, for example, that the claimed discriminatory pattern is a product of pre-Act hiring rather than unlawful post-Act discrimination, or that during the period it is alleged to have pursued a discriminatory policy it made too few employment decisions to justify the inference that it had engaged in a regular practice of discrimination." Teamsters v. United States, 431 U.S. 324, 360.
+
+2Link to the location of the note in the document
+"We accept the Government's contention that St. Louis City and County is the relevant labor market area for our consideration. The relevant labor market area is that area from which the employer draws its employees. United States v. Ironworkers Local 86, 443 F.2d 544, 551 n. 19 (9th Cir. 1971). Of the 176 teachers hired by Hazelwood between October, 1972, and September, 1973, approximately 80 percent resided in St. Louis City and County at the time of their initial employment. Approximately one-third of the teachers hired during this period resided in the City of St. Louis and 40 percent resided in areas of St. Louis County other than the Hazelwood District." 534 F.2d 805, 811-812, n. 7 (1976).
+
+It is noteworthy that in the Court of Appeals, Chief Judge Gibson, in dissent, though urging - as Hazelwood had in the District Court - that the labor market was even broader than the Government contended, id., at 821, did not question the propriety of including the city in the same market as the county, see Defendants' Brief and Memorandum in Support of Its Proposed Findings of Fact and Conclusions of Law, filed on Aug. 21, 1974, in Civ. Act. No. 73-C-553 (A) (ED Mo.), p. 24. In this Court, petitioners had abandoned any argument similar to that made below.
+
+3Link to the location of the note in the document
+Proof that an employer engaged in racial discrimination prior to the effective date of the Act creates the inference that such discrimination continued "particularly where relevant aspects of the decisionmaking process [have] undergone little change. Cf. Fed. Rule Evid. 406; Arlington Heights v. Metropolitan Housing Dev. Corp., 429 U.S. 252, 267; 1 J. Wigmore, Evidence § 92 (3d ed. 1940); 2 id., §§ 302-305, 371, 375. And, of course, a public employer even before the extension of Title VII in 1972 was subject to the command of the Fourteenth Amendment not to engage in purposeful racial discrimination." Ante, at 309-310, n. 15.
+
+Since Hazelwood's hiring before 1972 was so clearly discriminatory, there is some irony in its claim that "Hazelwood continued [after 1972] to select its teachers on the same careful basis that it had relied on before in staffing its growing system." Brief for Petitioners 29-30.
+
+4Link to the location of the note in the document
+"Had there been evidence obtainable to contradict and disprove the testimony offered by [the Government], it cannot be assumed that the State would have refrained from introducing it." Pierre v. Louisiana, 306 U.S. 354, 361-362.
+
+5Link to the location of the note in the document
+After I had drafted this opinion, one of my law clerks advised me that, given the size of the two-year sample, there is only about a 5% likelihood that a disparity this large would be produced by a random selection from the labor pool. If his calculation (which was made using the method described in H. Blalock, Social Statistics 151-173 (1972)) is correct, it is easy to understand why Hazelwood offered no expert testimony.
+
+6Link to the location of the note in the document
+Some of the other school districts in the county have a 10% ratio of blacks on their faculties. See Plaintiff's Exhibit 54 in Civ. Act. No. 73-C-553(A) (ED Mo. 1975); Brief for United States 30 n. 30.
+
+7Link to the location of the note in the document
+Since Hazelwood failed to offer any "applicant-flow data" at the trial, and since it does not now claim to have any newly discovered evidence, I am puzzled by MR. JUSTICE BRENNAN'S explanation of the justification for a remand. Indeed, after the first trial was concluded, Hazelwood emphasized the fact that no evidence of this kind had been presented; it introduced no such evidence itself. It stated:
+
+"There is absolutely no evidence in this case that provides any basis for making a comparison between black applicants and white applicants and their treatment by the Hazelwood School District relative to hiring or not being hired for a teaching position." Defendants' Brief and Memorandum in Support of Its Proposed Findings of Fact and Conclusions of Law, supra, n. 2, at 22.
+
+8Link to the location of the note in the document
+My analysis of this case is somewhat similar to MR. JUSTICE REHNQUIST'S analysis in Dothard v. Rawlinson:
+
+"If the defendants in a Title VII suit believe there to be any reason to discredit plaintiffs' statistics that does not appear on their face, the opportunity to challenge them is available to the defendants just as in any other lawsuit. They may endeavor to impeach the reliability of the statistical evidence, they may offer rebutting evidence, they may disparage in arguments or in briefs the probative weight which the plaintiffs' evidence should be accorded. Since I agree with the Court that appellants made virtually no such effort,… I also agree with it that the District Court cannot be said to have erred as a matter of law in finding that a prima facie case had been made out in the instant case." Post, at 338-339 (concurring opinion).
+
+9Link to the location of the note in the document
+It is interesting to compare the disposition in this case with that in Castaneda v. Partida, 430 U.S. 482. In Castaneda, as in this case, "[inexplicably], the State introduced practically no evidence," id., at 498. But in Castaneda, unlike the present case, the Court affirmed the finding of discrimination, rather than giving the State a second chance at trying its case. (It should be noted that the Castaneda Court expressly stated that it was possible that the statistical discrepancy could have been explained by the State. Id., at 499.)
+
+10Link to the location of the note in the document
+Hazelwood's brief asks only for a remand "for reconsideration of the alleged individual cases of discrimination…." Brief for Petitioners 78. Hazelwood explains: "[The question raised in its petition for certiorari is] a question of law. It is a question of what sort of evidentiary showing satisfies Title VII…. The question is whether on the evidence of record an unrebutted prima facie case was established." Reply Brief for Petitioners 2.

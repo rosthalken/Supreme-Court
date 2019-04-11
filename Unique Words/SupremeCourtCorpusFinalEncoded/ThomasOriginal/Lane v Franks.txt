@@ -1,0 +1,23 @@
+﻿
+
+
+134 S.Ct. 2369
+Supreme Court of the United States
+Edward R. LANE, Petitioner
+v.
+Steve FRANKS, in his individual capacity, and Susan Burrow, in her official capacity as Acting President of Central Alabama Community College.
+No. 13–483.
+|
+Argued April 28, 2014.
+|
+Decided June 19, 2014.
+Justice THOMAS, with whom Justice SCALIA and Justice ALITO join, concurring.
+
+This case presents the discrete question whether a public employee speaks “as a citizen on a matter of public concern,” Garcetti v. Ceballos, 547 U.S. 410, 418, 126 S.Ct. 1951, 164 L.Ed.2d 689 (2006), when the employee gives “[t]ruthful testimony under oath ... outside the scope of his ordinary job duties,” ante, at 2378. Answering that question requires little more than a straightforward application of Garcetti. There, we held that when a public employee speaks “pursuant to” his official duties, he is not speaking “as a citizen,” and First Amendment protection is unavailable. 547 U.S., at 421–422, 126 S.Ct. 1951. The petitioner in this case did not speak “pursuant to” his ordinary job duties because his responsibilities did not include testifying in court proceedings, see ante, at 2378, n. 4, and no party has suggested that he was subpoenaed as a representative of his employer, see Fed. Rule Civ. Proc. 30(b)(6) (requiring subpoenaed organizations to designate witnesses to testify on their behalf). Because petitioner did not testify to “fulfil[l] a [work] responsibility,” Garcetti, supra, at 421, 126 S.Ct. 1951, he spoke “as a citizen,” not as an employee.
+ 
+*2384 We accordingly have no occasion to address the quite different question whether a public employee speaks “as a citizen” when he testifies in the course of his ordinary job responsibilities. See ante, at 2378, n. 4. For some public employees—such as police officers, crime scene technicians, and laboratory analysts—testifying is a routine and critical part of their employment duties. Others may be called to testify in the context of particular litigation as the designated representatives of their employers. See Fed. Rule Civ. Proc. 30(b)(6). The Court properly leaves the constitutional questions raised by these scenarios for another day.
+ 
+
+
+
+

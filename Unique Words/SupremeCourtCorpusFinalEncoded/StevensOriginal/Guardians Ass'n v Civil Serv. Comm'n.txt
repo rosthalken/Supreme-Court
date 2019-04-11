@@ -1,0 +1,140 @@
+﻿
+        
+        Guardians Ass'n v. Civil Serv. Comm'n, 463 U.S. 582, 103 S. Ct. 3221 (1983)
+        
+
+
+      
+
+[*635]  [**3250]  JUSTICE STEVENS, with whom JUSTICE BRENNAN and JUSTICE BLACKMUN [****94]  join, dissenting.
+
+It is not an easy task to harmonize the Court's cases under Title VI of the Civil Rights Act of 1964, 78 Stat. 252, as amended, 42 U. S. C. § 2000d et seq. (1976 ed. and Supp. V). Unless the Court is to repudiate what it has already written, however, I believe the judgment of the Court of Appeals must be reversed. I reach this conclusion by answering three separate questions: (1) whether federal law authorizes private individuals to recover damages for injuries caused by violations of Title VI and the regulations promulgated thereunder; (2) if so, whether Title VI requires recipients of federal funds to do any more than refrain from engaging in conduct that would, if performed by a State, violate the Fourteenth Amendment; and (3) if not, whether an administrative agency may validly impose additional requirements on recipients of funds from that agency. I shall discuss each question in turn.
+
+I
+
+In the last five years at least eight Members of this Court have endorsed the view that Title VI, as well as the comparable provisions of Title IX of the Education Amendments of 1972, may be enforced in a private action against recipients of federal funds, such as the [****95]  respondents in this case. 1Link to the text of the note This  [*636]  Court has authorized relief in at least four such cases. Lau v. Nichols, 414 U.S. 563 (1974); Hills v. Gautreaux, 425 U.S. 284 (1976); University of California Regents v. Bakke, 438 U.S. 265 (1978); Cannon v. University of Chicago, 441 U.S. 677 (1979).
+
+ [****96]  JUSTICE WHITE suggests that some plaintiffs who prevail in suits under Title VI are entitled only to a limited form of prospective relief. 2Link to the text of the note That suggestion is somewhat surprising, since no Member of the Court in Lau, Bakke, or Cannon mentioned such a limitation on remedies. Presumably, it rests on a belief that Congress, in enacting Title VI, intended to distinguish between prospective and retroactive relief. Yet it seems to me most improbable that Congress contemplated so significant and unusual a limitation on the forms of relief available to a victim  [***904]  of racial discrimination, but said absolutely nothing about it in the text of the statute. It is one thing to conclude, as the Court did in Cannon, that the 1964 Congress, legislating when implied causes of action were the rule rather than the exception, reasonably assumed that the intended beneficiaries of Title VI would be able to vindicate their rights in court. It is quite another thing to believe that the 1964 Congress substantially qualified that assumption but thought it unnecessary to tell the Judiciary about the qualification.
+
+ [****97]  In reaching his novel conclusion about the scope of available relief under Title VI, JUSTICE WHITE relies heavily on the proposition that Pennhurst State School and Hospital v. Halderman, 451 U.S. 1 (1981), establishes a "presumption that only limited injunctive relief should be granted as a remedy for violations of statutes passed pursuant to the spending power." Ante, at 602. That characterization seriously distorts the opinion of the Court in Pennhurst, which concerned the existence or nonexistence of statutory rights, not remedies. 3Link to the text of the note [****99]   [*637]  We held  [**3251]  that Congress will not be presumed to have created substantive legal obligations under the spending power by legislation so ambiguous that "a State is unaware of the conditions or is unable to ascertain what is expected of it." 451 U.S., at 17. 4Link to the text of the note In dictum, 5Link to the text of the note we went on to speculate that an injunction requiring a State to provide "'appropriate' treatment in the 'least restrictive' environment" might be improper, noting that the Eleventh Amendment prohibits federal courts from requiring States to pay money damages. Id., at 29-30. Without explaining [****98]  why, JUSTICE WHITE divines a general principle of statutory interpretation from this discussion of the Eleventh Amendment. The Eleventh Amendment obviously has no relevance in most Title VI litigation; it certainly is not implicated in this suit against the  [*638]  officials and agencies of the City of New York. I cannot fathom the supposition that Congress regularly  [***905]  analogizes to the Eleventh Amendment when it drafts spending power legislation. There is certainly nothing in the text or the legislative history of Title VI to suggest that the 1964 Congress did so.
+
+Even if it were not settled by now that Title VI authorizes appropriate relief, both prospective and retroactive, to victims of racial discrimination at the hands of recipients of federal funds, the same result would follow in this case because the petitioners have sought relief under 42 U. S. C. § 1983. While Title VI applies to all recipients of federal funds, § 1983 governs a different class of persons: those who act "under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory." Our past decisions establish [****100]  that respondent Police Department in this case is bound by § 1983 as well as by Title VI. Monell v. New York City Dept. of Social Services, 436 U.S. 658 (1978). Our past decisions also establish that § 1983 provides a damages remedy. Ibid. And finally, it is clear that the § 1983 remedy is intended to redress the deprivation of rights secured by all valid federal laws, including statutes and regulations having the force of law. See Maine v. Thiboutot, 448 U.S. 1 (1980). 6Link to the text of the note See also Cannon, 441 U.S., at 722-724 (WHITE, J., dissenting); ante, at 594, n. 17.
+
+The policy arguments JUSTICE WHITE  [****101]  advances in support of his position may be perfectly sound. There may well be situations in which one would fear that strict retroactive enforcement of a federal grant condition would discourage grant applications that are a high federal priority. 7Link to the text of the note  [**3252]  These are,  [*639]  however, arguments that should be addressed to Congress rather than to a court, cf. Cannon, 441 U.S., at 709-710, since Congress has already implicitly authorized the Federal Judiciary to award appropriate relief to private parties injured by violations of Title VI. Whether these petitioners are within that special class is, of course, another question to which I now turn.
+
+ [****102]  II
+
+In University of California Regents v. Bakke, 438 U.S., at 412-418, four Justices expressed the opinion that Title VI's prohibition against racial discrimination is significantly broader than the protection provided by the Equal Protection Clause of the Fourteenth Amendment. That position was a dissenting one, however; five Members of the Court unequivocally rejected it.
+
+ [***906]  In his opinion announcing the judgment of the Court, JUSTICE POWELL reviewed the legislative history of Title VI and concluded:
+
+"In view of the clear legislative intent, Title VI must be held to proscribe only those racial classifications that would violate the Equal Protection Clause or the Fifth Amendment." Id., at 287.
+
+JUSTICE BRENNAN, JUSTICE WHITE, JUSTICE MARSHALL, and JUSTICE BLACKMUN reached the same conclusion. They wrote:
+
+"In our view, Title VI prohibits only those uses of racial criteria that would violate the Fourteenth Amendment if employed by a State or its agencies. . . ." Id., at 328. 8Link to the text of the note
+
+ [*640]  Later in their opinion, they summarized the reasoning that led them to that conclusion:
+
+"Congress' equating of Title VI's prohibition with the commends [****103]  of the Fifth and Fourteenth Amendments, its refusal precisely to define that racial discrimination which it intended to prohibit, and its expectation that the statute would be administered in a flexible manner, compel the conclusion that Congress intended the meaning of the statute's prohibition to evolve with the interpretation of the commands of the Constitution." Id., at 340. 9Link to the text of the note
+
+The interpretation of Title VI adopted by a majority in Bakke [****104]  was confirmed in two subsequent opinions of the Court. In Steelworkers v. Weber, 443 U.S. 193, 206, n. 6 (1979), the Court distinguished Title VII from Title VI on the basis that the former provision "was not intended to incorporate and particularize the commands of the Fifth and Fourteenth Amendments." 10Link to the text of the note [****105]  And in Board of Education,  [**3253]  New York City v. Harris, 444 U.S. 130 (1979), the Court first concluded that the 1972 Emergency School Aid Act (ESAA), 86 Stat. 354, contemplates funding cutoffs in response to  [*641]  forms of discrimination that are not "discrimination in the Fourteenth Amendment sense." 444 U.S., at 149.  [***907]  The Court then went on, in considered dictum, to distinguish the ESAA from Title VI:
+
+"A violation of Title VI may result in a cutoff of all federal funds, and it is likely that Congress would wish this drastic result only when discrimination is intentional. In contrast, only ESAA funds are rendered unavailable when an ESAA violation is found." Id., at 150. 11Link to the text of the note
+
+
+
+LEdHN[3D] [3D]The question to be decided today is not whether the Court has misread the actual intent of the Congress that enacted the Civil Rights Act of 1964. For when the Court unequivocally rejects one reading of a statute, its action should be respected in future litigation. Compare United States v. Board of Comm'rs of Sheffield, Ala., 435 U.S. 110, 140-150 (1978) (STEVENS, J., dissenting), with Dougherty County Board of Education v. White, 439 U.S. 32, 47 (1978) (STEVENS, J., concurring), and City of Rome v. United States, 446 U.S. 156, 191 (1980) (STEVENS, J., concurring). See also Runyon v. McCrary, 427 U.S. 160, 189-192 (1976) (STEVENS, J., concurring). If a statute is to be amended after it has been authoritatively construed by this Court,  [****106]  that task should almost always be performed by Congress. 12Link to the text of the note  [*642]  Title VI must therefore mean what this Court has said it means, regardless of what some of us may have thought it meant before this Court spoke. Today, proof of invidious purpose is a necessary component of a valid Title VI claim.
+
+ [****107]  III
+
+The respondent Police Department in this case sought, received, and expended federal grants to pay the salaries of policemen and to finance its recruitment programs. In order to obtain funds from the Department of Labor, the Department of Justice, and the Department of Housing and Urban Development, see App. A123, it was required to promise not only that it would comply with Title VI, but also that it  [***908]  would abide by departmental regulations implementing that statute. 13Link to the text of the note [****108]  Ever since  [**3254]  1964, all three Departments have had virtually identical implementing regulations. Significantly, those regulations do more than merely prohibit grant recipients from administering the funds with a discriminatory purpose; they require recipients to administer the grants in a manner that has no racially discriminatory effects. 14Link to the text of the note
+
+
+
+ [*643]  LEdHN[1D] [1D]This Court has repeatedly upheld the validity of those regulations and their "effects" standard. Lau v. Nichols, 414 U.S., at 568;id., at 571 (Stewart, J., concurring); Fullilove v. Klutznick, 448 U.S. 448, 479 (1980) (opinion of BURGER, C. J.). The reason is that Title VI explicitly authorizes "[each] Federal department and agency which is empowered to extend Federal financial assistance . . . to effectuate the provisions of section 601 . . . by issuing rules, regulations, or orders of general applicability which shall [****109]  be consistent with achievement of the objectives of the statute authorizing the financial assistance . . . ." 78 Stat. 252, 42 U. S. C. § 2000d-1. Nothing in the regulations is inconsistent with any of the statutes authorizing the disbursement of the grants that the respondent Police Department received. 15Link to the text of the note
+
+It is well settled that when Congress explicitly authorizes an administrative agency to promulgate regulations implementing a federal statute that governs completely private conduct, those regulations have the force of law so long as they are "reasonably related to the purposes of the enabling legislation." Mourning v. Family Publications Service, Inc., 411 U.S. 356, 369 (1973). See also Chrysler Corp. v. Brown, 441 U.S. 281, 301-306 (1979); Batterton v. Francis, 432 U.S. 416, 425, n. 9 (1977).  [****110]  See generally K. Davis, Administrative Law Treatise § 7.8 (2d ed. 1980 and Supp. 1982). The presumption of validity must be at least as strong when a regulation does not seek to control the conduct of independent private parties, but merely defines the terms on which someone may seek federal money. By prohibiting grant recipients from adopting procedures that deny program benefits to members of any racial group, the administrative  [*644]   [***909]  agencies have acted in a reasonable manner to further the purposes of Title VI. 16Link to the text of the note
+
+The reasonableness of the agencies' method of implementation is apparent from the Court's opinion in City of Rome v. United States, 446 U.S., at 173-178,  [****111]  which held that even if § 1 of the Fifteenth Amendment only prohibits purposeful racial discrimination in voting, Congress may implement that prohibition by banning voting practices that are discriminatory in effect. At the dawn of this century, this Court unanimously held that an administrative regulation's conformity to statutory authority was to be measured by the same standard as a statute's conformity to constitutional authority. In Boske v. Comingore, 177 U.S. 459, 470 (1900), we wrote:
+
+
+
+" [**3255]  In determining whether the regulations promulgated by [the Secretary of the Treasury] are consistent with law, we must apply the rule of decision which controls when an act of Congress is assailed as not being within the powers conferred upon it by the Constitution; that is to say, a regulation adopted under section 161 of the Revised Statutes should not be disregarded or annulled unless, in the judgment of the court, it is plainly and palpably inconsistent with law. Those who insist that such a regulation is invalid must make its invalidity so manifest that the court has no choice except to hold that the Secretary has exceeded his authority and employed [****112]  means that are not at all appropriate to the end specified in the act of Congress."
+
+Since an "effects" standard is an appropriate means for Congress to implement a constitutional prohibition against discrimination, an "effects" regulation is an equally appropriate  [*645]  means for an administrative agency to implement a comparable statutory prohibition. 17Link to the text of the note
+
+ [****113]  Thus, although the petitioners had to prove that the respondents' actions were motivated by an invidious intent in order to prove a violation of the statute, they only had to show that the respondents' actions were producing discriminatory effects in order to prove a violation of valid federal law.
+
+IV
+
+The District Court found that the respondent Police Department in this case was making entry-level appointments in a manner that  [***910]  had a discriminatory impact on blacks and Hispanics. That conduct violated the petitioners' rights under regulations promulgated by the Department of Labor, the Department of Justice, and the Department of Housing and Urban Development. The petitioners were therefore entitled to the compensation they sought under 42 U. S. C. § 1983 and were awarded by the District Court. 18Link to the text of the note I would reverse the judgment of the Court of Appeals.
+
+Six Members of the Court -- CHIEF JUSTICE BURGER, JUSTICE BRENNAN, Justice Stewart, JUSTICE MARSHALL, JUSTICE REHNQUIST, and JUSTICE STEVENS -- endorsed the view that a private right of action exists directly under Title VI and Title IX. Cannon v. University of Chicago, 441 U.S. 677 (1979); University of California Regents v. Bakke, 438 U.S. 265, 418-421 (1978) (STEVENS, J., joined by BURGER, C. J., and Stewart and REHNQUIST, JJ., dissenting). Two Members of the Court -- JUSTICE WHITE and JUSTICE BLACKMUN -- endorsed the view that private individuals may enforce Title VI and Title IX against appropriate defendants under 42 U. S. C. § 1983. Cannon, supra, at 722-724 (WHITE, J., joined by BLACKMUN, J., dissenting).
+
+2Link to the location of the note in the document
+He limits his analysis to situations where no discriminatory intent is shown. Ante, at 597.
+
+3Link to the location of the note in the document
+We framed our opinion as follows:
+
+"Petitioners first contend that 42 U. S. C. § 6010 does not create in favor of the mentally retarded any substantive rights to 'appropriate treatment' in the 'least restrictive' environment. Assuming that Congress did intend to create such a right, petitioners question the authority of Congress to impose these affirmative obligations on the States under either its spending power or § 5 of the Fourteenth Amendment. Petitioners next assert that any rights created by the Act are enforceable in federal court only by the Federal Government, not by private parties. Finally, petitioners argue that the court below read the scope of any rights created by the Act too broadly and far exceeded its remedial powers in requiring the Commonwealth to move its residents to less restrictive environments and create individual habilitation plans for the mentally retarded. Because we agree with petitioners' first contention -- that § 6010 simply does not create substantive rights -- we find it unnecessary to address the remaining issues." 451 U.S., at 10-11 (emphasis added).
+
+4Link to the location of the note in the document
+Obviously, there can be no argument that the respondent Police Department in this case was unaware of its obligations. Both the statute and the regulations clearly prohibit racial discrimination, and they did so at the time the respondent accepted the federal money.
+
+5Link to the location of the note in the document
+After the sentence fragment quoted ante, at 597, the Court concluded: "These are all difficult questions. Because the Court of Appeals has not addressed these issues, however, we remand the issues for consideration in light of our decision here." 451 U.S., at 30.
+
+6Link to the location of the note in the document
+Thiboutot itself involved only federal statutes, not regulations. Its analysis of § 1983, however, applies equally to administrative regulations having the force of law. See Chrysler Corp. v. Brown, 441 U.S. 281, 301-303 (1979) (discussing what types of administrative regulations have "the force and effect of law").
+
+7Link to the location of the note in the document
+I must point out, however, that the record in this case gives no basis for thinking that the cost of an appropriate award of damages to the petitioners would exceed the total amount of respondents' federal subsidy. And, as a general proposition, it is usually assumed that a cutoff of federal funds would be significantly more drastic than an individualized remedy for the victim of a Title VI violation. See Cannon, 441 U.S., at 705, and n. 38.
+
+8Link to the location of the note in the document
+Accord, 438 U.S., at 332, 333, 334, n. 11, 336, 338. Towards the end of their opinion, JUSTICES BRENNAN, WHITE, MARSHALL, and BLACKMUN expressly considered and rejected the argument that the Court's earlier decision in Lau v. Nichols, 414 U.S. 563 (1974), foreclosed their reading of Title VI. See 438 U.S., at 352-353.
+
+9Link to the location of the note in the document
+Of course, in Washington v. Davis, 426 U.S. 229 (1976), the Court held that the Fourteenth Amendment is violated only by purposeful state racial discrimination.
+
+10Link to the location of the note in the document
+The Court explained:
+
+"Title VI of the Civil Rights Act of 1964, considered in University of California Regents v. Bakke, 438 U.S. 265 (1978), contains no provision comparable to § 703(j) [of Title VII]. This is because Title VI was an exercise of federal power over a matter in which the Federal Government was already directly involved: the prohibitions against race-based conduct contained in Title VI governed '[programs] or [activities] receiving Federal financial assistance.' 42 U. S. C. § 2000d. Congress was legislating to assure federal funds would not be used in an improper manner. Title VII, by contrast, was enacted pursuant to the commerce power to regulate purely private decisionmaking and was not intended to incorporate and particularize the commands of the Fifth and Fourteenth Amendments. Title VII and Title VI, therefore, cannot be read in pari materia." 443 U.S., at 206, n. 6.
+
+11Link to the location of the note in the document
+In his dissenting opinion, Justice Stewart, joined by JUSTICES POWELL and REHNQUIST, also noted that Title VI "has been construed to contain not a mere disparate-impact standard, but a standard of intentional discrimination." 444 U.S., at 159-160.
+
+12Link to the location of the note in the document
+Like most, this proposition of law is not wholly without exceptions. Congress phrased some older statutes in sweeping, general terms, expecting the federal courts to interpret them by developing legal rules on a case-by-case basis in the common-law tradition. One clear example of such a statute is the Sherman Act, 26 Stat. 209. See National Society of Professional Engineers v. United States, 435 U.S. 679, 687-688 (1978); Associated General Contractors of California, Inc. v. Carpenters, 459 U.S. 519, 531-535 (1983). For that reason, in Continental T.V., Inc. v. GTE Sylvania Inc., 433 U.S. 36 (1977), the doctrine of stare decisis did not preclude the Court from overruling its prior decision in United States v. Arnold, Schwinn & Co., 388 U.S. 365 (1967), even though Congress had not acted during the intervening decade. Cf. Monell v. New York City Dept. of Social Services, 436 U.S. 658, 695-701 (1978) (overruling an erroneous interpretation of § 1983 in Monroe v. Pape, 365 U.S. 167 (1961), despite the absence of congressional action). Title VI is different from those statutes, because Congress expected most interstitial lawmaking to be performed by administrative agencies, not courts.
+
+13Link to the location of the note in the document
+One standard application form requires the following certification:
+
+"The grantee hereby assures and certifies that it will comply with the regulations, policies, guidelines and requirements with respect to the acceptance and use of Federal funds for this federally-assisted program. Also, the grantee gives assurances and certifies with respect to the grant that:
+
+. . . .
+
+"(6) The grant will be conducted and administered in compliance with:
+
+"(a) Title VI of the Civil Rights Act of 1964 (Pub. L. 88-352) and implementing regulations . . . ." Form HUD 4124 (emphasis added).
+
+14Link to the location of the note in the document
+For example, the regulations provide:
+
+"A recipient, in determining the . . . benefits which will be provided under any such program, . . . may not, directly or through contractual or other arrangements, utilize criteria . . . which . . . have the effect of defeating or substantially impairing accomplishment of the objectives of the program as respect to persons of a particular race, color, or national origin." 24 CFR § 1.4(b)(2) (1982); 28 CFR § 42.104(b)(2) (1982); 29 CFR § 31.3(b)(2) (1982).
+
+15Link to the location of the note in the document
+Indeed, even in the absence of Title VI, one would expect the administrative agencies to distribute the grants in a way that will benefit all segments of the communities they seek to serve.
+
+16Link to the location of the note in the document
+Those purposes are evident from the statutory language:
+
+"No person in the United States shall, on the ground of race, color, or national origin, be excluded from participation in [or] be denied the benefits of . . . any program or activity receiving Federal financial assistance." 78 Stat. 252, 42 U. S. C. § 2000d.
+
+17Link to the location of the note in the document
+Earlier in the Boske opinion the Court had noted that there was "certainly no statute which expressly or by necessary implication forbade the adoption of such a regulation." 177 U.S., at 469. The same may be said of the regulations at issue in this case. For although the Court has determined that Title VI does not compel the application of an effects standard, see supra, at 639-642, I do not believe that Congress should be understood to have prohibited regulations adopting such a standard, especially given the passages from the legislative history of Title VI identified in Bakke, 438 U.S., at 413-418, nn. 11, 13, 15, 16, 19, 23 (STEVENS, J., dissenting), and Congress' acquiescence in those regulations since 1964.
+
+18Link to the location of the note in the document
+Because respondent Police Department acted under color of state law in making appointments, § 1983 authorizes a lawsuit against it, based on its violation of the governing administrative regulations. This does not mean, as JUSTICE POWELL suggests, ante, at 608, n. 1, that a similar action would be unavailable against a similarly situated private party. Whether a cause of action against private parties exists directly under the regulations and, if so, what the standard of liability in such an action would be, are questions that are not presented by this case.

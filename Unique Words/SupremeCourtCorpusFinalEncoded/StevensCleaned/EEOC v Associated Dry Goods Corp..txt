@@ -1,0 +1,20 @@
+﻿
+The Court construes a prohibition against public disclosure as an authorization for prelitigation discovery. A principal basis for the Court's unusual construction of rather plain statutory language is that because a charging party must know the contents of a charge, that party cannot be a member of the public to which disclosure is prohibited. In my view, the reason     that the statute is not violated by the charging party's knowledge of the contents of a charge is that he is the source of the information contained in the charge; no disclosure occurs when he reads what he has written, regardless of whether he is a member of the public.
+
+To encourage prompt and full disclosure of relevant information to a neutral conciliator, Congress assured employees and employers alike that no public disclosure of such information would occur prior to the institution of formal proceedings. To enforce this assurance, the statute imposes criminal penalties on Commission personnel who disclose information to the public. See     42 U. S. C. § 2000e-8 (e). 1Link to the text of the note It seems fanciful to     me to conclude that Congress intended to prohibit direct disclosure while permitting indirect disclosure. That result, however, is the consequence of the Court's view that direct disclosure may be made to a fairly large group of persons who can then pass     the information along to others. 2Link to the text of the note Although Commission rules do provide that such persons shall agree not to make disclosed information public to others, neither the statutes nor the regulations contain any sanction    for the violation of that sort of agreement. 3Link to the text of the note If Congress had regarded this group as members of some nonpublic category, I believe that Congress would have expressly prohibited them from making any public disclosure of the confidential information they receive from the Commission. 4Link to the text of the note The Court's reading of the statute shows little respect for the drafting ability of Congress.
+
+    I therefore agree with the Court of Appeals for the Fourth Circuit that the statute should be interpreted in accordance with its plain meaning.
+
+Accordingly, I respectfully dissent.
+
+
+A violation of the disclosure prohibition contained in § 2000e-8 (e) is a misdemeanor punishable by 1-year imprisonment and a $ 1,000 fine.
+
+2Link to the location of the note in the document
+The persons to whom special disclosure is permitted, as described by the Court, include parties or their attorneys, aggrieved persons in whose behalf charges have been filed, and the persons or organizations who have filed the charges in their behalf, and respondents and their attorneys. See ante, at 596-597.
+
+3Link to the location of the note in the document
+The consequences of a violation surely do not include the criminal penalties that the statute expressly authorizes when Commission personnel make public disclosure.
+
+4Link to the location of the note in the document
+The Commission argues that it could prevent further disclosure by seeking injunctive and compensatory relief for breach of the agreement not to disclose the information to others. Brief for Petitioner 37-38, n. 24. This remedy may ameliorate the practical consequences of the Commission's regulation, but the existence of such a remedy does not answer the question of why Congress provided no express sanction for further disclosure by this nonpublic category.

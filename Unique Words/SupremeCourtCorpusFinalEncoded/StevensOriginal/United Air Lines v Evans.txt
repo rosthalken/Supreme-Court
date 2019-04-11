@@ -1,0 +1,103 @@
+﻿
+        
+        United Air Lines v. Evans, 431 U.S. 553, 97 S. Ct. 1885 (1977)
+        
+
+
+      
+
+[*554]   [***576]   [**1887]  MR. JUSTICE STEVENS delivered the opinion of the Court.
+
+LEdHN[1A] [1A]Respondent was employed by United Air Lines as a flight attendant from November 1966 to February 1968. She was rehired in February 1972. Assuming, as she alleges, that her separation from employment in 1968 violated Title VII of the Civil Rights Act of 1964, 1Link to the text of the note the question now presented is whether the employer is committing a second violation of Title VII by refusing to credit her with seniority for any period prior to February 1972.
+
+LEdHN[2] [2]Respondent filed charges with the Equal Employment Opportunity Commission in February 1973, alleging that United discriminated and continues to discriminate against her because she is a female. After receiving a letter granting her the right to sue, she commenced this action in the United States District Court for the Northern District of Illinois. Because the District Court dismissed her complaint,  [****4]  the facts which she has alleged are taken as true. They may be simply stated. 
+
+LEdHN[3A] [3A]During respondent's initial period of employment, United maintained a policy of refusing to allow its female flight attendants to be married. 2Link to the text of the note When she married in 1968, she was therefore forced to resign. Although it was subsequently decided that such a resignation violated Title VII, Sprogis v. United Air Lines, 444 F. 2d 1194 (CA7 1971), cert. denied, 404 U.S. 991, respondent was not a party to that case and did not  [*555]  initiate any proceedings of her own in 1968 by filing a charge with the EEOC within 90 days of her separation. 3Link to the text of the note A claim based on that discriminatory act is therefore barred. 4Link to the text of the note
+
+LEdHN[3B] [3B]
+
+ [****5]  In November 1968, United entered into a new collective-bargaining agreement which ended the pre-existing "no marriage" rule and provided for the reinstatement of certain flight attendants who had been terminated pursuant to that rule. Respondent was not covered by that  [***577]  agreement. On several occasions she unsuccessfully sought reinstatement; on February 16, 1972, she was hired as a new employee. Although her personnel file carried the same number as it did in 1968, for seniority purposes she has been treated as though she had no prior service with United. 5Link to the text of the note She has not alleged that any other rehired employees were given credit for prior service with United, or that United's administration of the seniority system has violated the collective-bargaining agreement covering her employment. 6Link to the text of the note
+
+ [****6]   [*556]   [**1888]  Informal requests to credit her with pre-1972 seniority having been denied, respondent commenced this action. 7Link to the text of the note The District Court dismissed the complaint, holding that the failure to file a charge within 90 days of her separation in 1968 caused respondent's claim to be time barred, and foreclosed any relief under Title VII. 8Link to the text of the note
+
+ [****7]  A divided panel of the Court of Appeals initially affirmed; then, after our decision in Franks v. Bowman Transportation Co., 424 U.S. 747, the panel granted respondent's petition for  [*557]  rehearing and unanimously reversed. 534 F. 2d 1247 (CA7 1976). We granted certiorari, 429 U.S. 917, and now hold that the complaint was properly dismissed. 
+
+LEdHN[1B] [1B]LEdHN[4A] [4A]Respondent recognizes that it is now too late to obtain relief based on an unlawful employment practice which occurred in  [***578]  1968. She contends, however, that United is guilty of a present, continuing violation of Title VII and therefore that her claim is timely. 9Link to the text of the note She advances two reasons for holding that United's seniority system illegally discriminates against her: First, she is treated less favorably than males who were hired after her termination in 1968 and prior to her re-employment in 1972; second, the seniority system gives present effect to the past illegal act and therefore perpetuates the consequences of forbidden discrimination. Neither argument persuades us that United is presently violating the statute.
+
+LEdHN[4B] [4B]
+
+ [****8]  It is true that some male employees with less total service than respondent have more seniority than she. But this disparity is not a consequence of their sex, or of her sex. For females hired between 1968 and 1972 also acquired the same preference over respondent as males hired during that period. Moreover, both male and female employees who had service prior to February 1968, who resigned or were terminated for a nondiscriminatory reason (or for an unchallenged discriminatory reason), and who were later re-employed, also were treated as new employees receiving no seniority credit for their prior service. Nothing alleged in the complaint indicates that United's seniority system treats existing female employees differently from existing male  [**1889]  employees, or that the failure to  [*558]  credit prior service differentiates in any way between prior service by males and prior service by females. Respondent has failed to allege that United's seniority system differentiates between similarly situated males and females on the basis of sex.
+
+LEdHN[5] [5]Respondent is correct in pointing out that the seniority system gives present effect to a past act of discrimination. But United was entitled  [****9]  to treat that past act as lawful after respondent failed to file a charge of discrimination within the 90 days then allowed by § 706(d). HN2 A discriminatory act which is not made the basis for a timely charge is the legal equivalent of a discriminatory act which occurred before the statute was passed. It may constitute relevant background evidence in a proceeding in which the status of a current practice is at issue, but separately considered, it is merely an unfortunate event in history which has no present legal consequences.
+
+Respondent emphasizes the fact that she has alleged a continuing violation. United's seniority system does indeed have a continuing impact on her pay and fringe benefits. But the emphasis should not be placed on mere continuity; the critical question is whether any present violation exists. She has not alleged that the system discriminates against former female employees or that it treats former employees who were discharged for a discriminatory reason any differently from former employees who resigned or were discharged for a nondiscriminatory reason.  [***579]  In short, the system is neutral in its operation. 10Link to the text of the note
+
+ [****10]  Our decision in Franks v. Bowman Transportation Co., supra, does not control this case. In Franks we held that retroactive seniority was an appropriate remedy to be awarded under § 706(g) of Title VII, 42 U.S.C. § 2000e-5(g) (1970  [*559]  ed., Supp. V), after an illegal discriminatory act or practice had been proved, 424 U.S., at 762-768. When that case reached this Court, the issues relating to the timeliness of the charge 11Link to the text of the note and the violation of Title VII 12Link to the text of the note had already been decided; we dealt only with a question of remedy. In contrast, in the case now before us we do not reach any remedy issue because respondent did not file a timely charge based on her 1968 separation and she has not alleged facts establishing a violation since she was rehired in 1972. 13Link to the text of the note
+
+
+
+ [****11]  LEdHN[6] [6]The difference between a remedy issue and a violation issue is highlighted by the analysis of § 703(h) of Title VII in Franks.14Link to the text of the note As we held in that case, by its terms that section does not bar the award of retroactive seniority after a violation has been  [**1890]  proved. Rather, § 703(h) "delineates which employment practices are illegal and thereby prohibited and which are not," 424 U.S., at 758.
+
+
+
+LEdHN[1C] [1C]That section expressly provides that it shall not be an unlawful employment practice to apply different terms of employment  [*560]  [****12]  pursuant to a bona fide seniority system, provided that any disparity is not the result of intentional discrimination. Since respondent does not attack the bona fides of United's seniority system, and since she makes no charge that the system is intentionally designed to discriminate because of race, color, religion, sex, or national origin, § 703(h) provides an additional ground for rejecting her claim. 
+
+LEdHN[7] [7]LEdHN[8] [8]The Court of Appeals read § 703(h) as intended to bar an attack on a seniority system based on the consequences of discriminatory acts  [***580]  which occurred prior to the effective date of Title VII in 1965, 15Link to the text of the note but having no application to such attacks based on acts occurring after 1965. This reading of § 703(h) is too narrow. HN4 The statute does not foreclose attacks on the current operation of seniority systems which are subject to challenge as discriminatory. But such a challenge to a neutral system may not be predicated on the mere fact that a past event which has no present legal significance has affected the calculation of seniority credit, even if the past event might at one time have justified a valid claim against the employer. A contrary view would substitute a claim for seniority [****13]  credit for almost every claim which is barred by limitations. Such a result would contravene the mandate of § 703(h).
+
+The judgment of the Court of Appeals is reversed.
+
+It is so ordered.
+
+78 Stat. 253. Title VII, as amended, is codified in 42 U.S.C. § 2000e et seq. (1970 ed. and Supp. V).
+
+2Link to the location of the note in the document
+At that time United required that all flight attendants be female, except on flights between the mainland and Hawaii and on overseas military charter flights. See Sprogis v. United Air Lines, 444 F. 2d 1194, 1203 (CA7 1971) (Stevens, J., dissenting), cert. denied, 404 U.S. 991.
+
+3Link to the location of the note in the document
+Section 706(d), 78 Stat. 260, 42 U.S.C. § 2000e-5(d), then provided in part:
+
+"A charge under subsection (a) shall be filed within ninety days after the alleged unlawful employment practice occurred…." The 1972 amendments to Title VII added a new subsection (a) to § 706. Consequently, subsection (d) was redesignated as subsection (e). At the same time it was amended to enlarge the limitations period to 180 days. See 86 Stat. 105, 42 U.S.C. § 2000e-5(e) (1970 ed., Supp. V).
+
+4Link to the location of the note in the document
+HN1 Timely filing is a prerequisite to the maintenance of a Title VII action. Alexander v. Gardner-Denver Co., 415 U.S. 36, 47. See Electrical Workers v. Robbins & Myers, Inc., 429 U.S. 229, 239-240.
+
+5Link to the location of the note in the document
+Respondent is carried on two seniority rolls. Her "company" or "system" seniority dates from the day she was rehired, February 16, 1972. Her "stewardess" or "pay" seniority dates from the day she completed her flight attendant training, March 16, 1972. One or both types of seniority determine a flight attendant's wages; the duration and timing of vacations rights to retention in the event of layoffs and rights to re-employment thereafter; and rights to preferential selection of flight assignments. App. 5-6, 10.
+
+6Link to the location of the note in the document
+Under the provisions of the collective-bargaining agreement between United and the Air Line Stewardesses and Flight Stewards as represented by the Air Line Pilots Association International for the period 1972-1974, seniority is irrevocably lost or broken after the separation from employment of a flight attendant "who resigns or whose services with the Company are permanently severed for just cause." Brief for Respondent 6.
+
+7Link to the location of the note in the document
+The relief requested in respondent's complaint included an award of seniority to the starting date of her initial employment with United, and backpay "lost as a result of the discriminatory employment practices of [United]." App. 8. In her brief in this Court, respondent states that she seeks backpay only since her date of rehiring, February 16, 1972, which would consist of the increment in pay and benefits attributable to her lower seniority since that time. Brief for Respondent 4.
+
+8Link to the location of the note in the document
+The District Court recited that the motion was filed pursuant to Fed. Rule Civ. Proc. 12(b)(1) and dismissed the complaint on the ground that it had no jurisdiction of a time-barred claim. The District Court also held, however, that the complaint did not allege any continuing violation. For that reason, the complaint was ripe for dismissal under Rule 12(b)(6). The District Court stated:
+
+"Plaintiff asserts that by defendant's denial of her seniority back to the starting date of her original employment in 1966, United is currently perpetuating the effect of past discrimination.
+
+"Plaintiff, however, has not been suffering from any 'continuing' violation. She is seeking to have this court merely reinstate her November, 1966 seniority date which was lost solely by reason of her February, 1968 resignation. The fact that that resignation was the result of an unlawful employment practice is irrelevant for purposes of these proceedings because plaintiff lost her opportunity to redress that grievance when she failed to file a charge within ninety days of February, 1968. United's subsequent employment of plaintiff in 1972 cannot operate to resuscitate such a timebarred claim." App. 18.
+
+9Link to the location of the note in the document
+Respondent cannot rely for jurisdiction on the single act of failing to assign her seniority credit for her prior service at the time she was rehired, for she filed her discrimination charge with the Equal Employment Opportunity Commission on February 21, 1973, more than one year after she was rehired on February 16, 1972. The applicable time limit in February 1972, was 90 days; effective March 24, 1972, this time was extended to 180 days, see n. 3, supra.
+
+10Link to the location of the note in the document
+This case does not involve any claim by respondent that United's seniority system deterred her from asserting any right granted by Title VII. It does not present the question raised in the so-called departmental seniority cases. See, e.g., Quarles v. Philip Morris, Inc., 279 F. Supp. 505 (ED Va. 1968).
+
+11Link to the location of the note in the document
+The Court of Appeals had disposed of the timeliness issues in Franks, 495 F. 2d 398, 405 (CA5 1974).
+
+12Link to the location of the note in the document
+This finding of the District Court was unchallenged in the Court of Appeals, id., at 402, 403, and was assumed in this Court, 424 U.S., at 750.
+
+In any event we noted in Franks: "The underlying legal wrong affecting [the class] is not the alleged operation of a racially discriminatory seniority system but of a racially discriminatory hiring system." Id., at 758.
+
+13Link to the location of the note in the document
+At the time she was rehired in 1972, respondent had no greater right to a job than any other applicant for employment with United. Since she was in fact treated like any other applicant when she was rehired, the employer did not violate Title VII in 1972. And if the employer did not violate Title VII in 1972 by refusing to credit respondent with back seniority, its continued adherence to that policy cannot be illegal.
+
+14Link to the location of the note in the document
+Section 703(h), 78 Stat. 257, HN3 42 U.S.C. § 2000e-2(h), provides:
+
+"Notwithstanding any other provision of this title, it shall not be an unlawful employment practice for an employer to apply different standards of compensation, or different terms, conditions, or privileges of employment pursuant to a bona fide seniority or merit system… provided that such differences are not the result of an intention to discriminate because of race, color, religion, sex, or national origin…."
+
+15Link to the location of the note in the document
+534 F. 2d, at 1251.

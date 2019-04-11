@@ -1,0 +1,42 @@
+﻿
+
+
+109 S.Ct. 1981
+Supreme Court of the United States
+Paul GREEN, Petitioner
+v.
+BOCK LAUNDRY MACHINE COMPANY.
+No. 87–1816.
+|
+Argued Jan. 18, 1989.
+|
+Decided May 22, 1989.
+ 
+
+Justice SCALIA, concurring in the judgment.
+
+We are confronted here with a statute which, if interpreted literally, produces an absurd, and perhaps unconstitutional, result. Our task is to give some alternative meaning to the word “defendant” in Federal Rule of Evidence 609(a)(1) that avoids this consequence; and then to determine whether Rule 609(a)(1) excludes the operation of Federal Rule of Evidence 403.
+ 
+I think it entirely appropriate to consult all public materials, including the background of Rule 609(a)(1) and the legislative history of its adoption, to verify that what seems to us an unthinkable disposition (civil defendants but not civil plaintiffs receive the benefit of weighing prejudice) was indeed unthought of, and thus to justify a departure from the ordinary meaning of the word “defendant” in the Rule. For that purpose, however, it would suffice to observe that counsel have not provided, nor have we discovered, a shred of evidence that anyone has ever proposed or assumed such a bizarre disposition. The Court’s opinion, however, goes well beyond this. Approximately four-fifths of its substantive analysis is devoted to examining the evolution of Federal Rule of Evidence 609, from the 1942 Model Code of Evidence, to the 1953 Uniform Rules of Evidence, to the 1965 Luck case and the 1970 statute overruling it, to the Subcommittee, *528 Committee, and Conference Committee Reports, and to the so-called floor debates on Rule 609—all with the evident purpose, not merely of confirming that the word “defendant” cannot have been meant literally, but of determining what, precisely, the Rule does mean.
+ 
+I find no reason to believe that any more than a handful of the Members of Congress who enacted Rule 609 were aware of its interesting evolution from the 1942 Model Code; or that any more than a handful of them (if any) voted, with respect to their understanding of the word “defendant” and the relationship between Rule 609 and Rule 403, on the basis of the referenced statements in the Subcommittee, Committee, or Conference Committee Reports, or floor debates—statements so marginally relevant, to such minute details, in such relatively inconsequential legislation. The meaning of terms on the statute books ought to be determined, not on the basis of which meaning can be shown to have been understood by a larger handful of the Members of Congress; but rather on the basis of which meaning is (1) most in accord with context and ordinary usage, and thus most likely to have been understood by the whole Congress which voted on the words of the statute (not to mention the citizens subject to it), and (2) most compatible with the surrounding body of law into which the provision must be integrated—a compatibility which, by a benign fiction, we assume Congress always has in mind. I would not permit any of the historical and legislative material discussed by the Court, or all of it combined, to lead me to a result different from the one that these factors suggest.
+ 
+I would analyze this case, in brief, as follows:
+ 
+(1) The word “defendant” in Rule 609(a)(1) cannot rationally (or perhaps even **1995 constitutionally) mean to provide the benefit of prejudice-weighing to civil defendants and not civil plaintiffs. Since petitioner has not produced, and we have not ourselves discovered, even a snippet of support for this absurd result, we may confidently assume that the word was *529 not used (as it normally would be) to refer to all defendants and only all defendants.
+ 
+(2) The available alternatives are to interpret “defendant” to mean (a) “civil plaintiff, civil defendant, prosecutor, and criminal defendant,” (b) “civil plaintiff and defendant and criminal defendant,” or (c) “criminal defendant.” Quite obviously, the last does least violence to the text. It adds a qualification that the word “defendant” does not contain but, unlike the others, does not give the word a meaning (“plaintiff” or “prosecutor”) it simply will not bear. The qualification it adds, moreover, is one that could understandably have been omitted by inadvertence—and sometimes is omitted in normal conversation (“I believe strongly in defendants’ rights”). Finally, this last interpretation is consistent with the policy of the law in general and the Rules of Evidence in particular of providing special protection to defendants in criminal cases.*
+ 
+(3) As well described by the Court, the “structure of the Rules,” ante, at 1993, makes it clear that Rule 403 is not to be applied in addition to Rule 609(a)(1).
+ 
+I am frankly not sure that, despite its lengthy discussion of ideological evolution and legislative history, the Court’s reasons for both aspects of its decision are much different from mine. I respectfully decline to join that discussion, however, because it is natural for the bar to believe that the juridical *530 importance of such material matches its prominence in our opinions—thus producing a legal culture in which, when counsel arguing before us assert that “Congress has said” something, they now frequently mean, by “Congress,” a committee report; and in which it was not beyond the pale for a recent brief to say the following: “Unfortunately, the legislative debates are not helpful. Thus, we turn to the other guidepost in this difficult area, statutory language.” Brief for Petitioner in Jett v. Dallas Independent School District, O.T.1988, No. 87–2084, p. 21.
+ 
+For the reasons stated, I concur in the judgment of the Court.
+ 
+
+
+*
+Whether § 2254(d)(1) would bar a federal habeas petitioner from relying on a decision that came after the last state-court adjudication on the merits, but fell within one of the exceptions recognized in Teague, 489 U.S., at 311, 109 S.Ct. 1060, is a question we need not address to resolve this case.
+
+
+

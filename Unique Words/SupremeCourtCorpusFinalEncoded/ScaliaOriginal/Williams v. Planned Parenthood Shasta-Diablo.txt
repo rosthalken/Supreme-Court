@@ -1,0 +1,78 @@
+﻿520 U.S. 1133
+CHRISTINE WILLIAMS AND CITIZENS FOR LIFE v. PLANNED PARENTHOOD SHASTA-DIABLO, INC.
+Supreme Court of the United States
+March 17, 1997, Decided
+No. 95-576.
+
+JUSTICE SCALIA, with whom JUSTICE KENNEDY and JUSTICE THOMAS join, dissenting from denial of certiorari.
+
+The issue in this case is the constitutionality of an injunction against abortion protestors. The injunction limits their First Amendment activities to a sidewalk separated from the clinic that is the object of their protest by a busy four-lane avenue. The case has made its way back here after we set aside the Supreme [*1134]  Court of California's earlier judgment approving the injunction, 7 Cal. 4th 860, 873 P.2d 1224 (1994), and remanded the case so that the court could reconsider its holding in light of our decision in Madsen v. Women's Health  [****2]  Center, Inc., 512 U.S. 753, 129 L. Ed. 2d 593, 114 S. Ct. 2516 (1994). 513 U.S. 956 (1994). On remand, the Supreme Court of California concluded that the provision in question "is equally valid under the new standard set forth in Madsen," and therefore "reaffirmed the judgment in favor of Planned Parenthood." 10 Cal. 4th 1009, 1012, 898 P.2d 402, 404 (1995). That was in my view patent error, and has been confirmed as such by Schenck v. Pro-Choice Network of Western N. Y., 519 U.S. 357, 137 L. Ed. 2d 1, 117 S. Ct. 855 (1997). I think it important to the dignity of this Court and the integrity of its processes to set aside what can only be regarded as an intentional evasion of its decrees. I would grant the petition for certiorari, summarily reverse the judgment of the Supreme Court of California, and remand for further proceedings.
+
+This case--unlike Schenck--is not one in which the record reveals instances of serious unlawful conduct by clinic protestors. The following was the testimony of Janice Schoenfeld, the "escort coordinator" of the clinic, at the hearing on the application for a permanent injunction:
+
+"Q. Did you ever see any of this group of defendants prevent somebody from getting in the front door of the clinic?
+
+"A.  [****3]  No.
+
+"Q. Did you ever see them manhandle any of your clients?
+
+"A. No.
+
+"Q. Was anybody, to the best of your knowledge, that wanted to get an abortion, prevented from getting an abortion?
+
+"A. No.
+
+"Q. Did you ever attempt to make a citizen's arrest of any of the defendants?
+
+"A. No, I did not.
+
+"Q. Do you know if any of them were ever arrested?
+
+"A. Not at the Vallejo clinic, that I know of. Some have been in other Operation Rescue activity.
+
+. . . . .
+
+"Q. Did you ever see any of the defendants prevent any cars from parking in the parking lot?
+
+ [***361]  "A. Not prevent them from parking, no." Tr. 54-55.
+
+ [**1286]   [*1135]  This is a record so devoid of threatening physical confrontation it would make an old-fashioned union organizer blush. Yet the trial court entered--and the Supreme Court of California approved--an injunction severely curtailing the speech rights of clinic protestors in a public forum.
+
+The basis for that injunction--and for the Supreme Court of California's initial approval of it--was the perceived government interest in preventing "increased stress and anxiety" among abortion patients. 7 Cal. 4th at 872-876, 873 P.2d at 1230-1233 (internal quotation marks and citation omitted). As [****4]  the Supreme Court of California explained, "emotionally jarring confrontations with anti-abortion pickets or sidewalk 'counselors' may pose serious health risks." Id., at 874, 873 P.2d at 1232. The "substantial governmental interest in protecting the patients' physical and emotional health and safety" justified restricting the abortion opponents to areas far removed from the clinic. Id., at 876, 873 P.2d at 1233.
+
+This holding was no longer supportable after we vacated the Supreme Court of California's judgment in light of Madsen, and remanded the case for further proceedings. Madsen, in disallowing an injunction which prevented abortion opponents from approaching persons seeking services at an abortion clinic, said:
+
+"Absent evidence that the protesters' speech is independently proscribable (i.e., 'fighting words' or threats), or is so infused with violence as to be indistinguishable from a threat of physical harm, this provision cannot stand." 512 U.S. at 774 (citation omitted).
+
+Despite this holding, the Supreme Court of California, on remand, did not abandon but reaffirmed its assertion that avoiding upset to the clinic's clients justified keeping [****5]  the protesters at a distance. 10 Cal. 4th at 1021, 898 P.2d at 410. When the defendants again petitioned us for certiorari, we held the case pending our decision in Schenck.
+
+Whatever glimmer of hope Madsen might have left regarding the legitimacy of the Supreme Court of California's "emotional upset" justification was entirely snuffed by Schenck, in which we reiterated, in the most unmistakable terms, that there is no legitimate government interest in protecting the "right of the people approaching and entering [clinics] to be left alone" on the public streets, 519 U.S. at ___ (slip op., at 24). Schenck would require, without further  [*1136]  analysis, a reversal of the judgment here, but for one additional factor: In its second opinion in this case--after our remand in light of Madsen--the California Supreme Court for the first time discerned a second state interest in support of the injunction: an interest in "ensuring unfettered access" to the clinic, 10 Cal. 4th at 1022, 898 P.2d at 410. This, it should be noted with suspicion, is an interest which the court had expressly disclaimed in its first opinion, saying that "the critical issue [is] not access, but [****6]  health and safety." 7 Cal. 4th at 879, n. 10, 873 P.2d 1235, n. 10.
+
+It is not normally our practice to scrutinize the record support for the grounds asserted by state courts or lower federal courts as a basis for rejecting constitutional claims. We have, however, sometimes been disposed to do so when the abridgment of First Amendment rights was at issue. See, e.g., NAACP v. Claiborne Hardware Co., 458 U.S. 886, 915, 73 L. Ed. 2d 1215, 102 S. Ct. 3409, and n. 50 (1982); Edwards v. South Carolina, 372 U.S. 229, 235, 9 L. Ed. 2d 697, 83 S. Ct. 680 (1963). And we should in my view always be disposed to do so when the grounds are newly minted after a remand, contradict what was said before the remand, and bear indication of an attempt to evade the consequences of our holding prompting the remand. That is the case here; and an examination of the record  [***362]  for support of the newly minted ground discloses that it does not exist.
+
+The trial court made many findings regarding activities tending to cause, not blocking of the entrances to the clinic parking lot, but "increased stress and anxiety" to clinic patrons and staff: protesters "confront and intimidate women seeking [respondent's] services," "force . . . 'counseling' upon [respondent's]  [**1287]   [****7]  staff and clients," "have called staff 'murderers' or asked them not to 'kill babies' in the presence of small children," "have pursued [respondent's] clients to their cars or public transportation in an effort to distribute literature and the plastic fetuses," and "bring small children to the area who run up and down the public sidewalk in front of plaintiff's premises." App. to Pet. for Cert. 42a-43a. The trial court also made findings regarding the impact of these activities on respondent, its patrons, and its staff: "[Respondent] must escort its clients through picket lines and [petitioners'] 'picketers/counselors' in its parking lot," and "the conduct of [petitioners] and their picketers/counselors have [sic] caused some of the women seeking counselling or services from plaintiff to become emotionally distraught." Ibid. But the only finding remotely related to access to the clinic is the following: Protesters "stand directly in front of [respondent's] office door and interfer  [*1137]  [sic] with or obstruct entrance to and from [respondent's] clinic." Id., at 42a. This finding (which, by the way, has no support in the record if it is interpreted to mean [****8]  physical obstruction 1Link to the text of the note ) pertains to behavior at the entrance to the clinic--which is some 100 feet inside the parking lot, from which the injunction (without objection) excludes the protesters entirely. It obviously cannot support excluding protesters from the public sidewalk adjoining the entrances to the parking lot, where it has never been so much as suggested that any blocking of access occurred. The Supreme Court of California's opinion misrepresents this, saying that "the trial court found here, that petitioners had significantly blocked driveways . . . ." 10 Cal. 4th at 1023, 898 P.2d at 411. The only authority cited for this proposition is that portion of the court's own pre-Madsen opinion which recites (inter alia) the trial court's finding that protestors "pursued patients to their cars . . . to distribute literature." 7 Cal. 4th at 867, 873 P.2d at 1227. This obviously does not establish (or even suggest) that petitioners "blocked driveways." 2Link to the text of the note  [****9] 
+
+ [*1138]  Of course, even if there had been a finding of interference with free access to the parking lot, the challenged injunction  [***363]  would require further findings to establish that no restraint short of total exclusion of free speech from the public sidewalk--such as limiting the number of protestors--could have eliminated the interference. Cf. Mine Workers v. Bagwell, 512 U.S. 821, 823, 129 L. Ed. 2d 642, 114 S. Ct. 2552 (1994) (injunction imposing numerical limit on picketers). A conclusion that complete [****10]  exclusion of protestors was necessary in this case would be difficult to square with the history of what happened: The trial court initially issued a temporary restraining order drafted by respondent, which permitted two picketers on the sidewalk in front of the clinic. App. to Pet. for Cert. 64a-66a. Shortly thereafter, it issued a preliminary injunction increasing to four the number of picketers allowed on that  [**1288]  sidewalk. Id., at 67a-68a. Despite this apparent sign of success--and without any request by respondent for more restrictive relief--11 months later the trial court imposed the permanent injunction at issue here, banning all picketing in front of the clinic. The reason, of course, was that (as the Supreme Court of California concluded the first time around) the trial court was not concerned about "impeding access"; it was concerned about preventing "stress and anxiety."
+
+Since the trial court did not find that the challenged injunction provision was necessary to secure access, the Supreme Court of California took it upon itself to provide the requisite finding. "The evidence at trial," the court proclaimed, "indicated that picketers had not followed the preliminary [****11]  injunction . . . ." 10 Cal. 4th at 1024, 898 P.2d at 411-412. For this the court offers no support other than citation of its earlier opinion in this case, 7 Cal. 4th, at 866-867, n. 2, 873 P.2d at 1227, n. 2, which in turn relies upon nothing more probative than the following testimony of Janice Schoenfeld:
+
+"Q. Have you observed picket activity since the injunction?
+
+"A. Yes, but they followed the injunction usually, except for picketers.
+
+"MS. RYER: Thank you. I have nothing further. Thank you.
+
+"THE COURT: You say that they followed the injunction?
+
+"THE WITNESS: They followed the injunction, yes, since the injunction." Tr. 52-53. 
+
+ [*1139]  Even if the record did establish some violation of the preliminary injunction, it would still not establish a violation related to access, supporting the proposition that banishment to the other side of the avenue was "the only practicable means of ensuring unfettered access," 10 Cal. 4th at 1022, 898 P.2d at 410. As far as appears, any failure to "follow the injunction" might have related to one of the many prohibitions that had nothing to do with obstructing access. Indeed, the odds are in favor of that, since almost all of the [****12]  prohibitions in the preliminary injunction were of that character. The record simply does not contain the facts necessary to support the challenged provision in the name of protection of access.
+
+* * *
+
+This case having been held pending the issuance of our opinion in Schenck; and Schenck having come out four-square against the principal theory relied upon by the Supreme Court of California; it is quite impossible to understand why any disposition short of a reversal and remand would be appropriate. If we were prepared to take at face value the court's post-Madsen-invented "obstruction of entrances" justification, then there was no reason to hold the case in the first place. The hold was correct, and today's denial of certiorari smiles upon injustice to these petitioners and disregard of the processes of this Court. I dissent.
+
+
+1. There was no testimony that petitioners had blocked the entrance, but only statements that they had stood very close to the entrance, trying to pass literature or other material to those going in. See Tr. 17-18 (testimony of Janice Schoenfeld at hearing on preliminary injunction) ("I did not say they blocked the door. I said they stand very close to the door") ("Q. Has any one of your clients ever been prevented from entering the clinic? A. No"); id., at 54 (testimony of Schoenfeld at hearing on permanent injunction) ("Q. Did you ever see any of this group of defendants prevent somebody from getting in the front door of the clinic? A. No"); id., at 65 (testimony of Marsha Anderson at hearing on permanent injunction) ("Q. Did you observe any of your patrons being denied entrance into the clinic by any of the defendants? A. I know they progressed to the front door, interrupted them, but not prohibited them"). Of course if, as the trial court believed, subjecting abortion clients to "emotional upset" was unlawful, forcing clients to expose themselves to such unlawful activity in order to enter or exit the clinic would constitute "interfering with" their access--and that is evidently what the trial court had in mind.
+
+2. In a separate portion of its opinion, the Supreme Court of California stated (without any citation of record support) that "one of the tactics of the sidewalk picketers was to walk slowly across the driveway entrance, thereby delaying cars attempting to turn into the parking lot from the street." 10 Cal. 4th at 1012, 898 P.2d at 404. Apart from the fact that the trial court made no such finding in connection with its entry of the injunction, see App. to Pet. for Cert. 42a-43a, "delaying" the entry of cars into the lot as an incidental result of lawful picket activity is by no means equivalent to "blocking driveways."

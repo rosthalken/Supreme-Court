@@ -1,0 +1,26 @@
+﻿
+
+
+112 S.Ct. 1081
+Supreme Court of the United States
+John J. McCARTHY, Petitioner,
+v.
+Larry MADIGAN et al.
+No. 90–6861.
+|
+Argued Dec. 9, 1991.
+|
+Decided March 4, 1992.
+
+Chief Justice REHNQUIST, with whom Justice SCALIA and Justice THOMAS join, concurring in the judgment.
+
+I agree with the Court’s holding that a federal prisoner need not exhaust the procedures promulgated by the Federal Bureau of Prisons. My view, however, is based entirely on the fact that the grievance procedure at issue does not provide for any award of monetary damages. As a result, in cases such as this one where prisoners seek monetary relief, the Bureau’s administrative remedy furnishes no effective remedy at all, and it is therefore improper to impose an exhaustion requirement. See McNeese v. Board of Ed. for Community Unit School Dist. 187, 373 U.S. 668, 675, 83 S.Ct. 1433, 1437, 10 L.Ed.2d 622 (1963); Montana National Bank of Billings v. Yellowstone County, 276 U.S. 499, 505, 48 S.Ct. 331, 333, 72 L.Ed. 673 (1928).
+ 
+*157 Because I would base the decision on this ground, I do not join the Court’s extensive discussion of the general principles of exhaustion, nor do I agree with the implication that those general principles apply without modification in the context of a Bivens claim. In particular, I disagree with the **1093 Court’s reliance on the grievance procedure’s filing deadlines as a basis for excusing exhaustion. As the majority observes, ante, at 1087–1088, we have previously refused to require exhaustion of administrative remedies where the administrative process subjects plaintiffs to unreasonable delay or to an indefinite timeframe for decision. See Coit Independence Joint Venture v. FSLIC, 489 U.S. 561, 587, 109 S.Ct. 1361, 1376, 103 L.Ed.2d 602 (1989); Gibson v. Berryhill, 411 U.S. 564, 575, n. 14, 93 S.Ct. 1689, 1696, n. 14, 36 L.Ed.2d 488 (1973); Walker v. Southern R. Co., 385 U.S. 196, 198, 87 S.Ct. 365, 366, 17 L.Ed.2d 294 (1966); Smith v. Illinois Bell Telephone Co., 270 U.S. 587, 591–592, 46 S.Ct. 408, 410, 70 L.Ed. 747 (1926). This principle rests on our belief that when a plaintiff might have to wait seemingly forever for an agency decision, agency procedures are “inadequate” and therefore need not be exhausted. Coit Independence Joint Venture v. FSLIC, supra, 489 U.S., at 587, 109 S.Ct., at 1376.
+ 
+But the Court makes strange use of this principle in holding that filing deadlines imposed by agency procedures may provide a basis for finding that those procedures need not be exhausted. Ante, at 1090–1091. Whereas before we have held that procedures without “reasonable time limit[s]” may be inadequate because they make a plaintiff wait too long, Coit Independence Joint Venture v. FSLIC, supra, at 587, 109 S.Ct., at 1376, today the majority concludes that strict filing deadlines might also contribute to a finding of inadequacy because they make a plaintiff move too quickly. But surely the second proposition does not follow from the first. In fact, short filing deadlines will almost always promote quick decisionmaking by an agency, the very result that we have advocated repeatedly in the cases cited above. So long as there is an escape clause, as there is here, and the time limit is within a *158 zone of reasonableness, as I believe it is here, the length of the period should not be a factor in deciding the adequacy of the remedy.
+ 
+
+
+
+

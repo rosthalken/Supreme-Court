@@ -1,0 +1,26 @@
+﻿MARYLAND, PETITIONER v. JEROME EDWARD BUIE
+
+No. 88-1369
+
+SUPREME COURT OF THE UNITED STATES
+
+494 U.S. 325
+
+December 4, 1989, Argued 
+February 28, 1990, Decided
+
+JUSTICE STEVENS, concurring.
+Today the Court holds that reasonable suspicion, rather than probable cause, is necessary to support a protective sweep while an arrest is in progress. I agree with that holding and with the Court's opinion, but I believe it is important to emphasize that the standard applies only to protective sweeps. Officers conducting such a sweep must have a reasonable basis for believing that their search will reduce the danger of harm to themselves or of violent interference with their mission; in short, the search must be protective.
+In this case, to justify Officer Frolich's entry into the basement, it is the State's burden to demonstrate that the officers had a reasonable basis for believing not only that someone in the basement might attack them or otherwise try to interfere with the arrest, but also that it would be safer to go down the stairs instead of simply guarding them from above until respondent had been removed from the house. The fact that respondent offered no resistance when he emerged from the basement is somewhat inconsistent with the hypothesis that the danger of an attack by a hidden confederate persisted after the arrest. Moreover, Officer Rozar testified that he was not worried about any possible danger when he arrested Buie. App. 9. 1 Officer Frolich, who conducted the search,  [*338]  supplied no explanation for why he might have thought another person was in the basement. He said only that he "had no idea who lived there." Id., at 15. This admission is made telling by Officer Frolich's participation in the 3-day prearrest surveillance of Buie's home. Id., at 4. The Maryland Court of Appeals was under the impression that the search took place after "Buie was safely outside the house, handcuffed and unarmed." 314 Md. 151, 166, 550 A. 2d 79, 86 (1988). All of this suggests that no reasonable suspicion of danger justified the entry into the basement.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 Buie's attorney asked, "'You weren't worried about there being any danger or anything like that?'" Officer Rozar answered, "'No.'" App. 9.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Indeed, were the officers concerned about safety, one would expect them to do what Officer Rozar did before the arrest: guard the basement door to prevent surprise attacks. App. 5. As the Court indicates, Officer Frolich might, at the time of the arrest, reasonably have "looked in" the already open basement door, ante, at 334,  [***289]  to ensure that no accomplice had followed Buie to the stairwell. But Officer Frolich did not merely "look in" the basement; he entered it. 2 That strategy is sensible if one wishes to search the basement. It is a surprising choice for an officer, worried about safety, who need not risk entering the stairwell at all.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+2 What more the officers might have done to protect themselves against threats from other places is obviously a question not presented on the facts of this case, and so is not one we can answer. Indeed, the peculiarity of Officer Frolich's search is that it appears to have concentrated upon the part of the house least likely to make the departing officers vulnerable to attack.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+The State may thus face a formidable task on remand. However, the Maryland courts are better equipped than are we to review the record. See, e.g., 314 Md., at 155, n. 2, 550 A. 2d, at 81, n. 2 (discussing state-law rules restricting review of the record on appeal of suppression decisions); cf. United States v. Hasting, 461 U.S. 499, 516-518 (1983) (Stevens, J., dissenting) (This Court should avoid undertaking record review functions that can "better be performed by other judges"). Moreover, the Maryland Court of Special  [*339]  Appeals suggested that Officer  [**1101]  Frolich's search could survive a "reasonable suspicion" test, 72 Md. App. 562, 576, 531 A. 2d 1290, 1297 (1987), and the Maryland Court of Appeals has not reviewed this conclusion. I therefore agree that a remand is appropriate.

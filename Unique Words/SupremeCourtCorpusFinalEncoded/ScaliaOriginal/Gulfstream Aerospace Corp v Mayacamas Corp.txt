@@ -1,0 +1,25 @@
+﻿
+
+
+108 S.Ct. 1133
+Supreme Court of the United States
+GULFSTREAM AEROSPACE CORPORATION, Petitioner
+v.
+MAYACAMAS CORPORATION.
+No. 86–1329.
+|
+Argued Dec. 7, 1987.
+|
+Decided March 22, 1988.
+Justice SCALIA, concurring.
+
+I join the Court’s opinion, but write separately principally to express what seems to me a necessary addition to the analysis *291 in Part II. While I agree that the present order does not come within the Cohen exception to the final-judgment rule under § 1291, I think it oversimplifies somewhat to assign as the reason merely that the order is “inherently tentative.” A categorical order otherwise qualifying for Cohen treatment does not necessarily lose that status, and become “nonfinal,” merely because the court may contemplate—or even, for that matter, invite—renewal of the aggrieved party’s request for relief at a later date. The claim to immediate relief (in this case, the right to be free of the obstruction of a parallel federal proceeding) is categorically and irretrievably denied. The court’s decision is “the final word on the subject” insofar as the time period between the court’s initial denial and its subsequent reconsideration of the renewed motion is concerned. Thus, it is inconceivable that we would hold denial of a motion to dismiss an indictment on grounds of absolute immunity (an order that is normally appealable at once, see Nixon v. Fitzgerald, 457 U.S. 731, 102 S.Ct. 2690, 73 L.Ed.2d 349 (1982)), to be nonfinal and unappealable, simply because the court announces that it will reconsider the motion at the conclusion of the prosecution’s case.
+ 
+In my view, refusing to apply the Cohen exception makes little sense in the present **1145 case because not only (1) the motion is likely to be renewed and reconsidered, but also (2) the relief will be just as effective, or nearly as effective, if accorded at a later date—that is, the harm caused during the interval between initial denial and reconsideration will not be severe. Moreover, since these two conditions will almost always be met when the asserted basis for an initial stay motion is the pendency of state proceedings, the more general conclusion that initial orders denying Colorado River motions are never immediately appealable is justified.
+ 
+I note that today’s result could also be reached by application of the rule adopted by the First Circuit, that to come within the Cohen exception the issue on appeal must involve “ ‘an important and unsettled question of controlling law, not merely a question of the proper exercise of the trial court’s *292 discretion.’ ” Boreri v. Fiat S.P.A., 763 F.2d 17, 21 (1985), quoting United States v. Sorren, 605 F.2d 1211, 1213 (1979). See also, e.g., Sobol v. Heckler Congressional Committee, 709 F.2d 129, 130–131 (1983); Midway Mfg. Co. v. Omni Video Games, Inc., 668 F.2d 70, 71 (1981); In re Continental Investment Corp., 637 F.2d 1, 4 (1980). This approach has some support in our opinions, see Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541, 546, 69 S.Ct. 1221, 1225–1226, 93 L.Ed. 1528 (1949); Coopers & Lybrand v. Livesay, 437 U.S. 463, 468, 98 S.Ct. 2454, 2457–2458, 57 L.Ed.2d 351 (1978), as well as in policy, see Donlon Industries v. Forte, 402 F.2d 935, 937 (CA2 1968) (Friendly, J.) (when an issue is reviewable only on an abuse-of-discretion basis the “likelihood of reversal is too negligible to justify the delay and expense incident to an [immediate] appeal and the consequent burden on hard-pressed appellate courts”); Midway Mfg. Co., supra, at 72 (questions of discretion “are less likely to be reversed and offer less reason for the appellate court to intervene”). This rationale has not been argued here, and we should not embrace it without full adversarial exploration of its consequences. I do think, however, that our finality jurisprudence is sorely in need of further limiting principles, so that Cohen appeals will be, as we originally announced they would be, a “small class [of decisions] ... too important to be denied review.” 337 U.S., at 546, 69 S.Ct., at 1225–1226.
+ 
+
+
+
+

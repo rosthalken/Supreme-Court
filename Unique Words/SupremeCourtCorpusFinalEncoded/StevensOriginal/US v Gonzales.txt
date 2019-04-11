@@ -1,0 +1,29 @@
+﻿UNITED STATES, PETITIONER v. MIGUEL GONZALES, ORLENIS HERNANDEZ-DIAZ AND MARIO PEREZ
+
+No. 95-1605
+
+SUPREME COURT OF THE UNITED STATES
+
+520 U.S. 1
+
+December 11, 1996, Argued 
+March 3, 1997, Decided
+
+ [*12]  [***143]  JUSTICE STEVENS, with whom JUSTICE BREYER joins, dissenting.
+These cases arose out of a criminal enterprise that violated both New Mexico law and federal law and gave rise to both state and federal prosecutions. They raise a narrow but important question concerning the scope of the prohibition against concurrent sentences contained in 18 U.S.C. § 924(c)(1). As the Government reads that provision, it prohibits the § 924(c) sentence from running concurrently with a state sentence that has already been imposed, but permits concurrent state and federal sentences when the federal prosecution precedes the state prosecution. 1 Thus the length of the total term of imprisonment--including both the state sentence and the federal sentence--is determined, in part, by the happenstance of which case is tried first.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 Reply Brief for United States 10-11; Tr. of Oral Arg. 6-10.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Read literally, however, the text of § 924(c)(1) would avoid this anomalous result. Because the text broadly prohibits the § 924(c) sentence from running "concurrently with any other term of imprisonment" regardless of whether that other term is imposed before or after the federal sentence, if the statute is read literally, it would require state judges to make any state term of imprisonment run consecutively to the § 924(c) sentence. Alternatively, if the state trial follows the federal trial and the state judge imposes a concurrent sentence (because she does not read § 924(c) as having any applicability to state sentences), the literal text would require the federal authorities to suspend the § 924(c) sentence until the state sentence has been served.
+By relying so heavily on pure textual analysis, the Court's opinion would appear to dictate this result. Like the Government, however, I do not think the statute can reasonably be interpreted as containing any command to state sentencing judges or as requiring the suspension of any federal sentences when concurrent state sentences are later imposed.  [*13]  Thus, common sense requires us to reject a purely literal reading of the text. The question that then arises is which  [**1039]  is the better of two plausible nonliteral readings. Should the term "any other term of imprisonment" be narrowed by reading it to cover only "any other term of imprisonment that has already been imposed," as the Government argues, or "any other federal term of imprisonment," as the respondent contends?
+For three reasons, I think it more likely that Congress intended the latter interpretation. First, it borders on the irrational to assume that Congress would actually intend the severity of the defendant's punishment in a case of this kind to turn on the happenstance of whether the state or the federal prosecution was concluded first. The defendant's reading of the statute avoids that anomaly. Second, when § 924(c) was amended in 1970 to prohibit concurrent sentences, see Title II, Omnibus Crime Control Act of 1970, 84 Stat. 1889, this prohibition applied only to the federal sentence imposed for the underlying offense. When Congress amended the statute in 1984 to broaden the prohibition beyond the  [***144]  underlying offense, it said nothing about state sentences; if Congress had intended the amendment to apply to state as well as federal sentences, I think there would have been some mention of this important change in the legislative history. 2 Furthermore, the 1984 amendment was part of a general revision of sentencing laws that sought to achieve more uniformity and predictability in federal sentencing. See Sentencing Reform Act of 1984, 98 Stat. 1987, 18 U.S.C. § 3551 et seq. The anomaly that the Government's reading of § 924(c) authorizes is inconsistent with the basic uniformity theme of the 1984 legislation. Finally, the context  [*14]  in which the relevant language appears is concerned entirely with federal sentencing. Indeed, the word "any" as used earlier in the section unquestionably has the meaning "any federal." 3
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+2 "In a case where the construction of legislative language such as this makes so sweeping and so relatively unorthodox a change as that made here, I think judges as well as detectives may take into consideration the fact that a watchdog did not bark in the night." Harrison v. PPG Industries, Inc., 446 U.S. 578, 602, 64 L. Ed. 2d 525, 100 S. Ct. 1889 (1980) (REHNQUIST, J. dissenting).
+3 In the first sentence of § 924(c)(1) the word "any" is expressly confined to federal prosecutions. When the word is used a second time to describe "any other provision of law," it is again quite obvious that it embraces only other provisions of federal law even though that limitation is implicit rather than explicit. Nowhere in § 924(c) is there any explicit reference to state law or state sentences.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Given the Government's recognition of the fact that a completely literal reading of § 924(c)(1) is untenable, and the further fact that the Court offers nothing more than the dictionary definition of the word "any" to support its result, I think the wiser course is to interpret that word in the prohibition against concurrent sentences as having the same meaning as when the same word is first used in the statute.
+Accordingly, I respectfully dissent.

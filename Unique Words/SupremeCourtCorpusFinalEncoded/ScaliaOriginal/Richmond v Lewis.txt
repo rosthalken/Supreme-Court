@@ -1,0 +1,25 @@
+﻿
+
+
+113 S.Ct. 528
+Supreme Court of the United States
+Willie Lee RICHMOND, Petitioner,
+v.
+Samuel A. LEWIS, Director, Arizona Department of Corrections, et al.
+No. 91-7094.
+|
+Argued Oct. 13, 1992.
+|
+Decided Dec. 1, 1992 
+Justice SCALIA, dissenting.
+
+The Court today holds that Justice Cameron’s special concurrence erred in that, after having found that this murder was not committed in an “especially heinous, cruel or depraved manner,” Ariz.Rev.Stat.Ann. § 13-703(F)(6) (1989), it failed thereupon to reweigh the remaining aggravating and mitigating circumstances before affirming petitioner’s death sentence. The Court does not reach petitioner’s claim that Chief Justice Holohan’s opinion erred in applying the Arizona *54 limiting construction of this aggravating circumstance, see State v. Gretzler, 135 Ariz. 42, 659 P.2d 1, cert. denied, 461 U.S. 971, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983), and in thus finding this murder to have been “heinous.”
+ 
+Under Arizona law, a murderer is eligible for the death penalty if the trial court finds at least one statutory aggravating circumstance. Ariz.Rev.Stat.Ann. § 13-703(E) (1989). Even accepting both of petitioner’s arguments with regard to the “especially heinous, cruel or depraved” factor, it is beyond dispute that two constitutionally valid aggravating circumstances were found-namely, that petitioner had “been convicted of another offense in the United States for which under Arizona law a sentence of life imprisonment or death was imposable” (specifically, first-degree murder), § 13-703(F)(1), and that petitioner had been “previously convicted of a felony in the United States involving the use or threat of violence on another person” (specifically, armed kidnaping), § 13-703(F)(2). App. 73-74. Thus, the death sentence unquestionably complied with the narrowing requirement imposed by the line of cases commencing with Furman v. Georgia, 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972). In my view this Court has no colorable basis, either in constitutional text or in national tradition, for imposing upon the States a further constitutional requirement that the sentencer consider mitigating evidence, see Walton v. Arizona, 497 U.S. 639, 671-673, 110 S.Ct. 3047, 3066-3068, 111 L.Ed.2d 511 (1990) (SCALIA, J., opinion concurring in part and concurring in judgment). As this and other cases upon our docket amply show, that recently invented requirement has introduced not only a mandated arbitrariness quite inconsistent with Furman, but also an impenetrable complexity and hence a propensity to error that make a scandal and a mockery of the capital sentencing process.
+ 
+Since in my view compliance with Furman is all that was required, any error committed by Chief Justice Holohan’s *55 opinion in finding “heinousness” was harmless, and any failure by Justice Cameron’s special concurrence to reweigh raises no federal question. Accordingly, I would affirm.
+ 
+
+
+
+

@@ -1,0 +1,13 @@
+﻿
+        
+        Vimar Seguros Y Reaseguros v. M/V Sky Reefer, 515 U.S. 528, 115 S. Ct. 2322 (1995)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring in the judgment.
+
+I agree with what I understand to be the two basic points made in the Court's opinion. First, I agree that the language of the Carriage of Goods by Sea Act (COGSA), 46 U.S.C. App. § 1300 et seq., and our decision in Carnival Cruise Lines, Inc. v. Shute, 499 U.S. 585, 113 L. Ed. 2d 622, 111 S. Ct. 1522 (1991), preclude a  [*542]  holding that the increased cost of litigating in a distant forum, without more, can lessen liability within the meaning of COGSA § 3(8). Ante, at 534-536. Second, I agree that, because the District Court has retained jurisdiction  [***477]  over this case while the arbitration proceeds, any claim of lessening of liability that might arise out of the arbitrators' interpretation of the bill of lading's choice of law clause, or out of their  [****27]  application of COGSA, is premature. Ante, at 539-541. Those two points suffice to affirm the decision below.
+
+Because the Court's opinion appears to do more, however, I concur only in the judgment. Foreign arbitration clauses of the kind presented here do not divest domestic courts of jurisdiction, unlike true foreign forum selection clauses such as that considered in Indussa Corp. v. S. S. Ranborg, 377 F.2d 200 (CA2 1967) (en banc). That difference is an important one--it is, after all, what leads the Court to dismiss much of petitioner's argument as premature--and we need not decide today whether Indussa, insofar as it relied on considerations other than the increased cost of litigating in a distant forum, retains any vitality in the context of true foreign forum selection clauses. Accordingly, I would not, without qualification, reject "the reasoning [and] the conclusion of the Indussa rule itself," ante, at 534, nor would I wholeheartedly approve an English decision that "long ago rejected the reasoning  [**2331]  later adopted by the Indussa court," ante, at 537. As the Court notes, "following Indussa, the Courts of Appeals without  [****28]  exception have invalidated foreign forum selection clauses under § 3(8)." Ante, at 533. I would prefer to disturb that unbroken line of authority only to the extent necessary to decide this case.

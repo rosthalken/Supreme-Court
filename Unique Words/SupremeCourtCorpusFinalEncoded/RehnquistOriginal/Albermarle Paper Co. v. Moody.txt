@@ -1,0 +1,48 @@
+﻿422 U.S. 405
+ALBEMARLE PAPER CO. ET AL. v. MOODY ET AL.
+Supreme Court of the United States
+Argued April 14, 1975 ; June 25, 1975 
+No. 74-389
+
+MR. JUSTICE REHNQUIST, concurring.
+I join the opinion of the Court. The manner in which 42 U.S.C. § 2000e-5(g) (1970 ed., Supp. III) is construed  [*442]  has important consequences not only as to the circumstances under which backpay may be awarded, but also as to the method by which any such award is to be determined.
+
+To the extent that an award of backpay were to be analogized to an award of damages, such an award upon proper proof would follow virtually as a matter of course from a finding that an employer had unlawfully discriminated contrary to the provisions of Title VII of the [****56]  Civil Rights Act of 1964, 78 Stat. 253, as amended by the Equal Employment Opportunity Act of 1972, 86 Stat. 103, 42 U.S.C. § 2000e et seq. (1970 ed. and Supp. III). Plaintiffs would be entitled to the benefit of the rule enunciated  [**2385]  in Bigelow v. RKO Radio Pictures, 327 U.S. 251, 265 (1946):
+
+"The constant tendency of the courts is to find some way in which damages can be awarded where a wrong has been done. Difficulty of ascertainment is no longer confused with right of recovery's for a proven invasion of the plaintiff's rights. Story Parchment Co. v. Patterson Co., [282 U.S. 555,] 565."
+
+But precisely to the extent that an award of backpay is thought to flow as a matter of course from a finding of wrongdoing, and thereby becomes virtually indistinguishable from an award for damages, the question (not raised by any of the parties, and therefore quite properly not discussed in the Court's opinion), of whether either side may demand a jury trial under the Seventh Amendment becomes critical. We said in Curtis v.. Loether, 415 U.S. 189, 197 (1974), in explaining the difference between the provision [****57]  for damages under § 812 of the Civil Rights Act of 1968, 82 Stat. 88, 42  [*443]  U.S.C. § 3612, and the authorization for the award of backpay which we treat here:
+
+"In Title VII cases, also, the courts have relied on the fact that the decision whether to award backpay is committed to the discretion of the trial judge. There is no comparable discretion here: if a plaintiff proves unlawful discrimination and actual damages, he is entitled to judgment for that amount…. Whatever may be the merit of the 'equitable' characterization in Title VII cases, there is surely no basis for characterizing the award of compensatory and punitive damages here as equitable relief." (Footnote omitted.)
+
+In Curtis, supra, the Court further quoted the description of the Seventh Amendment in Mr. Justice Story's  [***313]  opinion for this Court in Parsons v. Bedford, 3 Pet. 433, 447 (1830), to the effect that:
+
+"In a just sense, the amendment then may well be construed to embrace all suits which are not of equity and admiralty jurisdiction, whatever may be the peculiar form which they may assume to settle legal rights."
+
+
+
+To the extent,  [****58]  then, that the District Court retains substantial discretion as to whether or not to award backpay notwithstanding a finding of unlawful discrimination, the nature of the jurisdiction which the court exercises is equitable, and under our cases neither party may demand a jury trial. To the extent that discretion is replaced by awards which follow as a matter of course from a finding of wrongdoing, the action of the court in making such awards could not be fairly characterized as equitable in character, and would quite arguably be subject to the provisions of the Seventh Amendment.
+
+Thus I believe that the broad latitude which the  [*444]  Court's opinion reposes in the district courts in the decision as to whether backpay shall be awarded is not only consistent with the statute, but is supported by policy considerations which would favor the more expeditious disposition which may be made of numerous claims on behalf of frequently large classes by a court sitting without a jury. As the Court states, ante, at 419, the backpay remedy provided by Title VII is modeled on the remedial provisions of the NLRA. This Court spoke to the breadth of the latter provision in Phelps Dodge Corp. v. NLRB, 313 U.S. 177, 198 (1941), [****59]  when it said:
+
+"[W]e must avoid the rigidities of an either-or rule. The remedy of back pay, it must be remembered, is entrusted to the Board's discretion; it is not mechanically compelled by the Act. And in applying its authority over back pay orders, the Board has not used stereotyped formulas but has availed itself of the freedom given it  [**2386]  by Congress to attain just results in diverse, complicated situations."
+
+
+
+I agree, nonetheless, with the Court that the District Court should not have denied backpay in this litigation simply on the ground that Albemarle's breach of Title VII had not been in "bad faith." Good faith is a necessary condition for obtaining equitable consideration, but in view of the narrower "good faith" defense created by statute, 42 U.S.C. § 2000e-12 (b), it is not for this Court to expand such a defense beyond those situations to which Congress had made it applicable. I do not read the Court's opinion to say, however, that the facts upon which the District Court based its conclusion, ante, at 422 n. 15, would not have supported a finding that the conduct of Albemarle was reasonable under the circumstances as well [****60]  as being simply in good faith. Nor do I read the Court's opinion to say that such a combination of factors might not, in appropriate circumstances, be an  [*445]  adequate basis for denial of backpay. See Schaeffer v. San Diego Yellow Cabs, Inc., 462 F. 2d 1002, 1006 (CA9 1972); United States v. Georgia Power Co., 474 F. 2d 906, 922 (CA5 1973).
+
+A cursory canvass of the decisions  [***314]  of the District Courts and Courts of Appeals which confront these problems much more often than we do suggests that the most frequently recurring problem in this area is the difficulty of ascertaining a sufficient causal connection between the employer's conduct properly found to have been in violation of the statute and an ascertainable amount of backpay lost by a particular claimant as a result of that conduct. United States v.. St. Louis-S.F.R. Co., 464 F. 2d 301, 311 (CA8 1972), cert. denied, 409 U.S. 1116 (1973). The Court of Appeals for the Eighth Circuit aptly described the difficulty of fashioning an award of backpay in the circumstances before it, and upheld the District Court's refusal to award backpay, in Norman v. Missouri P.R. Co., 497 F. 2d 594, 597 (1974), [****61]  cert. denied, 420 U.S. 908 (1975):
+
+"No standard could determine the right to back pay itself nor the date from which to compute any right to back pay. Courts that have found back pay awards to be appropriate remedies in Title VII actions have generally recognized that such awards should be limited to actual damages…."
+
+As the Court recognizes, ante, at 424-425, another factor presented here which is relevant to the District Court's exercise of discretion is the possible detrimental reliance of petitioners on prior representations of respondents that they were not seeking classwide backpay. In 1966 respondents in replaying to a motion for summary judgment expressly represented to the District Court that they had no interest in classwide backpay:
+
+"It is important to understand the exact nature of  [*446]  the class relief being sought by plaintiffs. No money damages are sought for any member of the class not before the court.
+
+. . . . .
+
+"… [T]he matter of specific individual relief for other class members is not before this Court." 1 App. 13-14.
+
+Five years later, respondents reversed their position and asserted a claim for classwide backpay. [****62]  Petitioners have argued here and below that they reasonably relied to their detriment on respondents' statement in numerous ways including an interim sale of the mill at a price which did not take into account the ruinous liability with which the new owners are now faced, failure to investigate and prepare defenses to individual backpay claims which are now nine years old, and failure to speed resolution of this lawsuit. 474 F. 2d 134, 146 n. 16 (CA4 1973). This conduct by the respondents presents factual and legal questions to be resolved in the first instance  by the District Court, reviewable only on whether its factual findings are "clearly erroneous" and whether its ultimate conclusion is an "abuse of discretion" under all the circumstances of this case. Ante, at 424-425. In the same manner that the good faith of an employer may not be viewed in isolation as precluding backpay under any and all circumstances, the excusable nature of respondents' conduct, if found excusable, will not necessarily preclude denial of a backpay award if petitioners are found to have substantially and justifiably relied on respondents' prior representations.
+
+If the award of backpay is indeed governed by equitable considerations,  [***315]  and not simply a thinly disguised form of damages, factors such as these and others, which may argue in favor of or against the equities of either plaintiff or defendants, must be open for consideration  [*447]  by the District Court. It, like the NLRB, must avail itself "of the freedom given it by Congress to attain just results in diverse, complicated situations." Phelps Dodge Corp. v. NLRB, 313 U.S., at 198.

@@ -1,0 +1,26 @@
+﻿
+
+
+120 S.Ct. 1878
+Supreme Court of the United States
+UNITED STATES, et al., Appellants,
+v.
+PLAYBOY ENTERTAINMENT GROUP, INC.
+No. 98-1682.
+|
+Argued Nov. 30, 1999.
+|
+Decided May 22, 2000.
+Justice THOMAS, concurring.
+
+It would seem to me that, with respect to at least some of the cable programming affected by § 505 of the Telecommunications Act of 1996, the Government has ample constitutional and statutory authority to prohibit its broadcast entirely. A governmental restriction on the distribution of obscene materials receives no First Amendment scrutiny. **1895 Roth v. United States, 354 U.S. 476, 485, 77 S.Ct. 1304, 1 L.Ed.2d 1498 (1957). Though perhaps not all of the programming at issue in the case is obscene as this Court defined the term in Miller v. California, 413 U.S. 15, 24, 93 S.Ct. 2607, 37 L.Ed.2d 419 (1973), one could fairly conclude that, under the standards applicable in many communities, some of the programming meets the Miller test. If this is so, the Government is empowered by statute to sanction these broadcasts with criminal penalties. See 47 U.S.C. § 559 (1994 ed., Supp. III) (“Whoever transmits over any cable system any matter which is obscene or otherwise unprotected by the Constitution *830 of the United States shall be fined under title 18 or imprisoned not more than 2 years, or both”).*
+ 
+However, as the Court points out, this case has been litigated on the assumption that the programming at issue is not obscene, but merely indecent. We have no factual finding that any of the materials at issue are, in fact, obscene. Indeed, the District Court described the materials as indecent but not obscene. 945 F.Supp. 772, 774, n. 4 (D.Del.1996). The Government does not challenge that characterization in this Court, Tr. of Oral Arg. 9-10, but instead asks this Court to ratify the statute on the assumption that this is protected speech. I am unwilling, in the absence of factual findings or advocacy of the position, to rely on the view that some of the relevant programming is obscene.
+ 
+What remains then is the assumption that the programming restricted by § 505 is not obscene, but merely indecent. The Government, having declined to defend the statute as a regulation of obscenity, now asks us to dilute our stringent First Amendment standards to uphold § 505 as a proper regulation of protected (rather than unprotected) speech. See Brief for Appellants 18-29 (arguing that traditional strict scrutiny does not apply). I am unwilling to corrupt the First Amendment to reach this result. The “starch” in our constitutional standards cannot be sacrificed to accommodate the enforcement choices of the Government. See Denver Area Educational Telecommunications Consortium, Inc. v. FCC, 518 U.S. 727, 774, 116 S.Ct. 2374, 135 L.Ed.2d 888 (1996) (SOUTER, J., concurring) (“Reviewing *831 speech regulations under fairly strict categorical rules keeps the starch in the standards for those moments when the daily politics cries loudest for limiting what may be said”). Applying the First Amendment’s exacting standards, the Court has correctly determined that § 505 cannot be upheld on the theory argued by the Government. Accordingly, I join the opinion of the Court.
+ 
+
+
+
+*
+I am referring, here, to unscrambled programming on the Playboy and Spice channels, examples of which were lodged with the Court. The Government also lodged videotapes containing signal bleed from these channels. I assume that if the unscrambled programming on these channels is obscene, any scrambled but discernible images from the programs would be obscene as well. In fact, some of the examples of signal bleed contained in the record may fall within our definition of obscenity more easily than would the unscrambled programming because it is difficult to dispute that signal bleed “lacks serious literary, artistic, political, or scientific value.” Miller v. California, 413 U.S. 15, 24, 93 S.Ct. 2607, 37 L.Ed.2d 419 (1973).

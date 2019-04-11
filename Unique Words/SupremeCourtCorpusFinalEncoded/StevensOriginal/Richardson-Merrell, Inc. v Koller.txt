@@ -1,0 +1,29 @@
+﻿
+        
+        Richardson-Merrell, Inc. v. Koller, 472 U.S. 424, 105 S. Ct. 2757 (1985)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+Everyone must agree that the litigant's freedom to choose his own lawyer in a civil case is a fundamental right. The difficult question presented by this case is whether the denial  [*443]  of that right by a district court's disqualification order can effectively be reviewed following a judgment on the merits. 1Link to the text of the note
+
+In my opinion, Flanagan v. United States, 465 U.S. 259 (1984), does not control the decision in this case. The strong public interest in the prompt disposition of criminal charges -- an interest shared by both the prosecutor and the defendant -- is not present to the same extent in the civil context where the defendant's interest in delay may motivate a motion to disqualify in a borderline case. 2Link to the text of the note Moreover, in a criminal case an erroneous order disqualifying the lawyer [****36]  chosen by the defendant should result in a virtually automatic reversal; review after trial on the merits is therefore "effective" to protect the right.
+
+In the civil context, I do not believe a pretrial disqualification order would similarly be effectively reviewable after the entry of a final judgment. Prejudice to a litigant's right to go to trial with the advocate of his choice is suffered the moment a disqualification order is granted. Nevertheless, after a trial with substitute counsel has been held, I would be most reluctant to subscribe to a rule requiring reversal without a showing of some impact on the outcome. Yet I believe it would be virtually impossible to demonstrate that an outcome has been affected by the change of counsel as opposed to the  [****37]  other myriad variables present in civil litigation. Both prejudice  [***355]  to the litigant's freedom of choice and the substantive basis of attorney disqualifications based on pretrial actions are "completely separate" 3Link to the text of the note from the underlying merits. I am therefore persuaded that a disqualification  [*444]  order fits squarely within the classic formulation of an appealable collateral order:
+
+ [**2768]  "This decision appears to fall in that small class which finally determine claims of right separable from, and collateral to, rights asserted in the action, too important to be denied review and too independent of the cause itself to require that appellate consideration be deferred until the whole case is adjudicated." Cohen v. Beneficial Loan Corp., 337 U.S. 541, 546 (1949).
+
+This was the unanimous conclusion of the Courts of Appeals that addressed attorney disqualification orders prior to Flanagan, and remained the conclusion of four of the five Courts of Appeals that addressed the issue of attorney disqualifications for pretrial misconduct following that decision. I am more confident of the ability of the various Courts of Appeals to evaluate the [****38]  problem of disqualification motions and supervise the local bench and bar than I am of the accuracy of our own more distant perspective.
+
+On the merits of the disqualification of respondent Koller's counsel here, I agree with the Court of Appeals' explanation of why the District Court's decision was erroneous as a matter of law. See 237 U. S. App. D. C. 333, 349-359, 737 F.2d 1038, 1054-1064 (1984). Accordingly, I would affirm the judgment of the Court of Appeals.
+
+ee Coopers & Lybrand v. Livesay, 437 U.S. 463, 468 (1978) (matters "effectively reviewable" after final judgment not subject to interlocutory appeal).
+
+2Link to the location of the note in the document
+See 237 U. S. App. D. C. 333, 346, 737 F.2d 1038, 1051 (1984) (while "tactical use of motions to disqualify counsel" recently have become prevalent in civil cases, "[we] are aware of no comparable phenomenon in criminal cases").
+
+3Link to the location of the note in the document
+Coopers & Lybrand, supra, at 468.

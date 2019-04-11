@@ -1,0 +1,29 @@
+﻿
+        
+        Brown v. Thomson, 462 U.S. 835, 103 S. Ct. 2690 (1983)
+        
+
+
+      
+
+JUSTICE O'CONNOR, with whom JUSTICE STEVENS joins, concurring.
+
+By its decisions today in this case and in Karcher v. Daggett, ante, p. 725, the Court upholds, in the former, the allocation of one representative to a county in a state legislative plan with an 89% maximum deviation from population equality and strikes down, in the latter, a congressional reapportionment plan for the State of New Jersey where the maximum deviation is 0.6984%. As a Member of the majority in both cases, I feel compelled to explain the reasons for my joinder in these apparently [****25]  divergent decisions.
+
+In my view, the "one-person, one-vote" principle is the guiding ideal in evaluating both congressional and legislative redistricting schemes. In both situations, however, ensuring equal representation is not simply a matter of numbers. There must be flexibility in assessing the size of the deviation against the importance, consistency, and neutrality of the state policies alleged to require the population disparities.
+
+ [***226]  Both opinions recognize this need for flexibility in examining the asserted state policies. 1Link to the text of the note In Karcher, New Jersey  [*849]  has not demonstrated that the population variances in congressional districts were necessary to preserve minority voting strength -- the only justification offered by the State. Ante, at 742-744. Here, by contrast, there can be no doubt that the population deviation resulting from the provision of one representative to Niobrara County is the product of the consistent and nondiscriminatory application of Wyoming's longstanding policy of preserving county boundaries.
+
+ [****26]  In addition, as the Court emphasizes, in this case we are not required to decide whether, and do not suggest that, "Wyoming's nondiscriminatory adherence to county boundaries justifies the population deviations that exist throughout Wyoming's representative districts." Ante, at 846. Thus, the relevant percentage in this case is not the 89% maximum deviation when the State of Wyoming is viewed as a whole, but the additional deviation from equality produced by the allocation of one representative to Niobrara County. Ibid.
+
+In this regard, I would emphasize a point acknowledged by the majority. See ante,  [**2700]  at 844-845. Although the maximum deviation figure is not the controlling element in an apportionment challenge, even the consistent and nondiscriminatory application of a legitimate state policy cannot justify substantial population deviations throughout the State where the effect would be to eviscerate the one-person, one-vote principle. In short, as the Court observes, ibid., there is clearly  [*850]  some outer limit to the magnitude of the deviation that is constitutionally permissible even in the face of the strongest justifications.
+
+In the past,  [****27]  this Court has recognized that a state legislative apportionment scheme with a maximum population deviation exceeding 10% creates a prima facie case of discrimination. See, e. g., Connor v. Finch, 431 U.S. 407, 418 (1977). Moreover, in Mahan v. Howell, 410 U.S. 315, 329 (1973), we suggested that a 16.4% maximum deviation "may well approach tolerable limits." 2Link to the text of the note I have the gravest doubts that a statewide legislative plan with an 89% maximum deviation  [***227]  could survive constitutional scrutiny despite the presence of the State's strong interest in preserving county boundaries. I join the Court's opinion on the understanding that nothing in it suggests that this Court would uphold such a scheme.
+
+1Link to the location of the note in the document
+As the Court notes in this case: "[Consideration] must be given 'to the character as well as the degree of deviations from a strict population basis.' . . . The consistency of application and the neutrality of effect of the nonpopulation criteria must be considered along with the size of the population disparities in determining whether a state legislative apportionment plan contravenes the Equal Protection Clause." Ante, at 845-846. Similarly, in Karcher, the Court observes:
+
+"The showing required to justify population deviations is flexible, depending on the size of the deviations, the importance of the State's interests, the consistency with which the plan as a whole reflects those interests, and the availability of alternatives that might substantially vindicate those interests yet approximate population equality more closely. By necessity, whether deviations are justified requires case-by-case attention to these factors." Ante, at 741.
+
+2Link to the location of the note in the document
+The Court has recognized that States enjoy a somewhat greater degree of latitude as to population disparities in a state legislative apportionment scheme, which is tested under Equal Protection Clause standards, than in a congressional redistricting scheme, for which the Court has held that Art. I, § 2, of the Constitution provides the governing standard. White v. Regester, 412 U.S. 755, 763 (1973).

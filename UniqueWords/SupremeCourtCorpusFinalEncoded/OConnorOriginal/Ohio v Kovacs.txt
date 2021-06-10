@@ -1,0 +1,18 @@
+﻿
+        
+        Ohio v. Kovacs, 469 U.S. 274, 105 S. Ct. 705 (1985)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+I join the Court's opinion and agree with its holding that the cleanup order has been reduced to a monetary obligation dischargeable as a "claim" under § 727 of the Bankruptcy Code. I write separately to address the petitioner's concern that the Court's action will impede States in enforcing their environmental laws.
+
+To say that Kovacs' obligation in these circumstances is a claim dischargeable in bankruptcy does not wholly excuse the obligation or leave the State without any recourse against Kovacs' assets to enforce the order. Because "Congress has  [*286]  generally left the determination of property rights in the assets of a bankrupt's estate to state law," Butner v. United States, 440 U.S. 48, 54 (1979), the classification of Ohio's interest as either a lien on the property itself, a perfected security interest, or merely an unsecured claim depends on Ohio law. That classification -- a question not before us -- generally determines the priority of the State's claim to the assets of the estate relative to other creditors. Cf. 11 U. S. C. § 545 (trustee [****21]  may avoid statutory liens only in specified circumstances). Thus, a State may protect its interest in the enforcement of its environmental laws by giving cleanup judgments the status of statutory liens or secured claims.
+
+The Court's holding that the cleanup order was a "claim" within the meaning of § 101(4) also avoids potentially adverse consequences for a State's enforcement of its order when the debtor is a corporation, rather than an individual. In a Chapter 7 proceeding under the Bankruptcy Code, a corporate debtor transfers its property to a trustee for distribution among the creditors who hold cognizable claims, and then generally dissolves under state law. Because the corporation usually ceases to exist, it has no postbankruptcy earnings that could be utilized by the State to fulfill the cleanup order. The State's only recourse in such a situation may well be its "claim" to the prebankruptcy assets.
+
+For both these reasons, the Court's holding today cannot be viewed as hostile to state enforcement of environmental laws.
+

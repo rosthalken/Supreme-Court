@@ -1,0 +1,31 @@
+﻿
+If federal constitutional error occurs in a state criminal trial, federal law places certain limits on the state appellate court's disposition of the case. If the error is sufficiently grievous, it must reverse. 1Link to the text of the note    If the error is less grievous, it also must reverse unless it declares its conviction beyond a reasonable doubt that the federal error was harmless. 2Link to the text of the note But federal law does not require a state appellate court to make a harmless-error determination; it merely permits the state court to do so in appropriate cases. 3Link to the text of the note This is all the     Court held in Chapman v. California, 386 U.S. 18 (1967).
+
+   
+
+    LEdHN   In this case, the Connecticut prosecutor requested the Connecticut Supreme Court to declare that the Sandstrom error was harmless and that court refused to do so. That action does not even raise a federal question. 4Link to the text of the note I therefore would simply dismiss the writ of certiorari. Because a fifth         vote is necessary to authorize the entry of a Court judgment, however, I join the disposition which will allow the judgment of the Connecticut Supreme Court to stand.
+
+See Chapman v. California, 386 U.S. 18, 23, n. 8 (1967).
+
+2Link to the location of the note in the document
+The harmless-error rule which may be applied when federal constitutional error has been committed, see Chapman v. California, supra, is not to be confused with either the federal harmless-error rule that is applied in federal courts when nonconstitutional error occurs, see Kotteakos v. United States, 328 U.S. 750 (1946), or with a State's own harmless-error rule applicable to errors of state law, see, e. g., Conn. Gen. Stat. § 52-265 (1960).
+
+3Link to the location of the note in the document
+I recognize that the State has argued in this Court that the Federal Constitution requires the Connecticut Supreme Court to make a harmless-error determination in every case presenting a Sandstrom issue. Pet. for Cert. 7; Tr. of Oral Arg. 9-10. The following colloquy took place at oral argument:
+
+"[Petitioner]: It appears that the Connecticut Supreme Court as a matter of federal constitutional law sometimes entertains the instruction -- the challenge that the error was harmless and sometimes it does not. The only stated position that the Connecticut Supreme Court has given in this regard is the one in State against Truppi, is that we sometimes apply the harmless error rule. . . .
+
+"QUESTION: Well, is it your position that they must apply it in every case?
+
+"[Petitioner]: No, Your Honor, my position is not that they must apply the harmless error rule in every case, but if the prosecution asks the Connecticut Supreme Court to review an error for its harmlessness as a matter of federal constitutional law, that it must at least use the harmless error test.
+
+"QUESTION: Let me just state it to be sure I understand it correctly. As a matter of federal constitutional law, a state supreme court must entertain a harmless -- must make a harmless error examination every time the prosecutor asks it to.
+
+"[Petitioner]: In the context of an unconstitutional jury instruction, yes."
+
+This position is so clearly erroneous that it does not merit the Court's review by writ of certiorari.
+
+4Link to the location of the note in the document
+No federal question arises when a state court has decided for itself that it will decline to apply the Chapman harmless-error test at all once it has found Sandstrom error. That is all the Connecticut Supreme Court did in State v. Truppi, 182 Conn. 449, 466, 438 A. 2d 712, 721 (1980). After discussing the guarantees afforded defendants by the reasonable-doubt standard, the court wrote: "Therefore we decline to weigh the evidence of guilt against the uncured damage done by the harmful portion of the instructions." It cited two other State Supreme Court cases which had followed a different practice and noted that this Court had denied certiorari in one of them. Id., at 466, n. 12, 438 A. 2d, at 721, n. 12, citing People v. Wright, 408 Mich. 1, 30-32, 289 N. W. 2d 1, 10-11 (1980); State v. Hamilton, 185 Mont. 522, 539-542, 605 P. 2d 1121, 1131-1133, cert. denied, 447 U.S. 924 (1980). In my view, the state court reversed for its own reasons. Neither in Truppi nor in this case did it state or suggest that federal constitutional law compelled automatic reversal.
+
+Whether the Connecticut court's refusal to review the evidence in this case was based on a decision to follow its earlier holding in Truppi, or on its own conclusion that the error in the case before it was not harmless, the holding does not even arguably violate any federal rule.

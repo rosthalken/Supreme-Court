@@ -1,0 +1,50 @@
+﻿
+The constitutional protection for the right of access that the Court upholds today is found in the First Amendment, 1Link to the text of the note rather than the public trial provision of the Sixth. 2Link to the text of the note If the defendant had advanced a claim that his Sixth Amendment right to a public trial was violated by the closure of the voir dire, it would be important to determine whether the selection of the jury was a part of the "trial" within the meaning of that Amendment. But the distinction between trials and other official proceedings is not necessarily dispositive, or even important, in evaluating the First Amendment issues. Nor is our holding premises simply on our view as to how a     criminal trial is most efficaciously conducted. For the question    the Court decides today -- "whether the voir dire process must be open -- focuses on First . . . Amendment values and the historical backdrop against which the First Amendment was enacted." Ante, at 509, n. 8.
+
+    The focus commanded by the First Amendment makes it appropriate to emphasize the fact that the underpinning of our holding today is not simply the interest in effective judicial administration; the First Amendment's concerns are much broader. The "common core purpose of assuring freedom of communication on matters relating to the functioning of government," Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555, 575     (1980) (plurality opinion), that underlies the decision of cases of this kind provides protection to all members of the public "from abridgment of their rights of access to information about the operation of their government,     including the Judicial Branch." Id., at 584 (STEVENS, J., concurring). See also id., at 587-588 (BRENNAN, J., concurring in judgment). As JUSTICE POWELL has written:
+
+
+
+"What is at stake here is the societal function of the First Amendment in preserving free public discussion of governmental affairs. No aspect of that constitutional guarantee is more rightly treasured than its protection of the ability of our people through free and open debate to consider and resolve    their own destiny." Saxbe v. Washington Post Co., 417 U.S. 843, 862 (1974) (dissenting opinion). 3Link to the text of the note
+
+This principle was endorsed by the Court in Globe Newspaper Co. v. Superior Court, 457 U.S. 596 (1982).
+
+
+
+"Underlying the First Amendment right of access to criminal trials is the common understanding that 'a major purpose of that Amendment was to protect the free discussion     of governmental affairs.' Mills v. Alabama, 384 U.S. 214, 218 (1966). By offering such protection, the First Amendment serves to ensure that the individual citizen can effectively participate in and contribute to our republican system of self-government." Id., at 604. 4Link to the text of the note
+
+    3It follows that a claim to access cannot succeed unless access makes a positive contribution to this process of self-governance. Here, public access cannot help but improve public understanding of the voir dire process, thereby enabling critical examination of its workings to take place. It is therefore, I believe, entirely appropriate for the Court to identify the public interest in avoiding the kind of lengthy voir dire proceeding that is at issue in this case, ante, at 510, n. 9.     Surely such proceedings should not be hidden from public view. 5Link to the text of the note
+
+    The fact that this is a First Amendment case does not, of course, mean that the public's right of access is unlimited. Indeed, in other contexts in which the right of access has been implicitly    endorsed, the Court has made this plain. 6Link to the text of the note As the Court recognizes, the privacy interests of jurors may in some circumstances provide a basis for some limitation on the public's access to     voir dire. Ante, at 511-513. See also ante, at 515-516 (BLACKMUN, J., concurring). The First Amendment source of the right of access to the voir dire examination should not preclude frank recognition of the need to examine the content of the censored communication in determining whether, and to what extent, it may remain private. When the process of drawing lines between what must be open and what may be closed begins, it will be necessary to identify at least some of the limits by reference to the subject matter of certain questions that arguably may probe into areas of privacy that are worthy of protection. Since that function can safely be performed without compromising the First Amendment's mission of securing meaningful public control over the process of governance, this form of regulation is not an abridgment of any First Amendment right. In this context, as in others, "a line may be drawn on the basis of content without violating the government's paramount obligation    of neutrality in its regulation of protected communication." Young v. American Mini Theaters, Inc., 427 U.S. 50, 70 (1976) (plurality opinion). 7Link to the text of the note
+
+        In the case before us, as the Court correctly explains, there can be no doubt that the trial court applied an impermissibly broad rule of secrecy. Accordingly, I join the opinion of the Court.
+
+"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."
+
+It is, of course, well settled that the Fourteenth Amendment makes this provision applicable to the abridgment of speech by the States, including state judges. See, e. g., Nebraska Press Assn. v. Stuart, 427 U.S. 539 (1976).
+
+2Link to the location of the note in the document
+"In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial . . . ." It was, of course, this Amendment that was construed in Gannett Co. v. DePasquale, 443 U.S. 368 (1979), a case holding that the defendant's right to a public trial cannot be asserted vicariously by persons who are not parties to the proceeding.
+
+3Link to the location of the note in the document
+It is worthy of note that the orderly development of First Amendment doctrine foreshadowed by JUSTICE POWELL's opinion in Saxbe almost certainly would have been delayed if Gannett had not been decided as it was.
+
+4Link to the location of the note in the document
+See also Houchins v. KQED, Inc., 438 U.S. 1, 30-32 (1978) (STEVENS, J., dissenting) (footnotes omitted):
+
+"The preservation of a full and free flow of information to the general public has long been recognized as a core objective of the First Amendment to the Constitution. . . .
+
+"In addition to safeguarding the right of one individual to receive what another elects to communicate, the First Amendment serves an essential societal function. Our system of self-government assumes the existence of an informed citizenry. As Madison wrote:
+
+"'A popular Government, without popular information, or the means of acquiring it, is but a Prologue to a Farce or a Tragedy, or, perhaps both. Knowledge will forever govern ignorance: And a people who mean to be their own Governors, must arm themselves with the power which knowledge gives.' 9 Writings of James Madison 103 (G. Hunt ed. 1910).
+
+"It is not sufficient, therefore, that the channels of communication be free of governmental restraints. Without some protection for the acquisition of information about the operation of public institutions such as prisons by the public at large, the process of self-governance contemplated by the Framers would be stripped of its substance."
+
+5Link to the location of the note in the document
+Of course, if this were a Sixth Amendment case, rather than a First Amendment case, and if the defendant had no objection to closure, the length of the voir dire would be irrelevant. Such is not the case under the rationale for today's decision.
+
+6Link to the location of the note in the document
+In Zemel v. Rusk, 381 U.S. 1 (1965), the Court said: "The right to speak and publish does not carry with it the unrestrained right to gather information." Id., at 17 (emphasis supplied). In Branzburg v. Hayes, 408 U.S. 665 (1972), after rejecting any suggestion "that news gathering does not qualify for First Amendment protection," id., at 681, the Court held that the protection did not extend to a reporter's refusal to testify before a grand jury, at least under the facts of that case.
+
+7Link to the location of the note in the document
+See generally Farber, Content Regulation and the First Amendment: A Revisionist View, 68 Geo. L. J. 727 (1980); Redish, The Content Distinction in First Amendment Analysis, 34 Stan. L. Rev. 113 (1981); Schauer, Categories and the First Amendment: A Play in Three Acts, 34 Vand. L. Rev. 265, 282-296 (1981); Shiffrin, Defamatory Non-Media Speech and First Amendment Methodology, 25 UCLA L. Rev. 915, 942-963 (1978); Stephan, The First Amendment and Content Discrimination, 68 Va. L. Rev. 203 (1982); Note, Content Regulation and the Dimensions of Free Expression, 96 Harv. L. Rev. 1854 (1983).

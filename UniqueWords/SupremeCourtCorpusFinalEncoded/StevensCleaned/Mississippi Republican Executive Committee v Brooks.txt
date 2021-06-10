@@ -1,0 +1,43 @@
+﻿
+Although I agree that a summary affirmance of the judgment of the District Court is entirely appropriate in this case, what has been written in dissent prompts me to make two important points.
+
+First, there is little, if any, resemblance between the argument advanced in the dissenting opinion and the specific questions presented in the parties' jurisdictional statements. This Court has determined that summary affirmances "reject the specific challenges presented in the statement of jurisdiction." Mandel v. Bradley, 432 U.S. 173, 176 (1977). The only questions presented     in the jurisdictional statement that the Mississippi Republican Executive Committee filed in case No. 83-1722 read as follows:
+
+"1. Whether Section 5 and Section 2 as amended apply to redistricting decisions.
+
+"2. Whether the amendment to Section 2 or any other portion of the Voting Rights Amendments of 1982 has any bearing upon litigation under Section 5.
+
+"3. Whether Section 2 as amended prohibits only those electoral schemes intentionally designed or maintained to discriminate    on the basis of race.
+
+"4. Whether Section 2, if construed to prohibit anything other than intentional discrimination on the basis of race in registration and voting, exceeds the power vested in Congress by the Fifteenth Amendment." Juris. Statement in No. 83-1722, p. i. 1Link to the text of the note
+
+Second, the dissent does not fairly characterize the opinion of the District Court. That opinion does not "in effect" construe the recent    amendment to § 2 of the Voting Rights Act of 1965, 96 Stat. 134, 42 U.S.C. § 1973, as entitling "minority plaintiffs, in a State where there exist present effects from past discrimination, to have a state redistricting plan invalidated if it fails to provide at least one district in which the 'minority' is a majority of the eligible voters." Post, at 1005. The dissent buttresses this incorrect impression by attributing the following statement to the District Court:
+
+"    The District Court felt it was obligated, under the 1982 amendments to the Voting Rights Act, to redraw the district map so that the redefined Second District would have a 'clear black voting age population majority of 52.83 percent.'" Post, at 1008.
+
+    What the District Court actually said was this:
+
+    "In the opinion of this court, after considering the totality of the circumstances, the creation of a Second District with a clear black voting age population majority of 52.83% is sufficient to overcome the effects of past discrimination and racial bloc voting and will provide a fair and equal contest to all voters who may participate in congressional elections." App. to Motion to Dismiss of Affirm in No. 83-1722,     p. 14a.
+
+The District Court's conclusion that its remedy was required was not based on any notion that the law gives every minority group an entitlement to some form of proportional representation. Its conclusion was quite the contrary. It rested on specific findings of fact describing the impairment -- or "dilution" if you will -- of the voting strength of the black minority in Mississippi. Those factual findings reveal that Mississippi has a long history of de jure and de facto race discrimination, 2Link to the text of the note that racial bloc voting is     common in Mississippi, and that political processes have not been equally open to blacks. 3Link to the text of the note
+
+        Because I find no merit in any of the specific challenges presented in the parties' jurisdictional statements, 4Link to the text of the note and because the record supports the District Court's findings     of fact, as the dissent notes, post, at 1011-1012, I join the Court's summary affirmance.
+
+The jurisdictional statement that William A. Allain and others filed in No. 83-2053 presents two questions that are similar to those presented in No. 83-1722 and also presents the question whether the District Court erroneously found as a fact that black persons in Mississippi -- and especially in the Delta generally -- have less education, lower incomes, and more menial occupations than white persons, and that there has been racially polarized voting in Mississippi. See n. 2, infra. Nothing in the dissenting opinion indicates that it believes these questions merit full briefing and argument. In my judgment the jurisdictional statement in No. 83-1865 raises a more serious question, but I do not understand that the dissenting opinion favors review of that question.
+
+2Link to the location of the note in the document
+Regarding past discrimination, the District Court carefully found that Mississippi had often used poll taxes, literacy tests, residency requirements, white primaries, and violence to intimidate black persons from registering to vote. More importantly, the court found "that the effects of the historical official discrimination in Mississippi presently impede black voter registration and turnout." App. to Motion to Dismiss or Affirm in No. 83-1722, p. 9a. Additionally, the court wrote:
+
+"Black registration in the Delta area is still disproportionately lower than white registration. No black has been elected to Congress since the Reconstruction period, and none has been elected to statewide office in this century. Blacks hold less than ten percent of all elective offices in Mississippi, though they constitute 35% of the state's population and a majority of the population of 22 counties.
+
+"The evidence of socioeconomic disparities between blacks and whites in the Delta area and the state as a whole is also probative of minorities' unequal access to the political process in Mississippi. Blacks in Mississippi, especially in the Delta region, generally have less education, lower incomes, and more menial occupations than whites. The State of Mississippi has a history of segregated school systems that provided inferior education to blacks. . . . Census statistics indicate lingering effects of past discrimination: the median family income in the Delta region (Second District) for whites is $17,467, compared to $7,447 for blacks; more than half of the adult blacks in the Second District have attained only 0 to 8 years of schooling, while the majority of white adults in this District have completed four years of high school; the unemployment rate for blacks is two to three times that for whites; and blacks generally live in inferior housing." Id., at 9a-10a (footnote omitted).
+
+3Link to the location of the note in the document
+The court also found that there existed "persuasive evidence" that Mississippi's political processes have not recently been open to black persons. In addition, the court particularly noted the following message accompanying a campaign television commercial:
+
+"You know, there's something about Mississippi that outsiders will never, ever understand. The way we feel about our family and God, and the traditions that we have. There is a new Mississippi, a Mississippi of new jobs and new opportunity for all our citizens. [video pan of black factory workers] We welcome the new, but we must never, ever forget what has gone before. [video pan of Confederate monuments] We cannot forget a heritage that has been sacred through out generations." Id., at 12a, n. 8.
+
+The commercial opened and closed with a view of Confederate monuments; the candidate that ran the commercial used "He's one of us" as his campaign slogan. Ibid.
+
+4Link to the location of the note in the document
+Indeed, it should be noted that the District Court's plan would be an acceptable remedy for the violations even if it did not regard the Simpson plan itself as a violation of § 2 of the Voting Rights Act as amended. For after our remand, the District Court could have appropriately decided that the policy of that Act, coupled with the findings of fact concerning the effects of historic discrimination, particularly in the Delta area, required a remedy that established at least one district in which black persons represented an effective majority of the eligible voters.

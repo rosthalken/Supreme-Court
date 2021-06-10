@@ -1,0 +1,18 @@
+﻿
+        
+        Chiarella v. United States, 445 U.S. 222, 100 S. Ct. 1108 (1980)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, concurring.
+Before liability, civil or criminal, may be imposed for a Rule 10b-5 violation, it is necessary to identify the duty that the defendant has breached. Arguably, when petitioner bought securities in the open market, he violated (a) a duty to disclose owed to the sellers from whom he purchased target company stock and (b) a duty of silence owed to the acquiring companies. I agree with the Court's determination that petitioner owed no duty of disclosure to the sellers, that his conviction rested on the erroneous premise that he did owe them such a duty, and that the judgment of the Court of Appeals must therefore be reversed.
+
+ [*238]  The Court correctly does not address the second question: whether the petitioner's breach of his duty of silence -- a duty he unquestionably owed to his employer and to his employer's customers -- could give rise to criminal liability under Rule 10b-5. Respectable arguments could be made in support of either position.  [***363]  On the one hand, if we assume that petitioner breached a duty to the acquiring companies that had entrusted [****30]  confidential information to his employers, a legitimate argument could be made that his actions constituted "a fraud or a deceit" upon those companies "in connection with the purchase or sale of any security." *Link to the text of the note On the other hand, inasmuch  [**1120]  as those companies would not be able to recover damages from petitioner for violating Rule 10b-5 because they were neither purchasers nor sellers of target company securities, see Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, it could also be argued that no actionable violation of Rule 10b-5 had occurred. I think the Court wisely leaves the resolution of this issue for another day.
+
+ [****31]  I write simply to emphasize the fact that we have not necessarily placed any stamp of approval on what this petitioner did, nor have we held that similar actions must be considered lawful in the future. Rather, we have merely held that petitioner's criminal conviction cannot rest on the theory that he breached a duty he did not owe.
+
+I join the Court's opinion.
+
+See Eason v. General Motors Acceptance Corp., 490 F.2d 654 (CA7 1973), cert. denied, 416 U.S. 960. The specific holding in Eason was rejected in Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723. However, the limitation on the right to recover pecuniary damages in a private action identified in Blue Chip is not necessarily coextensive with the limits of the rule itself. Cf. Piper v. Chris-Craft Industries, Inc., 430 U.S. 1, 42, n. 28, 43, n. 30, 47, n. 33.

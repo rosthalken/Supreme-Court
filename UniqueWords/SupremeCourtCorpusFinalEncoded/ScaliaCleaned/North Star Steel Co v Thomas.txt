@@ -1,0 +1,11 @@
+﻿
+I remain of the view that when Congress has not prescribed a limitations period to govern a cause of action that it has created, the Court should apply the appropriate state statute of limitations, or, if doing so would frustrate the purposes of the federal enactment, no limitations period at all. See Agency Holding Corp. v. Malley–Duff & Associates, Inc., 483 U.S. 143, 157–170, 107 S.Ct. 2759, 2767–2775, 97 L.Ed.2d 121 (1987) (SCALIA, J., concurring in judgment); see also Reed v. Transportation Union, 488 U.S. 319, 334, 109 S.Ct. 621, 630–631, 102 L.Ed.2d 665 (1989) (SCALIA, J., concurring in judgment). The rule first announced in DelCostello v. Teamsters, 462 U.S. 151, 172, 103 S.Ct. 2281, 2294, 76 L.Ed.2d 476 (1983), that a federal limitations period should be selected when it presents a “closer analogy” to the federal cause of action and is “significantly more appropriate,” I find to be not only erroneous but unworkable. If the “closer analogy” part of this is to be taken seriously, the federal statute would end up applying in some States but not in others; and the “significantly more appropriate” part is meaningless, since in all honesty a uniform nationwide limitations period for a federal cause of action is always significantly more appropriate.
+ 
+*38 I have joined in applying to a so-called “implied” cause of action the limitations period contained in the federal statute out of which the cause of action had been judicially created. See Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350, 364–366, 111 S.Ct. 2773, 2782–2784, 115 L.Ed.2d 321 (1991) (SCALIA, J., concurring in part and concurring in judgment). But the cause of action at issue here was created not by us, but by Congress. Accordingly, in my view, the appropriate state statute of limitations governs.
+ 
+Because none of the state statutes arguably applicable here would frustrate the purposes of the Worker Adjustment and Retraining Notification Act (WARN), 29 U.S.C. § 2101 et seq., and because the WARN actions before us are timely under even the shortest of those statutes, I concur in the Court’s judgment.
+ 
+
+
+
+

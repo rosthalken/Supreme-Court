@@ -1,0 +1,50 @@
+﻿
+        
+        United States v. Doe, 465 U.S. 605, 104 S. Ct. 1237 (1984)
+        
+
+
+      
+
+JUSTICE STEVENS, concurring in part and dissenting in part.
+
+"This Court . . . reviews judgments, not statements in opinions." Black v. Cutter Laboratories, 351 U.S. 292, 297  [*620]   [***565]  (1956). 1Link to the text of the note When both the District Court and the Court of Appeals correctly apply the law, and correctly dispose of the issue before them, I think it is poor appellate practice for this Court to reverse.
+
+ [****29]  The question in this case is whether, without tendering statutory immunity, the Government can compel the sole proprietor of a business to produce incriminating records pursuant to a grand jury subpoena. Except for the records that are required by law to be kept or to be disclosed to public agencies, the District Court held that production could not be required. The basis for that decision turned, not on any suggestion that the contents of the documents were privileged, but rather on the significance of the act of producing them. As the District Court explained:
+
+
+
+"[The] relevant inquiry is not whether the subpoenaed documents on their face reveal incriminating communications, but whether the act of producing the documents has communicative aspects which warrant Fifth Amendment protection. Fisher v. United States, 425 U.S. 391 . . . (1976). In yielding to the command of the subpoena, Mr. [Doe] may be required to make any one of several communications. The mere act of producing the documents may be considered 'a communication of testimonial significance as an admission that the subpoenaed records exist and that they are authentic.' In Re Grand Jury Empanelled (Colucci), 597 F.2d 851, 861 (3d Cir. 1979); [****30]  Andresen v. Maryland, 427 U.S. 463, 475 . . . (1976) ('the Fifth Amendment may protect an individual from complying with a subpoena for the production of his personal records in his possession because the very act of production may constitute a compulsory authentication of incriminating information'). In addition, the act of  [*621]  production may indicate a belief that the papers produced are those described in the subpoena. Fisher, 425 U.S. at 410. . . .
+
+"With few exceptions, enforcement of the subpoenas would compel Mr. [Doe] to admit that the records exist, that they are in his possession, and that they are authentic. These communications, if made under compulsion of a court decree, would violate Mr. [Doe's] Fifth Amendment rights." In re Grand Jury Empanelled March 19, 1980, 541 F.Supp. 1, 3 (NJ 1981). 2Link to the text of the note
+
+ [****31]  The Court of Appeals agreed with the District Court's reasoning and affirmed. It explained:
+
+
+
+"To be sure, the documents requested here, like those sought in Fisher, were voluntarily prepared, and therefore 'cannot be said to contain compelled testimonial evidence' in and of themselves. See  [***566]  Fisher, supra, 425 U.S. at 409-10 . . . . But the Supreme Court in Fisher went to great lengths to  [**1247]  demonstrate that, in certain situations, the very act of producing subpoenaed records might amount to an incriminating declaration. See id. at 410-13 . . . ; see also id. at 430-34 . . . (Marshall, J., concurring in the judgment). And such a situation, we believe, is present in the dispute at bar.
+
+. . . . .
+
+"The record contains no explanation by the United States as to how documents of this sort could be authenticated without the appellee's explicit or implicit participation. As the district court observed in this connection,
+
+'the government can give no assurances that the act of turning over the documents will not constitute incriminating  [*622]  admissions against [the appellee] either [****32]  before the grand jury or at a subsequent trial, if he is indicted. The government argues that the existence, possession and authenticity of the documents can be proved without [the appellee's] testimonial communication, but it cannot satisfy this court as to how that representation can be implemented to protect [the appellee] in subsequent proceedings.'
+
+"Appendix at 98 (footnote omitted). Under these circumstances, we are unable to say, as did the Court in Fisher, that responding to the subpoenas 'would not appear to represent a substantial threat of self-incrimination.' 425 U.S. at 413. . . .
+
+"Accordingly, we hold, therefore, that enforcement of these subpoenas would result in a compelled testimonial communication, an outcome neither compatible with the fifth amendment nor consonant with Fisher." In re Grand Jury Empanelled March 19, 1980, 680 F.2d 327, 334, 335-336 (CA3 1982).
+
+In addition, the Court of Appeals noted that the Government had had an opportunity to obtain the documents by providing the respondent with statutory immunity, but had declined to do so. It wrote:
+
+"Finally, the United States argues that the district court erred [****33]  in not compelling the appellee to produce the subpoenaed documents subject to 'the functional equivalent of use immunity with respect to the act of production.' Under this arrangement, presumably the appellee would turn over the requested records to the Government, which in turn would be obligated not to use the appellee's act of production against him in any way.
+
+"We are unpersuaded by the Government's proposition. As the appellee stresses, although the Government, on a number of occasions, suggested to the district court that there were means by which the appellee's act of production could be immunized, no procedure ever  [*623]  was agreed upon and no formal immunization offer under 18 U. S. C. § 6002 or § 6003 was advanced. Given this failure on the part of the Government to identify with particularity the immunity proposal it envisioned, we cannot say  [***567]  that the district court erred in rejecting this approach, especially in view of the court's finding that 'the government can give no assurances that the act of turning over the documents will not constitute incriminating admissions against [the appellee] either before the grand jury or [****34]  at a subsequent trial.' Appendix at 98; see United States v. Garcia, 544 F.2d 681, 685 n. 4 (3d Cir. 1976)." Id., at 337.
+
+This Court's opinion is entirely consistent with both the reasoning of the Court of Appeals and its disposition of the case. This Court agrees that the subpoena directed to respondent should have been quashed -- which is all that the judgment we review today contains. Accordingly, the Court of Appeals' judgment should be affirmed.
+
+To the extent that the Court purports to reverse the judgment of the Court of Appeals, I respectfully dissent.
+
+More particularly, we review the judgment that the Court of Appeals entered in this case, not the judgment that it may have entered in some other case, see ante, at 609, n. 6, or some isolated statement in its opinion commenting on the holding in some other case.
+
+2Link to the location of the note in the document
+Similarly, during oral argument in the District Court, Judge Sarokin stated: "If you can resolve it to my satisfaction I have no hesitancy in saying, yes, I will direct the turn-over, but only on the condition that the act of turn-over will not be utilized against the target." App. 35.

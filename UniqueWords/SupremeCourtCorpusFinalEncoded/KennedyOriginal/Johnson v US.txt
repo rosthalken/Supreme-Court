@@ -1,0 +1,17 @@
+﻿
+        
+        Johnson v. United States, 529 U.S. 694, 120 S. Ct. 1795 (2000)
+        
+
+
+      
+
+JUSTICE KENNEDY, concurring in part.
+
+The Court holds that 18 U.S.C. § 3583(e)(3), as it stood before the amendment adding what is now subsection (h), permits a trial court to impose further incarceration followed by a period of supervised release after revoking an earlier supervised release because the conditions were violated. In my view this is the correct result. The subsection permits a court to "require [a] person to serve in prison all or part of the term of supervised release" originally imposed. 18 U.S.C. § 3583(e)(3) (1988 ed., Supp. V). This indicates that after the right to be on supervised [**1808]  release has been revoked there is yet an unexpired term of supervised release that can be allocated, in the court's discretion, in whole or in part to confinement and to release on such terms and conditions  [*714]  as the court specifies. This was the convincing analysis adopted by the Court of Appeals for the First Circuit in reaching [****35]  the same conclusion, and it suffices to resolve the case. See United States v. O'Neil, 11 F.3d 292 (1993). The analysis, moreover, is no less fair than JUSTICE SCALIA's, post, at 8, n. 5 (dissenting opinion), which, after explaining at length that the only possible meaning of "revoke a term" is "'to annul'" it, post, at 1, to "'cancel'" it, ibid., and to treat it "as though it had never existed," post, at 3, explains away the statute's later inconvenient reference to "the term of supervised release" as "describ[ing] the length of the permitted imprisonment by reference to that now-defunct term of supervised release," post, at 7. This, of course, is not what the text says. Indeed, for support JUSTICE SCALIA turns to Congress' use of "terminate" in § 3583(g) -- which JUSTICE SCALIA elsewhere concedes "was a mistake." Post, at 3-4, n. 2. Faced with a choice between two difficult readings of what all must admit is not optimal statutory text, the Court is correct to adopt the interpretation that makes the most sense.
+
+I would not go on to suggest, as the Court does, that a court could extend a term [****36]  of supervised release pursuant to § 3583(e)(2) prior to revoking the term under § 3583(e)(3). Ante, at 18. The subparts of § 3583(e) are phrased in the disjunctive; and § 3583(e)(3) must stand on its own. This suggests the term of imprisonment plus any further term of supervised release imposed under § 3583(e)(3) may not exceed the original term of supervised release that had been imposed and then violated.
+
+Nor would I invoke 18 U.S.C. § 3583(a), ante, at 13-14, which raises more issues  [***745]  than it resolves, not the least of which is the description of the district court's action as "imposing a sentence." Petitioner's sentence was imposed upon conviction. What is at issue in this case is the appropriate adjustment to make to that sentence when the prisoner has violated the conditions of supervised release.
+
+ [*715]  With these observations I join the opinion of the Court, save for its parenthetical discussion of § 3583(e)(2), ante, at 18, and its dictum regarding § 3583(a), ante, at 13-14.

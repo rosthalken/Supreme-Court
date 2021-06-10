@@ -1,0 +1,43 @@
+﻿
+        
+        Watt v. Alaska, 451 U.S. 259, 101 S. Ct. 1673 (1981)
+        
+
+
+      
+
+JUSTICE STEVENS, concurring.
+
+My colleagues periodically criticize the way the Court manages its docket. Most frequently, such criticism takes the form of a dissent from the denial of certiorari. See, e. g., Brown Transport Corp. v. Atcon, Inc., 439 U.S. 1014  [***93]  (WHITE,  [****25]  J., dissenting). Although I consider the practice of dissenting from denials of certiorari counterproductive, see Singleton v. Commissioner, 439 U.S. 940, 942-946 (opinion of STEVENS, J.), in the context of the present cases it may be appropriate to suggest that the Court may misuse its scarce resources not only by occasionally denying certiorari in cases deserving plenary consideration, but also by granting certiorari  [*274]  without adequate justification. 1Link to the text of the note As long as  [**1682]  the Court creates unnecessary work for itself in this manner, its expressions of concern about the overburdened federal judiciary will ring with a hollow echo.
+
+ [****26]  In these cases, the Court of Appeals for the Ninth Circuit should have been permitted to provide the final answer to the unique question of statutory construction presented by the petitions for certiorari. The decision of the Court of Appeals did not conflict with any other judicial decision, and there is no reason to anticipate that a comparable issue will arise in another Circuit in the foreseeable future. 2Link to the text of the note I fully agree with the majority's explanation of why the Court of Appeals correctly read these ambiguous statutes, but even if I were persuaded that JUSTICE STEWART had the better of the argument, I still would feel that the public interest would have been better served by allowing this litigation to terminate in the Court of Appeals.
+
+ [****27]  The question of how to divide the revenues from oil and gas leases on public lands in the Kenai Peninsula is clearly a matter for Congress to decide. If Congress is displeased with the decisions of this Court and the Court of Appeals, it may promptly reverse them by revising the relevant statutes. If that is its view, it no doubt would have acted more promptly if we had simply denied certiorari. 3Link to the text of the note On the other  [*275]  hand, if we have correctly perceived the intent of the legislature, nothing has been gained by protracting this litigation. Admittedly, a significant amount of money was at stake, see ante, at 263, n. 6, but the offsetting costs associated with holding the funds in escrow pending our review, as well as the costs associated with the expenditure of this Court's material and human resources, are also significant.
+
+ [****28]  The federal judicial system is undergoing profound changes. Among the most significant is the increase  [***94]  in the importance of our courts of appeals. Today they are in truth the courts of last resort for almost all federal litigation. Like other courts of last resort -- including this one -- they occasionally render decisions that will not withstand the test of time. No judicial system is perfect and no appellate structure can entirely eliminate judicial error. Most certainly, this Court does not sit primarily to correct what we perceive to be mistakes committed by other tribunals. Although our work is often accorded special respect because of its finality, 4Link to the text of the note we possess no judicial monopoly on either finality or respect. The quality of the work done by the courts of appeals merits the esteem of the entire Nation, but, unfortunately, is not nearly as well or as widely recognized as it should be. Indeed, I believe that if we accorded those dedicated appellate judges the deference that their work merits, we would be better able to resist the temptation to grant certiorari for no reason other than a tentative prediction that our review of a case may produce an answer different [****29]  from theirs. In my opinion, that is not a sufficient reason for granting certiorari. 5Link to the text of the note  [*276]  Because no  [**1683]  other reason for reviewing this case is apparent, a simple denial of certiorari would have been an appropriate and efficient disposition.
+
+ [****30]  My disagreement in these cases with the Court's management of its docket does not, of course, prevent me from joining JUSTICE POWELL's opinion for the Court on the merits.
+
+Of course, these two problems are not wholly independent of one another. In light of the ever-increasing number of petitions for certiorari and the severe practical constraints on our ability freely to grant certiorari, it is certainly safe to assume that whenever we grant certiorari in a case not deserving plenary review, we increase the likelihood that certiorari will be denied in other, more deserving, cases.
+
+2Link to the location of the note in the document
+Neither of the petitions for certiorari filed in these cases suggested that the Court of Appeals' decision conflicted with any other judicial decision. In addition, the Solicitor General, in the petition filed on behalf of the federal parties, observed that the question of statutory construction presented here was unlikely to arise in the foreseeable future in another Circuit. See Pet. for Cert. in No. 79-1890, p. 18.
+
+3Link to the location of the note in the document
+In fact, Congress declined to clarify its intention with respect to the distribution of the Kenai oil and gas leasing revenues in part because of the concerns of some of its Members that such legislative action would be inappropriate while these cases were still pending in the federal courts. See ante, at 264-265, n. 8; post, at 285, n. 10.
+
+4Link to the location of the note in the document
+Indeed, as Justice Jackson once noted, "[we] are not final because we are infallible, but we are infallible only because we are final." Brown v. Allen, 344 U.S. 443, 540 (concurring in result).
+
+5Link to the location of the note in the document
+The possibility that a lower court may have incorrectly decided a federal question is, of course, a relevant factor when this Court decides whether to exercise its discretionary certiorari jurisdiction. However, as Rule 17.1 of the Rules of this Court makes plain, our certiorari jurisdiction is designed to serve purposes broader than the correction of error in particular cases:
+
+"A review on writ of certiorari is not a matter of right, but of judicial discretion, and will be granted only when there are special and important reasons therefor. The following, while neither controlling nor fully measuring the Court's discretion, indicate the character of reasons that will be considered.
+
+"(a) When a federal court of appeals has rendered a decision in conflict with the decision of another federal court of appeals on the same matter; or has decided a federal question in a way in conflict with a state court of last resort; or has so far departed from the accepted and usual course of judicial proceedings, or so far sanctioned such a departure by a lower court, as to call for an exercise of this Court's power of supervision.
+
+"(b) When a state court of last resort has decided a federal question in a way in conflict with the decision of another state court of last resort or of a federal court of appeals.
+
+"(c) When a state court or a federal court of appeals has decided an important question of federal law which has not been, but should be, settled by this Court, or has decided a federal question in a way in conflict with applicable decisions of this Court."
+
+By its own terms, Rule 17.1 "neither [controls] nor fully [measures]" the extent of our discretion to grant or to deny certiorari. Nonetheless, it is surely significant that none of the factors identified in the Rule can fairly be said to be present in these cases.

@@ -1,0 +1,32 @@
+﻿UNITED STATES, PETITIONER v. THOMPSON/CENTER ARMS COMPANY
+
+No. 91-164
+
+SUPREME COURT OF THE UNITED STATES
+
+504 U.S. 505
+
+January 13, 1992, Argued 
+June 8, 1992, Decided 
+
+JUSTICE STEVENS, dissenting.
+If this were a criminal case in which the defendant did not have adequate notice of the Government's interpretation of an ambiguous statute, then it would be entirely appropriate to apply the rule of lenity. 1 I am persuaded, however, that the Court has misapplied that rule to this quite different case.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 See, e. g., Crandon v. United States, 494 U.S. 152, 168, 108 L. Ed. 2d 132, 110 S. Ct. 997 (1990) ("Finally, as we have already observed, we are construing a criminal statute and are therefore bound to consider application of the rule of lenity. To the extent that any ambiguity over the temporal scope of [18 U. S. C.] § 209(a) remains, it should be resolved in petitioners' favor unless and until Congress plainly states that we have misconstrued its intent"); Commissioner v. Acker, 361 U.S. 87, 91, 4 L. Ed. 2d 127, 80 S. Ct. 144 (1959) ("The law is settled that 'penal statutes are to be construed strictly,' . . . and that one 'is not to be subjected to a penalty unless the words of the statute plainly impose it'") (citations omitted).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [***LEdHR2A] LEdHR(2A)I agree with JUSTICE WHITE, see ante, at 523-524, and also with the plurality, see ante, at 511, that respondent has made a firearm even though it has not assembled its constituent parts. I also agree with JUSTICE WHITE that that should be the end of the  [**2114]  case, see ante, at 524, and therefore, I join his opinion. I add this comment, however, because I am persuaded that the Government should prevail even if the statute were ambiguous.
+The main function of the rule of lenity is to protect citizens from the unfair application of ambiguous punitive statutes. Obviously, citizens should not be subject to punishment without fair notice that their conduct is prohibited by law. 2 The  [*526]  risk that this respondent would be the victim of such unfairness, is, however, extremely remote. In 1985, the Government properly advised respondent of its reading of the statute and gave it ample opportunity to challenge that reading in litigation in which nothing more than tax liability of $ 200 was at stake. See 924 F.2d 1041, 1042-1043 (CA Fed. 1991). Moreover, a proper construction of the statute in this case would entirely remove the risk of criminal liability in the future.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+2 Ambiguity in a criminal statute is resolved in favor of the defendant because "'a fair warning should be given to the world in language that the common world will understand, of what the law intends to do if a certain line is passed'" and because "of the seriousness of criminal penalties, and because criminal punishment usually represents the moral condemnation of the community, [and therefore] legislatures and not courts should define criminal activity." United States v. Bass, 404 U.S. 336, 348, 30 L. Ed. 2d 488, 92 S. Ct. 515 (1971).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+The plurality, after acknowledging that this case involves "a tax statute" and its construction "in a civil setting," ante, at 517, nevertheless proceeds to treat the case as though it were a criminal prosecution. In my view, the Court should approach this case like any other civil case testing the Government's interpretation of an important regulatory statute. This  [***325]  statute serves the critical objective of regulating the manufacture and distribution of concealable firearms -- dangerous weapons that are a leading cause of countless crimes that occur every day throughout the Nation. This is a field that has long been subject to pervasive governmental regulation because of the dangerous nature of the product and the public interest in having that danger controlled. 3 The public interest in carrying out the purposes that motivated the enactment of this statute is, in my judgment and on this record, far more compelling than a mechanical application of the rule of lenity.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+3 See, e. g., Gun Control Act of 1968, 18 U. S. C. § 921 et seq.; Arms Export Control Act, as amended Pub. L. 94-329, 90 Stat. 744, 22 U. S. C. § 2778; United States v. Biswell, 406 U.S. 311, 316, 32 L. Ed. 2d 87, 92 S. Ct. 1593 (1972) (acknowledging that the sale of firearms is a "pervasively regulated business").
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Accordingly, for this reason, as well as for the reasons stated by JUSTICE WHITE, I respectfully dissent. 

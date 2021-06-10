@@ -1,0 +1,88 @@
+﻿
+        
+        Taylor v. Alabama, 457 U.S. 687, 102 S. Ct. 2664 (1982)
+        
+
+
+      
+
+JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE, JUSTICE POWELL, and JUSTICE REHNQUIST join, dissenting.
+
+The Court holds today that Omar Taylor's detailed confession was the fruit of an illegal arrest, and consequently, should be suppressed. Because I conclude that neither the facts nor the law supports the Court's analysis, I respectfully dissent.
+
+I
+
+In the course of their investigation of the Moseley robbery, Montgomery police questioned Charles Martin, who was being held on unrelated rape and robbery charges. Martin stated that "he had heard that Omar Taylor was involved in the robbery of Moseley's Grocery," Tr. 6, but the police made no attempt to establish either Martin's credibility as an informant or the reliability of the information he provided. 1Link to the text of the note
+
+ [****16]  Based only on this tip, which did not provide probable cause, Sergeants Alford and Rutland arrested Taylor a little before 3 p.m. on January 4, 1979. At that time, they told him why he was being arrested and advised him of his Miranda rights, but asked him no questions regarding the robbery. Tr. 20, 24. When they arrived at the police station, the officers turned Taylor over to detectives.
+
+After Taylor had been fingerprinted and signed a form  [*695]  acknowledging his Miranda rights, Detective Wilson questioned him for about 15 minutes, Tr. 48, and placed him in a lineup before one of the victims, Mrs. Moseley. Id., at 37-38. At the lineup, which lasted about an hour, id., at 48, Mrs. Moseley was unable to identify the petitioner. Following the lineup, Detective Wilson told Taylor that his fingerprints matched the fingerprints removed from grocery items handled by one of the robbers. Nevertheless, the petitioner denied knowledge of the robbery.
+
+Toward 9 p.m. that evening, Detective Hicks readvised Taylor of his Miranda rights, Tr. 25, and Taylor once again read and signed a form setting forth his Miranda rights. Tr. 28, 125. At no time did Taylor [****17]  ask for a lawyer or indicate that he did not want to talk to police. Id., at 28-29, 35, 40. During his 5- to 10-minute interview with Taylor, Detective Hicks confronted him with the fingerprint evidence. Id., at 36. Hicks urged the petitioner to cooperate with the police, but carefully refrained from making him any promises, stating that at most he could inform the judge of the petitioner's cooperation. Id., at 31, 34. Taylor continued to deny involvement in the robbery. Id., at 35-36.
+
+Following this conversation, both the petitioner's girlfriend and his neighbor came to the police station and requested to speak with him. When Taylor indicated that he wanted to speak with his friends, Detective Hicks left them alone in  [***323]  his office for several minutes. 2Link to the text of the note [****18]  After that meeting,  [*696]  the  [**2670]  petitioner confessed to the crime, and signed a detailed written confession. 3Link to the text of the note
+
+Before trial, the petitioner moved to suppress his confession,  [*697]  arguing that it was the product of an illegal arrest, and that it had been obtained in violation of his Fifth and Sixth Amendment rights. The trial judge assumed that the arrest was illegal, 4Link to the text of the note but found that the confession was voluntary, consistent with the Fifth and Sixth Amendments, and that "there were enough intervening factors between the arrest and confession" to overcome the taint of the illegal arrest. Id., at 116.  [****19]  Accordingly, he admitted the confession.
+
+II
+
+Although the Court misapprehends the facts of the present case,  [***324]  it has stated correctly the controlling substantive law. In the Court's words, "a confession obtained through custodial interrogation after an illegal arrest should be excluded unless intervening events break the causal connection between the illegal arrest and the confession so that the confession is 'sufficiently an act of free will to purge the primary taint.'" Ante, at 690 (quoting Brown v. Illinois, 422 U.S. 590, 602 (1975)).
+
+In Brown, this Court emphasized that "Miranda warnings are an important factor . . . in determining whether the confession [was] obtained by exploitation of an illegal arrest." Id., at 603. 5Link to the text of the note The Court did not discount the significance  [*698]  of other factors, however, noting that  [****20]  "Miranda warnings, alone and per se, cannot always make the act sufficiently a  [**2671]  product of free will to break, for Fourth Amendment purposes, the causal connection between the illegality and the confession." Ibid. Brown holds, therefore, that not only Miranda warnings, but also "[the] temporal proximity of the arrest and the confession, the presence of intervening circumstances, and, particularly, the purpose and flagrancy of the official misconduct are all relevant." Id., at 603-604 (footnotes and citations omitted).
+
+ [****21]  In light of those factors, the Brown Court reviewed the record and found that "Brown's first statement was separated from his illegal arrest by less than two hours, and [that] there was no intervening event of significance whatsoever." Id., at 604. Moreover, the police conduct in arresting Brown was particularly egregious. The "impropriety of the arrest was obvious," and the "manner in which Brown's arrest was effected gives the appearance of having been calculated to cause surprise, fright, and confusion." Id., at 605. The Court held that as a consequence the confession should have been suppressed.
+
+Four Terms later, in Dunaway v. New York, 442 U.S. 200, 204 (1979), this Court reaffirmed the Brown rule that in order to use at trial statements obtained following an arrest on less than probable cause
+
+
+
+"the prosecution must show not only that the statements meet the Fifth Amendment voluntariness standard, but also that the causal connection between the statements and the illegal arrest is broken sufficiently to purge the primary taint of the illegal arrest."
+
+Finding the facts in Dunaway to be  [***325]  "virtually a replica [****22]  of the situation in Brown," id., at 218, the Court held that the petitioner's confession should have been suppressed. Critical to the Court's holding was its observation that the petitioner  [*699]  "confessed without any intervening event of significance." Ibid. See id., at 219 ("No intervening events broke the connection between petitioner's illegal detention and his confession").
+
+III
+
+Our task is to apply the law as articulated in Brown and Dunaway to the facts of this case.
+
+The first significant consideration is that following his unlawful arrest, Taylor was warned on three separate occasions that he
+
+
+
+"had a right to remain silent, [and] anything he said could be used against him in a court of law[;] he had the right to have an attorney present, [and] if he could not afford one, the State would appoint one for him[;] he could answer questions but he could stop answering at any time." Tr. 23.
+
+Under Brown and Dunaway, these warnings must be counted as "an important factor . . . in determining whether the confession [was] obtained by exploitation of an illegal arrest," Brown v. Illinois, supra, at 603, [****23]  though they are, standing alone, insufficient to prove that the primary taint of an illegal arrest had been purged.
+
+Second, in contrast to the facts in Brown, the facts in the present case show that the petitioner was not subjected to intimidating police misconduct. In Brown, police had broken into the petitioner's house and searched it. When the petitioner later came home, two officers pointed  [**2672]  their guns at him and arrested him, leading the Court to conclude that "[the] manner in which [the petitioner's] arrest was effected gives the appearance of having been calculated to cause surprise, fright, and confusion." 422 U.S., at 605. By contrast, nothing in the record before us indicates that the petitioner's arrest was violent, or designed to "cause surprise, fright, and confusion." Instead, Montgomery officers approached  [*700]  Taylor, asked him his name, and told him that he was under arrest for the Moseley robbery. They then searched him, advised him of his rights, and took him to the police station.
+
+Third, while in both Brown and Dunaway there was "no intervening event of significance whatsoever," 422 U.S., at 604, [****24]  in the present case Taylor's girlfriend and neighbor came to the police station and asked to speak with him. Before meeting with his two friends, the petitioner steadfastly had denied involvement in the Moseley robbery. Immediately following the meeting, the petitioner gave a complete and detailed confession of his participation in the armed robbery. This meeting between the petitioner and his two friends, as described by the police in their testimony at the suppression hearing, plainly constituted an intervening circumstance.
+
+Finally, the record reveals that the petitioner spent most of the time between his arrest and confession by  [***326]  himself. 6Link to the text of the note In Dunaway and Brown, by contrast, the defendants were interrogated continuously before they made incriminating statements.
+
+ [****25]  In sum, when these four factors are considered together, 7Link to the text of the note it is obvious that there is no sufficient basis on which to overturn the trial court's finding that "there were enough intervening factors" to overcome the taint of the illegal arrest. In fact, I believe it is clear that the State carried its burden of proof. The petitioner was warned of his rights to remain silent  [*701]  and to have a lawyer present, and there is no dispute that he understood those rights or that he waived them voluntarily and without coercion. After receiving three sets of such warnings, he met with his girlfriend and neighbor, at his request. Following that meeting, at which no police officers were present, the petitioner decided to confess to his participation in the robbery. The petitioner's confession was not proximately caused by his illegal arrest, but was the product of a decision based both on knowledge of his constitutional rights and on the discussion with his friends. Accordingly, I respectfully dissent.
+
+1Link to the location of the note in the document
+The police, however, suspected Martin of complicity in the Moseley robbery, Tr. 15. It later developed that Martin had instigated, planned, and participated in the robbery.
+
+2Link to the location of the note in the document
+The Court's rather different account of this meeting apparently stems from a decision to accept the testimony most favorable to the holding it wants to reach. That decision, however, runs counter to the longstanding practice of federal appellate courts to uphold the denial of the motion to suppress if, in the absence of any express findings by the district court, there is any reasonable view of the evidence to support it. See United States v. Payton, 615 F.2d 922, 923 (CA1), cert. denied, 446 U.S. 969 (1980); United States v. Vicknair, 610 F.2d 372, 376, n. 4 (CA5), cert. denied, 449 U.S. 823 (1980). In the present case, the officer testified that Taylor's "girlfriend came to us and said she wanted to talk to Omar, and we told Omar she was outside and he wanted to talk to her. And at that time, we let him talk to her." Tr. 35. Detective Hicks specifically denied that he had urged Taylor to talk to his girlfriend. Id., at 35, 133-134. The detective acknowledged that he had told the petitioner that he could inform the judge of the petitioner's cooperation, but he expressly denied making any other statements to Taylor or his girlfriend about "cooperation." Id., at 31, 134.
+
+The petitioner, of course, had a vastly different version. He testified that the police had brought his girlfriend into the room and told him, in her presence, that he was facing 10 years to life in prison, but that if he cooperated they might be able to arrange a suspended sentence or probation. Upon hearing that remark, the petitioner's girlfriend became upset and began to cry, at which point the police left the petitioner alone with his friends. Id., at 52. As we noted above, the police expressly denied making any such statements. More importantly, upon comparing the two versions, it becomes clear that in an effort to support its holding, the Court has parsed through the petitioner's story and plucked those tidbits that the police did not expressly contradict. This method of setting forth the facts of a case on appellate review hardly comports with the rule that an appellate court must adopt any reasonable view of the evidence that supports the trial court's ruling.
+
+Since there is nothing unreasonable about the police account of the meeting between the petitioner and his friends, that version is the one we must accept on review. At the hearing, Detective Hicks testified that after Taylor asked to speak with his friends, the police left them alone together. There is no suggestion, other than the petitioner's discredited version of the meeting, that the police said anything to the petitioner's girlfriend, or that she became upset. Thus, the Court errs in stating that the petitioner's girlfriend became upset because of statements made by the police, and in intimating that the police created a coercive atmosphere in which the petitioner could not carefully consider his options and, on the basis of his friends' advice, decide to confess to the robbery.
+
+3Link to the location of the note in the document
+In that confession, the petitioner stated that Charles Martin approached him with guns and a plan to rob Moseley's Grocery. Taylor's role in the robbery was to distract Mr. Moseley by buying some groceries. Just before his accomplices pulled out their guns, Taylor put down the groceries and walked outside to see whether an approaching car was a police car. When he saw that it was not a police car, he began to reenter the store, but stopped when he saw the robbery taking place. Thereafter he fled, met his cofelons at a preassigned place, and took his share of the money. Id., at 128-132.
+
+4Link to the location of the note in the document
+In fact, the State did not seriously contend that the arrest had been based on probable cause. See id., at 8, 10.
+
+5Link to the location of the note in the document
+The holding in Brown was derived from this Court's seminal decision in Wong Sun v. United States, 371 U.S. 471 (1963), in which we rejected a "but for" test for determining whether to suppress evidence gathered following a Fourth Amendment violation.
+
+"We need not hold that all evidence is 'fruit of the poisonous tree' simply because it would not have come to light but for the illegal actions of the police. Rather, the more apt question in such a case is 'whether, granting establishment of the primary illegality, the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.' Maguire, Evidence of Guilt, 221 (1959)." Id., at 487-488.
+
+6Link to the location of the note in the document
+The petitioner confessed some six hours after his arrest. As JUSTICE STEVENS noted in his concurring opinion in Dunaway, the "temporal relationship between the arrest and the confession may be an ambiguous factor," 442 U.S., at 220, for a lengthy detention could be used to exploit an illegal arrest at least as easily as a brief detention. In the present case, there seems to be nothing remarkable, one way or the other, about the length of detention.
+
+7Link to the location of the note in the document
+The Court has taken each circumstance out of context and examined it to see whether it alone would be enough to purge the taint of the illegal arrest. The Court's failure to consider the circumstances of this case as a whole may have contributed to its erroneous conclusion.

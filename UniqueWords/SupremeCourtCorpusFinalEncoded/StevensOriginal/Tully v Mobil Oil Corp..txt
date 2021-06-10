@@ -1,0 +1,34 @@
+﻿
+        
+        Tully v. Mobil Oil Corp., 455 U.S. 245, 102 S. Ct. 1047 (1982)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+Federal price control authority under the Emergency Petroleum Allocation Act, 15 U. S. C. § 751 et seq., pre-empted the authority of the State of New York to control prices of petroleum products. In this case, the Temporary Emergency Court of Appeals held that the antipassthrough provision of N. Y. Tax Law § 182 (McKinney Supp. 1980) was "clearly a price control measure" 1Link to the text of the note [****9]  that could not be enforced while the federal authority was effective. The court recognized, however, that the federal bar would expire on September 30, 1981, and that the import of its decision was limited to the period prior to that date. 2Link to the text of the note
+
+ [*250]  In its appeal to this Court, the New York State Tax Commission does not ask us to consider any question concerning [****10]  the meaning or enforceability of its laws during the period after the expiration of federal price control authority. Such questions are not our business and are not presented by this litigation. Rather, the appeal by the Commission presents the question whether the then-existing federal price control authority prevented the State  [***126]  from fixing the economic burden of a tax imposed upon companies  [**1051]  that sell petroleum products. 3Link to the text of the note [****11]  The Temporary Emergency Court of Appeals  [*251]  correctly answered that question. Since the subsequent expiration of the federal authority has no bearing on that question, I simply would affirm its judgment. 4Link to the text of the note
+
+"The anti-passthrough provision is clearly a price control measure in exercise of the State's police power. The stated purpose of the provision is to prevent 'further increases in the price of petroleum products to consumers,' and to prevent the tax from 'fueling inflation by prohibiting pass through of such tax to the consumers of this state.' N. Y. Act, Ch. 272, § 1. As the Court of Appeals noted in another context, '[this] objective is certainly not an exercise of a taxing power but a police power affecting the price structure of petroleum products.' Mobil Oil Corp. v. Tully, supra, at 918. We agree with this observation." 653 F.2d 497, 501 (TECA 1981).
+
+2Link to the location of the note in the document
+"Any attempt by New York State to affect the structure of prices charged by the oil companies pursuant to federal regulation is barred by conflict with the federal scheme. The EPCA [Energy Policy Conservation Act, which added 15 U. S. C. § 760g to the EPAA] expires by its terms on September 30, 1981. 15 U. S. C. § 760g. In the meantime, the goals to control the impact of OPEC determinations regarding production and prices are viable. At the present time price decontrol has been determined by the President to be the best method to achieve an enunciated goal. The state statute under attack here is an instrument of price control and in conflict with the objectives of the program. See Ray v. Atlantic Richfield, 435 U.S. 151, 178 . . . (1978).
+
+"When the statute expires in September 1981, it will signal the end of federal concern in this area. Until that time the state statute is in conflict with the federal statute and regulations." Id., at 502.
+
+3Link to the location of the note in the document
+The three questions presented in the jurisdictional statement read as follows:
+
+"1. Does the Tax Injunction Act, 28 U. S. C. § 1341, deprive federal district courts of jurisdiction to enjoin enforcement of a provision of a New York State tax law when the effect of the injunction would be to terminate the assessment, levy, and collection of the tax?
+
+"2. Did the Energy Policy and Conservation Act of 1975 and the revocation, pursuant to its terms, by the Department of Energy of regulations that had set maximum allowable prices for certain petroleum products, prohibit the states from fixing the economic burden of a tax imposed upon companies that sell petroleum products?
+
+"3. Did those federal regulations, when they were effective, prevent the states from exercising such a power?" Juris. Statement ii.
+
+I am satisfied that the Court of Appeals for the Second Circuit correctly answered the first question when it held that the antipassthrough provision of the New York statute was an exercise of the State's police power and not its taxing power. 639 F.2d 912, 917-918, cert. denied sub nom. Tully v. New England Petroleum Corp., 452 U.S. 967 (1981). The injunction entered by the District Court did not enjoin New York from collecting the tax; it merely enjoined the enforcement of the antipassthrough provision. Unless that injunction is construed to have expired by its terms, it will, of course, be subject to modification, on the Commission's motion, to eliminate any federal objection to the enforcement of the antipassthrough provision subsequent to the expiration of federal price control authority.
+
+4Link to the location of the note in the document
+I agree with the Court that our appellate jurisdiction has properly been invoked. See ante, at 246-247, n. 1.

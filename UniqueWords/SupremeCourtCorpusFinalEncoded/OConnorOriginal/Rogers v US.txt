@@ -1,0 +1,11 @@
+﻿
+        
+        Rogers v. United States, 522 U.S. 252, 118 S. Ct. 673 (1998)
+        
+
+
+      
+
+JUSTICE O'CONNOR, with whom JUSTICE SCALIA joins, concurring in the result.
+
+As the plurality points out, we granted certiorari to address an important issue of constitutional law, and we ought not to decide the question if it has not been cleanly presented.  [****14]  In my view, it is sufficient to dismiss the writ that the instructions tendered by the District Court were ambiguous on whether the jury was asked to find, as is required by Staples v. United States, 511 U.S. 600, 128 L. Ed. 2d 608, 114 S. Ct. 1793 (1994), that petitioner "knew that the item he possessed was a silencer," ante, at 5. As a  [**678]  result, it is at least unclear whether the question we intended to address in this case -- whether a district court's failure to instruct the jury on an element of an offense is harmless error where, at trial, the defendant admitted that element -- is squarely presented. For that reason, I concur in the dismissal of the writ as improvidently granted. I share the plurality's concern, ante, at 6, n. 7, that trial courts should structure their instructions in cases implicating Staples in a way that prevents the possible interpretation identified by JUSTICE KENNEDY in his dissent.

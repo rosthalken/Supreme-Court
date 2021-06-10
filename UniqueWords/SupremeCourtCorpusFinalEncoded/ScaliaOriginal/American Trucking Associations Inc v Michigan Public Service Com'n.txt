@@ -1,0 +1,21 @@
+﻿
+
+
+125 S.Ct. 2419
+Supreme Court of the United States
+AMERICAN TRUCKING ASSOCIATIONS, INC. and USF Holland, Inc., Petitioners,
+v.
+MICHIGAN PUBLIC SERVICE COMMISSION et al.
+No. 03–1230.
+|
+Argued April 26, 2005.
+|
+Decided June 20, 2005.
+*439 Justice SCALIA, concurring in the judgment.
+
+Michigan imposes a flat fee on trucks that engage in purely intrastate commercial operations. I agree with the Court that this fee does not violate the negative Commerce Clause. Unlike the Court, ante, at 2422–2423, 2425–2426, I reach that determination without adverting to various tests from our wardrobe of ever-changing negative Commerce Clause fashions: the balancing approach from Pike v. Bruce Church, Inc., 397 U.S. 137, 90 S.Ct. 844, 25 L.Ed.2d 174 (1970), the four-factor test from Complete Auto Transit, Inc. v. Brady, 430 U.S. 274, 97 S.Ct. 1076, 51 L.Ed.2d 326 (1977), and the internal-consistency test from cases such as American Trucking Assns., Inc. v. Scheiner, 483 U.S. 266, 107 S.Ct. 2829, 97 L.Ed.2d 226 (1987). Instead, I ask whether the fee “facially discriminates against interstate commerce” and whether it is “indistinguishable from a type of law previously held unconstitutional by this Court.” West Lynn Creamery, Inc. v. Healy, 512 U.S. 186, 210, 114 S.Ct. 2205, 129 L.Ed.2d 157 (1994) (SCALIA, J., concurring in judgment). As the Court correctly concludes, Michigan’s fee meets neither of those conditions. It does not facially discriminate against interstate commerce, ante, at 2423, and it is distinguishable from petitioners’ best analogue, the fees invalidated in Scheiner, which applied to interstate trucks even when they engaged in no intrastate business, ante, at 2425.
+ 
+
+
+
+

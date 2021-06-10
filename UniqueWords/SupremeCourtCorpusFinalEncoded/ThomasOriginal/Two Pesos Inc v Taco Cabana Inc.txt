@@ -1,0 +1,33 @@
+﻿
+
+
+112 S.Ct. 2753
+Supreme Court of the United States
+TWO PESOS, INC., Petitioner
+v.
+TACO CABANA, INC.
+No. 91–971.
+|
+Argued April 21, 1992.
+|
+Decided June 26, 1992.
+|
+Rehearing Denied Sept. 4, 1992.
+|
+See 505 U.S. 1244, 113 S.Ct. 20.
+Justice THOMAS, concurring in the judgment.
+
+Both the Court and Justice STEVENS decide today that the principles that qualify a mark for registration under § 2 of the Lanham Act apply as well to determining whether an unregistered mark is entitled to protection under § 43(a). The Court terms that view “common ground,” though it fails to explain why that might be so, and Justice STEVENS decides that the view among the Courts of Appeals is textually insupportable, but worthy nonetheless of adherence. See ante, at 2757 (opinion of the Court); ante, at 2764 (STEVENS, J., concurring in judgment). I see no need in answering the question presented either to move back and forth among the different sections of the Lanham Act or to adopt what may or may not be a misconstruction of the statute for reasons akin to stare decisis. I would rely, instead, on the language of § 43(a).
+ 
+Section 43(a) made actionable (before being amended) “any false description or representation, including words or other symbols tending falsely to describe or represent,” when “use[d] in connection with any goods or services.” 15 U.S.C. § 1125(a) (1982 ed.). This language codified, among other things, the related common-law torts of technical trademark infringement and passing off, see Inwood Laboratories, Inc. v. Ives Laboratories, Inc., 456 U.S. 844, 861, n. 2, 102 S.Ct. 2182, 2192, n. 2, 72 L.Ed.2d 606 (1982) (WHITE, J., concurring in result); Chevron Chemical Co. v. Voluntary Purchasing Groups, Inc., 659 F.2d 695, 701 (CA5 1981), cert. denied, 457 U.S. 1126, 102 S.Ct. 2947, 73 L.Ed.2d 1342 (1982), which were causes of action for false descriptions or representations concerning a good’s or service’s source of production, see, e.g., Yale Electric Corp. v. Robertson, 26 F.2d 972, 973 (CA2 1928); American Washboard Co. v. Saginaw Mfg. Co., 103 F. 281, 284–286 (CA6 1900).
+ 
+*786 At common law, words or symbols that were arbitrary, fanciful, or suggestive (called “inherently distinctive” words or symbols, or “trademarks”) were presumed to represent the source of a product, and the first user of a trademark could sue to protect it without having to show that the word or symbol represented the product’s source in fact. See, e.g., Heublein v. Adams, 125 F. 782, 784 (CC Mass.1903). That presumption did not attach to personal or geographic names or to words or symbols that only described a product (called “trade names”), and the user of a personal or geographic name or of a descriptive word or symbol could obtain relief only if he first showed that his trade name did in fact represent not just the product, but a producer (that the good or service had developed “secondary meaning”). See, e.g., Florence Mfg. Co. v. J.C. Dowd & Co., 178 F. 73, 74–75 (CA2 1910). Trade dress, which consists not of words or symbols, but of a product’s packaging (or “image,” more broadly), seems at common law to have been thought incapable ever of being inherently distinctive, perhaps on the theory that the number of ways to package a product is finite. Thus, a user of trade dress would always have had to show secondary meaning in order to obtain protection. See, e.g., Crescent Tool Co. v. Kilborn & Bishop Co., 247 F. 299, 300–301 (CA2 1917); Flagg Mfg. Co. v. Holway, 178 Mass. 83, 91, 59 N.E. 667 (1901); Philadelphia Novelty Mfg. Co. v. Rouss, 40 F. 585, 587 (CC SDNY 1889); see also J. Hopkins, Law of Trademarks, Tradenames, and Unfair Competition § 54, pp. 140–141 (3d ed. 1917); W. Browne, Law of Trade–Marks §§ 89b,i 89ic, pp. 106–110 (2d ed. 1885); Restatement (Third) of the Law of Unfair Competition § 16, Comment b (Tent. Draft No. 2, Mar. 23, 1990) (hereinafter Third Restatement).
+ 
+Over time, judges have come to conclude that packages or images may be as arbitrary, fanciful, or suggestive as words or symbols, **2767 their numbers limited only by the human imagination. See, e.g., AmBrit, Inc. v. Kraft, Inc., 812 F.2d 1531, 1536 (CA11 1986) (“square size, bright coloring, pebbled texture, *787 polar bear and sunburst images” of the package of the “Klondike” ice cream bar held inherently distinctive), cert. denied, 481 U.S. 1041, 107 S.Ct. 1983, 95 L.Ed.2d 822 (1987); see also Third Restatement §§ 13, 16. A particular trade dress, then, is now considered as fully capable as a particular trademark of serving as a “representation or designation” of source under § 43(a). As a result, the first user of an arbitrary package, like the first user of an arbitrary word, should be entitled to the presumption that his package represents him without having to show that it does so in fact. This rule follows, in my view, from the language of § 43(a), and this rule applies under that section without regard to the rules that apply under the sections of the Lanham Act that deal with registration.
+ 
+Because the Court reaches the same conclusion for different reasons, I join its judgment.
+ 
+
+
+
+

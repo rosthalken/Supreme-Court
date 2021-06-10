@@ -1,0 +1,27 @@
+﻿WILLIAM R. POUNDERS, JUDGE, SUPERIOR COURT OF CALIFORNIA, LOS ANGELES COUNTY v. PENELOPE WATSON
+
+No. 96-1383
+
+SUPREME COURT OF THE UNITED STATES
+
+521 U.S. 982
+
+June 27, 1997, Decided
+
+JUSTICE STEVENS, with whom JUSTICE BREYER joins, dissenting.
+As the Court correctly explains, the record supports the conclusion that respondent defied a court order when she asked two questions about her client's potential punishment. I assume therefore that she acted in contempt of court. The record also demonstrates, however, that no further misconduct or disruption of the trial occurred. The  [**2364]  question the Court of Appeals addressed was whether these circumstances justified a summary contempt proceeding conducted by the judge before whom the contempt occurred. I do not [*992]  agree with the Court that the answer to this question is so clear as to justify summary reversal.
+In the majority of the cases relied on by the Court, the summary contempt power was invoked to punish conduct that threatened to disrupt the court's on-going proceedings. See, e.g., United States v. Wilson, 421 U.S. 309 (1975). A more substantial question arises when the summary contempt proceeding is not invoked to prevent disruption of the trial, but to punish action that has already occurred. As Justice Frankfurter recognized in his dissenting opinion in Sacher v. United States, concerns about the adequacy of procedural safeguards are heightened in cases involving summary contempt procedures:
+ [***985] 
+"Summary punishment of contempt is concededly an exception to the requirements of Due Process. Necessity dictates the departure. Necessity must bound its limits. In this case, the course of events to the very end of the trial shows that summary measures were not necessary to enable the trial to go on. Departure from established judicial practice, which makes it unfitting for a judge who is personally involved to sit in his own case, was therefore unwarranted….
+"This, then, was not a situation in which, even though a judge was personally involved as the target of the contemptuous conduct, peremptory action against contemnors was necessary to maintain order and to salvage the proceedings. Where such action is necessary for the decorous continuance of a pending trial, disposition by another judge of a charge of contempt is impracticable. Interruption for a hearing before a separate judge would disrupt the trial and thus achieve the illicit purpose of a contemnor." Sacher v. United States, 343 U.S. 1, 36-37, 39 (1952) (Frankfurter, J., dissenting).
+We recognized these limits to a court's summary contempt power in In re McConnell, 370 U.S. 230 (1962), where we granted plenary review and set aside a $ 100 contempt sanction [*993]  for conduct that was more disruptive (although arguably more justified) than what occurred in this case. * We emphasized that:
+"To preserve the kind of trials that our system envisages, Congress has limited the summary contempt power vested in courts to the least possible power adequate to prevent actual obstruction of justice, and we think that that power did not extend to this case." In re McConnell, 370 U.S. 230, 236 (1962).
+
+ 
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+* In McConnell, the judge had erroneously ruled that plaintiff's counsel could not try a charge of conspiracy, holding that he must do so in a separate trial. To preserve his client's rights on appeal, counsel persisted in asking questions in the presence of the jury regarding the conspiracy charge. Counsel then refused to obey the judge's order to stop asking the questions, and stated that he would continue to do so unless stopped by the bailiff. After a recess, plaintiff's counsel returned to trial and asked no more forbidden questions. Following trial, and after holding a hearing, the trial judge summarily found counsel guilty of contempt and imposed a jail sentence. On appeal, the Court of Appeals sustained the convictions, but reduced the sentence to a fine of $ 100.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+Given that the respondent in this case asked two inappropriate questions over the course of a three and a half month long trial and that the trial continued without incident for two weeks after her contemptuous conduct, a substantial question exists as to whether fair procedure required a hearing before another judge. Neither the Court nor the petitioner contends that this summary contempt power was exercised to prevent the "actual obstruction of justice," such that a hearing before an entirely disinterested judge would have been impractical. Because I believe that these questions are important and not clearly answered by our precedents-- indeed, the Court does not cite a single case that is at all comparable to this one on its facts--it is unwise to answer it without full briefing and argument.
+Accordingly, I respectfully dissent.

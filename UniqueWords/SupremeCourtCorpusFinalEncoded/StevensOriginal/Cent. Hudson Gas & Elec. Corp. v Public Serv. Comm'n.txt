@@ -1,0 +1,47 @@
+﻿
+        
+        Cent. Hudson Gas & Elec. Corp. v. Pub. Serv. Comm'n, 447 U.S. 557, 100 S. Ct. 2343 (1980)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE BRENNAN joins, concurring in the judgment.
+
+Because "commercial speech" is afforded less constitutional protection than other forms of speech, 1Link to the text of the note it is important that the commercial speech concept not be defined too broadly lest speech deserving of greater constitutional protection be inadvertently suppressed. The issue in this case is whether New York's prohibition on the promotion of the use of electricity [****42]  through advertising is a ban on nothing but commercial speech.
+
+In my judgment one of the two  [***360]  definitions the Court uses in addressing that issue is too broad and the other may be somewhat too narrow. The Court first describes commercial speech as "expression related solely to the economic interests of the speaker and its audience." Ante, at 561. Although it is not entirely clear whether this definition uses the subject matter of the speech or the motivation of the speaker as the limiting factor, it seems clear to me that it encompasses speech that is entitled to the maximum protection afforded by the First Amendment. Neither a labor leader's exhortation to  [*580]  strike, nor an economist's dissertation on the money supply, should receive any lesser protection because the subject matter [****43]  concerns only the economic interests of the audience. Nor should the economic motivation of a speaker qualify his constitutional protection; even Shakespeare may have been motivated by the prospect of pecuniary reward. Thus, the Court's first definition of commercial speech is unquestionably too broad. 2Link to the text of the note
+
+The Court's second definition refers to "'speech proposing a commercial transaction.'" Ante, at 562. A saleman's solicitation, a broker's offer, and a manufacturer's publication of a price list or the terms of his standard warranty would unquestionably [****44]  fit within this concept. 3Link to the text of the note Presumably,  [**2359]  the definition is intended to encompass advertising that advises possible buyers of the availability of specific products at specific prices and describes the advantages of purchasing such items. Perhaps it also extends to other communications that do little more than make the name of a product or a service more familiar to the general public. Whatever the precise contours of the concept, and perhaps it is too early to enunciate an exact formulation, I am persuaded that it should not include the entire range of communication that is embraced within the term "promotional advertising."
+
+This case involves a governmental regulation that completely bans promotional advertising by an electric utility. This ban encompasses a great deal more than mere proposals to engage in certain kinds of commercial transactions. It prohibits all advocacy of the immediate or future use of electricity.  [*581]  It curtails expression [****45]  by an informed and interested group of persons of their point of view on questions relating to the production and consumption of electrical energy -- questions frequently discussed and debated by our political leaders. For example, an electric company's advocacy of the use of electric heat for environmental reasons, as opposed to wood-burning stoves, would seem to fall squarely within New York's promotional advertising ban and also within the bounds of maximum First Amendment protection. The breadth of the ban thus exceeds the boundaries of the commercial speech concept, however  [***361]  that concept may be defined. 4Link to the text of the note
+
+ [****46]  The justification for the regulation is nothing more than the expressed fear that the audience may find the utility's message persuasive. Without the aid of any coercion, deception, or misinformation, truthful communication may persuade some citizens to consume more electricity than they otherwise would. I assume that such a consequence would be undesirable and that government may therefore prohibit and punish the unnecessary or excessive use of electricity. But if the perceived harm associated with greater electrical usage is not sufficiently serious to justify direct regulation, surely it does not constitute the kind of clear and present danger that can justify the suppression of speech.
+
+ [*582]  Although they were written in a different context, the words used by Mr. Justice Brandeis in his concurring opinion in Whitney v. California, 274 U.S. 357, 376-377, explain my reaction to the prohibition against advocacy involved in this case:
+
+"But even advocacy of violation, however reprehensible morally, is not a justification for denying free speech where the advocacy falls short of incitement and there is nothing to indicate that the advocacy would [****47]  be immediately acted on. The wide difference between advocacy and incitement, between preparation and attempt, between assembling and conspiracy, must be borne in mind. In order to support a finding of clear and present danger it must be shown either that immediate serious violence was to be expected or was advocated, or that the past conduct furnished reason to believe that such advocacy was then contemplated.
+
+"Those who won our independence by revolution were not cowards. They did not fear political change. They did not exalt order at the cost of liberty. To courageous, self-reliant men, with confidence  [**2360]  in the power of free and fearless reasoning applied through the processes of popular government, no danger flowing from speech can be deemed clear and present, unless the incidence of the evil apprehended is so imminent that it may befall before there is opportunity for full discussion. If there be time to expose through discussion the falsehood and fallacies, to avert the evil by the processes of education, the remedy to be applied is more speech, not enforced silence. Only an emergency can justify repression. Such must be the rule if authority is to be reconciled [****48]  with freedom. Such, in my opinion, is  [***362]  the command of the Constitution." (Footnote omitted.) 5Link to the text of the note
+
+ [*583]  In sum, I concur in the result because I do not consider this to be a "commercial speech" case. Accordingly, I see no need to decide whether the Court's four-part analysis, ante, at 566, adequately protects commercial speech -- as properly defined -- in the face of a blanket ban of the sort involved in this case.
+
+See Ohralik v. Ohio State Bar Assn., 436 U.S. 447, 456, quoted ante, at 563, n. 5. Cf. Smith v. United States, 431 U.S. 291, 318 (STEVENS, J., dissenting).
+
+2Link to the location of the note in the document
+See Farber, Commercial Speech and First Amendment Theory, 74 Nw. U. L. Rev. 372, 382-383 (1979):
+
+"Economic motivation could not be made a disqualifying factor [from maximum protection] without enormous damage to the first amendment. Little purpose would be served by a first amendment which failed to protect newspapers, paid public speakers, political candidates with partially economic motives and professional authors." (Footnotes omitted.)
+
+3Link to the location of the note in the document
+See id., at 386-387.
+
+4Link to the location of the note in the document
+The utility's characterization of the Commission's ban in its complaint as involving commercial speech clearly does not bind this Court's consideration of the First Amendment issues in this new and evolving area of constitutional law.
+
+Nor does the Commission's intention not to suppress "institutional and informational" speech insure that only "commercial speech" will be suppressed. The blurry line between the two categories of speech has the practical effect of requiring that the utilities either refrain from speech that is close to the line, or seek advice from the Public Service Commission. But the Commission does not possess the necessary expertise in dealing with these sensitive free speech questions; and, in any event, ordinarily speech entitled to maximum First Amendment protection may not be subjected to a prior clearance procedure with a government agency.
+
+5Link to the location of the note in the document
+Mr. Justice Brandeis quoted Lord Justice Scrutton's comment in King v. Secretary of State for Home Affairs ex parte O'Brien, [1923] 2 K. B. 361, 382: "'You really believe in freedom of speech, if you are willing to allow it to men whose opinions seem to you wrong and even dangerous. . . .'" 274 U.S., at 377, n. 4.
+
+See also Young v. American Mini Theatres, Inc., 427 U.S. 50, 63 (opinion of STEVENS, J.).

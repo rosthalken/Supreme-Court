@@ -1,0 +1,13 @@
+﻿
+        
+        Webster v. Doe, 486 U.S. 592, 108 S. Ct. 2047 (1988)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring in part and dissenting in part.
+
+I agree that the Administrative Procedure Act (APA) does not authorize judicial review of the employment decisions referred  [****24]  to in § 102(c) of the National Security Act of 1947. Because § 102(c) does not  [**2055]  provide a meaningful standard for judicial review, such decisions are clearly "committed to agency discretion by law" within the meaning of the provision of the APA set forth in 5 U.S.C. § 701(a)(2). I do not understand the Court to say that the exception in § 701(a)(2) is necessarily or fully defined by reference to statutes "drawn in such broad terms that in a given case there is no law to apply." See Citizens to Preserve Overton Park, Inc. v. Volpe, 401 U.S. 402, 410, 28 L. Ed. 2d 136, 91 S. Ct. 814 (1971), quoted ante, at 599. Accordingly, I join Parts I and II of the Court's opinion.
+
+I disagree, however, with the Court's conclusion that a constitutional claim challenging the validity of an employment decision covered by § 102(c) may nonetheless be brought in a federal district court. Whatever may be the exact scope of Congress' power to close the lower federal courts to constitutional claims in other contexts, I have no doubt about its authority to do so here. The functions performed by the Central Intelligence Agency and the Director of Central Intelligence lie at the core of "the very delicate, plenary and  [*606]   [****25]  exclusive power of the President as the sole organ of the federal government in the field of international relations." United States v. Curtiss-Wright Export Corp., 299 U.S. 304, 320, 81 L. Ed. 255, 57 S. Ct. 216 (1936). The authority of the Director of Central Intelligence to control access to sensitive national security information by discharging  [***647]  employees deemed to be untrustworthy flows primarily from this constitutional power of the President, and Congress may surely provide that the inferior federal courts are not used to infringe on the President's constitutional authority. See, e. g., Department of Navy v. Egan, 484 U.S. 518, 526-530, 98 L. Ed. 2d 918, 108 S. Ct. 818 (1988); Totten v. United States, 92 U.S. 105, 23 L. Ed. 605 (1876). Section 102(c) plainly indicates that Congress has done exactly that, and the Court points to nothing in the structure, purpose, or legislative history of the National Security Act that would suggest a different conclusion. Accordingly, I respectfully dissent from the Court's decision to allow this lawsuit to go forward.

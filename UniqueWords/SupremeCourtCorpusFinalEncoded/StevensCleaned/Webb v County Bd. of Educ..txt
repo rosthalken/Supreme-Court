@@ -1,0 +1,113 @@
+﻿
+LEdHN   HN1 The Civil Rights Attorney's Fees Awards Act of 1976, 90 Stat. 2641, 42 U. S. C. § 1988, authorizes a court to award a reasonable attorney's fee to the prevailing party in "any action or proceeding" to enforce certain statutes, including     42 U. S. C.     § 1983. 1Link to the text of the note Petitioner was represented by counsel in local administrative    proceedings and in a subsequent     § 1983 action challenging the termination of his employment as a public school teacher. He ultimately prevailed and was awarded attorney's fees for the time his lawyer spent on the judicial proceedings, but denied fees for the time spent in proceedings before the local School Board. The question presented is whether the District Court correctly excluded the time spent pursuing optional administrative proceedings from the calculation of a "reasonable fee" for the prevailing party.
+
+In the spring of 1974 respondent Dyer County Board of Education, terminated the employment of petitioner, who was a black elementary school    teacher with tenure. Petitioner retained counsel to assist him in demonstrating that his discharge was unjustified and to obtain appropriate relief.
+
+A Tennessee statute provides that public school teachers may only be dismissed for specific causes, and guarantees a hearing on charges warranting dismissal. 2Link to the text of the note    Petitioner sought and eventually obtained a series of hearings before the Board at which his counsel presented testimony supporting his claim that the dismissal was unjustified. Because the Board had not provided him with written charges or a pretermination hearing, and because there was reason to believe     that the Board's action was racially motivated, 3Link to the text of the note petitioner also claimed that his constitutional rights had been violated. Negotiations with the Board continued until the summer of 1978 when the Board finally decided to adhere to its decision to dismiss the petitioner.
+
+On August 13, 1979, the petitioner commenced this action in the United States District for the Western District of Tennessee. He alleged that the Board action was unconstitutional and that various civil rights statutes, 42 U. S. C. §§ 1981, 1982, 1983, 1985, afforded him a basis for monetary and equitable relief against the respondent Board and various individual defendants associated with his dismissal. 4Link to the text of the note The respondents filed an answer to the complaint, a motion to dismiss or for summary judgment, and certain discovery requests to which the petitioner responded. App. 21-29, 48. In March 1981, the petitioner filed with the District Court a partial record of the administrative proceedings. Id., at 30-31.
+
+    On October 14, 1981, the case was settled by the entry of a consent order awarding the petitioner $ 15,400 in damages and dismissing the     action with prejudice. 5Link to the text of the note Under the consent decree, the Board also agreed to reinstate the petitioner and treat him as having resigned on the day of dismissal. Adverse comments were to be removed from his employment file. The matter of an award of attorney's fees was reserved for future resolution by the parties or by the court.
+
+        During subsequent negotiations, the Board conceded that the petitioner was a "prevailing party" entitled to an award of attorney's fees, but the parties could not agree on the amount of the award. After the negotiations proved unsuccessful, petitioner filed a motion for an award of fees under 42 U. S. C. § 1988. The motion was supported by an affidavit containing an itemized description of the time spent by the petitioner's counsel on the matter from April 5, 1974, through September 11, 1981. 6Link to the text of the note The     affidavit also set forth the attorney's professional qualifications and his regular charges during the period involved. 7Link to the text of the note The petitioner requested a total fee of $ 21,165, based on an hourly rate of $ 120 and including an upward adjustment of 25% "in light of the peculiar difficulties involved in this particular kind of case and the unusual nature of the hours involved in the Board proceedings." App. 56.
+
+    Respondents, on the other hand, took the position that a reasonable fee would not exceed $ 5,000. They objected to the hourly rate, 8Link to the text of the note to certain miscellaneous, unrecorded hours, and to the request for an upward adjustment of 25%. In     addition, the respondents contended that the petitioner was not entitled to receive a fee for services performed by counsel in the administrative proceedings.
+
+The District Court awarded a fee of $ 9,734.38 plus expenses. In making that award, the District Court accepted respondents' position that the time spent in the School Board proceedings should be excluded, but otherwise resolved all issues in petitioner's favor. 9Link to the text of the note The Court of Appeals     affirmed. 715 F.2d 254 (CA6 1983). 10Link to the text of the note    Because     of an apparent conflict in federal authority on the availability of attorney's fees under § 1988 for time spent in state administrative proceedings prior to the filing of a federal civil rights action, 11Link to the text of the note we     granted certiorari. 466 U.S. 935 (1984).
+
+The petitioner argues that he is entitled to a fee award for the services of his counsel during the School Board hearings     on either of two theories: (1) that those hearings were "[proceedings] to enforce a provision of [§ 1983]" within the meaning of § 1988; or (2) that the time was "reasonably     expended" in preparation for the court action and therefore compensable under the rationale of Hensley v. Eckerhart, 461 U.S. 424, 433 (1983). We consider each of these theories.
+
+I
+
+The relevant language in § 1988 12Link to the text of the note is similar to language in HN5 § 706(k) of Title VII of the Civil Rights Act of 1964, which authorizes an award of attorney's fees in "any action or proceeding" under that Title. 13Link to the text of the note In New York Gaslight Club, Inc. v. Carey, 447 U.S. 54 (1980), we held that § 706(k) authorizes fees for work performed pursuing a state administrative remedy "to which the complainant was referred pursuant to the provisions of Title VII." Id., at 71. The petitioner argues that the reasoning in Carey supports a comparable award for the services performed in the School Board proceedings in this case.
+
+
+
+    LEdHN   Carey, however, arose under a statute that expressly requires the claimant to pursue available state remedies before commencing proceedings in a federal forum. 14Link to the text of the note There is no comparable requirement in § 1983, and therefore the reasoning     in Carey is not applicable to this case. As we noted in Smith v. Robinson, 468 U.S. 992 (1984):
+
+    "The difference between Carey and this case is that in Carey the statute that authorized fees, Title VII, also required a plaintiff to pursue available state administrative remedies. In contrast, HN7 nothing in § 1983 requires that a plaintiff exhaust his administrative remedies before bringing a § 1983 suit. See Patsy v. Florida Board of Regents, 457 U.S. 496 (1982)." Id., at 1011, n. 14.
+
+Because § 1983 stands "as an independent avenue of relief" and petitioner "could go straight to court to assert it," ibid., the School Board proceedings in this case simply do not have the same integral function under § 1983 that state administrative proceedings have under Title VII.
+
+    Congress only authorized the district courts to allow the prevailing party a reasonable attorney's fee in an "action or proceeding to enforce [§ 1983]." Administrative proceedings established to enforce tenure rights created by state law simply are not any part of the proceedings to enforce § 1983, 15Link to the text of the note and even though the petitioner obtained relief from his dismissal in the later civil rights action, he is not automatically entitled to claim attorney's fees for time spent in the administrative process     on this theory. 16Link to the text of the note
+
+    II
+
+In Hensley v. Eckerhart, supra, at 424, we discussed HN8 the method to be employed by the district court in determining     the amount of an attorney's fee award to the prevailing party in a civil rights action covered by § 1988. At the outset, we emphasized that the amount to be awarded necessarily depends "on the facts of each case," 461 U.S., at 429, and that the exercise of discretion by the district court must be respected, id., at 432. We explained that the "most useful starting point for determining the amount of a reasonable fee is the number of hours reasonably expended on the litigation multiplied by a reasonable hourly rate." Id., at 433. We also observed that the party seeking an award of fees has the burden of submitting "evidence supporting the hours worked and rates claimed." Ibid.
+
+In this case, the petitioner contends that all of the hours spent by     his attorney in the School Board proceedings were "reasonably expended" to enforce the rights protected by § 1983. More specifically, since witnesses were examined and opposing arguments considered and refuted in those    proceedings, the work was analogous to discovery, investigation, and research that are part of any litigated proceeding, and therefore should be compensable as though the work was performed after the lawsuit was actually filed. "In sum," petitioner concludes, "Hensley requires that fees for work done from the onset of an attorney-client relationship be awarded if that work was reasonably related to the enforcement of federal civil rights unless the hours spent would not, in the exercise of normal billing judgment, be 'properly billed to one's client.'" Brief for Petitioner 19 (quoting Hensley v. Eckerhart, 461 U.S., at 434). 
+
+LEdHN   The Court's opinion in Hensley does not sweep so broadly. HN9 The time that is compensable under § 1988 is that "reasonably expended on the litigation." Id., at 433 (emphasis added). When the attorney's fee is allowed "as part of the costs" -- to use the language of the statute -- it is difficult to treat time spent years before the complaint was filed as having been "expended on the litigation" or to be fairly comprehended as "part of the costs" of the civil rights action.
+
+    Of course, HN10 some of the    services performed before a lawsuit is formally commenced by the filing of a complaint are performed "on the litigation." Most obvious examples are the drafting of the initial pleadings and the work associated with the development of the theory of the case. 17Link to the text of the note    In this case, however, neither the trial judge nor the parties had any difficulty identifying the dividing line between the administrative proceeding and the judicial proceeding. The five years of work before August 1979 were easily separated from the two years of work thereafter. 18Link to the text of the note The petitioner made no suggestion below that any discrete portion of the work product from the administrative proceedings was work that was both useful and of a type ordinarily necessary to advance the civil rights litigation to the stage it reached     before settlement. The question argued below was whether the time spent on the administrative work during the years before August 1979 should be included in its entirety or excluded in its entirety. On this record, the District Court correctly held that all of the administrative work was not compensable. 19Link to the text of the note
+
+    
+
+        LEdHN   LEdHN[2] [2]"We reemphasize that HN11 the district court has discretion in determining the amount of a fee award." 20Link to the text of the noteId., at 437. When such an award is appealed, the reviewing court must evaluate its reasonableness with appropriate deference. Considering the governing legal principles, the petitioner's burden of establishing his entitlement to the requested fee, and the evidence and arguments presented below, we conclude that the District Court's decision to deny any fees for time spent pursuing optional administrative remedies was well within the range of reasonable discretion.
+
+Accordingly, the judgment    of the Court of Appeals is affirmed.
+
+It is so ordered.
+
+In relevant part, HN2 § 1988 provides:
+
+"In any action or proceeding to enforce a provision of §§ 1981, 1982, 1983, 1985 and 1986 of this title, title IX of Public Law 92-318, or title VI of the Civil Rights Act of 1964, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs."
+
+2Link to the location of the note in the document
+HN3 Tenn. Code Ann. § 49-5-511(a) (1983) ("No teacher shall be dismissed . . . except as provided in this part. . . . The causes for which a teacher may be dismissed are as follows: incompetence, inefficiency, neglect of duty, unprofessional conduct, and insubordination"); HN4 § 49-5-512 ("A teacher, having received notice of charges against him, may . . . demand a hearing before the board").
+
+3Link to the location of the note in the document
+The petitioner contended that he had been discharged, in part, because of the complaints of white parents about his administration of corporal punishment to their children. He claimed that no other teacher in Dyer County engaging in such activities had ever been reprimanded, and that he had been singled out for punishment because of his race. App. 8-9.
+
+4Link to the location of the note in the document
+Specifically, the petitioner sought reinstatement, backpay, and $ 1 million in damages. On behalf of a class consisting of all black teachers and black applicants for teaching positions, the petitioner also sought monetary and equitable relief against the Board's allegedly discriminatory employment practices. Id., at 14-17.
+
+5Link to the location of the note in the document
+Id., at 32-34.
+
+6Link to the location of the note in the document
+Id., at 39-55. The time schedule submitted by the petitioner was a reconstruction of the hours his counsel spent on the matter. Tr. of Fee Hearing 10. Contemporaneously recorded time sheets are the preferred practice. See Hensley v. Eckerhart, 461 U.S. 424, 441 (1983) (BURGER, C. J., concurring). The schedule detailed a "total" of 141.1 hours of which 82.8 hours are specifically attributable to the administrative proceedings which finally terminated in August 1978. The balance of 58.3 hours has been treated by the parties and the courts below as having been spent in connection with the action in federal court.
+
+7Link to the location of the note in the document
+Counsel's affidavit stated his regular hourly charges for routine commercial work were $ 60 in 1974-1976, $ 90 in 1977-1979, $ 105 in 1980, and $ 120 in 1981. App. 55. Two expert witnesses testified for the petitioner that the request of $ 120 per hour for 141.1 hours was reasonable. Tr. of Fee Hearing 3-23, 30-46.
+
+8Link to the location of the note in the document
+The respondent's three experts offered varying opinions on the reasonable hourly fee which was said to be between $ 50 and $ 100 for the administrative hearings and between $ 60 and $ 100 for the court proceedings. See App. 63-72; Tr. of Fee Hearing 108-114.
+
+9Link to the location of the note in the document
+In calculating the fee, the District Court applied an hourly rate of $ 125 to the 58.3 hours that were not recorded as having been spent on the administrative proceedings. The court allowed the 25% upward adjustment sought by the petitioner even though he did not prevail on the class action allegations in his complaint and received only a small portion of the damages sought. The court also awarded $ 625 (5 hours) for the time spent litigating the fee application.
+
+10Link to the location of the note in the document
+The respondents unsuccessfully challenged the District Court's calculations on appeal. 715 F.2d, at 259-260. Although the District Court rendered the award without the guidance of this Court's decisions in Hensley v. Eckerhart, 461 U.S. 424 (1983), and Blum v. Stenson, 465 U.S. 886 (1984), the respondents did not file a petition for certiorari from the adverse decision of the Court of Appeals, and our review of the District Court's calculations consequently is limited to its denial of fees for the time spent on the hearings before the School Board.
+
+11Link to the location of the note in the document
+Compare Ciechon v. City of Chicago, 686 F.2d 511, 524-525 (CA7 1982), with 715 F.2d 254 (CA6 1983) (case below), Horacek v. Thone, 710 F.2d 496, 499-500 (CA8 1983), Latino Project, Inc. v. City of Camden, 701 F.2d 262, 264-265 (CA3 1983), Estes v. Tuscaloosa County, 696 F.2d 898, 900 (CA11 1983) (per curiam), Redd v. Lambert, 674 F.2d 1032, 1036-1037 (CA5 1982), and Blow v. Lascaris, 668 F.2d 670, 671 (CA2) (per curiam), cert. denied, 459 U.S. 914 (1982). See also Bartholomew v. Watson, 665 F.2d 910, 912-914 (CA9 1982); Brown v. Bathke, 588 F.2d 634, 638 (CA8 1978).
+
+12Link to the location of the note in the document
+See n. 1, supra.
+
+13Link to the location of the note in the document
+78 Stat. 261, HN6 42 U. S. C. § 2000e-5(k) ("In any action or proceeding under [Title VII] the court, in its discretion, may allow the prevailing party, other than the [Equal Employment Opportunity] Commission or the United States, a reasonable attorney's fee as part of the costs . . .").
+
+14Link to the location of the note in the document
+As we explained in Carey:
+
+"It is clear from this scheme of interrelated and complementary state and federal enforcement that Congress viewed proceedings before the EEOC and in federal court as supplements to available state remedies for employment discrimination. Initial resort to state and local remedies is mandated, and recourse to the federal forums is appropriate only when the State does not provide prompt or complete relief." 447 U.S., at 65.
+
+15Link to the location of the note in the document
+Of course, competent counsel will be motivated by the interests of the client to pursue state administrative remedies when they are available and counsel believes that they may prove successful. We cannot assume that an attorney would advise the client to forgo an available avenue of relief solely because § 1988 does not provide for attorney's fees for work performed in the state administrative forum.
+
+16Link to the location of the note in the document
+This interpretation of § 1988 is consistent with the numerous references in its legislative history to promoting the enforcement of the civil rights statutes "in suits," "through the courts" and by "judicial process." See, e. g., S. Rep. No. 94-1011, pp. 2, 6 (1976); H. R. Rep. No. 94-1558, p. 1 (1976). Cf. Burnett v. Grattan, 468 U.S. 42, 50 (1984) ("[The] dominant characteristic of civil rights actions" is that "they belong in court").
+
+17Link to the location of the note in the document
+See also Fed. Rule Civ. Proc. 27 (providing a procedure for preserving testimony before the bringing of a federal cause of action).
+
+18Link to the location of the note in the document
+Indeed, in the 11 months between the late summer of 1978, when the adverse decision in the administrative proceeding became final, and the summer of 1979, when the petitioner brought this civil rights action, less than one-quarter hour was spent by counsel on the case -- to write a letter renewing a previous settlement offer. App. 47.
+
+19Link to the location of the note in the document
+JUSTICE BRENNAN suggests that the petitioner's filing of the transcript of the administrative hearings in the record of the civil rights action might justify an award of attorney's fees, in part, because that transcript substituted for the affidavits the petitioner would have had to file in response to the motion for summary judgment. Post, at 255. That motion, however, was filed only by three of the individual defendants, and addressed a statute of limitations defense. App. 27. On this record, we find no indication that the 82.8 hours spent in the administrative proceeding were in any way equivalent to the time that would have been spent preparing the affidavits necessary to respond to this summary judgment motion, or that any part of the administrative record was necessary for that purpose. Moreover, the District Court judge's decision on all other fee questions was extremely favorable to the petitioner, and it is quite probable that this decision was influenced by counsel's extensive experience representing petitioner before the School Board. A remand would only serve to prolong "what must be one of the least socially productive types of litigation imaginable: appeals from awards of attorney's fees, after the merits of a case have been concluded, when the appeals are not likely to affect the amount of the final fee." Hensley v. Eckerhart, 461 U.S., at 442 (BRENNAN, J., concurring in part and dissenting in part).
+
+20Link to the location of the note in the document
+We also reemphasize that the district court's consideration of a fee petition "should not result in a second major litigation." Hensley v. Eckerhart, supra, at 437. The District Court Judge in this case quite properly admonished the parties to limit adversary hostilities and to avoid excessive cross-examination of fee witnesses. E. g., Tr. of Fee Hearing 141.

@@ -1,0 +1,26 @@
+﻿RODRIGUEZ DE QUIJAS ET AL. v. SHEARSON/AMERICAN EXPRESS, INC.
+
+No. 88-385
+
+SUPREME COURT OF THE UNITED STATES
+
+490 U.S. 477
+
+March 27, 1989, Argued 
+May 15, 1989, Decided
+
+[***538]  JUSTICE STEVENS, with whom JUSTICE BRENNAN, JUSTICE MARSHALL, and JUSTICE BLACKMUN join, dissenting.
+The Court of Appeals refused to follow Wilko v. Swan, 346 U.S. 427 (1953), a controlling precedent of this Court. As the majority correctly  [**1923]  acknowledges, ante, at 484, the Court of Appeals therefore engaged in an indefensible brand of judicial activism. 1 We, of course, are not subject to the same restraint when asked to upset one of our own precedents. But when our earlier opinion gives a statutory provision concrete meaning, which Congress elects not to amend during the ensuing 3 1/2 decades, our duty to respect Congress' work product is strikingly similar to the duty of other federal courts to respect our work product. 2
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 After the Court decided Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987), numerous District Courts also deviated from the rule established in Wilko v. Swan, and enforced predispute arbitration clauses in suits brought pursuant to the Securities Act of 1933. E. g., Reed v. Bear, Stearns & Co., 698 F. Supp. 835 (Kan. 1988); Ryan v. Liss, Tenner & Goldberg Securities Corp., 683 F. Supp. 480 (NJ 1988); Kavouras v. Visual Products Systems, Inc., 680 F. Supp. 205 (WD Pa. 1988); Aronson v. Dean Witter Reynolds, Inc., 675 F. Supp. 1324 (SD Fla. 1987); DeKuyper v. A. G. Edwards & Sons, Inc., 695 F. Supp. 1367 (Conn. 1987); Rosenblum v. Drexel Burnham Lambert Inc., 700 F. Supp. 874 (ED La. 1987); Staiman v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 673 F. Supp. 1009 (CD Cal. 1987).
+2 Cf. McMahon, 482 U.S., at 268 (Stevens, J., concurring in part and dissenting in part) ("[A]fter a statute has been construed . . . by this Court . . . it acquires a meaning that should be as clear as if the judicial gloss had been drafted by the Congress itself. This position reflects both respect for Congress' role, see Boys Market, Inc. v. Retail Clerks, 398 U.S. 235, 257-258 (1970) (Black, J., dissenting), and the compelling need to preserve the courts' limited resources, see B. Cardozo, The Nature of the Judicial Process 149 (1921)").
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+ [*487]  In the final analysis, a Justice's vote in a case like this depends more on his or her views about the respective lawmaking responsibilities of Congress and this Court than on conflicting policy interests. Judges who have confidence in their own ability to fashion public policy are less hesitant to change the law than those of us who are inclined to give wide latitude to the views of the voters' representatives on nonconstitutional matters. Cf. Boyle v. United Technologies Corp., 487 U.S. 500 (1988). As I pointed out years ago, Alberto-Culver Co. v. Scherk, 484 F. 2d 611, 615-620 (CA7 1973) (dissenting opinion), rev'd, 417 U.S. 506 (1974), there are valid policy and textual arguments on both sides regarding the interrelation of federal securities and arbitration Acts. 3 See ante, at 479-484. None of these arguments, however, carries  [***539]  sufficient weight to tip the balance between judicial and legislative authority and overturn an interpretation of an Act of Congress that has been settled for many years.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+3 Indeed the Court first debated some of these arguments in the precedent-setting opinion that the majority now overrules. Compare Wilko, 346 U.S., at 432-438, with id., at 439-440 (Frankfurter, J., dissenting). Most recently they were revisited in McMahon, supra, an action based upon the Securities Exchange Act of 1934. Compare 482 U.S., at 225-238, with id., at 243-266 (Blackmun, J., concurring in part and dissenting in part).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+I respectfully dissent.

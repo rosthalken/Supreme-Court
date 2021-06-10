@@ -1,0 +1,13 @@
+﻿481 U.S. 412
+TULL v. UNITED STATES
+Supreme Court of the United States
+January 21, 1987, Argued ; April 28, 1987, Decided
+No. 85-1259	
+
+JUSTICE SCALIA, with whom JUSTICE STEVENS joins, concurring in part and dissenting in part.
+
+I join the Court's disposition, and Parts I and II of its opinion. I do not join Part III because in my view the right to trial by jury on whether a civil penalty of unspecified amount is assessable also involves a right to trial by jury on what the amount should be. The fact that the Legislature could elect to fix the amount of penalty has  [**1841]  nothing to do with whether, if it chooses not to do so, that element comes within the jury-trial guarantee. Congress could, I suppose, create a private cause of action by one individual against another for a fixed amount of damages, but it surely does not follow that if it creates such a cause of action without prescribing the amount of damages, that issue could be taken from the jury.
+
+ [*428]  While purporting [****33]  to base its determination (quite correctly) upon historical practice, the Court creates a form of civil adjudication I have never encountered. I can recall no precedent for judgment of civil liability by jury but assessment of amount by the court. Even punitive damages are assessed by the jury when liability is determined in that fashion. One is of course tempted to make an exception in a case like this, where the Government is imposing  [***380]  a noncompensatory remedy to enforce direct exercise of its regulatory authority, because there comes immediately to mind the role of the sentencing judge in a criminal proceeding. If criminal trials are to be the model, however, determination of liability by the jury should be on a standard of proof requiring guilt beyond a reasonable doubt. Having chosen to proceed in civil fashion, with the advantages which that mode entails, it seems to me the Government must take the bitter with the sweet. Since, as the Court correctly reasons, the proper analogue to a civil-fine action is the common-law action for debt, the Government need only prove liability by a preponderance of the evidence; but must, as in any action for debt, accept the [****34]  amount of award determined not by its own officials but by 12 private citizens. If that tends to discourage the Government from proceeding in this fashion, I doubt that the Founding Fathers would be upset.
+
+I would reverse and remand for jury determination of both issues.

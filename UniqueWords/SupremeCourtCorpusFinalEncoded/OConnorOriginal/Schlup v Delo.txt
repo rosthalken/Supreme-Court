@@ -1,0 +1,17 @@
+﻿
+        
+        Schlup v. Delo, 513 U.S. 298, 115 S. Ct. 851 (1995)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+I write to explain, in light of the dissenting opinions, what I understand the Court to decide and what it does not.
+
+ [**870]  The Court holds that, in order to have an abusive or successive habeas claim heard on the merits, a petitioner who cannot demonstrate cause and prejudice "must show that it is more likely than not that no reasonable juror would have convicted him" in light of newly discovered evidence  [***840]  of innocence. Ante, at 327. This standard is  [*333]  higher than that required for prejudice, which requires only "a reasonable probability that, absent the errors, the factfinder would have had a reasonable doubt respecting guilt," Strickland v. Washington, 466 U.S. 668, 695, 80 L. Ed. 2d 674, 104 S. Ct. 2052 (1984). Instead, a petitioner does not pass through the gateway erected by Murray v. Carrier, 477 U.S. 478, 91 L. Ed. 2d 397, 106 S. Ct. 2639 (1986), if the district court believes it more likely than not that there is any juror who, acting reasonably, would have found the petitioner guilty beyond a reasonable doubt. And the Court's standard, which focuses the inquiry on the likely behavior of jurors, is substantively different from the rationality standard of Jackson v. Virginia, 443 U.S. 307, 61 L. Ed. 2d 560, 99 S. Ct. 2781 (1979). Jackson, which emphasizes the authority of the fact-finder to make conclusions from the evidence, establishes a standard of review for the sufficiency of record evidence -- a standard that would be ill suited as a burden of proof, see Concrete Pipe & Products of Cal., Inc. v. Construction Laborers Pension Trust for Southern Cal., 508 U.S. 602, 624-626, 124 L. Ed. 2d 539, 113 S. Ct. 2264 (1993). The Court today does not sow confusion in the law. Rather, it properly balances the dictates of justice with the need to ensure that the actual innocence exception remains only a "'safety valve' for the 'extraordinary case,'" Harris v. Reed, 489 U.S. 255, 271, 103 L. Ed. 2d 308, 109 S. Ct. 1038 (1989) (O'CONNOR, J., concurring).
+
+Moreover, the Court does not, and need not, decide whether the fundamental miscarriage of justice exception is a discretionary remedy. It is a paradigmatic abuse of discretion for a court to base its judgment on an erroneous view of the law. See Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, 405, 110 L. Ed. 2d 359, 110 S. Ct. 2447 (1990). Having decided that the district court committed legal error, and thus abused its discretion, by relying on Sawyer v. Whitley, 505 U.S. 333, 120 L. Ed. 2d 269, 112 S. Ct. 2514 (1992), instead of Murray v. Carrier, supra, the Court need not decide the question -- neither argued by the parties nor passed upon by the Court of Appeals -- whether abuse of discretion is the proper standard of review. In reversing the judgment of the Court  [*334]  of Appeals, therefore, the Court does not disturb the traditional discretion of district courts in this area, nor does it speak to the standard of appellate review for such judgments.
+
+With these observations, I join the Court's opinion.

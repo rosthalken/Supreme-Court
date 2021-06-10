@@ -1,0 +1,13 @@
+﻿
+        
+        United States v. Patane, 542 U.S. 630, 124 S. Ct. 2620 (2004)
+        
+
+
+      
+
+JUSTICE KENNEDY, with whom JUSTICE O'CONNOR joins, concurring in the judgment.
+
+LEdHN[1D] [1D]In Oregon v. Elstad, 470 U.S. 298, 84 L. Ed. 2d 222, 105 S. Ct. 1285 (1985), [****30]  New  [**2631]  York v. Quarles, 467 U.S. 649, 81 L. Ed. 2d 550, 104 S. Ct. 2626 (1984), and Harris v. New York, 401 U.S. 222, 28 L. Ed. 2d 1, 91 S. Ct. 643 (1971), evidence obtained following an unwarned interrogation was held admissible. This result was based in large part on our recognition that the concerns underlying the Miranda v. Arizona, 384 U.S. 436, 16 L. Ed. 2d 694, 86 S. Ct. 1602 (1966), rule must be accommodated to other objectives of the criminal justice system.  [*645]  I agree with the plurality that Dickerson v. United States, 530 U.S. 428, 147 L. Ed. 2d 405, 120 S. Ct. 2326 (2000), did not undermine these precedents and, in fact, cited them in support. Here, it is sufficient to note that the Government presents an even stronger case for admitting the evidence obtained as the result of Patane's unwarned statement. Admission of nontestimonial physical fruits (the Glock in this case), even more so than the postwarning statements to the police in Elstad and Michigan v. Tucker, 417 U.S. 433, 41 L. Ed. 2d 182, 94 S. Ct. 2357 (1974), does not run the risk of admitting into trial an accused's coerced incriminating statements against himself. In light of the important probative value of reliable physical evidence, it is doubtful that exclusion can be justified [****31]  by a deterrence rationale sensitive to both law enforcement interests and a suspect's rights during an in-custody interrogation. Unlike the plurality, however, I find it unnecessary to decide whether the detective's failure to give Patane the full Miranda warnings should be characterized as a violation of the Miranda rule itself, or whether there is "anything to deter" so long as the unwarned statements are not later introduced at trial. Ante, at 641-642, 159 L. Ed. 2d, at 677-678.
+
+With these observations, I concur in the judgment of the Court.

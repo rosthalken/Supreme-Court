@@ -1,0 +1,146 @@
+﻿
+While I agree with the Court that petitioner's conviction for importing 12,000 pounds of marihuana into     Neah Bay, Washington, on August 26, 1980, does not bar his prosecution for a continuing criminal enterprise that began in December 1976, and continued into October 1979, I do not agree with the Court's analysis of the double jeopardy implications of the first conviction or with its decision to affirm the judgment of the Court of Appeals. In my opinion, the separate indictment, conviction, and sentencing for the Neah Bay transaction make it constitutionally impermissible to use that transaction as one of the predicate offenses needed to establish a continuing criminal enterprise in a subsequent prosecution under 21 U. S. C. § 848.
+
+In order to explain my position, I shall first emphasize the difference between the Washington and the Florida proceedings and the limited extent of their overlap, then identify the relevant    constraint that is imposed by the Double Jeopardy Clause, and finally note the flaw in the Court's analysis.
+
+    I
+
+The Washington and Florida indictments were returned within three months of each other; they focus on two sets of transactions that occurred in almost mutually exclusive time periods. The fact that the later Florida indictment deals with the earlier series of events is a source of some confusion that, I believe, can be put to one side if we begin by describing the Florida indictment -- the one that gave rise to the case we are now reviewing.
+
+
+
+The Florida Indictment
+On July 16, 1981, a grand jury in the Northern District of Florida returned an 11-count indictment against petitioner and five other defendants. 1Link to the text of the note    Petitioner was named as a defendant in seven counts, four of which refer to the use of a telephone on a specific date in 1978 or 1979. The three counts relevant to the present issue charged petitioner with conspiracy to import marihuana (Counts I and II) and with conducting a continuing criminal enterprise (Count XI) in violation of 21 U. S. C. § 848. 2Link to the text of the note
+
+The contours of the prosecution's case are suggested by the 34 overt acts alleged in Count I as having been performed by the six defendants and five named co-conspirators. 3Link to the text of the note Each of the first 33 overt acts was alleged to have occurred in the period between December 1976 and August 1979;     the 34th occurred on October 25, 1979. The three principal transactions involved (1) the unloading of about 30,000 pounds of marihuana from the vessel Buck Lee at Fourchan Landing,     Louisiana, in December 1976; (2) the arrival of the vessel Mr. Frank with a multiton load of marihuana at a boatyard near Crown Point, Louisiana, in June 1977; and (3) the voyage of the vessel Morning Star from Mobile, Alabama, to Santa Marta, Colombia, to pick up 28,145 pounds     of marihuana in June 1979. 4Link to the text of the note Notably, although each of the three principal transactions would obviously have supported a substantive charge of importation in violation of 21    U. S. C. § 812 and § 952, no such charge was made against petitioner. Instead, Count XI charged that he had engaged in a continuing criminal enterprise (CCE) in violation of 21 U. S. C. § 848 "from in or about the month of January, 1976, and continuing thereafter up to and including the date of the filing of this indictment." 5Link to the text of the note
+
+
+
+The Washington Indictment
+On March 17, 1981, a grand jury in the Western District of Washington returned a four-count indictment against petitioner and three other defendants. 6Link to the text of the note None of these codefendants was named as a defendant in the Florida indictment. 7Link to the text of the note Count I alleged a conspiracy beginning in or about September 1979 and continuing through August 26, 1980, to import 12,000 pounds of marihuana. The 15 alleged overt acts all occurred between September 1979 and October 1980, and all related to the unloading    of 12,000 pounds of marihuana from a "mother ship" to fishing vessels in Neah Bay, Washington. 8Link to the text of the note In addition to the conspiracy count, the     indictment also contained three substantive counts, but it did not make a CCE charge. 9Link to the text of the note
+
+There is some overlap between the Florida and the Washington indictments. The 34th overt act alleged in the Florida indictment was a meeting in Bellevue, Washington, on October 25, 1979, to discuss plans to import a shipload of marihuana. 10Link to the text of the note The first three overt acts in the Washington indictment refer to activities in Bellevue, Washington,     in September and October 1979, which apparently related to the Neah Bay landing in August of the following year. 11Link to the text of the note Moreover, the final allegation in Count XI of the Florida indictment refers to the yacht Sun Chaser III, which apparently was the "mother ship" in the Neah Bay incident. 12Link to the text of the note
+
+Thus, the two indictments appear to identify a series of four major importations in four different vessels over a 4-year period. The first three, together with the initial planning of the fourth, are plainly adequate to constitute a CCE. The question in the case, therefore, is whether the conviction on the fourth transaction, at Neah Bay -- which occurred before the Florida case went to trial -- makes it impermissible to use that transaction as a predicate offense to establish the CCE violation in the later prosecution.
+
+II
+
+Proper analysis of the double jeopardy     implications of petitioner's conviction for importing marihuana into Neah Bay, Washington,     in August 1980 requires consideration not only of the general rule prohibiting successive prosecutions for greater and     lesser offenses but also of an exception that may apply when the lesser offense is first prosecuted. The general rule is easily stated. The "Double Jeopardy Clause prohibits a State or the Federal Government from trying a     defendant for a greater offense after it has convicted him of a lesser included offense." 13Link to the text of the note This rule applies to "complex statutory crimes." 14Link to the text of the note The CCE offense proscribed by § 848 is clearly such a crime.
+
+In Brown v. Ohio, 432 U.S. 161 (1977), after making a full statement of the general rule, 15Link to the text of the note    we noted the exception that may preserve the government's right to prosecute for a greater offense after a prosecution for a lesser offense. We stated:
+
+"An exception may exist where the State    is unable to proceed on the more serious charge at the outset because the additional facts necessary to sustain that charge have     not occurred or have not been discovered despite the exercise of due diligence. See Diaz v. United States, 223 U.S. 442, 448-449 (1912); Ashe v. Swenson, [397 U.S.], at 453 n. 7 (BRENNAN, J., concurring)." 16Link to the text of the note
+
+The fact that the general rule and the exception may be easily stated does not mean that either may be easily applied to this case. The problem may, however, be clarified by a somewhat oversimplified statement of the elements of the CCE offense. It, of course, requires that the defendant be a manager, organizer, or supervisor of the enterprise, that he act in concert with at least five other persons, and that he obtain substantial income from it. 17Link to the text of the note The most important requirement for present purposes,     however, is that he must commit a felony as "a part of a continuing series of violations of this subchapter . . . ." 18Link to the text of the note I assume that the words "continuing series" contemplate at least three successive felony violations, but of course the series could involve more. 19Link to the text of the note
+
+    Thus, if we view the entire course of petitioner's conduct as alleged in both indictments,     it would appear that the Government could have alleged that all four importations constituted proof of a single CCE. Moreover, even though the prosecutor was clearly aware of the fourth importation when the Florida indictment was returned, I see no reason why he could not properly establish a CCE violation based on only the first three importations. 20Link to the text of the note As written, the Florida indictment     did not raise any double jeopardy problem because it did not rely on the Neah Bay importation and, indeed, did not separately charge any of the three earlier importations as substantive violations. Evidence of those felonies was offered to establish the greater CCE offense rather than separate, lesser offenses.
+
+    A double jeopardy issue was, however, created because the Government did not limit its proof to the three earlier importations. Instead, it offered extensive and dramatic evidence concerning the Neah Bay importation. Moreover, the jury was expressly instructed that the evidence concerning the Sun Chaser III "can only be considered by you in your deliberations concerning Count 11 of the indictment, which is the so called continuing criminal enterprise count, that's the allegation that Jonathan Garrett was engaged in, a continuing criminal enterprise." 21Link to the text of the note
+
+It therefore seems clear to me that even though the indictment properly alleged a CCE violation predicated only on the three earlier importations, as the case was actually tried, and as the jury    was instructed, it is highly likely that the CCE conviction rested on the Neah Bay evidence and not merely on the earlier transactions. The error, in my opinion, does not bar a retrial on the CCE count. But I think that it is perfectly clear that the CCE conviction     cannot stand because     the instructions on the CCE count did not inform the jury that the Neah Bay incident could not constitute a predicate felony to the CCE charge. 22Link to the text of the note
+
+It is also clear that the exception identified in Brown v. Ohio, 432 U.S. 161 (1977), is not applicable to this case. All of the facts necessary to sustain the CCE charge in the Florida indictment occurred before the Washington indictment was returned. Moreover, the Government has not claimed that the evidence necessary to sustain the CCE charge in the Florida indictment    was not discovered until after the Washington conviction. 23Link to the text of the note    Indeed, if one compares the     indictments, and if one assumes that the Government was prepared to prove what it alleged in the Florida indictment, the Neah Bay evidence was not needed in order to sustain the     CCE charge. 24Link to the text of the note The record discloses no basis for applying the exception identified in Brown to this case.
+
+III
+
+The Court's reasons for not applying the general rule to this case are somewhat unclear. It seems to place its entire reliance on the fact that the CCE charge alleges that the enterprise continued to the date of the Florida indictment on July 16, 1981, together with the fact that when petitioner was arrested a week later, he made some damaging admissions. 25Link to the text of the note Neither of these considerations has any constitutional significance that I can discern. Further, although I did not subscribe to the analysis in the plurality opinion in Jeffers v. United States, 432 U.S. 137 (1977), I had thought every Member of the Court endorsed this proposition: "What lies at the heart of the Double Jeopardy Clause is the prohibition against multiple prosecutions for the 'the same offense.' See United States v. Wilson, 420 U.S. 332, 343 (1975)." 26Link to the text of the note In my opinion it is far more important to vindicate that constitutional principle than to create     a new doctrine in order to avoid the risk that a retrial may result in freeing this petitioner    after only 19 years of imprisonment. 27Link to the text of the note
+
+I respectfully dissent.
+
+The six defendants were Jonathan Garrett, Robert Hoskins, Christopher Garrett, Donald McMichaels, Caesar Garcia, Sr., a/k/a Papasan, and Norman Vick. App. 56.
+
+2Link to the location of the note in the document
+Id., at 55-65. Count I alleged violations of 21 U. S. C. §§ 952, 960 and 963; Count II alleged violations of 21 U. S. C. §§ 841 and 846.
+
+3Link to the location of the note in the document
+The five named co-conspirators were Jack Nichols, Thomas Ruth, Robert Gorman, Doug Hoskins, and Joe Knowles. App. 58-62.
+
+4Link to the location of the note in the document
+Id., at 58-61.
+
+5Link to the location of the note in the document
+Id., at 64.
+
+6Link to the location of the note in the document
+The three other defendants were Robert Gorman, Don DePoe and Michael Johnson a/k/a Michael Minikin. Id., at 3.
+
+7Link to the location of the note in the document
+Robert Gorman, who is referred to in the briefs as a "cooperating defendant," was however named as a co-conspirator in the Florida indictment. Id., at 59. Moreover, Joseph Knowles, who apparently was an informer, was named as a co-conspirator in both cases. Id., at 4, 59.
+
+8Link to the location of the note in the document
+Id., at 3-5.
+
+9Link to the location of the note in the document
+Id., at 6-7.
+
+10Link to the location of the note in the document
+Id., at 62.
+
+11Link to the location of the note in the document
+Id., at 4.
+
+12Link to the location of the note in the document
+Id., at 65.
+
+13Link to the location of the note in the document
+Jeffers v. United States, 432 U.S. 137, 150 (1977) (opinion of BLACKMUN, J.).
+
+14Link to the location of the note in the document
+Id., at 151.
+
+15Link to the location of the note in the document
+The Court wrote:
+
+"The greater offense is therefore by definition the 'same' for purposes of double jeopardy as any lesser offense included in it.
+
+"This conclusion merely restates what has been this Court's understanding of the Double Jeopardy Clause at least since In re Nielsen was decided in 1889. In that case the Court endorsed the rule that
+
+'where . . . a person has been tried and convicted for a crime which has various incidents included in it, he cannot be a second time tried for one of those incidents without being twice put in jeopardy for the same offense.' 131 U.S., at 188.
+
+"Although in this formulation the conviction of the greater precedes the conviction of the lesser, the opinion makes it clear that the sequence is immaterial. Thus, the Court treated the formulation as just one application of the rule that two offenses are the same unless each requires proof that the other does not. Id., at 188, 190, citing Morey v. Commonwealth, [108 Mass.], at 434. And as another application of the same rule, the Court cited, 131 U.S., at 190, with approval the decision of State v. Cooper, 13 N. J. L. 361 (1833), where the New Jersey Supreme Court held that a conviction for arson barred a subsequent felony-murder indictment based on the death of a man killed in the fire. Cf. Waller v. Florida, 397 U.S. 387, 390 (1970). Whatever the sequence may be, the Fifth Amendment forbids successive prosecution and cumulative punishment for a greater and lesser included offense." 432 U.S., at 168-169 (footnote omitted).
+
+16Link to the location of the note in the document
+Id., at 169, n. 7.
+
+17Link to the location of the note in the document
+Jeffers v. United States, 432 U.S., at 141-142.
+
+18Link to the location of the note in the document
+See ante, at 780, n. 1.
+
+19Link to the location of the note in the document
+Several Courts of Appeals have held that a "continuing series" consists of three or more violations. See, e. g., United States v. Sterling, 742 F.2d 521, 526 (CA9 1984); United States v. Sinito, 723 F.2d 1250, 1261 (CA6 1983), cert. denied, 469 U.S. 817 (1984); United States v. Chagra, 653 F.2d 26, 27-28 (CA1 1981), cert. denied, 455 U.S. 907 (1982).
+
+20Link to the location of the note in the document
+In fact, the United States plainly concedes as much:
+
+"Petitioner does not dispute that the CCE prosecution could be maintained if predicated on a series of Title 21 violations for which he had not previously been prosecuted, and the proof at trial showed many such violations. The Washington offense was therefore by no means indispensable to establishment of the CCE offense . . . ." Brief for United States 5 (emphasis added).
+
+Moreover, the United States later states that "the substantive Washington offense was not an essential part of the government's proof on the CCE count" and that "in this case the Washington offense is not a necessary predicate for the CCE violation." Id., at 10, n. 3. I also note that the fact that the Government might have proved a CCE by relying on felonies A, B, C, and D, or perhaps B, C, and D, would not prevent it from relying just on A, B, and C.
+
+21Link to the location of the note in the document
+9 Record 18-19. Petitioner pleaded guilty to importation of marihuana in Washington; the District Court in Florida specifically instructed the jury that "[importation] of marijuana into the United States is another Title 21 offense you may consider." 14 Record 19.
+
+22Link to the location of the note in the document
+There is no need to reach the question whether the Neah Bay evidence may have been admissible for a limited purpose because no instructions regarding a limited use were given.
+
+23Link to the location of the note in the document
+This is plainly indicated by the Government at a bail hearing in Washington, where the prosecutor stated the following:
+
+"Your Honor, the investigation by the grand jury in this district and the investigation which is being coordinated from the Narcotics Section in Washington, D. C., indicates that between 1977 and 1980 Mr. Garrett was involved in about four or five mother boat operations. The Department of Justice had originally authorized this district to present a continuing criminal enterprise count to the grand jury.
+
+"I can represent as an officer of the court that I think there was probable cause to believe he had been responsible for a continuing criminal enterprise and the grand jury would have returned an indictment." Tr. CR81-62M, pp. 6-7 (Apr. 8, 1981) (emphasis added).
+
+The Government now agrees that it "does appear that all of the elements required for a CCE charge had occurred at the time of petitioner's prosecution in Washington." Brief for United States 44. However, it "advises" us, contrarily, that "the CCE investigation had not yet been completed and the case had not yet been presented to the grand jury." Ibid. More disturbing, the Government offers the outside-the-record, unsworn submission that the Justice Department "had not authorized a CCE charge in Washington" and that "the Assistant United States Attorney now acknowledges that such authority was never granted and that his statement to the contrary was in error." Id., at 44, n. 36.
+
+24Link to the location of the note in the document
+See n. 20, supra.
+
+25Link to the location of the note in the document
+See ante, at 791-792.
+
+26Link to the location of the note in the document
+432 U.S., at 150.
+
+27Link to the location of the note in the document
+As the Court points out, ante, at 775, 777, the petitioner's 40-year sentence on the CCE count was concurrent to the consecutive sentences of 5 years for the Washington conviction and 14 years for the three Florida convictions.

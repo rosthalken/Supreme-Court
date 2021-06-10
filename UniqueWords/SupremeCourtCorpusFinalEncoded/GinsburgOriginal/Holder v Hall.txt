@@ -1,0 +1,17 @@
+﻿
+        
+        Holder v. Hall, 512 U.S. 874, 114 S. Ct. 2581 (1994)
+        
+
+
+      
+
+[*956]  JUSTICE GINSBURG, dissenting.
+
+I join the dissenting opinion by JUSTICE BLACKMUN and the separate opinion of JUSTICE STEVENS, and add a further observation about the responsibility Congress has given to the judiciary.
+
+Section 2 of the Voting Rights Act of 1965 calls for an inquiry into "the extent to which members of a protected class have been elected to office," but simultaneously disclaims any "right to have members of a protected class elected in numbers equal to their proportion in the population." 42 U.S.C. § 1973(b). "There is an inherent tension between what Congress wished to do and what it wished to avoid" -- between Congress' "intent to allow vote dilution [****146]  claims to be brought under § 2" and its intent to avoid "creating a right to proportional representation for minority voters." Thornburg v. Gingles, 478 U.S. 30, 84, 92 L. Ed. 2d 25, 106 S. Ct. 2752 (1986) (O'CONNOR, J., joined by Burger, C. J., and Powell and REHNQUIST, JJ., concurring in judgment). Tension of this kind is hardly unique to the Voting Rights Act, for when Congress acts on issues on which its constituents are divided, sometimes bitterly, the give-and-take of legislative compromise can yield statutory language that fails to reconcile conflicting goals and purposes.
+
+Title VII of the Civil Rights Act of 1964, for example, is similarly janus faced, prohibiting discrimination against historically disadvantaged groups, see 42 U.S.C. §§ 2000e-2(a), (d), without "diminishing traditional management prerogatives," Steelworkers v. Weber, 443 U.S. 193, 207, 61 L. Ed. 2d 480, 99 S. Ct. 2721 (1979), in regard to employment decisions. See 42 U.S.C. § 2000e-2(j) (no requirement that employer "grant preferential treatment to any individual or to any group because of . . . race, color, religion, sex, or national origin"); see also Johnson v. Transportation Agency,  [****147]  Santa Clara Cty., 480 U.S. 616, 649, 94 L. Ed. 2d 615, 107 S. Ct. 1442 (1987) (O'CONNOR, J., concurring in judgment) (noting two "conflicting concerns" built into Title VII: "Congress' intent  [*957]  to root out invidious discrimination against any person on the basis of race or gender, and its goal of eliminating the lasting effects of discrimination against minorities") (emphasis in original) (citation omitted).
+
+When courts are confronted with congressionally crafted compromises of this kind, it is "not an easy task" to remain "faithful to the balance Congress struck." Thornburg v. Gingles, 478 U.S. at 84 (O'CONNOR, J., joined by Burger, C. J., and Powell and REHNQUIST, JJ., concurring in judgment). The statute's broad remedial purposes,  [***743]  as well as the constraints on the courts' remedial powers, need to be carefully  [**2625]  considered in light of the particular circumstances of each case to arrive at an appropriate resolution of the competing congressional concerns. However difficult this task may prove to be, it is one that courts must undertake because it is their mission to effectuate Congress' multiple purposes as best they can. See Chisom [****148]  v. Roemer, 501 U.S. 380, 403, 115 L. Ed. 2d 348, 111 S. Ct. 2354 (1991) ("Even if serious problems lie ahead in applying the 'totality of the circumstances' [inquiry under § 2(b) of the Voting Rights Act], that task, difficult as it may prove to be, cannot justify a judicially created limitation on the coverage of the broadly worded statute[.]").

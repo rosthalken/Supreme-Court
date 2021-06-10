@@ -1,0 +1,19 @@
+﻿COLONIAL AMERICAN LIFE INSURANCE CO. v. COMMISSIONER OF INTERNAL REVENUE
+
+No. 88-396
+
+SUPREME COURT OF THE UNITED STATES
+
+491 U.S. 244
+
+April 18, 1989, Argued 
+June 15, 1989, Decided
+
+JUSTICE STEVENS, with whom JUSTICE BLACKMUN and JUSTICE O'CONNOR join, dissenting.
+Charting one's course through the intricacies of the Internal Revenue Code on the basis of first principles rather than statutory text can be hazardous. Intuitively, the Court concludes that the ceding commission a reinsurer pays to indemnify a direct insurer on its policy risks constitutes the purchase price for a capital asset because it produces a stream of future income. The same intuition should lead to the conclusion that the commission a direct insurer pays to acquire policies that will bring future profits constitutes a  [*261]  capital expenditure. Yet everyone agrees that the latter payment is currently deductible. See ante, at 250. *
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+* Similarly, if a ceding commission constituted a capital asset for the purchaser in an indemnity reinsurance transaction, the receipt of a commission should, at least in some circumstances, create a capital gain for the seller. Yet, as the Commissioner conceded at oral argument, the receipt of the ceding commission is taxable as ordinary income. See Tr. of Oral Arg. 20-21.
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+If the Court had begun its analysis with the text of 26 U. S. C. § 809 (1970 ed.) and the regulations promulgated thereunder -- instead of waiting until after it had decided the case on its view of first principles to respond to the statutory provision -- it might well have recognized the merit in the taxpayer's position. Section 809(c)(1) distinguishes between assumption and indemnity reinsurance, providing that return premiums "arising out of" an indemnity reinsurance transaction are deductible from gross premiums received. See ante, at 256. The Treasury Regulations thus confirm that while payments made by an assumption reinsurer for purchases of policies must be amortized, Treas. Reg. § 1.817-4(d)(2)(ii)(B), 26 CFR § 1.817-4(d)(2)(ii)(B)  [**2419]  (1988), "consideration returned to another life insurance company [by an indemnity reinsurer] in respect of reinsurance ceded" is immediately deductible from the reinsurer's gross premiums. Treas. Reg. § 1.809-4(a)(1)(ii), 26 CFR § 1.809-4(a)(1)(ii) (1988). There is no warrant in the text for the Court's rulings that assumption reinsurance and indemnity reinsurance should be treated alike for tax purposes, ante, at 251, and that experience refunds constitute return premiums while ceding commissions do not. See ante, at 257-258. In the context of this transaction, in which the ceding commission was netted against the initial reinsurance premium, the commission quite literally is a sum that the "reinsuring company has been paid and then must remit to the . . . ceding company." Ante, at 258. In all events, for the reasons stated in full in Judge Will's opinion for the Court of Appeals for the  [*262]  Seventh Circuit in  [***217]  Merit Life Ins. Co. v. Commissioner, 853 F. 2d 1435 (1988), cert. pending, No. 88-955, I would reverse the judgment of the Court of Appeals.

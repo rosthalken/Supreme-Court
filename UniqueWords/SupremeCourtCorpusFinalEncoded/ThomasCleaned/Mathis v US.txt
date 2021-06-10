@@ -1,0 +1,14 @@
+﻿
+I join the Court’s opinion, which faithfully applies our precedents. The Court holds that the modified categorical approach cannot be used to determine the specific means by which a defendant committed a crime. Ante, at 2253 – 2254. By rightly refusing to apply the modified categorical approach, the Court avoids further extending its precedents that limit a criminal defendant’s right to a public trial before a jury of his peers.
+ 
+In Almendarez–Torres v. United States, 523 U.S. 224, 246–247, 118 S.Ct. 1219, 140 L.Ed.2d 350 (1998), the Court held that the existence of a prior conviction triggering enhanced penalties for a recidivist was a fact that could be found by a judge, not an element of the crime that must be found by a jury. Two years later, the Court held that “any fact that increases the penalty for a crime beyond the prescribed statutory maximum” is an element *2259 of a crime and therefore “must be submitted to a jury, and proved beyond a reasonable doubt.” Apprendi v. New Jersey, 530 U.S. 466, 490, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000); see id., at 489–490, 120 S.Ct. 2348. But Apprendi recognized an exception for the “fact of a prior conviction,” instead of overruling Almendarez–Torres. See 530 U.S., at 490, 120 S.Ct. 2348. I continue to believe that the exception in Apprendi was wrong, and I have urged that Almendarez–Torres be reconsidered. See Descamps v. United States, 570 U.S. ––––, ––––, 133 S.Ct. 2276, 2294–2295, 186 L.Ed.2d 438 (2013) (THOMAS, J., concurring in judgment).
+ 
+Consistent with this view, I continue to believe that depending on judge-found facts in Armed Career Criminal Act (ACCA) cases violates the Sixth Amendment and is irreconcilable with Apprendi. ACCA improperly “allows the judge to ‘mak[e] a finding that raises [a defendant’s] sentence beyond the sentence that could have lawfully been imposed by reference to facts found by the jury or admitted by the defendant.’ ” Descamps, supra, at –––– – ––––, 133 S.Ct., at 2294–2295 (opinion of THOMAS, J.) (brackets in original; internal quotation marks omitted). This Sixth Amendment problem persists regardless of whether “a court is determining whether a prior conviction was entered, or attempting to discern what facts were necessary to a prior conviction.” Id., at ––––, 133 S.Ct., at 2294 (citation omitted).
+ 
+Today, the Court “at least limits the situations in which courts make factual determinations about prior convictions.” Ibid. As the Court explains, the means of committing an offense are nothing more than “various factual ways of committing some component of the offense.” Ante, at 2249. Permitting judges to determine the means of committing a prior offense would expand Almendarez–Torres. Therefore, I join the Court’s opinion refusing to allow judges to determine, without a jury, which alternative means supported a defendant’s prior convictions.
+ 
+
+
+
+
+

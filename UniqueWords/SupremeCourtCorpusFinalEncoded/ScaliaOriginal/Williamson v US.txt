@@ -1,0 +1,29 @@
+﻿
+
+
+114 S.Ct. 2431
+Supreme Court of the United States
+Fredel WILLIAMSON, Petitioner,
+v.
+UNITED STATES.
+No. 93–5256.
+|
+Argued April 25, 1994.
+|
+Decided June 27, 1994.
+
+Justice SCALIA, concurring.
+
+I join the Court’s opinion, which I do not understand to require the simplistic view of statements against penal interest that Justice KENNEDY attributes to it.
+ 
+When analyzing whether evidence can be admitted under the statement-against-penal-interest exception to the hearsay rules, the relevant inquiry must always be, as the text directs, whether the statement “at the time of its making ... *606 so far tended to subject the declarant to ... criminal liability ... that a reasonable person in the declarant’s position would not have made the statement unless believing it to be true.” Fed.Rule Evid. 804(b)(3). I quite agree with the Court that a reading of the term “statement” to connote an extended declaration (and which would thereby allow both self-inculpatory and non-self-inculpatory parts of a declaration to be admitted so long as the declaration in the aggregate was sufficiently inculpatory) is unsupportable. See ante, at 2434–2435.
+ 
+Employing the narrower definition of “statement,” so that Rule 804(b)(3) allows admission of only those remarks that are individually self-inculpatory, does not, as Justice KENNEDY states, “eviscerate the against penal interest exception.” Post, at 2443 (internal quotation marks and citation omitted). A statement obviously can be self-inculpatory (in the sense of having so much of a tendency to subject one to criminal liability that a reasonable person would not make it without believing it to be true) without consisting of the confession “I committed X element of crime Y.” Consider, for example, a declarant who stated: “On Friday morning, I went into a gunshop and (lawfully) bought a particular type of handgun and particular type of ammunition. I then drove in my 1958 blue Edsel and parked in front of the First City Bank with the keys in the ignition and the driver’s door ajar. I then went inside, robbed the bank, and shot the security guard.” Although the declarant has not confessed to any element of a crime in the first two sentences, those statements in context are obviously against his penal interest, and I have no doubt that a trial judge could properly admit them.
+ 
+Moreover, a declarant’s statement is not magically transformed from a statement against penal interest into one that is inadmissible merely because the declarant names another person or implicates a possible codefendant. For example, if a lieutenant in an organized crime operation described the inner workings of an extortion and protection racket, naming *607 some of the other actors and thereby inculpating himself on racketeering and/or conspiracy charges, I have no doubt that some of those remarks could be admitted as statements against penal interest. Of course, naming another person, if done, for example, in a context where the declarant is minimizing culpability or criminal exposure, can bear on whether the statement meets the Rule 804(b)(3) standard. The relevant inquiry, however—and one that is not furthered by clouding the waters with manufactured categories such as “collateral neutral” and “collateral self-serving,” see, e.g., post, at 2441, 2444 (KENNEDY, J., concurring in judgment)—must always be whether the particular remark at issue (and not the extended narrative) meets the standard set forth in the Rule.
+ 
+
+
+
+
+

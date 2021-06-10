@@ -1,0 +1,24 @@
+﻿
+
+
+135 S.Ct. 1591
+Supreme Court of the United States
+ONEOK, INC., et al., Petitioners
+v.
+LEARJET, INC., et al.
+No. 13–271.
+|
+Argued Jan. 12, 2015.
+|
+Decided April 21, 2015.
+Justice THOMAS, concurring in part and concurring in the judgment.
+
+I agree with much of the majority’s application of our precedents governing pre-emption under the Natural Gas Act. I write separately to reiterate my view that “implied pre-emption doctrines that wander far from the statutory text are inconsistent with the Constitution.” Wyeth v. Levine, 555 U.S. 555, 583, 129 S.Ct. 1187, 173 L.Ed.2d 51 (2009) (THOMAS, J., concurring in judgment). The Supremacy Clause of our Constitution “gives ‘supreme’ status only to those [federal laws] that are ‘made in Pursuance’ ” of it. Id., at 585, 129 S.Ct. 1187 (quoting Art. VI, cl. 2). And to be “made in Pursuance” of the Constitution, a law must fall within one of Congress’ enumerated powers and be promulgated in accordance with the lawmaking procedures set forth in that document. Id., at 585–586, 129 S.Ct. 1187. “The Supremacy Clause thus requires that pre-emptive effect be given only to those federal standards and policies that are set forth in, or necessarily follow from, the statutory text that was produced through the constitutionally required bicameral and presentment procedures.” Id., at 586, 129 S.Ct. 1187.
+ 
+In light of this constitutional requirement, I have doubts about the legitimacy of this Court’s precedents concerning the pre-emptive scope of the Natural Gas Act, see, e.g., Northern Natural Gas Co. v. State Corporation Comm’n of Kan., 372 U.S. 84, 91–92, 83 S.Ct. 646, 9 L.Ed.2d 601 (1963) (defining the pre-empted field in light of the “objective[s]” of the Act). Neither party, however, has asked us to overrule these longstanding precedents or “to overcome the presumption of stare decisis that attaches to” them. Kurns v. Railroad Friction Products Corp., 565 U.S. ––––, ––––, 132 S.Ct. 1261, 1267, ––– L.Ed.2d –––– (2012). And even under these precedents, the challenged state antitrust laws fall outside the pre-empted field. Because the Court today avoids extending its earlier questionable precedents, I concur in its judgment and join all but Part I–A of its opinion.
+ 
+
+
+
+
+

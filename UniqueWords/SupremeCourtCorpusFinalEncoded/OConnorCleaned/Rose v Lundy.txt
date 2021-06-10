@@ -1,0 +1,146 @@
+﻿
+LEdHN   In this case we consider whether the exhaustion rule in 28 U. S. C. §§ 2254(b), (c) requires a federal district court to dismiss a petition for a writ of habeas corpus containing any claims that have not been exhausted in the state courts. Because a rule requiring exhaustion of all claims furthers the purposes underlying the habeas statute, we hold that a district court must dismiss such "mixed petitions," leaving     the prisoner with the choice of returning to state court to exhaust his claims or of amending or resubmitting the habeas petition to present only exhausted claims to the district court.
+
+I
+
+Following a jury trial, respondent Noah Lundy was convicted on charges of rape and crime against     nature, and sentenced to the Tennessee State Penitentiary. 1Link to the text of the note After the Tennessee Court of Criminal Appeals affirmed the convictions and the Tennessee Supreme Court denied review, the respondent filed an unsuccessful petition for postconviction relief in the Knox County Criminal Court.
+
+    The respondent subsequently filed a petition in Federal District Court for a writ of habeas corpus under 28 U. S. C. § 2254, alleging four grounds for relief: (1) that he had been denied the right to confrontation because the trial court limited the defense counsel's questioning of the victim;     (2) that he had been denied the right to a fair trial because the prosecuting attorney stated that the respondent had a violent character; (3) that he had been denied the right to a fair trial because the prosecutor improperly remarked in his closing argument that the State's evidence was uncontradicted; and (4) that the trial judge improperly instructed the jury that every witness is presumed to swear the truth. After reviewing the state-court records, however, the District Court concluded that it could not consider claims three and four "in the constitutional framework" because the respondent had not exhausted his state remedies for those grounds. The court nevertheless stated     that "in assessing the atmosphere of the cause taken as a whole these items may be referred to collaterally." 2Link to the text of the note
+
+    Apparently in an effort to assess the "atmosphere" of the trial, the District Court reviewed the state trial transcript and identified 10 instances of prosecutorial misconduct, only 5 of which the respondent had raised before the state courts. 3Link to the text of the note            In addition, although purportedly not ruling on the respondent's fourth ground for relief -- that the state trial judge improperly charged that "every witness is presumed to swear the truth" -- the court nonetheless held that the jury instruction, coupled with both the restriction of counsel's cross-examination of the victim and the prosecutor's "personal testimony" on the weight of the State's evidence, see n. 3, supra, violated the respondent's right to a fair trial. In conclusion, the District Court stated:
+
+"Also, subject to the question of exhaustion of state remedies, where there is added to the trial atmosphere the comment of the Attorney General that the only story presented to the jury was by the state's witnesses there is such mixture of violations that one cannot be separated from and considered independently of the others.
+
+. . . .
+
+". . . Under the charge as given, the limitation of cross examination    of the victim, and the flagrant prosecutorial misconduct this court is compelled to find that petitioner did not receive a fair trial, his Sixth Amendment rights     were violated and the jury poisoned by the prosecutorial misconduct." 4Link to the text of the note
+
+In short, the District Court considered several instances of prosecutorial misconduct never challenged in the state trial or appellate courts, or even raised in the respondent's habeas petition.
+
+The Sixth Circuit affirmed the judgment of the District Court, 624 F.2d 1100 (1980), concluding in an unreported order that the court properly found that the respondent's constitutional rights had been "seriously impaired by the improper limitation of his counsel's cross-examination of the prosecutrix and by the prosecutorial misconduct." The court specifically rejected the State's argument that the District Court should have dismissed the petition because it included both exhausted and unexhausted claims.
+
+    II
+
+LEdHN   The petitioner urges this Court to apply a "total exhaustion" rule requiring district courts to dismiss every habeas corpus petition that contains both exhausted and unexhausted claims. 5Link to the text of the note The petitioner     argues at length that such a     rule furthers the policy of comity underlying the exhaustion doctrine because it gives the state courts the first opportunity to correct federal constitutional    errors and minimizes federal interference and disruption of state judicial proceedings. The petitioner also believes that uniform adherence to a total exhaustion rule reduces the amount of piecemeal habeas litigation.
+
+    Under the petitioner's approach, a district court would dismiss a petition containing both exhausted and unexhausted claims, giving the prisoner the choice of returning to state court to litigate his unexhausted claims, or of proceeding with only his exhausted claims in federal court. The petitioner believes that a prisoner would be reluctant to choose the latter route since a district court could, in appropriate circumstances under Habeas Corpus Rule 9(b), dismiss subsequent federal habeas petitions as an abuse of the writ. 6Link to the text of the note In other words, if the prisoner amended the petition to delete the unexhausted claims or immediately refiled in federal court a petition alleging only his exhausted claims, he could lose the opportunity to litigate his presently unexhausted claims in federal court. This argument is addressed in Part III-C of this opinion.
+
+       In order to evaluate the merits of the petitioner's arguments, we turn to the habeas statute, its legislative history, and the policies underlying the exhaustion doctrine.
+
+III
+
+A
+
+The exhaustion doctrine existed long before its codification by Congress in 1948. In Ex parte Royall, 117 U.S. 241, 251 (1886), this Court wrote that HN2 as a matter of comity, federal courts should not consider a claim in a habeas corpus petition until after the state courts have had an opportunity to act:
+
+"The injunction to hear the case summarily, and thereupon 'to dispose of the party as law and justice require' does not deprive the court of discretion as to the time and mode in which it will exert the powers conferred upon it. That discretion should be exercised in the light of     the relations existing, under our system of government, between the judicial tribunals of the Union and of the States, and in recognition of the fact that the public good requires that those relations be not disturbed by unnecessary conflict between courts equally bound to guard and protect rights secured by the Constitution."
+
+Subsequent cases refined the principle that state remedies    must be     exhausted except in unusual circumstances. See, e. g., United States ex rel. Kennedy v. Tyler, 269 U.S. 13, 17-19 (1925) (holding that the lower court should have dismissed the petition because none of the questions had been raised in the state courts. "In the regular and ordinary course of procedure, the power of the highest state court in respect of such questions should first be exhausted"). In Ex parte Hawk, 321 U.S. 114, 117 (1944), this Court reiterated that HN3comity was the basis for the exhaustion doctrine: "it is a principle controlling all habeas corpus petitions to the federal courts, that those courts will interfere with the administration of justice in the state courts only in rare cases where exceptional circumstances of peculiar urgency are shown to     exist.'" 7Link to the text of the note None of these cases, however, specifically applied the exhaustion doctrine to habeas petitions containing both exhausted and unexhausted claims.
+
+    In 1948, Congress codified the exhaustion doctrine in 28 U. S. C. § 2254, citing Ex parte Hawk as correctly stating the principle of exhaustion. 8Link to the text of the note    Section 2254, 9Link to the text of the note however, does not directly address the problem of mixed petitions. To be sure, the provision states that a remedy is not exhausted if there exists a state procedure to raise "the question presented," but we believe this phrase to be too ambiguous to sustain the conclusion that Congress intended to either permit or prohibit review of mixed petitions. Because the legislative history of § 2254, as well as the pre-1948 cases, contains     no reference to the problem of mixed petitions, 10Link to the text of the note    in all likelihood Congress     never     thought of the problem. 11Link to the text of the note Consequently, we must analyze the policies underlying the statutory provision to determine its proper scope. Philbrook v. Glodgett, 421 U.S. 707, 713 (1975) ("'In expounding a statute, we must . . . look to the provisions of the whole law, and to its object and policy'" (citations omitted)); United States v. Bacto-Unidisk, 394 U.S. 784, 799 (1969) ("where the statute's language [seems] insufficiently    precise, the 'natural way' to draw the line 'is in light of the statutory purpose'" (citation omitted)); United States v. Sisson, 399 U.S. 267, 297-298 (1970) ("The axiom that courts should endeavor to give statutory language that meaning that nurtures the policies     underlying legislation is one that guides us when circumstances not plainly covered by the terms of a statute are subsumed by the underlying policies to which Congress was committed"); Unexcelled Chemical Corp. v. United States, 345 U.S. 59, 64 (1953) ("Arguments of policy are relevant when for example a statute has an hiatus that must be filled or there are ambiguities in the legislative language that must be resolved").
+
+B
+
+LEdHN   LEdHN[2] [2]HN5 The exhaustion doctrine is principally designed to protect the state courts' role in the enforcement of federal law and prevent disruption of state judicial proceedings. See Braden v. 30th Judicial Circuit Court of Kentucky, 410 U.S. 484, 490-491 (1973). 12Link to the text of the note Under our federal system, the federal and state "courts [are] equally bound to guard and protect rights secured by the Constitution." Ex parte Royall, 117 U.S., at 251. Because "it would be unseemly in our dual system of government for a federal district court to upset a state court conviction without an opportunity to the state courts to correct a constitutional violation," federal courts apply the doctrine of comity, which "teaches that one court should defer action on causes properly within its jurisdiction until the courts of another sovereignty    with concurrent powers, and already cognizant of the litigation, have had an opportunity to pass upon the matter." Darr v. Burford, 339 U.S. 200, 204 (1950). See Duckworth v. Serrano, 454 U.S. 1, 2 (1981) (per curiam) (noting that the exhaustion requirement "serves to minimize friction between our federal and state systems of justice by allowing     the State an initial opportunity to pass upon and correct alleged violations of prisoners' federal rights").
+
+HN6 A rigorously enforced total exhaustion rule will encourage state prisoners to seek full relief first from the state courts, thus giving those courts the first opportunity to review all     claims of constitutional error. As the number of prisoners who exhaust all of their federal claims increases, state courts may become increasingly familiar with and hospitable toward    federal constitutional issues. See Braden v. 30th Judicial Circuit Court of Kentucky, supra, at 490. Equally as important, federal claims that have been fully exhausted in state courts will more often be accompanied by a complete factual     record to aid the federal courts in their review. Cf. 28 U. S. C. § 2254(d) (requiring a federal court reviewing a habeas petition to presume as correct factual findings made by a state court).
+
+The facts of the present case underscore the need for a rule encouraging exhaustion of all federal claims. In his opinion, the District Court Judge wrote that "there is such mixture of violations that one cannot be separated from and considered independently of the others." Because the two unexhausted claims for relief were intertwined with the exhausted ones, the judge apparently considered all of the claims in ruling on the petition. Requiring dismissal of petitions containing both exhausted and unexhausted claims will relieve the district courts of the difficult if not impossible task of deciding when claims are related, and will reduce the temptation to consider unexhausted claims.
+
+In his dissent, JUSTICE STEVENS    suggests that the District Court properly evaluated the respondent's two exhausted claims "in the context of the entire trial." Post, at 541. Unquestionably, however, the District Court erred in considering unexhausted claims, for § 2254(b) expressly requires the prisoner to exhaust "the remedies available in the courts of the State." See n. 9, supra. Moreover, to the extent that exhausted and unexhausted claims are interrelated, the general rule among the Courts of Appeals is to dismiss mixed habeas petitions for exhaustion of all such claims. See, e. g., Triplett v. Wyrick, 549 F.2d 57 (CA8 1977); Miller v. Hall, 536 F.2d 967 (CA1 1976); Hewett v. North Carolina, 415 F.2d 1316 (CA4 1969).
+
+Rather than an "adventure in unnecessary lawmaking" (STEVENS, J., post, at 539), our holdings today reflect our interpretation     of a federal statute on the basis of its language and legislative history, and consistent with its underlying policies. There is no basis to believe that today's holdings will "complicate and delay" the resolution of habeas petitions (STEVENS, J., post, at 550), or will    serve to "trap the unwary pro se prisoner." (BLACKMUN, J., post, at 530.) On the contrary, HN7 our interpretation of §§ 2254(b), (c) provides a simple and clear instruction to potential litigants: before you bring any claims to federal court, be sure that you first have taken each one to state court. Just as pro se petitioners have managed to use the federal habeas machinery, so too should they be able to master this straightforward exhaustion requirement. Those prisoners who misunderstand this requirement     and submit mixed petitions nevertheless are entitled to resubmit a petition with only exhausted claims or to exhaust the remainder of their claims.
+
+HN8 Rather than increasing the burden on federal courts, strict enforcement of the exhaustion requirement will encourage habeas petitioners to exhaust all of their claims in state court and to present the federal court with a single habeas petition. To the extent that the exhaustion requirement reduces piecemeal litigation, both the courts and the prisoners should benefit, for as a result the district court will be more likely to review all of the prisoner's claims in a single proceeding, thus providing for a more     focused and thorough review.
+
+C
+
+HN9 The prisoner's principal interest, of course, is in obtaining speedy federal relief on his claims. See Braden v. 30th Judicial Circuit Court of Kentucky, supra, at 490. A total exhaustion rule will not impair that interest since he can always amend the petition to delete the unexhausted claims, rather than returning to state court to exhaust all of his claims. By invoking this procedure, however, the prisoner would risk forfeiting consideration of his unexhausted claims in federal court. Under 28 U. S. C. § 2254 Rule 9(b), a district court     may dismiss subsequent petitions if it finds that "the failure of the petitioner to assert those [new] grounds in a prior petition constituted an abuse of the writ." See n. 6, supra. The Advisory Committee to the Rules notes that Rule 9(b) incorporates the judge-made     principle governing the abuse of the writ set forth in Sanders v. United States, 373 U.S. 1, 18 (1963), where this Court stated:
+
+HN10 "[If] a prisoner deliberately withholds one of two grounds for federal collateral relief at the time of filing his first application, in the hope    of being granted two hearings rather than one or for some other such reason, he may be deemed to have waived his right to a hearing on a second application presenting the withheld ground. The same may be true if, as in Wong Doo, the prisoner deliberately abandons one of his grounds at the first hearing. Nothing in the traditions of habeas corpus requires the federal courts to tolerate needless piecemeal litigation, or to entertain collateral proceedings whose only purpose is to vex, harass, or delay." 13Link to the text of the note
+
+See Advisory Committee Note to Habeas Corpus Rule 9(b), 28 U. S. C., p. 273.     Thus a prisoner who decides to proceed only with his exhausted claims and deliberately sets aside his unexhausted claims risks dismissal of subsequent federal petitions.
+
+       IV
+
+LEdHN   In sum, HN11 because a total exhaustion rule promotes comity and does not unreasonably impair the prisoner's right to relief, we hold that a district court must dismiss habeas petitions containing both unexhausted and exhausted claims. 14Link to the text of the note Accordingly, the judgment of the Court of Appeals is reversed, and the case is remanded for proceedings consistent with this opinion.
+
+It is so ordered.
+
+1Link to the location of the note in the document
+The court sentenced the respondent to consecutive terms of 120 years on the rape charge and from 5 to 15 years on the crime against nature charge.
+
+2Link to the location of the note in the document
+The Tennessee Criminal Court of Appeals had ruled specifically on grounds one and two, holding that although the trial court erred in restricting cross-examination of the victim and the prosecuting attorney improperly alluded to the respondent's violent nature, the respondent was not prejudiced by these errors. Lundy v. State, 521 S. W. 2d 591, 595-596 (1974).
+
+3Link to the location of the note in the document
+In particular, the District Court found that the prosecutor improperly:
+
+(1) misrepresented that the defense attorney was guilty of illegal and unethical misconduct in interviewing the victim before trial;
+
+(2) "testified" that the victim was telling the truth on the stand;
+
+(3) stated his view of the proper method for the defense attorney to interview the victim;
+
+(4) misrepresented the law regarding interviewing government witnesses;
+
+(5) misrepresented that the victim had a right for both private counsel and the prosecutor to be present when interviewed by the defense counsel;
+
+(6) represented that because an attorney was not present, the defense counsel's conduct was inexcusable;
+
+(7) represented that he could validly file a grievance with the Bar Association on the basis of the defense counsel's conduct;
+
+(8) objected to defense counsel's cross-examination of the victim;
+
+(9) commented that the defendant had a violent nature;
+
+(10) gave his personal evaluation of the State's proof.
+
+The petitioner concedes that the state appellate court considered instances 1, 3, 4, 5, and 9, but states without contradiction that the respondent did not object to the prosecutor's statement that the victim was telling the truth (#2) or to any of the several instances where the prosecutor, in summation, gave his opinion on the weight of the evidence (#10). The petitioner also notes that the conduct identified in #6 and #7 did not occur in front of the jury, and that the conduct in #8, which was only an objection to cross-examination, can hardly be labeled as misconduct.
+
+4Link to the location of the note in the document
+The court granted the writ and ordered the respondent discharged from custody unless within 90 days the State initiated steps to bring about a new trial.
+
+5Link to the location of the note in the document
+The Fifth and Ninth Circuits have adopted a "total exhaustion" rule. See Galtieri v. Wainwright, 582 F.2d 348, 355-360 (CA5 1978) (en banc), and Gonzales v. Stone, 546 F.2d 807, 808-810 (CA9 1976). A majority of the Courts of Appeals, however, have permitted the District Courts to review the exhausted claims in a mixed petition containing both exhausted and unexhausted claims. See, e. g., Katz v. King, 627 F.2d 568, 574 (CA1 1980); Cameron v. Fastoff, 543 F.2d 971, 976 (CA2 1976); United States ex rel. Trantino v. Hatrack, 563 F.2d 86, 91-95 (CA3 1977), cert. denied, 435 U.S. 928 (1978); Hewett v. North Carolina, 415 F.2d 1316, 1320 (CA4 1969); Meeks v. Jago, 548 F.2d 134, 137 (CA6 1976), cert. denied, 434 U.S. 844 (1977); Brown v. Wisconsin State Dept. of Public Welfare, 457 F.2d 257, 259 (CA7), cert. denied, 409 U.S. 862 (1972); Tyler v. Swenson, 483 F.2d 611, 614 (CA8 1973); Whiteley v. Meacham, 416 F.2d 36, 39 (CA10 1969), rev'd on other grounds, 401 U.S. 560 (1971).
+
+In Gooding v. Wilson, 405 U.S. 518 (1972), this Court reviewed the merits of an exhausted claim after expressly acknowledging that the prisoner had not exhausted his state remedies for all of the claims presented in his habeas petition. Gooding does not control the present case, however, since the question of total exhaustion was not before the Court. Two years later, in Francisco v. Gathright, 419 U.S. 59, 63-64 (1974) (per curiam), the Court expressly reserved the question of whether § 2254 requires total exhaustion of claims.
+
+6Link to the location of the note in the document
+HN1 Rule 9(b) provides that
+
+"[a] second or successive petition may be dismissed if the judge finds that it fails to allege new or different grounds for relief and the prior determination was on the merits or, if new and different grounds are alleged, the judge finds that the failure of the petitioner to assert those grounds in a prior petition constituted an abuse of the writ."
+
+7Link to the location of the note in the document
+The Court also made clear, however, that the exhaustion doctrine does not bar relief where the state remedies are inadequate or fail to "afford a full and fair adjudication of the federal contentions raised." 321 U.S., at 118.
+
+8Link to the location of the note in the document
+The Reviser's Notes in the appendix of the House Report state: "This new section [§ 2254] is declaratory of existing law as affirmed by the Supreme Court. (See Ex parte Hawk, 1944, . . . 321 U.S. 114 . . .)." H. R. Rep. No. 308, 80th Cong., 1st Sess., A180 (1947); Historical and Revision Notes following 28 U. S. C. § 2254. See also Darr v. Burford, 339 U.S. 200, 210 (1950) ("In § 2254 of the 1948 recodification of the Judicial Code, Congress gave legislative recognition to the Hawk rule for the exhaustion of remedies in the state courts and this Court"); Brown v. Allen, 344 U.S. 443, 447-450 (1953); Fay v. Noia, 372 U.S. 391, 434 (1963).
+
+9Link to the location of the note in the document
+HN4 Section 2254 in part provides:
+
+"(b) An application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is either an absence of available State corrective process or the existence of circumstances rendering such process ineffective to protect the rights of the prisoner.
+
+"(c) An applicant shall not be deemed to have exhausted the remedies available in the courts of the State, within the meaning of this section, if he has the right under the law of the State to raise, by any available procedure, the question presented."
+
+10Link to the location of the note in the document
+Section 2254 was one small part of a comprehensive revision of the Judicial Code. The original version of § 2254, as passed by the House, provided that
+
+"[an] application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court or authority of a State officer shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is no adequate remedy available in such courts or that such courts have denied him a fair adjudication of the legality of his detention under the Constitution and laws of the United States." H. R. 3214, 80th Cong., 1st Sess. (1947).
+
+The Senate amended the House bill, changing the House version of § 2254 to its present form. The Senate Report accompanying the bill states that one purpose of the amendment was "to substitute detailed and specific language for the phrase 'no adequate remedy available.' That phrase is not sufficiently specific and precise, and its meaning should, therefore, be spelled out in more detail in the section as is done by the amendment." S. Rep. No. 1559, 80th Cong., 2d Sess., 10 (1948). The House accepted the Senate version of the Judicial Code without further amendment.
+
+In 1966, Congress amended § 2254 to add subsection (a) and redesignate the existing paragraphs as subsections (b) and (c). See Pub. L. 89-711, § 2(c), 80 Stat. 1105.
+
+11Link to the location of the note in the document
+See Note, Habeas Petitions with Exhausted and Unexhausted Claims: Speedy Release, Comity and Judicial Efficiency, 57 B. U. L. Rev. 864, 867, n. 30 (1977) (suggesting that before 1948 habeas petitions did not contain multiple claims).
+
+12Link to the location of the note in the document
+See also Developments, Federal Habeas Corpus, 83 Harv. L. Rev. 1038, 1094 (1970) (cited favorably in Braden).
+
+13Link to the location of the note in the document
+In Wong Doo v. United States, 265 U.S. 239 (1924), the petitioner brought two habeas corpus petitions to obtain release from the custody of a deportation order. The ground for relief contained in the second petition was also contained in the first petition, but had not been pursued in the first habeas proceeding. The Court held that because the petitioner "had full opportunity to offer proof" in the first hearing, the lower court should not consider the second petition. Id., at 241. The present case, of course, is not controlled by Wong Doo because the respondent could not have litigated his unexhausted claims in federal court. Nonetheless, the case provides some guidance for the situation in which a prisoner deliberately decides not to exhaust his claims in state court before filing a habeas corpus petition.
+
+14Link to the location of the note in the document
+Because of our disposition of this case, we do not reach the petitioner's claims that the grounds offered by the respondent do not merit habeas relief.

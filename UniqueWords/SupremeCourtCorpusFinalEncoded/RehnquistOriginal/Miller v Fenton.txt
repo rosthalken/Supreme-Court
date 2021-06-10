@@ -1,0 +1,25 @@
+﻿
+
+
+106 S.Ct. 445
+Supreme Court of the United States
+Frank M. MILLER, Jr., Petitioner
+v.
+Peter J. FENTON, Superintendent, Rahway State Prison, et al.
+No. 84–5786.
+|
+Argued Oct. 16, 1985.
+|
+Decided Dec. 3, 1985.
+Justice REHNQUIST, dissenting.
+
+The Court decides that the voluntariness of a confession is not an issue of fact presumed to be correct under 28 U.S.C. § 2254(d). I think it is difficult to sensibly distinguish the determination that a particular confession was voluntary from the determinations which we have held to be entitled to a presumption of correctness under § 2254(d). See Sumner v. Mata, 449 U.S. 539, 101 S.Ct. 764, 66 L.Ed.2d 722 (1981); Sumner v. Mata, 455 U.S. 591, 102 S.Ct. 1303, 71 L.Ed.2d 480 (1982) (per curiam); Marshall v. Lonberger, 459 U.S. 422, 431–437, 103 S.Ct. 843, 849–52, 74 L.Ed.2d 646 (1983); Maggio v. Fulford, 462 U.S. 111, 103 S.Ct. 2261, 76 L.Ed.2d 794 (1983) (per curiam); Rushen v. Spain, 464 U.S. 114, 104 S.Ct. 453, 78 L.Ed.2d 267 (1983) (per curiam); Patton v. Yount, 467 U.S. 1025, 1036–1038, 104 S.Ct. 2885, 2891–2893, 81 L.Ed.2d 847 (1984); and Wainwright v. Witt, 469 U.S. 412, 426–430, 105 S.Ct. 844, 853–855, 83 L.Ed.2d 841 (1985). While the Court relies principally on stare decisis for the result it reaches today, almost all the cases upon which it relies entailed direct review by this Court of state-court decisions *119 rather than federal habeas review. But even if that difference were deemed immaterial, it seems to me that stare decisis is not a sufficient reason for excluding a finding as to the voluntariness of a confession from the presumption embodied in § 2254(d). All of the recent cases cited evince a more reasoned approach to this issue than the interesting but somewhat mystical exegesis in cases such as Culombe v. Connecticut, 367 U.S. 568, 603–605, 81 S.Ct. 1860, 1879–80, 6 L.Ed.2d 1037 (1961) (opinion of Frankfurter, J.).
+ 
+I also disagree with the Court’s decision to remand this case to the Court of Appeals for a second run at the voluntariness issue. I think the majority of that court made it clear that it had evaluated the admissibility of the confession under the correct standard as defined by this Court today. It is unfortunate that petitioner’s challenge to his conviction for a murder which occurred 12 years ago should be the subject of additional and unnecessary litigation and delay.
+ 
+I respectfully dissent.
+ 
+
+
+
+

@@ -1,0 +1,17 @@
+﻿
+        
+        United States v. Knotts, 460 U.S. 276, 103 S. Ct. 1081 (1983)
+        
+
+
+      
+
+ [*288]  JUSTICE STEVENS, with whom JUSTICE BRENNAN, and JUSTICE MARSHALL join, concurring in the judgment.
+
+Since the respondent in this case has never questioned the installation of the radio transmitter in the chloroform drum,  [****22]  see ante, at 279, n., I agree that it was entirely reasonable for the police officers to make use of the information received over the airwaves when they were trying to ascertain the ultimate destination of the chloroform. I do not join the Court's opinion, however, because it contains two unnecessarily broad dicta: one distorts the record in this case, and both may prove confusing to courts that must apply this decision in the future.
+
+First, the Court implies that the chloroform drum was parading in "open fields" outside of the cabin, in a manner tantamount to its public display on the highways. See ante, at 282. The record does not support that implication. As JUSTICE BLACKMUN points out, this case does not pose any "open fields" issue.
+
+ [**1089]  Second, the Court suggests that the Fourth Amendment does not inhibit "the police from augmenting the sensory faculties bestowed upon them at birth with such enhancement as science and technology afforded them." Ibid. But the Court held to the contrary in Katz v. United States, 389 U.S. 347 (1967). Although the augmentation in this case was unobjectionable, it by no means follows that the use [****23]  of electronic detection techniques does not implicate especially sensitive concerns.
+
+Accordingly, I concur in the judgment.

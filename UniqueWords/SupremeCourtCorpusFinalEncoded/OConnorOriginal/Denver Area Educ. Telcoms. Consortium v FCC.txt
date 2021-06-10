@@ -1,0 +1,21 @@
+﻿
+        
+        Denver Area Educ. Telcoms. Consortium v. Fcc, 518 U.S. 727, 116 S. Ct. 2374 (1996)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring in part and dissenting in part.
+
+I agree that § 10(a) is constitutional and that § 10(b) is unconstitutional, and I join Parts I, II, III, and V, and the judgment in part. I am not persuaded, however, that the asserted "important differences" between §§ 10(a) and 10(c), ante, at 760, are sufficient to justify striking down § 10(c). I find the features shared [****102]  by § 10(a), which covers leased access channels, and § 10(c), which covers public access channels, to be more significant than the differences. For that reason, I would find that § 10(c) also withstands constitutional scrutiny.
+
+Both §§ 10(a) and 10(c) serve an important governmental interest: the well-established compelling interest of protecting children from exposure to indecent material. See Sable Communications of Cal., Inc. v. FCC, 492 U.S. 115, 126, 106 L. Ed. 2d 93, 109 S. Ct. 2829 (1989); Ginsberg v. New York, 390 U.S. 629, 639-640, 20 L. Ed. 2d 195, 88 S. Ct. 1274 (1968). Cable television, like broadcast television, is a medium that is uniquely accessible to children, see ante, at 744-745, and, of course, children have equally easy access to public access channels as to leased access channels. By permitting a cable operator to prevent transmission of patently offensive sex-related programming, §§ 10(a) and 10(c) further the interest of protecting children.
+
+Furthermore, both provisions are permissive. Neither presents an outright [***926]  ban on a category of speech, such as we struck down in Sable Communications of Cal., Inc. v. FCC, supra. [****103]  Sections 10(a) and 10(c) leave to the cable operator the decision whether to broadcast indecent programming, and, therefore, are less restrictive than an absolute governmental ban. Certainly § 10(c) is not more restrictive than § 10(a) in this regard.
+
+It is also significant that neither § 10(a) nor § 10(c) is more restrictive than the governmental speech restriction we upheld in FCC v. Pacifica Foundation, 438 U.S. 726, 57 L. Ed. 2d 1073, 98 S. Ct. 3026 (1978). I agree with JUSTICE BREYER that we should not yet undertake  [*780]  fully to adapt our First Amendment doctrine to the new context we confront here. Because we refrain from doing so, the precedent established by Pacifica offers an important guide. Section 10(c), no less than § 10(a), is within the range of acceptability set by Pacifica. See ante, at 744-747.
+
+The distinctions upon which the Court relies in deciding that § 10(c) must fall while § 10(a) survives are not, in my view, constitutionally significant. Much emphasis is placed on the differences in the origins of leased access and public access channels. To be sure, the leased access channels covered by § 10(a) were a [****104]  product of the Federal Government, while the public access channels at issue in § 10(c) arose as part of the cable  [**2404]  franchises awarded by municipalities, see ante, at 761-762, but I am not persuaded that the difference in the origin of the access channels is sufficient to justify upholding § 10(a) and striking down § 10(c). The interest in protecting children remains the same, whether on a leased access channel or a public access channel, and allowing the cable operator the option of prohibiting the transmission of indecent speech seems a constitutionally permissible means of addressing that interest. Nor is the fact that public access programming may be subject to supervisory systems in addition to the cable operator, see ante, at 761-763, sufficient in my mind to render § 10(c) so ill tailored to its goal as to be unconstitutional.
+
+Given the compelling interest served by § 10(c), its permissive nature, and its fit within our precedent, I would hold § 10(c), like § 10(a), constitutional.

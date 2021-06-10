@@ -1,0 +1,225 @@
+﻿
+The Court today decides one substantive question and two procedural questions. Because of the way in which it resolves the procedural issues, the Court's substantive holding is extremely narrow. It is carefully "confined to the question whether there is something about the character of income earned from investments in affiliates and subsidiaries operating abroad that precludes, as a constitutional matter, state taxation of that income by the apportionment method." Ante, at 434-435. 1Link to the text of the note Since that question has long since been     answered in the negative, see, e. g., Bass, Ratcliff &     Gretton, Ltd. v. State Tax Comm'n, 266 U.S. 271, the Court's principal holding is unexceptional.
+
+The Court's substantive holding rests on    the assumed premises (1) that Mobil's investment income and its income from operations in Vermont are inseparable parts of one unitary business and (2) that the entire income of that unitary business has been accurately and fairly apportioned between Vermont and the rest of the world -- assuming the constitutional validity of including any foreign income in the allocation formula. The Court holds -- as I understand its opinion -- that Mobil "offered no evidence" challenging the first premise, 2Link to the text of the note    and that it expressly disclaimed any attack on the second. 3Link to the text of the note
+
+    I disagree with both of these procedural holdings. I am persuaded that the record before us demonstrates either (1) that Mobil's income from its investments and its income     from the sale of petroleum products in Vermont are not parts of the same "unitary business," as that concept has developed in this Court's cases; or (2) that if the unitary business is defined to include both kinds of income, Vermont's apportionment formula has been applied in an arbitrary and unconstitutional way. To explain    my position, it is necessary first to recall the limited purpose that the unitary-business     concept serves in this kind of case, then to identify the two quite different formulations of Mobil's "unitary business" that could arguably support Vermont's application of its apportionment formula to Mobil's investment income, and finally to show why on this record Mobil is entitled to relief using either formulation. Because I also believe that Mobil has done nothing to waive its entitlement, I conclude that the Court's substantive holding is inadequate to dispose of Mobil's contentions.
+
+I
+
+It is fundamental that a State has no power to impose a tax on income earned outside of the State. 4Link to the text of the note The out-of-state     income of a business that operates in more than one State is subject to examination by the taxing State only because of "the impossibility of allocating specifically the profits earned by the processes conducted within its borders." Underwood Typewriter Co. v. Chamberlain, 254 U.S. 113, 121. An apportionment formula is an imperfect, but nevertheless acceptable, method of measuring the in-state earnings of an integrated business. "It owes    its existence to the fact that with respect to a business earning income through a series of transactions beginning with manufacturing in one State and ending with a sale in another, a precise -- or even wholly logical -- determination of the State in which any specific portion of the income was earned is impossible." Moorman Mfg. Co. v. Bair, 437 U.S. 267, 286 (POWELL, J., dissenting).
+
+    In the absence of any decision by Congress to prescribe uniform rules for allocating the income of interstate businesses to the appropriate geographical source, the Court has construed the Constitution as allowing the States wide latitude in the     selection and application of apportionment formulas. See, e. g., id., at 278-280. Thus an acceptable formula may allocate income on the basis of the location of tangible assets,     Underwood Typewriter, supra, on the basis of gross sales, Moorman, supra, or -- as is more typical today -- by an averaging of three factors: payroll, sales, and tangible properties. See, e. g., Butler Bros. v. McColgan, 315 U.S. 501, 505. In that case the Court explained:
+
+"We cannot say that property, pay roll, and sales are inappropriate ingredients of an apportionment formula. We agree with the Supreme Court of California that these factors may properly be deemed to reflect 'the relative contribution of the activities in the various states to the production of the total unitary income,' so as to allocate to California its just proportion of the profits earned by appellant from this unitary business.         And no showing has been made that income unconnected with the unitary business has been used in the formula." Id., at 509.
+
+The justification for using an apportionment formula to measure the in-state earnings of a unitary business is inapplicable to out-of-state earnings from a source that is unconnected to the business conducted within the State. This rather obvious proposition is recognized by the commentators 5Link to the text of the note    and is noted in our opinions. 6Link to the text of the note If a taxpayer proves by     clear and cogent evidence that the income attributed to the State by an apportionment formula is "'out of all appropriate proportion to the business transacted . . . in that State,'" see Moorman, supra, at 274, the assessment cannot stand.
+
+As Mr. Justice Holmes wrote, with respect to an Indiana property tax on the unitary business    conducted by an express company:
+
+"It is obvious however that this notion of organic unity may be made a means of unlawfully taxing the privilege [of carrying on commerce among the States], or     property outside the State, under the name of enhanced value or good will, if it is not closely confined to its true meaning. So long as it fairly may be assumed that the different parts of a line are about equal in value a division by mileage is justifiable. But it is recognized in the cases that if for instance a railroad company had terminals in one State equal in value to all the rest of the line through another, the latter State could not make use of the unity of the road to equalize the value of every mile. That would be taxing property outside of the State under a pretense." Fargo v. Hart, 193 U.S. 490, 499-500.
+
+In this case the "notion of organic unity" of Mobil's farflung operations is applied solely for the purpose of making a fair determination of its Vermont earnings. Mobil does not dispute Vermont's right to treat its operations in Vermont as part of a unitary business and to measure the income attributable     to Vermont on the basis    of the three-factor formula that compares payroll, sales, and tangible properties in that State with the values of those factors in the whole of the unitary business. Mobil's position, simply stated, is that it is grossly unfair to assign any part of its investment income to Vermont on the basis of those factors. To evaluate that position, it is necessary to identify the unitary business that produces the income subject to taxation by Vermont.
+
+II
+
+Mobil's operations in Vermont consist solely of wholesale and retail marketing of petroleum products. Those operations are a tiny part of a huge unitary business that     might be defined in at least three different ways.
+
+First, as Mobil contends, the business might be defined to include all of its operations, but to exclude the income derived from dividends paid by legally separate entities. 7Link to the text of the note
+
+    Second, as the Supreme Court of Vermont seems to have done, 8Link to the text of the note the unitary business might be defined to include not only all of Mobil's operations, but also the income received from all of its investments in other corporations, regardless     of whether those other corporations are engaged in the same kind of business as Mobil, 9Link to the text of the note    and regardless of whether Mobil     has a controlling interest in those corporations. 10Link to the text of the note
+
+    Third, Mobil's unitary business might be defined as encompassing not only the operations of the taxpayer itself but also the operations of all affiliates that are directly or indirectly engaged in the petroleum business. The Court seems to assume that this definition justifies Vermont's assessment in this case.
+
+Mobil does not contend that it would be unfair for Vermont to apply its three-factor formula to the first definition of its unitary business. It has no quarrel with apportionment formulas generally, not even Vermont's. But by consistently arguing that its income from dividends should be entirely excluded from the apportionment calculation, Mobil has directly    challenged any application of Vermont's formula based on either the second or the third definition of     its unitary business. I shall briefly explain why the record is sufficient to support that challenge.
+
+III
+
+Under the Supreme Court of Vermont's conception of the relevant unitary business -- the second of the three alternative definitions just posited -- there is no need to consider the character of the operations of the corporations that have paid dividends to Mobil. For Vermont automatically included all of the taxpaying entity's investment income in the tax base. Such an approach simply ignores the raison d'etre for apportionment formulas.
+
+    We may assume that there are cases in which it would be appropriate to regard modest amounts of investment income as an incidental part of a company's overall operations and to allocate it between the taxing State and other jurisdictions on the basis of the same factors as are used to allocate operating income. 11Link to the text of the note     But this is not such a case. Mobil's investment income is far greater than its operating income. 12Link to the text of the note        Clearly, it is improper simply to lump huge quantities of investment income     that have no special connection with the taxpayer's operations in the taxing State into the tax base and to apportion it on the basis of factors that are used to allocate operating income. 13Link to the text of the note The Court does not reject this reasoning; rather, its opinion at least partly disclaims reliance on any such theory. 14Link to the text of the note
+
+The Court appears to rely squarely on the third alternative approach to defining a unitary business. It assumes that Vermont's inclusion of the dividends in Mobil's apportionable tax base is predicated on the notion     that the dividends represent the income of what would be the operating divisions of the Mobil Oil Corporation if Mobil and its affiliates were a single, legally integrated enterprise, rather than a corporation with numerous interests in other, separate corporations that pay it dividends. Ante, at 440-441. 15Link to the text of the note    Theoretically,     that sort     of definition is unquestionably acceptable. 16Link to the text of the note But there are at least three objections to its use in this case.
+
+First, notwithstanding the Court's characterization of the record, it is readily apparent that a large number of the corporations in which Mobil has small minority    interests and from which it derived significant dividend income would seem neither to be engaged in the petroleum business nor to have any connection whatsoever with Mobil's marketing business in Vermont. 17Link to the text of the note Second, the record does not disclose whether the earnings of the companies that pay dividends to Mobil are even approximately equal to the amount of the dividends. 18Link to the text of the note
+
+But of greatest importance, the record contains no information about the payrolls, sales or property values    of any of those corporations, and Vermont has made no attempt to incorporate them into the apportionment formula computations.     Unless the sales, payroll, and property values connected with the production of income by the payor corporations are added to the denominator of the apportionment formula, the inclusion of earnings attributable to those corporations in the apportionable tax base will inevitably cause Mobil's Vermont income to be overstated. 19Link to the text of the note
+
+Either Mobil's worldwide "petroleum enterprise," ante, at 435, is all part of one unitary business, or it is not; if it is, Vermont must evaluate the entire enterprise in a consistent manner. As it is, it has indefensibly used its apportionment methodology artificially to multiply its share of Mobil's 1970 taxable income perhaps as much as tenfold. 20Link to the text of the note In my judgment,     the record is clearly sufficient to establish the validity of Mobil's objections to what Vermont has done here.
+
+    IV
+
+The Court does not confront these problems because it concludes that Mobil has in     effect waived any objections with respect to them. Although the Court's effort to avoid constitutional issues by narrowly constricting its holding is commendable, I believe it has seriously erred in its assessment of the procedural posture of this case.
+
+It is true that appellant has disclaimed any dispute with "Vermont's method of apportionment." Brief for Appellant 11. And, admittedly, appellant has confused its cause by variously characterizing its attack in its main brief and reply brief. But contrary to the Court's assertions, see nn. 1, 3, supra, appellant did not disclaim any dispute with the accuracy or fairness of the application of the formula in this case. Mobil merely disclaimed any attack on Vermont's     method of apportionment generally to contrast its claims in this case with the sort of challenge to Iowa's single-factor formula that was rejected in Moorman.
+
+The question whether Vermont may include investment income in the apportionable tax base should not be answered in the abstract without consideration of the other factors in the allocation formula.     The apportionable tax base is but one multiplicand in the formula. Appellant's challenge to the inclusion of investment income in that component necessarily carries with it a challenge to the product.
+
+Because of the inherent interdependence of the issues in a case of this kind, it seems clear to me that Mobil has not waived its due process objections to Vermont's assessment. Appellant's disclaimer of a Moorman style attack cannot fairly be interpreted as a concession that makes its entire appeal a project without a purpose. On the contrary, its argument convincingly demonstrates that the inclusion of its dividend income in the apportionable tax base has produced a palpably arbitrary measure of its Vermont income.
+
+In sum, if Vermont is to reject Mobil's calculation of its tax liability, two courses are open to it: (1) it may exclude Mobil's investment income from the apportionable tax base and also exclude the payroll and property used in managing the investments from the denominator of the apportionment factor; or (2) it may undertake the more difficult and risky task of trying to create a consolidated income statement of Mobil's entire unitary business, properly defined.     The latter alternative is permissible only if the statement fairly summarizes consolidated earnings, and takes the payroll, sales, and property of the payor corporations into account. Because Vermont has employed neither of these alternatives, but has used a method that inevitably overstates Mobil's earnings in the State, I would reverse the judgment of the Supreme Court of Vermont.
+
+
+Moreover, in the last few sentences of n. 15, ante, at 441, the Court emphatically repeats that it has decided nothing more than that the Due Process Clause does not preclude the attribution of foreign-source income to a parent and subjecting such income to fair apportionment. It states: "Appellant, we reiterate, took this appeal on the assumption that Vermont's apportionment formula was fair. At this juncture and on these facts, we need not, and do not, decide whether combined apportionment of this type is constitutionally required. In any event, we note that appellant's latter-day advocacy of this combined approach virtually concedes that income from foreign sources, produced by the operations of subsidiaries and affiliates, as a matter of due process is attributable to the parent and amenable to fair apportionment. That is all we decide today."
+
+2Link to the location of the note in the document
+Ante, at 435. See also ante, at 441-442:
+
+"We do not mean to suggest that all dividend income received by corporations operating in interstate commerce is necessarily taxable in each State where that corporation does business. Where the business activities of the dividend payor have nothing to do with the activities of the recipient in the taxing State, due process considerations might well preclude apportionability, because there would be no underlying unitary business. We need not decide, however, whether Vermont's tax statute would reach extraterritorial values in an instance of that kind. Cf. Underwood Typewriter Co. v. Chamberlain, 254 U.S. [113], 121. Mobil has failed to sustain its burden of proving any unrelated business activity on the part of its subsidiaries and affiliates that would raise the question of nonapportionability."
+
+3Link to the location of the note in the document
+"In keeping with its litigation strategy, appellant has disclaimed any dispute with the accuracy or fairness of Vermont's apportionment formula. See Juris. Statement 10; Brief for Appellant 11. Instead, it claims that dividends from a 'foreign source' by their very nature are not apportionable income. This election to attack the tax base rather than the formula substantially narrows the issues before us. In deciding this appeal, we do not consider whether application of Vermont's formula produced a fair attribution of appellant's dividend income to that State." Ante, at 434.
+
+4Link to the location of the note in the document
+As we said in Moorman Mfg. Co. v. Bair, 437 U.S. 267, 272-273:
+
+"The Due Process Clause places two restrictions on a State's power to tax income generated by the activities of an interstate business. First, no tax may be imposed unless there is some minimal connection between those activities and the taxing State. National Bellas Hess, Inc. v. Department of Revenue, 386 U.S. 753, 756. This requirement was plainly satisfied here. Second, the income attributed to the State for tax purposes must be rationally related to 'values connected with the taxing State.' Norfolk & Western R. Co. v. State Tax Comm'n, 390 U.S. 317, 325."
+
+See also Rudolph, State Taxation of Interstate Business: The Unitary Business Concept and Affiliated Corporate Groups, 25 Tax L. Rev. 171, 181 (1970) (hereinafter State Taxation): "The basic proposition can be simply stated: At least as far as nondomiciliary corporations are concerned, a state may only tax income arising from sources within the state. Or, put differently, it cannot give its income tax extraterritorial effect."
+
+To put it still differently, if, in a particular case, use of an allocation formula has the effect of taxing income earned by an interstate entity outside the State, it could alternatively be said to have the effect of taxing the income earned by that entity inside the State at a rate higher than that used for a comparable, wholly intrastate business, a discrimination that violates the Commerce Clause.
+
+5Link to the location of the note in the document
+See, e. g., Keesling & Warren, The Unitary Concept In the Allocation of Income, 12 Hastings L. J. 42, 48 (1960):
+
+"In applying the foregoing definitions, it must be kept clearly in mind that although in particular instances all the activities of a given taxpayer may constitute a single business, in other instances the activities may be segregated or divided into a number of separate businesses. It is only where the activities within and without the state constitute inseparable parts of a single business that the classification of unitary should be used."
+
+6Link to the location of the note in the document
+In Butler Bros., the Court pointed out that no showing had been made that "income unconnected with the unitary business has been used in the formula," 315 U.S., at 509. And in Moorman Mfg. Co., supra, we noted:
+
+"'Interest, dividends, rents, and royalties (less related expenses) received in connection with business in the state, shall be allocated to the state, and where received in connection with business outside the state, shall be allocated outside of the state.' Iowa Code § 422.33 (1)(a) (1977). "In describing this section, the Iowa Supreme Court stated that 'certain income, the geographical source of which is easily identifiable, is allocated to the appropriate state.' 254 N. W. 2d 737, 739. Thus, for example, rental income would be attributed to the State where the property was located. And in appellant's case, this section operated to exclude its investment income from the tax base." 437 U.S., at 269, n. 1.
+
+See also State Taxation 185.
+
+7Link to the location of the note in the document
+Under this definition, Mobil computes its Vermont tax base for 1970 at approximately $ 23 million. On the basis of Vermont's three-factor formula, it computes Vermont's share of its total operating income as .146%, and it attributes the remaining 99.854% of the total to other locations. Using those figures, Mobil stated its Vermont taxable income to be approximately $ 30,000, which, when multiplied by 6%, the applicable tax rate, produced a total tax liability for 1970 of $ 1,821.67.
+
+It would seem that in defining the unitary business in this way, it would be open to Vermont to exclude the payroll and property connected with the management of Mobil's investment income from the denominator of the apportionment factor, which would effectively raise Vermont's share of Mobil's total operating income above the .146% figure. Thus, while I believe that the amount Vermont claims Mobil earned in the State is obviously excessive, it is also probably true that Mobil's Vermont earnings for 1970 are somewhat greater than the approximately $ 30,000 it computed.
+
+8Link to the location of the note in the document
+136 Vt. 545, 546, 394 A. 2d 1147, 1148 (1978).
+
+9Link to the location of the note in the document
+Vermont has treated Mobil's dividend income from the following corporations as part of the relevant unitary business:
+
+Baltimore Gas & Electric
+
+Bank of New York
+
+Business Development Corporation of N. C.
+
+Cincinnati Gas & Electric
+
+Connecticut Gas & Power
+
+Canner's Steam Company, Inc.
+
+Continental Oil and Asphalt Company
+
+Dallas Power & Light
+
+Dayton Power & Light
+
+Duke Power Company
+
+Duquesne Light Company
+
+Florida Power Corporation
+
+General Royalties
+
+Gulf States Utilities Company
+
+Hartford Electric Light Company
+
+Houston Lighting and Power Company
+
+Illinois Power Company
+
+Monongahela Power Company
+
+Northern Indiana Public Service Company
+
+Northern State Power Company
+
+Pacific Gas and Electric Company
+
+Pacific Lighting Corporation
+
+Public Service Electric & Gas Company
+
+Rochester Gas & Electric Company
+
+San Diego Gas & Electric Company
+
+Southern California Edison Company
+
+Texas Electric Service Company
+
+Texas Power & Light Company
+
+Union Electric Company
+
+United Illuminating Company
+
+West Penn Power Company
+
+Atlantic City Electric Company
+
+Brooklyn Union Gas Company
+
+Detroit Edison Company
+
+Iowa-Illinois Gas & Electric Company
+
+Indiana & Michigan Electric Company
+
+Philadelphia Electric Company
+
+Public Service Company of Colorado
+
+New York Incorporated Corporation
+
+See App. 77-78.
+
+10Link to the location of the note in the document
+Mobil has only small minority interests in the corporations listed in footnote 9. It also received dividends in 1970 of over $ 115 million from a 10% interest in the Arabian American Oil Company. By including Mobil's dividend income, some $ 174 million in 1970, in the apportionable tax base, and multiplying the apportionable tax base thus comprised by .146%, Vermont computed Mobil's 1970 tax liability to be $ 19,078.56.
+
+11Link to the location of the note in the document
+Because there is no necessary correlation between the levels of profitability of investment income and marketing income, if more than incidental amounts of investment income are used in an averaging formula intended to measure marketing income, inaccuracy is sure to result.
+
+12Link to the location of the note in the document
+For the year 1970, appellant had dividend income of approximately $ 174 million as compared with what it calculated to be apportionable income of approximately $ 23 million. This case is therefore comparable to the example given by Keesling and Warren in their article, The Unitary Concept in the Allocation of Income, 12 Hastings L. J. 42, 52-53 (1960):
+
+"Example 1. A company with a commercial domicile in California, where its headquarters are located, is engaged in the operation of a system of railway lines throughout the western part of the United States. Over the years it has accumulated large reserves which are invested for the most part in stocks and bonds of other companies, from which it derives substantial income in the form of dividends and interest. The investment activities are carried on in the headquarters' office where the railroad operations are managed and controlled. Some individuals devote their entire time to the investment activities, whereas others, including a number of officers, devote part of their time to both the investment activities and the railroad operations.
+
+"Although both activities are commonly owned and managed, and there is some common use of personnel and facilities, and although some practical difficulties may be experienced in segregating the expenses of the investment activities, clearly it would be wrong to consider that the company is engaged in only one business and that the entire income of the company should be apportioned within and without the state by means of a formula. Notwithstanding the common elements, there are two distinct series of income-producing activities. This conclusion follows from the fact that the income from dividends and interest can be identified as being derived from the stocks and bonds and the activities related thereto, and not in any way attributable to the general railroad operations carried on within and without the state. Since stocks and bonds and other intangibles are considered to have a location at the commercial domicile of the owner, and since all of the investment activities take place in California, the investment income should be computed separately and assigned entirely to California.
+
+"The income from the railroad operations can likewise be identified as being derived from a distinct series of transactions, which should be considered as constituting a business separate and distinct from the investment activities. Since the railroad operations are carried on partly within and partly without the state, it is a unitary business and hence the income from the railway business as a whole should first be computed and apportioned within and without California by means of an appropriate allocation formula." (Footnote omitted.)
+
+13Link to the location of the note in the document
+No one could seriously maintain that if a wealthy New York resident should open a gas station in Vermont, Vermont could use his dividends as a measure of the profitability of his gas station.
+
+14Link to the location of the note in the document
+See n. 2, supra.
+
+15Link to the location of the note in the document
+"Had appellant chosen to operate its foreign subsidiaries as separate divisions of a legally as well as a functionally integrated enterprise, there is little doubt that the income derived from those divisions would meet due process requirements for apportionability. Cf. General Motors Corp. v. Washington, 377 U.S. 436, 441 (1964). Transforming the same income into dividends from legally separate entities works no change in the underlying economic realities of a unitary business, and accordingly it ought not to affect the apportionability of income the parent receives."
+
+16Link to the location of the note in the document
+"It seems clear, strictly as a logical proposition, that foreign source income is no different from any other income when it comes to determining, by formulary apportionment, the appropriate share of the income of a unitary business taxable by a particular state. This does not involve state taxation of foreign source income any more than does apportionment -- in the case of a multistate business -- involve the taxation of income arising in other states. In both situations the total income of the unitary business simply provides the starting point for computing the in-state income taxable by the particular state. . . .
+
+"Obviously, if the foreign source income is included in the base for apportionment, foreign property, payrolls and sales must be included in the apportionment fractions. This was recognized in Bass [, Ratcliff & Gretton, Ltd. v. State Tax Comm'n, 266 U.S. 271]. . . ." State Taxation 205.
+
+17Link to the location of the note in the document
+See n. 9, supra.
+
+18Link to the location of the note in the document
+A corporation's decision as to how much of its earnings to pay out in dividends is subject to many variables. Nothing says that 100% must be passed through to the stockholders. A corporation is not a partnership. Indeed, depending on the state of the corporation's finances, dividends could conceivably even exceed 100% of the earnings. In any event, at least for those corporations in which it has only a minority interest, Mobil cannot control the percentage of their earnings that is paid out in dividends.
+
+19Link to the location of the note in the document
+See n. 16, supra.
+
+20Link to the location of the note in the document
+The net result of the inclusion of the out-of-state investment income and the exclusion of the sales, payroll, and property factors that produce that investment income is to increase Mobil's tax liability to Vermont for 1970 from the $ 1,821.67 computed by Mobil to $ 19,078.56.
+

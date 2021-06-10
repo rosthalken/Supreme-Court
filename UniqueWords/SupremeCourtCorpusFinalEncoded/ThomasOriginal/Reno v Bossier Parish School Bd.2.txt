@@ -1,0 +1,35 @@
+﻿
+
+
+117 S.Ct. 1491
+Supreme Court of the United States
+Janet RENO, Attorney General, Appellant,
+v.
+BOSSIER PARISH SCHOOL BOARD et al.
+George PRICE, et al., Appellants,
+v.
+BOSSIER PARISH SCHOOL BOARD et al.
+Nos. 95–1455, 95–1508.
+|
+Argued Dec. 9, 1996.
+|
+Decided May 12, 1997.
+
+Justice THOMAS, concurring.
+
+Although I continue to adhere to the views I expressed in Holder v. Hall, 512 U.S. 874, 891, 114 S.Ct. 2581, 2591, 129 L.Ed.2d 687 (1994) (opinion concurring in judgment), I join today’s opinion because it is consistent with our vote dilution precedents. I fully anticipate, however, that as a result of today’s holding, all of the problems we have experienced in § 2 vote dilution cases will now be replicated and, indeed, exacerbated in the § 5 retrogression inquiry.
+ 
+I have trouble, for example, imagining a reapportionment change that could not be deemed “retrogressive” under our *491 vote dilution jurisprudence by a court inclined to find it so. We have held that a reapportionment plan that “enhances the position of racial minorities” by increasing the number **1504 of majority-minority districts does not “have the ‘effect’ of diluting or abridging the right to vote on account of race within the meaning of § 5.” Beer v. United States, 425 U.S. 130, 141, 96 S.Ct. 1357, 1364, 47 L.Ed.2d 629 (1976). But in so holding we studiously avoided addressing one of the necessary consequences of increasing majority-minority districts: Such action necessarily decreases the level of minority influence in surrounding districts, and to that extent “dilutes” the vote of minority voters in those other districts, and perhaps dilutes the influence of the minority group as a whole. See, e.g., Hays v. Louisiana, 936 F.Supp. 360, 364, n. 17 (W.D.La.1996) (three-judge court) (noting that plaintiffs’ expert “argues convincingly that our plan, with its one black majority and three influence districts, empowers more black voters statewide than does” a plan with two black-majority districts and five “bleached” districts in which minority influence was reduced in order to create the second black-majority district); cf. Johnson v. De Grandy, 512 U.S. 997, 1007, 114 S.Ct. 2647, 2655, 129 L.Ed.2d 775 (1994) (noting that dilution can occur by “fragmenting the minority voters among several districts ... or by packing them into one or a small number of districts to minimize their influence in the districts next door”).
+ 
+Under our vote dilution jurisprudence, therefore, a court could strike down any reapportionment plan, either because it did not include enough majority-minority districts or because it did (and thereby diluted the minority vote in the remaining districts). A court could presumably even strike down a new reapportionment plan that did not significantly alter the status quo at all, on the theory that such a plan did not measure up to some hypothetical ideal. With such an indeterminate “rule,” § 5 ceases to be primarily a prophylactic tool in the important war against discrimination in voting, and instead becomes the means whereby the Federal Government, and particularly the Department of Justice, usurps *492 the legitimate political judgments of the States. And such an empty “rule” inevitably forces the courts to make political judgments regarding which type of apportionment best serves supposed minority interests—judgments that the courts are ill equipped to make.
+ 
+I can at least find some solace in the belief that today’s opinion will force us to confront, with a renewed sense of urgency, this fundamental inconsistency that lies at the heart of our vote dilution jurisprudence.
+ 
+Beyond my general objection to our vote dilution precedent, the one portion of the majority opinion with which I disagree is the majority’s new suggestion that preclearance standards established by the Department of Justice are “normally” entitled to deference. See ante, at 1500.* Section 5 sets up alternative routes for preclearance, and the primary route specified is through the District Court for the District of Columbia, not through the Attorney General’s office. See 42 U.S.C. § 1973c (generally requiring District Court preclearance, with a proviso that covered jurisdictions may obtain preclearance by the Attorney General in lieu of District Court preclearance, but providing no authority for the Attorney General to preclude judicial preclearance). Requiring the District Court to defer to adverse preclearance decisions by the Attorney General based upon the very preclearance standards she articulates would essentially render the independence of the District Court preclearance route a nullity.
+ 
+Moreover, given our own “longstanding interpretation of § 5,” see ante, at 1500, deference to the particular preclearance regulation addressed in this action would be inconsistent with another of the Attorney General’s regulations, which provides: “In making determinations [under § 5] the Attorney General will be guided by the relevant decisions of the *493 Supreme Court of the United States and of other Federal courts.” 28 CFR § 51.56 (1996). Thus, while I agree with the majority’s decision **1505 not to defer to the Attorney General’s standards, I would reach that result on different grounds.
+ 
+
+
+
+

@@ -1,0 +1,23 @@
+﻿
+        
+        Florida v. J.L., 529 U.S. 266, 120 S. Ct. 1375 (2000)
+        
+
+
+      
+
+JUSTICE KENNEDY, with whom THE CHIEF JUSTICE joins, concurring.
+
+On the record created at the suppression hearing, the Court's decision is correct. The Court says all that is necessary to resolve this case, and I join the opinion in all respects. It might be noted, however, that [***263]  there are many indicia of reliability [**1381]  respecting anonymous tips that we have yet to explore in our cases.
+
+When a police officer testifies that a suspect aroused the officer's suspicion, and so justifies a stop and frisk, the courts can weigh the officer's credibility and admit evidence seized pursuant to the frisk even if no one, aside from the officer and defendant themselves, was present or observed the seizure.  [*275]  An anonymous telephone tip without more is different, however; for even if the officer's testimony about receipt of the tip is found [****16]  credible, there is a second layer of inquiry respecting the reliability of the informant that cannot be pursued. If the telephone call is truly anonymous, the informant has not placed his credibility at risk and can lie with impunity. The reviewing court cannot judge the credibility of the informant and the risk of fabrication becomes unacceptable.
+
+On this record, then, the Court is correct in holding that the telephone tip did not justify the arresting officer's immediate stop and frisk of respondent. There was testimony that an anonymous tip came in by a telephone call and nothing more. The record does not show whether some notation or other documentation of the call was made either by a voice recording or tracing the call to a telephone number. The prosecution recounted just the tip itself and the later verification of the presence of the three young men in the circumstances the Court describes.
+
+It seems appropriate to observe that a tip might be anonymous in some sense yet have certain other features, either supporting reliability or narrowing the likely class of informants, so that the tip does provide the lawful basis for some police action. One such feature, as the Court recognizes,  [****17]  is that the tip predicts future conduct of the alleged criminal. There may be others. For example, if an unnamed caller with a voice which sounds the same each time tells police on two successive nights about criminal activity which in fact occurs each night, a similar call on the third night ought not be treated automatically like the tip in the case now before us. In the instance supposed, there would be a plausible argument that experience cures some of the uncertainty surrounding the anonymity, justifying a proportionate police response. In today's case, however, the State provides us with no data about the reliability of anonymous tips. Nor do we know whether the dispatcher or arresting officer had any  [*276]  objective reason to believe that this tip had some particular indicia of reliability.
+
+If an informant places his anonymity at risk, a court can consider this factor in weighing the reliability of the tip. An instance where a tip might be considered anonymous but nevertheless sufficiently reliable to justify a proportionate police response may be when an unnamed person driving a car the police officer later describes stops for a moment and, face to face, informs the police that [****18]  criminal activity is occurring. This too seems to be different from the tip in the present case. See United States v. Sierra-Hernandez, 581 F.2d 760 (CA9 1978).
+
+Instant caller identification is widely available to police, and, if anonymous tips are proving unreliable and distracting to police, squad cars can be sent within seconds to the location of the telephone used by the informant. Voice recording of [***264]  telephone tips might, in appropriate cases, be used by police to locate the caller. It is unlawful to make false reports to the police, e.g., Fla. Stat. Ann. § 365.171(16) (Supp. 2000); Fla. Stat. Ann. § 817.49 (1994), and the ability of the police to trace the identity of anonymous telephone informants may be a factor which lends reliability to what, years earlier, might have been considered unreliable anonymous tips.
+
+These matters, of course, must await discussion in other cases, where the issues are presented by the record.

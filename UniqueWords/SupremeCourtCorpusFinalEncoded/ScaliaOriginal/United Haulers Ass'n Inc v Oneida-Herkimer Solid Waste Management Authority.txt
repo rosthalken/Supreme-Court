@@ -1,0 +1,32 @@
+﻿
+
+
+127 S.Ct. 1786
+Supreme Court of the United States
+UNITED HAULERS ASSOCIATION, INC., et al., Petitioners,
+v.
+ONEIDA–HERKIMER SOLID WASTE MANAGEMENT AUTHORITY et al.
+No. 05–1345.
+|
+Argued Jan. 8, 2007.
+|
+Decided April 30, 2007.
+
+Justice SCALIA, concurring in part.
+
+*348 I join Part I and Parts II–A through II–C of the Court’s opinion. I write separately to reaffirm my view that “the so-called ‘negative’ Commerce Clause is an unjustified judicial invention, not to be expanded beyond its existing domain.” General Motors Corp. v. Tracy, 519 U.S. 278, 312, 117 S.Ct. 811, 136 L.Ed.2d 761 (1997) (SCALIA, J., concurring). “The historical record provides no grounds for reading the Commerce Clause to be other than what it says—an authorization for Congress to regulate commerce.” Tyler Pipe Industries, Inc. v. Washington State Dept. of Revenue, 483 U.S. 232, 263, 107 S.Ct. 2810, 97 L.Ed.2d 199 (1987) (SCALIA, J., concurring in part and dissenting in part).
+ 
+I have been willing to enforce on stare decisis grounds a “negative” self-executing Commerce Clause in two situations: “(1) against a state law that facially discriminates against interstate commerce, and (2) against a state law that is indistinguishable from a type of law previously held unconstitutional by this Court.” West Lynn Creamery, Inc. v. Healy, 512 U.S. 186, 210, 114 S.Ct. 2205, 129 L.Ed.2d 157 (1994) **1799 (SCALIA, J., concurring in judgment). As today’s opinion makes clear, the flow-control law at issue in this case meets neither condition. It benefits a public entity performing a traditional local-government function and treats all private entities precisely the same way. “Disparate treatment constitutes discrimination only if the objects of the disparate treatment are, for the relevant purposes, similarly situated.” Camps Newfound/Owatonna, Inc. v. Town of Harrison, 520 U.S. 564, 601, 117 S.Ct. 1590, 137 L.Ed.2d 852 (1997) (SCALIA, J., dissenting). None of this Court’s cases concludes that public entities and private entities are similarly situated for Commerce Clause purposes. To hold that they are “would broaden the negative Commerce Clause beyond its existing scope, and intrude on a regulatory sphere traditionally occupied by ... the States.” Tracy, supra, at 313, 117 S.Ct. 811 (SCALIA, J., concurring).
+ 
+I am unable to join Part II–D of the principal opinion, in which the plurality performs so-called “Pike balancing.” *349 Generally speaking, the balancing of various values is left to Congress—which is precisely what the Commerce Clause (the real Commerce Clause) envisions.
+ 
+
+1
+This justification for the negative Commerce Clause is itself unsupported by the Constitution. See Tyler Pipe Industries, Inc. v. Washington State Dept. of Revenue, 483 U.S. 232, 261–262, 107 S.Ct. 2810, 97 L.Ed.2d 199 (1987) (SCALIA, J., concurring in part and dissenting in part).
+2
+No previous case addresses the question whether the negative Commerce Clause applies to favoritism of a government entity. I agree with the Court that C & A Carbone, Inc. v. Clarkstown, 511 U.S. 383, 114 S.Ct. 1677, 128 L.Ed.2d 399 (1994), did not resolve this issue. Ante, at 1792 – 1795.
+3
+The dissent argues that such a preference is unwarranted. Post, at 1808 – 1809 (opinion of ALITO, J.) (“I cannot accept the proposition that laws discriminating in favor of state-owned enterprises are so unlikely to be the product of economic protectionism that they should be exempt from the usual dormant Commerce Clause standards”).
+
+
+

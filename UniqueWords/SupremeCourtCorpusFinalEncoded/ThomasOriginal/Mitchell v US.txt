@@ -1,0 +1,27 @@
+﻿
+
+
+119 S.Ct. 1307
+Supreme Court of the United States
+Amanda MITCHELL, petitioner,
+v.
+UNITED STATES.
+No. 97-7541.
+|
+Argued Dec. 9, 1998.
+|
+Decided April 5, 1999.
+Justice THOMAS, dissenting.
+
+Justice SCALIA’s dissenting opinion persuasively demonstrates that this Court’s decision in Griffin v. California, 380 U.S. 609, 85 S.Ct. 1229, 14 L.Ed.2d 106 (1965), lacks foundation in the Constitution’s text, history, or logic. The vacuousness of Griffin supplies “cause enough to resist its extension.” Ante, at 1319. And, in my view, it also illustrates that Griffin and its progeny, including *342 Carter v. Kentucky, 450 U.S. 288, 101 S.Ct. 1112, 67 L.Ed.2d 241 (1981), should be reexamined.
+ 
+As Justice SCALIA notes, the “illogic of the Griffin line is plain” and its historical “pedigree is equally dubious.” Ante, at 1317 (emphasis added). Not only does Griffin fail to withstand a proper constitutional analysis, it rests on an unsound assumption. Griffin relied partly on the premise that comments about a defendant’s silence (and the inferences drawn therefrom) penalized the exercise of his Fifth Amendment privilege. See Griffin, supra, at 614, 85 S.Ct. 1229; Carter, supra, at 301, 101 S.Ct. 1112. As the dissenting Justices in Griffin rightly observed, such comments or inferences do not truly “penalize” a defendant. See 380 U.S., at 620-621, 85 S.Ct. 1229 (opinion of Stewart, J., joined by White, J.) (“Exactly what the penalty imposed consists of is not clear”); id., at 621, 85 S.Ct. 1229 (“[T]he Court must be saying that the California constitutional provision places some other compulsion upon the defendant to incriminate himself, some compulsion which the Court does not describe and which I cannot readily perceive”). **1322 Prosecutorial comments on a defendant’s decision to remain silent at trial surely impose no greater “penalty” on a defendant than threats to indict him on more serious charges if he chooses not to enter into a plea bargain-a practice that this Court previously has validated. See, e.g., Bordenkircher v. Hayes, 434 U.S. 357, 365, 98 S.Ct. 663, 54 L.Ed.2d 604 (1978) (finding no due process violation where plea negotiations “presented the defendant with the unpleasant alternatives of forgoing trial or facing charges on which he was plainly subject to prosecution”). Moreover, this so-called “penalty” lacks any constitutional significance, since the explicit constitutional guarantee has been fully honored-a defendant is not “compelled ... to be a witness against himself,” U.S. Const., Amdt. 5, merely because the jury has been told that it may draw an adverse inference from his failure to testify. See Griffin, supra, at 621, 85 S.Ct. 1229 (Stewart, J., joined by White, J., dissenting) (“[C]omment by counsel and the court does not compel testimony by creating such an awareness” of a defendant’s *343 decision not to testify); Carter, supra, at 306, 101 S.Ct. 1112 (Powell, J., concurring) (“But nothing in the [Self-Incrimination] Clause requires that jurors not draw logical inferences when a defendant chooses not to explain incriminating circumstances”).* Therefore, at bottom, Griffin constitutionalizes a policy choice that a majority of the Court found desirable at the time. Carter compounded the error. This sort of undertaking is not an exercise in constitutional interpretation but an act of judicial willfulness that has no logical stopping point. See Carter, supra, at 310, 101 S.Ct. 1112 (REHNQUIST, J., dissenting) (“Such Thomistic reasoning is now carried from the constitutional provision itself, to the Griffin case, to the present case, and where it will stop no one can know”).
+ 
+We have previously recognized that stare decisis is “at its weakest when we interpret the Constitution because our interpretation can be altered only by constitutional amendment or by overruling our prior decisions.” Agostini v. Felton, 521 U.S. 203, 235, 117 S.Ct. 1997, 138 L.Ed.2d 391 (1997). Given their indefensible foundations, I would be willing to reconsider Griffin and Carter in the appropriate case. For purposes of this case, which asks only whether the principle established in Griffin should be extended, I agree that the Fifth Amendment does not prohibit a sentencer from drawing an adverse inference from a defendant’s failure to testify and, therefore, join Justice SCALIA’s dissent.
+ 
+
+
+
+
+*
+I also agree with Justice SCALIA, ante, at 1318-1319, that Griffin improperly relied on a prior decision interpreting a federal statute to inform its resolution of a constitutional question-an error the Court later repeated in Carter. See Griffin v. California, 380 U.S. 609, 613-614, 85 S.Ct. 1229, 14 L.Ed.2d 106 (1965); Carter v. Kentucky, 450 U.S. 288, 300-301, n. 16, 101 S.Ct. 1112, 67 L.Ed.2d 241 (1981).

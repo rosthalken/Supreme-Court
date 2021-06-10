@@ -1,0 +1,184 @@
+﻿
+        
+        United States v. Agurs, 427 U.S. 97, 96 S. Ct. 2392 (1976)
+        
+
+
+      
+
+ [*98]   [***347]   [**2395]  MR. JUSTICE STEVENS delivered the opinion of the Court.
+
+LEdHN[1A] [1A]After a brief interlude in an inexpensive motel room, respondent repeatedly stabbed James Sewell, causing his death. She was convicted of second-degree murder. The question before us is whether the prosecutor's failure  [*99]  to provide defense counsel with certain background information about Sewell, which would have tended to support the argument that respondent [****5]  acted in self-defense, deprived her of a fair trial under the rule of Brady v. Maryland, 373 U.S. 83.
+
+The answer to the question depends on (1) a review of the facts, (2) the significance of the failure of defense counsel to request the material, and (3) the standard by which the prosecution's failure to volunteer exculpatory material should be judged.
+
+I
+
+At about 4:30 p.m. on September 24, 1971, respondent, who had been there before, and Sewell, registered in a motel as man and wife. They were assigned a room without a bath. Sewell was wearing a bowie knife in a sheath, and carried another knife in his pocket. Less than two hours earlier, according to the testimony of his estranged wife, he had had $ 360 in cash on his person.
+
+About 15 minutes later three motel employees heard respondent screaming for help. A forced entry into their room disclosed Sewell on top of respondent struggling for possession of the bowie knife. She was holding the knife; his bleeding hand grasped the blade; according to one witness he was trying to jam the blade into her chest. The employees separated the two and summoned the authorities. Respondent departed without [****6]  comment before they arrived. Sewell was dead on arrival at the hospital.
+
+Circumstantial evidence indicated that the parties had completed an act of intercourse, that Sewell had then gone to the bathroom down the hall, and that the struggle occurred upon his return. The contents of his pockets were in disarray on the dresser and no money was found; the jury may have inferred that respondent took Sewell's money and that the fight started when Sewell re-entered the room and saw what she was doing.
+
+ [*100]   [**2396]  On the following morning respondent surrendered to the police. She was given a physical examination which revealed no cuts or bruises of any kind, except needle marks on her upper arm. An autopsy of Sewell disclosed that he had several deep stab wounds in his chest and abdomen, and a number of slashes on his arms and hands, characterized by the pathologist as "defensive wounds." 1Link to the text of the note
+
+Respondent [****7]  offered no evidence. Her sole defense was the argument made by her attorney that Sewell had initially attacked her with the knife, and that her actions had all been directed toward saving her own life. The support for this self-defense  [***348]  theory was based on the fact that she had screamed for help. Sewell was on top of her when help arrived, and his possession of two knives indicated that he was a violence-prone person. 2Link to the text of the note It took the jury about 25 minutes to elect a foreman and return a verdict.
+
+Three months later defense counsel filed a motion for a new trial asserting that he had discovered (1) that Sewell had a prior criminal record that would have further evidenced his violent character; (2) that the prosecutor had failed to disclose this information to the [****8]  defense; and (3) that a recent opinion of the United States Court of Appeals for the District of Columbia Circuit made it clear that such evidence was admissible even if not known to the defendant. 3Link to the text of the note Sewell's prior record included a plea of guilty to a charge of assault and carrying  [*101]  a deadly weapon in 1963, and another guilty plea to a charge of carrying a deadly weapon in 1971. Apparently both weapons were knives.
+
+The Government opposed the motion, arguing that there was no duty to tender Sewell's prior record to the defense in the absence of an appropriate request; that the evidence was readily discoverable in advance of trial and hence was not the kind of "newly discovered" evidence justifying a new trial; and that, in all events, it was not material.
+
+The District Court denied the motion. It rejected the Government's argument that there was no duty to disclose material evidence [****9]  unless requested to do so, 4Link to the text of the note  [*102]  assumed that the evidence was admissible, but held that it was not sufficiently material. The District Court expressed the opinion that the prior conviction shed no light on Sewell's character that was not already apparent from the uncontradicted evidence, particularly the fact that he carried two knives; the court stressed the inconsistency  [**2397]  between the claim of self-defense and the fact that Sewell had been stabbed repeatedly while respondent was unscathed.
+
+ [****10]  LEdHN[2A] [2A]The  [***349]  Court of Appeals reversed. 5Link to the text of the note [****11]  The court found no lack of diligence on the part of the defense and no misconduct by the prosecutor in this case. It held, however, that the evidence was material, and that its nondisclosure required a new trial because the jury might have returned a different verdict if the evidence had been received. 6Link to the text of the note
+
+LEdHN[2B] [2B]
+
+The decision of the Court of Appeals represents a significant departure from this Court's prior holding; because we believe that that court has incorrectly interpreted the constitutional requirement of due process, we reverse.
+
+ [*103]  II
+
+The rule of Brady v. Maryland, 373 U.S. 83, arguably applies in three quite different situations. Each involves the discovery, after trial, of information which had been known to the prosecution but unknown to the defense.
+
+In the first situation, typified by Mooney v. Holohan, 294 U.S. 103, the undisclosed evidence demonstrates that the prosecution's case includes perjured testimony and that the prosecution knew, or should have known, of the perjury. 7Link to the text of the note [****13]  In a series of subsequent cases, the Court has consistently held that a conviction obtained by the knowing use of perjured testimony is fundamentally [****12]  unfair, 8Link to the text of the note and must be set aside if there is any reasonable likelihood that the false testimony could have  [***350]  affected the judgment of the jury. 9Link to the text of the note It is this line of cases on which the  [*104]  Court of Appeals placed primary reliance. In those cases the Court has applied a strict standard of materiality, not just because they involve prosecutorial misconduct, but more importantly because they involve a corruption of the truth-seeking function of the trial process. Since this case involves  [**2398]  no misconduct, and since there is no reason to question the veracity of any of the prosecution witnesses, the test of materiality followed in the Mooney line of cases is not necessarily applicable to this case.
+
+The second situation, illustrated by the Brady case itself, is characterized by a pretrial request for specific evidence. In that case defense counsel had requested the extrajudicial statements made by Brady's accomplice, one Boblit. This Court held that the suppression of one of Boblit's statements deprived Brady of due process, noting specifically that the statement had been requested and that it was "material." 10Link to the text of the note A fair analysis of the holding in Brady indicates that implicit in the requirement of materiality is a concern that the suppressed evidence might have affected the outcome of the trial.
+
+ [****14]  Brady was found guilty of murder in the first degree. Since the jury did not add the words "without capital punishment" to the verdict, he was sentenced to death. At his trial Brady did not deny his involvement in the deliberate killing, but testified that it was his accomplice,  [*105]  Boblit, rather than he, who had actually strangled the decedent. This version of the event was corroborated by one of several confessions made by Boblit but not given to Brady's counsel despite an admittedly adequate request.
+
+After his conviction and sentence had been affirmed on appeal, 11Link to the text of the note Brady filed a motion to set aside the judgment, and later a post-conviction proceeding, in which he alleged that the State had violated his constitutional rights by suppressing the Boblit confession. The trial judge denied relief largely because he felt that Boblit's confession would have been inadmissible at Brady's trial. The Maryland Court of Appeals disagreed; 12Link to the text of the note it ordered a new trial on the issue of punishment. It held that the withholding of material evidence, even "without guile," was a denial of due process and that there were valid theories on which the confession might have been admissible [****15]  in Brady's defense.
+
+This Court granted certiorari to consider Brady's contention that the violation of his constitutional right to a fair trial vitiated the entire  [***351]  proceeding. 13Link to the text of the note The holding that the suppression of exculpatory evidence violated Brady's right to due process was affirmed, as was the separate holding that he should receive a new trial on the issue of punishment but not on the issue of guilt or innocence. The Court interpreted the Maryland Court  [*106]  of Appeals opinion as ruling that the confession was inadmissible on that issue. For that reason, the confession could not have affected the outcome on the issue of guilt but could have affected Brady's punishment. It was material on the latter issue but not the former. And since it was not material on the issue of guilt, the entire trial was not lacking in due process.
+
+ [****16]  The test of materiality in a case like Brady in which specific information has been requested by the defense is not necessarily the same as in a case in which no such  [**2399]  request has been made. 14Link to the text of the note Indeed, this Court has not yet decided whether the prosecutor has any obligation to provide defense counsel with exculpatory information when no request has been made. Before addressing that question, a brief comment on the function of the request is appropriate.
+
+LEdHN[3] [3]In Brady the request was specific. It gave the prosecutor notice of exactly what the defense desired. Although there is, of course, no duty to provide defense counsel with unlimited discovery of everything known by the prosecutor, if the subject matter of such a request is material, or indeed if a substantial basis for claiming materiality exists, it is reasonable to require the prosecutor [****17]  to respond either by furnishing the information or by submitting the problem to the trial judge. When the prosecutor receives a specific and relevant request, the failure to make any response is seldom, if ever, excusable.
+
+In many cases, however, exculpatory information in the possession of the prosecutor may be unknown to defense counsel. In such a situation he may make no request at all, or possibly ask for "all Brady material" or for "anything exculpatory." Such a request really gives the prosecutor no better notice than if no request is  [*107]  made. If there is a duty to respond to a general request of that kind, it must derive from the obviously exculpatory character of certain evidence in the hands of the prosecutor. But if the evidence is so clearly supportive of a claim of innocence that it gives the prosecution notice of a duty to produce, that duty should equally arise even if no request is made. Whether we focus on the desirability of a precise definition of the prosecutor's duty or on the potential harm to the defendant, we conclude that there is no significant difference between cases in which there has been merely a general request for exculpatory matter [****18]  and cases, like the one we must now decide, in which there has been no  [***352]  request at all. The third situation in which the Brady rule arguably applies, typified by this case, therefore embraces the case in which only a general request for "Brady material" has been made.
+
+We now consider whether the prosecutor has any constitutional duty to volunteer exculpatory matter to the defense, and if so, what standard of materiality gives rise to that duty.
+
+III
+
+LEdHN[4] [4]We are not considering the scope of discovery authorized by the Federal Rules of Criminal Procedure, or the wisdom of amending those Rules to enlarge the defendant's discovery rights. We are dealing with the defendant's right to a fair trial mandated by the Due Process Clause of the Fifth Amendment to the Constitution. Our construction of that Clause will apply equally to the comparable clause in the Fourteenth Amendment applicable to trials in state courts.
+
+The problem arises in two principal contexts. First, in advance of trial, and perhaps during the course of a trial as well, the prosecutor must decide what, if anything,  [****19]  he should voluntarily submit to defense counsel.  [*108]  Second, after trial a judge may be required to decide whether a nondisclosure deprived the defendant of his right to due process. Logically the same standard must apply at both times. For unless the omission deprived the defendant of a fair trial, there was no constitutional violation requiring that the verdict be set aside; and absent a constitutional violation, there was no breach of the prosecutor's constitutional duty to disclose.
+
+Nevertheless, there is a significant practical difference between the pretrial decision of the prosecutor and the post-trial decision of the judge. Because we are dealing with an inevitably imprecise standard, and because the significance of an item of evidence can seldom be predicted accurately until the entire record is complete, the prudent prosecutor will resolve doubtful questions  [**2400]  in favor of disclosure. But to reiterate a critical point, the prosecutor will not have violated his constitutional duty of disclosure unless his omission is of sufficient significance to result in the denial of the defendant's right to a fair trial.
+
+The Court of Appeals appears to have assumed [****20]  that the prosecutor has a constitutional obligation to disclose any information that might affect the jury's verdict. That statement of a constitutional standard of materiality approaches the "sporting theory of justice" which the Court expressly rejected in Brady. 15Link to the text of the note For a  [***353]  jury's  [*109]  appraisal of a case "might" be affected by an improper or trivial consideration as well as by evidence giving rise to a legitimate doubt on the issue of guilt. If everything that might influence a jury must be disclosed, the only way a prosecutor could discharge his constitutional duty would be to allow complete discovery of his files as a matter of routine practice.
+
+
+
+ [****21]  LEdHN[5] [5]LEdHN[6] [6]Whether or not procedural rules authorizing such broad discovery might be desirable, the Constitution surely does not demand that much. While expressing the opinion that HN1 representatives of the State may not "suppress substantial material evidence," former Chief Justice Traynor of the California Supreme Court has pointed out that "they are under no duty to report sua sponte to the defendant all that they learn about the case and about their witnesses." In re Imbler, 60 Cal. 2d 554, 569, 387 P. 2d 6, 14 (1963). And this Court recently noted that there is "no constitutional requirement that the prosecution make a complete and detailed accounting to the defense of all police investigatory work on a case." Moore v. Illinois, 408 U.S. 786, 795.16Link to the text of the note The mere possibility that an item of undisclosed information  [*110]  might have helped the defense, or might have affected the outcome of the trial,  [****22]  does not establish "materiality" in the constitutional sense.
+
+
+
+LEdHN[7] [7]Nor do we believe HN2 the constitutional obligation is measured by the moral culpability, or the willfulness, of the prosecutor. 17Link to the text of the note If evidence highly probative of innocence is in his file, he should [****23]  be presumed to recognize its significance even if he has actually overlooked it. Cf. Giglio v. United States,  [**2401]  405 U.S. 150, 154. Conversely, if evidence actually has no probative significance at all, no purpose would be served by requiring a new trial simply because an inept prosecutor incorrectly believed he was suppressing a fact that would be vital to the defense. If the suppression of evidence results in constitutional error, it is because of the character of the evidence, not the character of the prosecutor.
+
+
+
+ [****24]  LEdHN[8] [8]LEdHN[9] [9]As the District Court recognized in this case, there are situations  [***354]  in which evidence is obviously of such substantial value to the defense that elementary fairness requires it to be disclosed even without a specific request. 18Link to the text of the note For though the attorney for the sovereign must prosecute the accused with earnestness and vigor, he  [*111]  must always be faithful to his client's overriding interest that "justice shall be done." He is the "servant of the law, the twofold aim of which is that guilt shall not escape or innocence suffer." Berger v. United States, 295 U.S. 78, 88. This description of the prosecutor's duty illuminates the standard of materiality that governs his obligation to disclose exculpatory evidence.
+
+ [****25]  LEdHN[10] [10]On the one hand, the fact that such evidence was available to the prosecutor and not submitted to the defense places it in a different category than if it had simply been discovered from a neutral source after trial. For that reason the defendant should not have to satisfy the severe burden of demonstrating that newly discovered evidence probably would have resulted in acquittal. 19Link to the text of the note If the standard applied to the usual motion for a new trial based on newly discovered evidence were the same when the evidence was in the State's possession as when it was found in a neutral source, there would be no special significance to the prosecutor's obligation to serve the cause of justice.
+
+
+
+ [****26]  LEdHN[11] [11]LEdHN[12] [12]On the other hand, since we have rejected the suggestion that the prosecutor has a constitutional duty routinely to deliver his entire file to defense counsel, we cannot consistently treat every nondisclosure as though it were error. It necessarily follows that HN3 the judge should not order a new trial every time he is unable to  [*112]  characterize a nondisclosure as harmless under the customary harmless-error standard. Under that standard when error is present in the record, the reviewing judge must set aside the verdict and judgment unless his "conviction is sure that the error did not influence the jury, or had but very slight effect." Kotteakos v. United States, 328 U.S. 750, 764.Unless every nondisclosure is regarded as automatic error, the constitutional standard of materiality must impose a higher burden on the defendant.
+
+LEdHN[13A] [13A] LEdHN[14A] [14A]  [****27]  LEdHN[15] [15]The proper standard of materiality must reflect our overriding concern with the justice of the finding of guilt. 20Link to the text of the note [****28]   [**2402]  Such a finding is  [***355]  permissible only if supported by evidence establishing guilt beyond a reasonable doubt. It necessarily follows that HN4 if the omitted evidence creates a reasonable doubt that did not otherwise exist, constitutional error has been committed. This means that the omission must be evaluated in the context of the entire record. 21Link to the text of the note If there is no reasonable doubt about  [*113]  guilt whether or not the additional evidence is considered, there is no justification for a new trial. On the other hand, if the verdict is already of questionable validity, additional evidence of relatively minor importance might be sufficient to create a reasonable doubt.
+
+LEdHN[13B] [13B] LEdHN[14B] [14B]
+
+This statement of the standard of materiality describes the test which courts appear to have applied in actual cases although the standard has been phrased in different language. 22Link to the text of the note It is also the standard which the trial judge applied in this case. He evaluated the significance of Sewell's prior criminal record in the context of the full trial which he recalled in detail. Stressing [****29]  in particular the incongruity of a claim that Sewell was the aggressor with the evidence of his multiple wounds and respondent's unscathed condition, the trial judge indicated his unqualified opinion that respondent was guilty. He  [*114]  noted that Sewell's prior record did not contradict any evidence offered by the prosecutor, and was largely cumulative of the evidence that Sewell was wearing a bowie knife in a sheath and carrying a second knife in his pocket when he registered at the motel.
+
+ [****30]  LEdHN[1B] [1B]Since the arrest record was not requested and did not even arguably give rise to any inference of perjury, since after considering it in the context of the entire record the trial judge remained convinced of respondent's guilt beyond a reasonable  [***356]  doubt, and since we are satisfied that his firsthand appraisal of the record was thorough and entirely reasonable, we hold that the prosecutor's failure to tender Sewell's record to the defense did not deprive respondent of a fair trial as guaranteed by the Due Process Clause of the Fifth Amendment. Accordingly, the judgment of the Court of Appeals is
+
+Reversed.
+
+The alcohol level in Sewell's blood was slightly below the legal definition of intoxication.
+
+2Link to the location of the note in the document
+Moreover, the motel clerk testified that Sewell's wife had said he "would use a knife"; however, Mrs. Sewell denied making this statement. There was no dispute about the fact that Sewell carried the bowie knife when he registered.
+
+3Link to the location of the note in the document
+See United States v. Burks, 152 U.S. App. D.C. 284, 286, 470 F. 2d 432, 434 (1972).
+
+4Link to the location of the note in the document
+"THE COURT: What are you saying? How can you request that which you don't know exists. That is the very essence of Brady.
+
+. . . . . .
+
+"THE COURT: Are you arguing to the Court that the status of the law is that if you have a report indicating that fingerprints were taken and that the fingerprints on the item… which the defendant is alleged to have assaulted somebody turn out not to be the defendant's, that absent a specific request for that information, you do not have any obligation to defense counsel?
+
+"MR. CLARKE: No, Your Honor. There is another aspect which comes to this, and that is whether or not the Government knowingly puts on perjured testimony. It has an obligation to correct that perjured testimony.
+
+"THE COURT: I am not talking about perjured testimony. You don't do anything about it. You say nothing about it. You have got the report there. You know that possibly it could be exculpatory. Defense counsel doesn't know about it. He has been misinformed about it. Suppose he doesn't know about it. And because he has made no specific request for that information, you say that the status of the law under Brady is that you have no obligation as a prosecutor to open your mouth?
+
+"MR. CLARKE: No. Your Honor….
+
+"But as the materiality of the items becomes less to the point where it is not material, there has to be a request, or else the Government, just like the defense, is not on notice." App. 147-149.
+
+5Link to the location of the note in the document
+167 U.S. App. D.C. 28, 510 F. 2d 1249 (1975). The opinion of the Court of Appeals disposed of the direct appeal filed after respondent was sentenced as well as the two additional appeals taken from the two orders denying motions for new trial. After the denial of the first motion, respondent's counsel requested leave to withdraw in order to enable substitute counsel to file a new motion for a new trial on the ground that trial counsel's representation had been ineffective because he did not request Sewell's criminal record for the reason that he incorrectly believed that it was inadmissible. The District Court denied that motion. Although that action was challenged on appeal, the Court of Appeals did not find it necessary to pass on the validity of that ground. We think it clear, however, that counsel's failure to obtain Sewell's prior criminal record does not demonstrate ineffectiveness.
+
+6Link to the location of the note in the document
+Although a majority of the active judges of the Circuit, as well as one of the members of the panel, expressed doubt about the validity of the panel's decision, the court refused to rehear the case en banc.
+
+7Link to the location of the note in the document
+In Mooney it was alleged that the petitioner's conviction was based on perjured testimony "which was knowingly used by the prosecuting authorities in order to obtain that conviction, and also that these authorities deliberately suppressed evidence which would have impeached and refuted the testimony thus given against him." 294 U.S., at 110.
+
+The Court held that such allegations, if true, would establish such fundamental unfairness as to justify a collateral attack on petitioner's conviction.
+
+"It is a requirement that cannot be deemed to be satisfied by mere notice and hearing if a State has contrived a conviction through the pretense of a trial which in truth is but used as a means of depriving a defendant of liberty through a deliberate deception of court and jury by the presentation of testimony known to be perjured. Such a contrivance by a State to procure the conviction and imprisonment of a defendant is as inconsistent with the rudimentary demands of justice as is the obtaining of a like result by intimidation." Id., at 112.
+
+8Link to the location of the note in the document
+Pyle v. Kansas, 317 U.S. 213; Alcorta v. Texas, 355 U.S. 28; Napue v. Illinois, 360 U.S. 264; Miller v. Pate, 386 U.S. 1; Giglio v. United States, 405 U.S. 150; Donnelly v. DeChristoforo, 416 U.S. 637.
+
+9Link to the location of the note in the document
+See Giglio, supra, at 154, quoting from Napue, supra, at 271.
+
+10Link to the location of the note in the document
+"We now hold that the suppression by the prosecution of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution." 373 U.S., at 87. Although in Mooney the Court had been primarily concerned with the willful misbehavior of the prosecutor, in Brady the Court focused on the harm to the defendant resulting from nondisclosure. See discussions of this development in Note, The Prosecutor's Constitutional Duty to Reveal Evidence to the Defendant, 74 Yale L.J. 136 (1964); and Comment, Brady v. Maryland and The Prosecutor's Duty to Disclose, 40 U. Chi. L. Rev. 112(1972 ).
+
+11Link to the location of the note in the document
+220 Md. 454, 154 A. 2d 434 (1959).
+
+12Link to the location of the note in the document
+226 Md. 422, 174 A. 2d. 167 (1961).
+
+13Link to the location of the note in the document
+"The petitioner was denied due process of law by the State's suppression of evidence before his trial began. The proceeding must commence again from the stage at which the petitioner was overreached. The denial of due process of law vitiated the verdict and the sentence. Rogers v. Richmond, 365 U.S. 534, 545. The verdict is not saved because other competent evidence would support it. Culombe v. Connecticut, 367 U.S. 568, 621." Brief for Petitioner in Brady v. Maryland, No. 490, O.T. 1962, p. 6.
+
+14Link to the location of the note in the document
+See Comment 40 U. Chi. L. Rev., supra, n. 10, at 115-117.
+
+15Link to the location of the note in the document
+"In the present case a unanimous Court of Appeals has said that nothing in the suppressed confession 'could have reduced the appellant Brady's offense below murder in the first degree.' We read that statement as a ruling on the admissibility of the confession on the issue of innocence or guilt. A sporting theory of justice might assume that if the suppressed confession had been used at the first trial, the judge's ruling that it was not admissible on the issue of innocence or guilt might have been flouted by the jury just as might have been done if the court had first admitted a confession and then stricken it from the record. But we cannot raise that trial strategy to the dignity of a constitutional right and say that the deprival of this defendant of that sporting chance through the use of a bifurcated trial (cf. Williams v. New York, 337 U.S. 241) denies him due process or violates the Equal Protection Clause of the Fourteenth Amendment." 373 U.S., at 90-91 (footnote omitted).
+
+16Link to the location of the note in the document
+In his opinion concurring in the judgment in Giles v. Maryland, 386 U.S. 66, 98, Mr. Justice Fortas stated:
+
+"This is not to say that convictions ought to be reversed on the ground that information merely repetitious, cumulative, or embellishing of facts otherwise known to the defense or presented to the court, or without importance to the defense for purposes of the preparation of the case or for trial was not disclosed to defense counsel. It is not to say that the State has an obligation to communicate preliminary, challenged, or speculative information."
+
+17Link to the location of the note in the document
+In Brady this Court, as had the Maryland Court of Appeals, expressly rejected the good faith or the bad faith of the prosecutor as the controlling consideration: "We now hold that the suppression by the prosecution of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution. The principle of Mooney v. Holohan is not punishment of society for misdeeds of a prosecutor but avoidance of an unfair trial to the accused." 373 U.S., at 87. (Emphasis added.) If the nature of the prosecutor's conduct is not controlling in a case like Brady, surely it should not be controlling when the prosecutor has not received a specific request for information.
+
+18Link to the location of the note in the document
+The hypothetical example given by the District Judge in this case was fingerprint evidence demonstrating that the defendant could not have fired the fatal shot.
+
+19Link to the location of the note in the document
+This is the standard generally applied by lower courts in evaluating motions for new trial under Fed. Rule Crim. Proc. 33 based on newly discovered evidence. See, e.g., Ashe v. United States, 288 F. 2d 725, 733 (CA6 1961); United States v. Thompson, 493 F. 2d 305, 310 (CA9 1974), cert. denied, 419 U.S. 834; United States v. Houle, 490 F. 2d 167, 171 (CA2 1973), cert. denied, 417 U.S. 970; United States v. Meyers, 484 F. 2d 113, 116 (CA3 1973); Heald v. United States, 175 F. 2d 878, 883 (CA10 1949). See also 2 C. Wright, Federal Practice and Procedure § 557 (1969).
+
+20Link to the location of the note in the document
+It has been argued that the standard should focus on the impact of the undisclosed evidence on the defendant's ability to prepare for trial, rather than the materiality of the evidence to the issue of guilt or innocence. See Note, The Prosecutor's Constitutional Duty to Reveal Evidence to the Defense, 74 Yale L.J. 136 (1964). Such a standard would be unacceptable for determining the materiality of what has been generally recognized as "Brady material" for two reasons. First, that standard would necessarily encompass incriminating evidence as well as exculpatory evidence, since knowledge of the prosecutor's entire case would always be useful in planning the defense. Second, such an approach would primarily involve an analysis of the adequacy of the notice given to the defendant by the State, and it has always been the Court's view that the notice component of due process refers to the charge rather than the evidentiary support for the charge.
+
+21Link to the location of the note in the document
+"If, for example, one of only two eyewitnesses to a crime had told the prosecutor that the defendant was definitely not its perpetrator and if this statement was not disclosed to the defense, no court would hesitate to reverse a conviction resting on the testimony of the other eyewitness. But if there were fifty eyewitnesses, forty-nine of whom identified the defendant, and the prosecutor neglected to reveal that the other, who was without his badly needed glasses on the misty evening of the crime, had said that the criminal looked something like the defendant but he could not be sure as he had only had a brief glimpse, the result might well be different." Comment 40 U. Chi. L. Rev., supra, n. 10, at 125.
+
+22Link to the location of the note in the document
+See, e.g., Stout v. Cupp, 426 F. 2d 881, 882-883 (CA9 1970); Peterson v. United States, 411 F. 2d 1074, 1079 (CA8 1969); Lessard v. Dickson, 394 F. 2d 88, 90-92 (CA9 1968), cert. denied, 393 U.S. 1004; United States v. Tomaiolo, 378 F. 2d 26, 28 (CA2 1967). One commentator has identified three different standards this way:
+
+"As discussed previously, in earlier cases the following standards for determining materiality for disclosure purposes were enunciated: (1) evidence which may be merely helpful to the defense; (2) evidence which raised a reasonable doubt as to defendant's guilt; (3) evidence which is of such a character as to create a substantial likelihood of reversal." Comment, Materiality and Defense Requests: Aids in Defining the Prosecutor's Duty of Disclosure, 59 Iowa L. Rev. 433, 445 (1973).
+
+See also Note, The Duty of the Prosecutor to Disclose Exculpatory Evidence, 60 Col. L. Rev. 858 (1960).

@@ -1,0 +1,294 @@
+﻿
+        
+        Cantor v. Detroit Edison Co., 428 U.S. 579, 96 S. Ct. 3110 (1976)
+        
+
+
+      
+
+ [*581]   [***1144]   [**3113]  MR. JUSTICE STEVENS delivered the opinion of the Court. +Link to the text of the note
+
+In Parker v. Brown, 317 U.S. 341, the Court [****5]  held that the Sherman Act was not violated by state action displacing competition in the marketing of raisins. In this case we must decide whether the Parker rationale immunizes private action which has been approved by a State and which must be continued while the state approval remains effective.
+
+The Michigan Public Service Commission pervasively regulates the distribution of electricity within the State and also has given its approval to a marketing practice which has a substantial impact on the otherwise unregulated business of distributing electric light bulbs. Assuming, arguendo, that the approved practice has unreasonably restrained trade in the light-bulb market, the District Court 1Link to the text of the note and the Court of Appeals 2Link to the text of the note held, on the authority of Parker, that the Commission's approval exempted the practice from the federal antitrust laws. Because we questioned the applicability of Parker to this situation, we granted certiorari, 423 U.S. 821. We now reverse.
+
+ [****6]  LEdHN[1] [1]Petitioner, a retail druggist selling light bulbs, claims that respondent is using its monopoly power in the distribution of electricity to restrain competition in the sale of bulbs in violation of the Sherman Act. 3Link to the text of the note Discovery  [*582]  and argument in connection with defendant's motion  [***1145]  for summary judgment were limited by stipulation to the issue raised by the Commission's approval of respondent's light-bulb-exchange program. We state only the facts pertinent to that issue and assume, without opining, that without such approval an antitrust violation would exist. To the extent that the facts are disputed, we must resolve doubts in favor of the petitioner since summary judgment was entered against him. We first describe respondent's "lamp exchange program," we next discuss the holding in Parker v. Brown, and then we consider whether that holding should be extended to cover this case. Finally, we comment briefly on additional authorities on which respondent relies.
+
+ [****7]  I
+
+Respondent, the Detroit Edison Co., distributes electricity and electric light bulbs to about five million people in southeastern Michigan. In this marketing area, respondent is the sole supplier of electricity, and supplies consumers with almost 50% of the  [**3114]  standard-size light bulbs they use most frequently. 4Link to the text of the note Customers are billed for the electricity they consume, but pay no separate charge for light bulbs. Respondent's rates, including the omission of any separate charge for bulbs, have been approved by the Michigan Public Service Commission, and may not be changed without the Commission's approval. Respondent must, therefore, continue  [*583]  its lamp-exchange program until it files a new tariff and that new tariff is approved by the Commission.
+
+Respondent, or a predecessor, has been following the [****8]  practice of providing limited amounts of light bulbs to its customers without additional charge since 1886. 5Link to the text of the note [****9]  In 1909 the State of Michigan began regulation of electric utilities. 6Link to the text of the note In 1916 the Michigan Public Service Commission first approved a tariff filed by respondent setting forth the lamp-supply program. Thereafter, the Commission's approval of respondent's tariffs has included implicit approval of the lamp-exchange program. In 1964 the Commission also approved respondent's decision to eliminate the program for large commercial customers. 7Link to the text of the note The elimination of the service for such customers became effective as part of a general rate reduction for those customers.
+
+In 1972 respondent provided its  [***1146]  residential customers with 18,564,381 bulbs at a cost of $2,835,000. 8Link to the text of the note [****10]  In its accounting to the Michigan Public Service Commission, respondent included this amount as a portion of its cost of providing service to its customers. Respondent's accounting records reflect no direct profit as a result of the  [*584]  distribution of bulbs. The purpose of the program, according to respondent's executives, is to increase the consumption of electricity. The effect of the program, according to petitioner, is to foreclose competition in a substantial segment of the light-bulb market.9Link to the text of the note
+
+The distribution of electricity in Michigan is pervasively regulated by the Michigan Public Service Commission. HN1 A Michigan statute 10Link to the text of the note vests the Commission with "complete power and jurisdiction to regulate all public utilities in the state…." The statute confers express power on the Commission "to regulate all rates, fares, fees, charges, services, rules, conditions of service, and all other matters pertaining to the formation, operation, or direction of such public utilities." Respondent advises us that the heart of the Commission's function is to regulate the "'furnishing… [of] electricity for the production of light, heat or power….'" 11Link to the text of the note
+
+ [****11]  The distribution of electric light bulbs in Michigan is unregulated. The statute creating the Commission contains no direct reference to light bulbs. Nor, as far as we have been advised, does any other Michigan  [**3115]  statute authorize the regulation of that business. Neither the Michigan Legislature, nor the Commission, has ever made any specific investigation of the desirability of a lamp-exchange program or of its possible effect on competition in the light-bulb market. Other utilities regulated by the Michigan Public Service Commission do not follow the practice of providing bulbs to their customers at no  [*585]  additional charge. The Commission's approval of respondent's decision to maintain such a program does not, therefore, implement any statewide policy relating to light bulbs. We infer that the State's policy is neutral on the question whether a utility should, or should not, have such a program.
+
+Although there is no statute, Commission rule, or policy which would prevent respondent from abandoning the program merely by filing a new tariff providing for a proper adjustment in its rates, it is nevertheless apparent that while the existing tariff remains [****12]  in effect, respondent may not abandon the program without violating a Commission order, and therefore without violating state law. It has, therefore, been permitted by the Commission to carry out the program, and also is required to continue to do so until an appropriate filing has been made and has received the approval of the Commission.
+
+Petitioner has not named any public  [***1147]  official as a party to this litigation and has made no claim that any representative of the State of Michigan has acted unlawfully.
+
+II
+
+In Parker v. Brown the Court considered whether the Sherman Act applied to state action. The way the Sherman Act question was presented and argued in that case sheds significant light on the character of the state-action concept embraced by the Parker holding.
+
+The plaintiff, Brown, was a producer and packer of raisins; the defendants were the California Director of Agriculture and other public officials charged by California statute with responsibility for administering a program for the marketing of the 1940 crop of raisins. The express purpose of the program was to restrict competition among the growers and maintain prices in the distribution  [*586]   [****13]  of raisins to packers. 12Link to the text of the note [****14]  Nevertheless, in the District Court, Brown did not argue that the defendants had violated the Sherman Act. He sought an injunction against the enforcement of the program on the theory that it interfered with his constitutional right to engage in interstate commerce. Because he was attacking the constitutionality of a California statute and regulations having statewide applicability, a three-judge District Court was convened. 13Link to the text of the note With one judge dissenting, the District Court held that the program violated the Commerce Clause and granted injunctive relief. 14Link to the text of the note
+
+The defendant state officials took a direct appeal to this Court. Probable jurisdiction  [**3116]  was noted on April 6, 1942, and the Court heard oral argument on the Commerce  [*587]  Clause issue on May 5, 1942. In the meantime, on April 27, 1942, the Court held that the State of Georgia is a "person" within the meaning of § 7 of the Sherman Act and therefore entitled to maintain an action for treble damages. Georgia v. Evans, 316 U.S. 159.
+
+Presumably because the Court was then concerned with the relationship between the sovereign States and the antitrust laws, it immediately [****15]   [***1148]  set Parker v. Brown for reargument 15Link to the text of the note and, on its own motion, requested the Solicitor General of the United States to file a brief as amicus curiae and directed the parties to discuss the question whether the California statute was rendered invalid by the Sherman Act. 16Link to the text of the note
+
+ [****16]  In his supplemental brief the Attorney General of  [*588]  California 17Link to the text of the note advanced three arguments against using the Sherman Act as a basis for upholding the injunction entered by the District Court. He contended (1) that even though a State is a "person" entitled to maintain a treble-damage action as a plaintiff, Congress never intended to subject a sovereign State to the provisions of the Sherman Act; (2) that the California program did not, in any event, violate the federal statute; and (3) that since no evidence or argument pertaining to the Sherman Act had been offered or considered in the District Court, the injunction should not be sustained on an antitrust theory. 18Link to the text of the note
+
+ [****17]  In his brief for the United States as amicus curiae, the Solicitor General did not take issue with the appellants' first argument. He contended that the California program was inconsistent with the policy of the Sherman Act, but expressly disclaimed any argument that the State of California or its officials had violated federal law. 19Link to the text of the note [****18]   [**3117]  Later in his  [***1149]  brief the Solicitor General drew an  [*589]  important distinction between economic action taken by the State itself and private action taken pursuant to a state statute permitting or requiring individuals to engage in conduct prohibited by the Sherman Act. The Solicitor General contended that the private conduct would clearly be illegal but recognized that a different problem existed with respect to the State itself. 20Link to the text of the note It was the latter problem that was presented in the Parker case.
+
+This Court set aside the injunction entered by the District Court. In the portion of his opinion for the Court discussing the Sherman Act issue, Mr. Chief Justice Stone addressed only the first of the three arguments advanced by the California Attorney General. The Court held that even though comparable programs organized by private persons would be illegal, the action taken by state officials pursuant to express legislative command did not violate the Sherman Act. 21Link to the text of the note
+
+ [****19]   [*590]  This narrow holding made it unnecessary for the Court to agree or to disagree with the Solicitor General's view that a state statute permitting or requiring private conduct prohibited by federal law "would clearly be void." 22Link to the text of the note The Court's narrow holding also avoided any question about the applicability of the antitrust laws to private action taken under color of state law.
+
+Unquestionably the term "state action" may be used broadly to encompass  [***1150]  individual action supported to some extent by state law or custom. Such a broad use of the term, which is familiar in civil rights litigation, 23Link to the text of the note [****20]  is not,  [*591]  however, what Mr. Chief Justice Stone described in his Parker opinion. He carefully selected language which plainly  [**3118]  limited the Court's holding to official action taken by state officials. 24Link to the text of the note
+
+ [****21]  In this case, unlike Parker, the only defendant is a private utility. No public officials or agencies are named as parties and there is no claim that any state action violated the antitrust laws. Conversely, in Parker there was no claim that any private citizen or company had violated the law. The only Sherman Act issue decided was whether the sovereign State itself, which had been held to be a person within the meaning of § 7 of the statute, was also subject to its prohibitions. Since the case now before us does not call into question the legality of any  [*592]  act of the State of Michigan or any of its officials or agents, it is not controlled by the Parker decision.
+
+III
+
+In this case we are asked to hold that private conduct required by state law is exempt from the Sherman Act. Two quite different reasons might support such a rule. First, if a private citizen has done nothing more than obey the command of his state sovereign, it would be unjust to conclude that he has thereby offended federal law. Second, if the State is already regulating an area of the economy, it is arguable that Congress did not intend to superimpose the antitrust laws as an additional, and [****22]  perhaps conflicting, regulatory mechanism. We consider these two reasons separately. 
+
+LEdHN[2] [2]We may assume, arguendo, that it would be unacceptable ever to impose statutory liability on a party who had done nothing more than obey a state command. Such an assumption would not decide this case, if, indeed, it would decide any actual case. For typically cases of this kind involve a blend of private and public decisionmaking. 25Link to the text of the note [****23]  The Court has already decided that HN2 state  [***1151]  authorization, 26Link to the text of the note approval, 27Link to the text of the note encouragement, 28Link to the text of the note or  [*593]  participation 29Link to the text of the note [****24]  in restrictive private  [**3119]  conduct confers no antitrust immunity. And in Schwegmann Bros. v. Calvert Corp., 341 U.S. 384, the Court invalidated the plaintiff's entire resale price maintenance program even though it was effective throughout the State only because the Louisiana statute imposed a direct restraint on retailers who had not signed fair trade agreements.30Link to the text of the note
+
+In each of these cases the initiation and enforcement of the program under attack involved a mixture of private and public decisionmaking. In each case, notwithstanding the state participation in the decision, the private party exercised sufficient freedom of choice to enable the Court to conclude that he should be held [****25]  responsible for the consequences of his decision.
+
+The case before us also discloses a program which is the product of a decision in which both the respondent and the  [*594]  Commission participated. Respondent could not maintain the lamp-exchange program without the approval of the Commission, and now may not abandon it without such approval. Nevertheless, there can be no doubt that the option to have, or not to have, such a program is primarily respondent's, not the Commission's. 31Link to the text of the note [****26]  Indeed, respondent  [***1152]  initiated the program years before the regulatory agency was even created. There is nothing unjust in a conclusion that respondent's participation in the decision is sufficiently significant to require that its conduct implementing the decision, like comparable conduct by unregulated businesses, conform to applicable federal law. 32Link to the text of the note Accordingly, even though there may be cases in which the State's participation in a decision is so dominant  [*595]  that it would be unfair to hold a private party responsible for his conduct in implementing it, this record discloses no such unfairness.
+
+Apart from the question of fairness to the individual who must conform not only to state regulation but to the federal antitrust laws as well, we must consider whether Congress intended to superimpose antitrust standards on conduct already being regulated under a different standard. Amici curiae forcefully contend that the competitive standard imposed by antitrust legislation  [**3120]  is fundamentally inconsistent with the "public interest" standard widely enforced by regulatory agencies, and that the essential teaching of Parker v. Brown is that the federal antitrust laws should not be applied in areas of the economy pervasively regulated by state agencies.
+
+There are at least three reasons why this argument is unacceptable. First, merely because certain conduct may be subject both to state [****27]  regulation and to the federal antitrust laws does not necessarily mean that it must satisfy inconsistent standards; second, even assuming inconsistency, we could not accept the view that the federal interest must inevitably be subordinated to the State's; and finally, even if we were to assume that Congress did not intend the antitrust laws to apply to areas of the economy primarily regulated by a State, that assumption would not foreclose the enforcement of the antitrust laws in an essentially unregulated area such as the market for electric light bulbs.
+
+LEdHN[3A] [3A]Unquestionably there are examples of economic regulation in which the very purpose of the government control is to avoid the consequences of unrestrained competition. Agricultural marketing programs, such as that involved in Parker, were of that character. But all economic regulation does not necessarily suppress competition. On the contrary, public utility regulation typically  [*596]  assumes that the private firm is a natural monopoly and that public controls are necessary to protect the consumer from exploitation. 33Link to the text of the note  [***1153]  There [****28]  is no logical inconsistency between requiring such a firm to meet regulatory criteria insofar as it is exercising its natural monopoly powers and also to comply with antitrust standards to the extent that it engages in business activity in competitive areas of the economy. 34Link to the text of the note Thus, Michigan's regulation of respondent's distribution of electricity poses no necessary conflict with a federal requirement that respondent's activities in competitive markets satisfy antitrust standards. 35Link to the text of the note
+
+ [****29]  LEdHN[3B] [3B]
+
+LEdHN[4] [4] LEdHN[5] [5]The mere possibility of conflict between state regulatory policy and federal antitrust policy is an insufficient basis for implying an exemption from the federal antitrust laws. Congress could hardly have intended state regulatory agencies to have broader power than federal agencies to exempt private conduct from the antitrust laws. 36Link to the text of the note Therefore, assuming that there are [****30]   [**3121]  situations in  [*597]  which the existence of state regulation should give rise to an implied exemption, the standards for ascertaining the existence and scope of such an exemption surely must be at least as severe as those applied to federal regulatory legislation.
+
+ [****31]  LEdHN[6A] [6A] LEdHN[7A] [7A] LEdHN[8A] [8A]The Court has consistently refused to find that regulation gave rise to an implied exemption without first determining that exemption was necessary in order to make the regulatory Act work, "and  [***1154]  even then only to the minimum extent necessary." 37Link to the text of the note
+
+LEdHN[6B] [6B] LEdHN[7B] [7B] LEdHN[8B] [8B]
+
+ [****32]   [*598]  The application of that standard to this case inexorably requires rejection of respondent's claim. For Michigan's regulatory scheme does not conflict with federal antitrust policy and, conversely, if the federal antitrust laws should be construed to outlaw respondent's lightbulb-exchange program, there is no reason to believe that Michigan's regulation of its electric utilities will no longer be able to function effectively. Regardless of the outcome of this case, Michigan's interest in regulating its utilities' distribution of electricity will be almost entirely unimpaired.
+
+LEdHN[9] [9] LEdHN[10A] [10A]We conclude that neither Michigan's approval of the tariff filed by respondent, nor the fact that the lamp-exchange program may not be terminated until a new tariff is filed, is a sufficient basis for implying an exemption from the federal antitrust laws for that program. 38Link to the text of the note
+
+LEdHN[10B] [10B]
+
+ [****33]  IV
+
+The dissenting opinion voices the legitimate concern that violation of the antitrust laws by regulated companies may give rise to "massive treble damage liabilities." This is an oft-repeated criticism of the inevitably  [*599]  imprecise language of the Sherman Act and of the consequent difficulty in predicting with certainty its application to various specific fact situations. 39Link to the text of the note The far-reaching value of this basic part of our law, however, has enabled it to withstand such criticism in the past. 40Link to the text of the note
+
+ [****34]  The  [***1155]   [**3122]  concern about treble-damage liability has arguable relevance to this case in two ways. If the hazard of violating the antitrust laws were enhanced by the fact of regulation, or if a regulated company had engaged in anticompetitive conduct in reliance on a justified understanding that such conduct was immune from the antitrust laws, a concern with the punitive aspects of the treble-damage remedy would be appropriate. But neither of those circumstances is present in this case.
+
+When regulation merely takes the form of approval of a tariff proposed by the company, it surely has not increased the company's risk of violating the law. The  [*600]  respondent utility maintained its lamp-exchange program both before and after it was regulated. The approval of the program by the Michigan Commission provided the company with an arguable defense to the antitrust charge, but did not increase its exposure to liability.
+
+Nor can the utility fairly claim that it was led to believe that its conduct was exempt from the federal antitrust laws. A claim of immunity or exemption is in the nature of an affirmative defense to conduct which is otherwise assumed to [****35]  be unlawful. This Court has never sustained a claim that otherwise unlawful private conduct is exempt from the antitrust laws because it was permitted or required by state law.
+
+In the Court's most recent consideration of this subject, it described the defendant's claim with pointed precision as "this so-called state-action exemption." Goldfarb v. Virginia State Bar, 421 U.S., 773, 788. The Court then explained that the question whether the anticompetitive activity had been required by the State acting as sovereign was the "threshold inquiry" in determining whether it was state action of the type the Sherman Act was not meant to proscribe.41Link to the text of the note Certainly that careful use of language could not have been read as a guarantee that compliance with any state requirement would automatically confer federal antitrust immunity.
+
+ [****36]  The dissenting opinion in this case makes much of the obvious fact that Parker v. Brown implicitly held that California's raisin-marketing program was not a violation of the Sherman Act. That is, of course, perfectly  [*601]  true. But HN8 the only way the legality of any program may be tested under the Sherman Act is by determining whether the persons who administer it have acted lawfully. The federal statute proscribes the conduct of persons, not programs, and the narrow holding in Parker concerned only the legality of the conduct of the state officials charged by law with the responsibility for administering California's program. What sort of charge might have been made against the various private persons who engaged in a variety of different activities implementing that program is unknown and unknowable because no such  [***1156]  charges were made. 42Link to the text of the note Even if the state program had been held unlawful, such a holding would not necessarily have supported a claim that private individuals who had merely conformed their conduct to an  [**3123]  invalid program had thereby violated the Sherman Act. Unless and until a court answered that question, there would be no occasion to [****37]  consider an affirmative defense of immunity or exemption.
+
+Nor could respondent justifiably rely on either the holding in Eastern R. Conf. v. Noerr Motors, 365 U.S. 127, or the reference in that opinion to Parker. 43Link to the text of the note The holding in Noerr was that the concerted activities of the railroad defendants in opposing legislation favorable to the plaintiff motor carriers was not prohibited by the Sherman Act. The case did not involve any question of either liability or exemption for private action taken in compliance with state law.
+
+ [****38]  Moreover, nothing in the Noerr opinion implies that  [*602]  the mere fact that a state regulatory agency may approve a proposal included in a tariff, and thereby require that the proposal be implemented until a revised tariff is filed and approved, is a sufficient reason for conferring antitrust immunity on the proposed conduct. The passage quoted in the dissent, post, at 622, sets up an assumed dichotomy between a restraint imposed by governmental action, as contrasted with one imposed by private action, and then cites United States v. Rock Royal Co-op., 307 U.S. 533, and Parker for the conclusion that the former does not violate the Sherman Act. 44Link to the text of the note That passing reference to Parker sheds no light on the significance of state action which amounts to little more than approval of a private proposal. It surely does not qualify the categorical statement in Parker that "a state does not give immunity to those who violate the Sherman Act by authorizing them to violate it, or by declaring that their action is lawful." 317 U.S., at 351. Yet the dissent would allow every state agency to grant precisely that immunity by merely including a direction to engage [****39]  in the proposed conduct in an approval order. 45Link to the text of the note
+
+ [****40]   [*603]  MR.  [***1157]  JUSTICE STEWART's separate opinion possesses a virtue which ours does not. It announces a simple rule that can easily be applied in any case in which a state regulatory agency approves a proposal and orders a regulated company to comply with it. No matter what the impact of the proposal on interstate commerce, and no matter how peripheral or casual the State's interests may be in permitting it to go into effect, the state act would confer immunity from treble-damages liability. Such a rule is supported by the wholesome interest in simplicity in the regulation of a complex economy. In our judgment, however, that interest is heavily outweighed by the fact that such a rule may give a host of state regulatory agencies broad power to grant exemptions from an important federal law for reasons wholly unrelated either to federal policy or even to any necessary significant state interest. Although it is tempting to try to fashion a rule which would govern the decision of the liability issue and the damages issue in all future cases presenting  [**3124]  state-action issues, we believe the Court should adhere to its settled policy of giving concrete meaning [****41]  to the general language of the Sherman Act by a process of case-by-case adjudication of specific controversies.
+
+Since the District Court has not yet addressed the question whether the complaint alleged a violation of the antitrust laws, the case is remanded for a determination of that question and for such other proceedings as may be appropriate.
+
+Reversed and remanded.
+
+
+392 F. Supp. 1110 (ED Mich. 1974).
+
+2Link to the location of the note in the document
+513 F. 2d 630 (CA6 1975).
+
+3Link to the location of the note in the document
+Petitioner's complaint asserts that respondent's light-bulb-exchange program violates § 2 of the Sherman Act, 15 U.S.C. § 2, and § 3 of the Clayton Act, 15 U.S.C. § 14. In his brief in this Court, petitioner has also argued that the program constitutes unlawful tying violative of § 1 of the Sherman Act. The complaint seeks treble damages and an injunction permanently enjoining respondent from requiring the purchase of bulbs in connection with the sale of electrical energy. The complaint purports to be filed on behalf of all persons similarly situated, but the record contains no indication that the plaintiff moved for a class determination pursuant to Fed. Rule Civ. Proc. 23 (c).
+
+4Link to the location of the note in the document
+Respondent does not distribute fluorescent lights or high-intensity discharge lamps; if bulbs of those types were included, respondent's share of the market would only be about 23%.
+
+5Link to the location of the note in the document
+Under respondent's practice, new residential customers are provided with bulbs in "such quantities as may be needed" for all of their permanent fixtures; thereafter, respondent replaces residential customers' burned out light bulbs in proportion to their estimated use of electricity for lighting. The customer incurs no direct charge for such bulbs at the time they are furnished to him, but normally turns in any burned-out bulbs to obtain a new supply.
+
+6Link to the location of the note in the document
+See Mich. Comp. Laws §§ 460.551, 460.559 (1970).
+
+7Link to the location of the note in the document
+Apparently many commercial customers use relatively large quantities of fluorescent lighting and therefore have less interest in the bulb-exchange program.
+
+8Link to the location of the note in the document
+Of this amount, $ 2,363,328 was paid to the three principal manufacturers of bulbs from whom respondent made its purchases; the other $ 471,672 represented costs incurred in the use of respondent's personnel and facilities in carrying out the program.
+
+9Link to the location of the note in the document
+According to respondent the effect of the program is to save consumers about $3 million a year, since the bulbs they now receive at a cost of $ 2,835,000 would cost them about $ 6 million in the retail market.
+
+10Link to the location of the note in the document
+Mich. Comp. Laws § 460.6 (1970).
+
+11Link to the location of the note in the document
+See Brief for Respondent 11; Mich. Comp. Laws § 460.501 (1970).
+
+12Link to the location of the note in the document
+"The California Agricultural Prorate Act authorizes the establishment, through action of state officials, of programs for the marketing of agricultural commodities produced in the state, so as to restrict competition among the growers and maintain prices in the distribution of their commodities to packers. The declared purpose of the Act is to 'conserve the agricultural wealth of the State' and to 'prevent economic waste in the marketing of agricultural products' of the state." 317 U.S., at 346.
+
+"The declared objective of the California Act is to prevent excessive supplies of agricultural commodities from 'adversely affecting' the market, and although the statute speaks in terms of 'economic stability' and 'agricultural waste' rather than of price, the evident purpose and effect of the regulation is to 'conserve agricultural wealth of the state' by raising and maintaining prices, but 'without permitting unreasonable profits to producers.' § 10." Id., at 355.
+
+13Link to the location of the note in the document
+Title 28 U.S.C. § 2281 has been consistently read by this Court as authorizing a three-judge court only when the state statute which is sought to be enjoined is of a general and statewide application. Moody v. Flowers, 387 U.S. 97, 101.
+
+14Link to the location of the note in the document
+Article I, § 8, cl. 3, of the United States Constitution provides:
+
+"Congress shall have Power… To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes…."
+
+15Link to the location of the note in the document
+The Court also asked the parties to consider whether the Agricultural Adjustment Act, as amended, or any other Act of Congress, invalidated the California program. The supplemental briefs noted that the California program had been adopted with the collaboration of officials of the United States Department of Agriculture, and had been aided by loans from the Commodity Credit Corporation recommended by the Secretary of Agriculture. These facts were emphasized in portions of Mr. Chief Justice Stone's opinion discussing the Agricultural Adjustment Act and the Commerce Clause, see 317 U.S., at 357, 358-359, 368, but were not mentioned in connection with the Court's discussion of the Sherman Act.
+
+16Link to the location of the note in the document
+The first order entered in the Supreme Court Journal on Monday, May 11, 1942, provided:
+
+"No. 1040. W.B. Parker, Director of Agriculture, et al., appellants, v. Porter L. Brown. This cause is restored to the docket for reargument on October 12 next. In their briefs and on the oral argument counsel for the parties are requested to discuss the questions whether the state statute involved is rendered invalid by the action of Congress in passing the Sherman Act, the Agricultural Adjustment Act as amended, or any other Act of Congress. The Solicitor General is requested to file a brief as amicus curiae and, if he so desires, to participate in the oral argument." Journal, O. T. 1941, p. 252.
+
+17Link to the location of the note in the document
+The Honorable Earl Warren, later Chief Justice of the United States.
+
+18Link to the location of the note in the document
+In the index to his supplemental brief, the California Attorney General outlined his discussion of the Sherman Act in these words:
+
+"The Sherman Anti-Trust law and the California raisin program...................................35
+
+"1. Is a state subject to the Sherman Act?..................................................................35
+
+"2. Does the state seasonal program for raisins violate the
+
+provisions of the Sherman Act?..................................................................................48
+
+"(a) The Sherman Act is circumscribed by the rule of reason ......................................53
+
+"(b) Federal legislation as exempting state program from anti-trust laws.......................60
+
+"3. May the California raisin program be enjoined in the present action?....................64"
+
+19Link to the location of the note in the document
+At p. 59 of its brief, the Government stated:
+
+"The Sherman Act does not in terms define its scope in so far as it applies to the activities of state governments. But nothing in the Act precludes its application to programs sponsored by the states. Sections 1 and 2 prohibit unlawful conduct by 'persons,' and the word 'person,' as defined in Section 7, in some connections at least, may include a state. Georgia v. Evans, 316 U.S. 159.
+
+"But the question we face here is not whether California or its officials have violated the Sherman Act, but whether the state program interferes with the accomplishment of the objectives of the federal statute."
+
+20Link to the location of the note in the document
+At p. 63 of its brief, the Government stated:
+
+"A state statute permitting, or requiring, dealers in a commodity to combine so as to limit the supply or raise the price of a subject of interstate commerce would clearly be void. The question here is whether a state may itself undertake to control the supply and price of a commodity shipped in interstate commerce or otherwise restrain interstate competition through a mandatory regulation."
+
+21Link to the location of the note in the document
+"But it is plain that the prorate program here was never intended to operate by force of individual agreement or combination. It derived its authority and its efficacy from the legislative command of the state and was not intended to operate or become effective without that command. We find nothing in the language of the Sherman Act or in its history which suggests that its purpose was to restrain a state or its officers or agents from activities directed by its legislature. In a dual system of government in which, under the Constitution, the states are sovereign, save only as Congress may constitutionally subtract from their authority, an unexpressed purpose to nullify a state's control over its officers and agents is not lightly to be attributed to Congress.
+
+"The Sherman Act makes no mention of the state as such, and gives no hint that it was intended to restrain state action or official action directed by a state.
+
+. . .
+
+"There is no suggestion of a purpose to restrain state action in the Act's legislative history. The sponsor of the bill which was ultimately enacted as the Sherman Act declared that it prevented only 'business combinations.' 21 Cong. Rec. 2562, 2457; see also [id.] at 2459, 2461. That its purpose was to suppress combinations to restrain competition and attempts to monopolize by individuals and corporations, abundantly appears from its legislative history.
+
+.. .
+
+"The state in adopting and enforcing the prorate program made no contract or agreement and entered into no conspiracy in restraint of trade or to establish monopoly but, as sovereign, imposed the restraint as an act of government which the Sherman Act did not undertake to prohibit. Olsen v. Smith, 195 U.S. 332, 344-[3]45; cf. Lowenstein v. Evans, 69 F. 908, 910." 317 U.S., at 350-352.
+
+22Link to the location of the note in the document
+See n. 15, supra.
+
+23Link to the location of the note in the document
+See Monroe v. Pape, 365 U.S. 167, 172-187; Adickes v. Kress & Co., 398 U.S. 144, 188-234 (BRENNAN, J., concurring in part and dissenting in part).
+
+24Link to the location of the note in the document
+In his three-page discussion of the Sherman Act issue in Parker v. Brown, Mr. Chief Justice Stone made 13 references to the fact that state action was involved. Each time his language was carefully chosen to apply only to official action, as opposed to private action approved, supported, or even directed by the State. Thus, his references were to (1) "the legislative command of the state," and (2) "a state or its officers or agents from activities directed by its legislature," 317 U.S., at 350; and to (3) "a state's control over its officers and agents," (4) "the state as such," (5) "state action or official action directed by a state," and (6) "state action," id., at 351; and to (7) "the state command to the Commission and to the program committee," (8) "state action," (9) "the state which has created the machinery for establishing the prorate progam," (10) "it is the state, acting through the Commission, which adopts the program…," (11) "[t]he state itself exercises its legislative authority," (12) "[t]he state in adopting and enforcing the prorate program…," and finally (13) "as sovereign, imposed the restraint as an act of government…," id., at 352.
+
+The cumulative effect of these carefully drafted references unequivocally differentiates between official action, on the one hand, and individual action (even when commanded by the State), on the other hand.
+
+25Link to the location of the note in the document
+Indeed, in Parker v. Brown itself, there was significant private participation in the formulation and effectuation of the proration program. As the Court pointed out, approval of the program upon referendum by a prescribed number of producers was one of the conditions for effectuating the program. See ibid.
+
+26Link to the location of the note in the document
+"It cannot be said that any State may give a corporation, created under its laws, authority to restrain interestate or international commerce against the will of the nation as lawfully expressed by Congress." Northern Securities Co. v. United States, 193 U.S. 197, 346.
+
+27Link to the location of the note in the document
+In the Parker opinion itself, the Court pointed out that HN3 a State does not give immunity to those who violate the Sherman Act "by declaring that their action is lawful." 317 U.S., at 351.
+
+28Link to the location of the note in the document
+"Respondents' arguments, at most, constitute the contention that their activities complemented the objective of the ethical codes. In our view that is not state action for Sherman Act purposes. It is not enough that, as the County Bar puts it, anticompetitive conduct is 'prompted' by state action; rather, anticompetitive activities must be compelled by direction of the State acting as a sovereign," Goldfarb v. Virginia State Bar, 421 U.S. 773, 791.
+
+29Link to the location of the note in the document
+See Continental Co. v. Union Carbide, 370 U.S. 690; cf. also Union Pacific R. Co. v. United States, 313 U.S. 450, cited in Parker v. Brown, supra, at 352.
+
+30Link to the location of the note in the document
+Thus, although the private decision to enforce a statewide fair trade program was not only approved by the State, but actually would have been ineffective without the statutory command to nonsigners to adhere to the prices set by the plaintiff, the rationale of Parker v. Brown did not immunize the restraint. Quite the contrary, in his opinion for the Court Mr. Justice Douglas cited Parker for the proposition that private conduct was forbidden by the Sherman Act even though the State had compelled retailers to follow a parallel price policy. He said: "Therefore, when a state compels retailers to follow a parallel price policy, it demands private conduct which the Sherman Act forbids. See Parker v. Brown, 317 U.S. 341, 350." 341 U.S., at 389.
+
+31Link to the location of the note in the document
+We recently described an analogous exercise of a public utility's power to make business decisions subject to Commission approval in Jackson v. Metropolitan Edison Co., 419 U.S. 345:
+
+HN4 "The nature of governmental regulation of private utilities is such that a utility may frequently be required by the state regulatory scheme to obtain approval for practices a business regulated in less detail would be free to institute without any approval from a regulatory body. Approval by a state utility commission of such a request from a regulated utility, where the Commission has not put its own weight on the side of the proposed practice by ordering it, does not transmute a practice initiated by the utility and approved by the Commission into 'state action.' At most, the Commission's failure to overturn this practice amounted to no more than a determination that a Pennsylvania utility was authorized to employ such a practice if it so desired. Respondent's exercise of the choice allowed by state law where the initiative comes from it and not from the State, does not make its action in doing so 'state action' for purposes of the Fourteenth Amendment." Id., at 357. (Footnote omitted.)
+
+32Link to the location of the note in the document
+Nor is such a conclusion even arguably inconsistent with the underlying rationale of Parker v. Brown. For in that case California required every raisin producer in the State to comply with the proration program, whereas Michigan has never required any utility to adopt a lamp-exchange program.
+
+33Link to the location of the note in the document
+As MR. JUSTICE STEWART pointed out in his dissenting opinion in Otter Tail Power Co. v. United States, 410 U.S. 366, 389, the "very reason for the regulation of private utility rates -- by state bodies and by the Commission -- is the inevitability of a monopoly that requires price control to take the place of price competition."
+
+34Link to the location of the note in the document
+Commenting on a possible conflict between federal regulatory policy and federal antitrust policy we have repeatedly said "'[r]epeal [of the antitrust laws] is to be regarded as implied only if necessary to make the… [Act] work, and even then only to the minimum extent necessary.'" Id., at 391, quoting Silver v. New York Stock Exchange, 373 U.S. 341, 357.
+
+35Link to the location of the note in the document
+Indeed, since our decision in Otter Tail Power Co. v. United States, supra, there can be no doubt about the proposition that HN5 the federal antitrust laws are applicable to electrical utilities. Although there was dissent from the particular application of the statute in that case, there was no dissent from the basic proposition that such utilities must obey the federal antitrust laws.
+
+36Link to the location of the note in the document
+Respondent does not argue that state regulation provides a stronger justification for an implied exemption than federal regulation. On the contrary, respondent relies heavily on Gordon v. New York Stock Exchange, 422 U.S. 659, in which the Court upheld the fixed commissions of the stock exchange as an integral part of the effective operation of the Securities Exchange Act of 1934. The inapplicability of that case is manifest from MR. JUSTICE STEWART'S brief concurring opinion in which he stated:
+
+"The Court has never held, and does not hold today, that the antitrust laws are inapplicable to anticompetitive conduct simply because a federal agency has jurisdiction over the activities of one or more of the defendants. HN6 An implied repeal of the antitrust laws may be found only if there exists a 'plain repugnancy between the antitrust and regulatory provisions.' United States v. Philadelphia Nat. Bank, 374 U.S. 321, 351.
+
+"The mere existence of the Commission's reserve power of oversight with respect to rules initially adopted by the exchanges, therefore, does not necessarily immunize those rules from antitrust attack…. The question presented by the present case, therefore, is whether exchange rules fixing minimum commission rates are 'necessary to make the Securities Exchange Act work.'" Id., at 692-693.
+
+The lamp-supply program is by no means comparably imperative in the continued effective functioning of Michigan's regulation of the utilities industry.
+
+37Link to the location of the note in the document
+See n. 34, supra. Recent cases make it clear that the relevant "'aspect of the agency's jurisdiction must be sufficiently central to the purposes of the enabling statute so that implied repeal of the antitrust laws is 'necessary to make the [regulatory scheme] work.'" Robinson, Recent Antitrust Developments: 1975, 31 Record of N.Y.C.B.A. 38, 57-58 (1976).
+
+In United States v. National Assn. of Securities Dealers, 422 U.S. 694, 719-720, the Court pointed out:
+
+"Implied antitrust immunity is not favored, and can be justified only by a convincing showing of clear repugnancy between the antitrust laws and the regulatory system. See, e.g., United States v. Philadelphia Nat. Bank, 374 U.S., at 348; United States v. Borden Co., 308 U.S. 188, 197-206 (1939)."
+
+These cases are, of course, consistent with the "cardinal rule," applicable to legislation generally, that repeals by implication are not favored. Posadas v. National City Bank, 296 U.S. 497, 503.
+
+38Link to the location of the note in the document
+Of course, the absence of an exemption from the antitrust laws does not mean that those laws have been violated.
+
+39Link to the location of the note in the document
+It is this concern which has repeatedly prompted the introduction of bills which, if adopted, would make the award of treble damages in antitrust litigation discretionary rather than mandatory. See Report of the Attorney General's National Committee to Study the Antitrust Laws 378-380 (1955). See also, e.g., H.R. 978, 85th Cong., 1st Sess. (1957); H.R. 190, 87th Cong., 1st Sess. (1961).
+
+40Link to the location of the note in the document
+"As a charter of freedom, the Act has a generality and adaptability comparable to that found to be desirable in constitutional provisions. It does not go into detailed definitions which might either work injury to legitimate enterprise or through particularization defeat its purposes by providing loopholes for escape. The restrictions the Act imposes are not mechanical or artificial. Its general phrases, interpreted to attain its fundamental objects, set up the essential standard of reasonableness. They call for vigilance in the detection and frustration of all efforts unduly to restrain the free course of interstate commerce, but they do not seek to establish a mere delusive liberty either by making impossible the normal and fair expansion of that commerce or the adoption of reasonable measures to protect it from injurious and destructive practices and to promote competition upon a sound basis." Appalachian Coals, Inc. v. United States, 288 U.S. 344, 359-360.
+
+41Link to the location of the note in the document
+HN7 "The threshold inquiry in determining if an anticompetitive activity is state action of the type the Sherman Act was not meant to proscribe is whether the activity is required by the State acting as sovereign. Parker v. Brown, 317 U.S., at 350-352; Continental Co. v. Union Carbide, 370 U.S. 690, 706-707 (1962)." 421 U.S., at 790.
+
+42Link to the location of the note in the document
+Indeed, it did not even occur to the plaintiff that the state officials might have violated the Sherman Act; that question was first raised by this Court.
+
+43Link to the location of the note in the document
+Actually the reference was primarily to United States v. Rock Royal Co-op., 307 U.S. 533, and only secondarily to Parker. See 365 U.S., at 136 n. 15.
+
+44Link to the location of the note in the document
+"We accept, as the starting point for our consideration of the case, the same basic construction of the Sherman Act adopted by the courts below -- that no violation of the Act can be predicated upon mere attempts to influence the passage or enforcement of laws. It has been recognized, at least since the landmark decision of this Court in Standard Oil Co. v. United States, [221 U.S. 1,] that the Sherman Act forbids only those trade restraints and monopolizations that are created, or attempted, by the acts of 'individuals or combinations of individuals or corporations.' Accordingly, it has been held that where a restraint upon trade or monopolization is the result of valid governmental action, as opposed to private action, no violation of the Act can be made out." (Rock Royal and Parker are then cited in the footnote which is omitted.) 365 U.S., at 135-136.
+
+45Link to the location of the note in the document
+MR. JUSTICE STEWART's analysis rests largely on the dubious assumption that if each of several steps in the implementation of an anticompetitive program is lawful, the entire program must be equally lawful.

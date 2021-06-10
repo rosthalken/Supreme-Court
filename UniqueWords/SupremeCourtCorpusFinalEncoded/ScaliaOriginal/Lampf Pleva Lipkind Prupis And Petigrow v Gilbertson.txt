@@ -1,0 +1,40 @@
+﻿
+
+
+111 S.Ct. 2773
+Supreme Court of the United States
+LAMPF, PLEVA, LIPKIND, PRUPIS & PETIGROW, Petitioner
+v.
+John GILBERTSON et al.
+No. 90–333.
+|
+Argued Feb. 19, 1991.
+|
+Decided June 20, 1991.
+|
+Rehearing Denied Sept. 13, 1991.
+|
+See 501 U.S. 1277, 112 S.Ct. 27.
+
+Justice SCALIA, concurring in part and concurring in the judgment.
+
+Although I accept the stare decisis effect of decisions we have made with respect to the statutes of limitations applicable to particular federal causes of action, I continue to disagree with the methodology the Court has very recently adopted for purposes of making those decisions. In my view, absent a congressionally created limitations period state periods govern, or, if they are inconsistent with the purposes of the federal Act, no limitations period exists. See *365 Agency Holding Corp. v. Malley–Duff & Associates, Inc., 483 U.S. 143, 157–170, 107 S.Ct. 2759, 2767–2775, 97 L.Ed.2d 121 (1987) (SCALIA, J., concurring in judgment), see also Reed v. United Transportation Union, 488 U.S. 319, 334, 109 S.Ct. 621, 631, 102 L.Ed.2d 665 (1989) (SCALIA, J., concurring in judgment).
+ 
+The present case presents a distinctive difficulty because it involves one of those so-called “implied” causes of action that, for several decades, this Court was prone to discover in—or, more accurately, create in reliance upon—federal legislation. See Thompson v. Thompson, 484 U.S. 174, 190, 108 S.Ct. 513, 521–522, 98 L.Ed.2d 512 (1988) (SCALIA, J., concurring in judgment). Raising up causes of action where a statute has not created them may be a proper function for common-law courts, but not for federal tribunals. See id., at 191–192, 108 S.Ct., at 522–523; Cannon v. University of Chicago, 441 U.S. 677, 730–749, 99 S.Ct. 1946, 1974–1985, 60 L.Ed.2d 560 (1979) (Powell, J., dissenting). We have done so, however, and thus the question arises what statute of limitations applies to such a suit. Congress has not had the opportunity (since it did not itself create the cause of action) to consider whether it is content with the state limitations or would prefer to craft its own rule. That lack of opportunity is particularly apparent in the present case, since Congress did create special limitations periods for the Securities Exchange Act of 1934 causes of actions that it actually enacted. See 15 U.S.C. §§ 78p(b), 78i(e), 78r(c); see also § 77m.
+ 
+When confronted with this situation, the only thing to be said for applying my ordinary (and the Court’s pre–1983 traditional) rule is that the unintended and possibly irrational results will certainly deter judicial invention of causes of action. That is not an unworthy goal, but to pursue it in that fashion would be highly unjust to those who must litigate past inventions. An alternative approach would be to say that since we “implied” the cause of action we ought to “imply” an appropriate statute of limitations as well. That is just enough, but too lawless to be imagined. It seems to me the most responsible approach, where the enactment that has been the occasion for our creation of a cause of action contains a limitations period for an analogous cause of action, is to use *366 that. We are imagining here. And I agree with the Court that “[w]e can imagine no clearer indication of how Congress would have balanced the policy considerations implicit in any limitations provision than the balance struck by the same Congress in limiting similar and related protections.” Ante, at 2780.
+ 
+I join the judgment of the Court, and all except Part II–A of the Court’s opinion.
+ 
+
+1
+In Texas & Pacific R. Co. v. Rigsby, a unanimous Court stated this presumption:
+“A disregard of the command of the statute is a wrongful act, and where it results in damage to one of the class for whose especial benefit the statute was enacted, the right to recover the damages from the party in default is implied, according to a doctrine of the common law.... This is but an application of the maxim, Ubi jus ibi remedium.” 241 U.S., at 39–40, 36 S.Ct., at 484.
+2
+Federal judges have ‘borrowed’ state statutes of limitations because they were directed to do so by the Congress of the United States under the Rules of Decision Act, 28 U.S.C. § 1652. Del-Costello v. Teamsters, 462 U.S., at 172–173, 103 S.Ct., at 2294–2295 (STEVENS, J., dissenting); see also Agency Holding Corp. v. Malley–Duff & Associates, Inc., 483 U.S. 143, 157–165, 107 S.Ct. 2759, 2767–2772, 97 L.Ed.2d 121 (1987) (SCALIA, J., concurring in judgment).
+3
+Congress is perfectly capable of making these decisions. When confronted with the same need for uniformity in treble-damages litigation under the antitrust laws in 1955, it enacted § 4B of the Clayton Act to provide a 4-year period of limitations. See 69 Stat. 283, 15 U.S.C. § 15b.
+
+
+
+

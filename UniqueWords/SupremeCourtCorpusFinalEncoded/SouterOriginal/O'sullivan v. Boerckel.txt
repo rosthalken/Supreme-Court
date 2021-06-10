@@ -1,0 +1,16 @@
+﻿WILLIAM D. O'SULLIVAN, PETITIONER v. DARREN BOERCKEL
+
+No. 97-2048
+
+SUPREME COURT OF THE UNITED STATES
+
+119 S. Ct. 1728
+
+March 30, 1999, Argued 
+June 7, 1999, Decided
+
+JUSTICE SOUTER, concurring.
+I agree with the Court's strict holding that "the creation of a discretionary review system does not, without more, make review in the Illinois Supreme Court unavailable" for purposes of federal habeas exhaustion. Ante, at 9-10. I understand the Court to have left open the question (not directly implicated by this case) whether we should construe the exhaustion doctrine to force a State, in effect, to rule on discretionary review applications when the State has made it plain that it does not wish to require such applications before its petitioners may seek federal habeas relief. The Supreme Court of South Carolina, for example, has declared:
+"In all appeals from criminal convictions or post-conviction relief matters, a litigant shall not be required to petition for rehearing and certiorari following an adverse decision of the Court of Appeals in order to be deemed to have exhausted all available state remedies respecting a claim of error. Rather, when the claim has been presented to the Court of Appeals or the Supreme  [**1735]  Court, and relief has been denied, the litigant shall be deemed to have exhausted all available state remedies." In re Exhaustion of State Remedies in Criminal and Postconviction Relief Cases, 321 S.C. 563, 471 S.E.2d 454 (1990).
+The Court is clear that "nothing in the exhaustion doctrine requires federal courts to ignore a State law or rule providing that a given procedure is not available." Ante, at 9. Its citation of In re Exhaustion of State Remedies, for the proposition that the increased burden on state courts may be unwelcome, should not be read to suggest something more: that however plainly a State may speak its [*850]  highest court must be subjected to constant applications for a form of discretionary review that the State wishes to reserve for truly extraordinary cases, or else be forced to eliminate that kind of discretionary review.
+In construing the exhaustion requirement, "we have . . . held that state prisoners do not have to invoke extraordinary remedies when those remedies are alternatives to the standard review process and where the state courts have not provided relief through those remedies in the past." Ante, at 6 (citing Wilwording v. Swenson, 404 U.S. 249, 249-250, 30 L. Ed. 2d 418, 92 S. Ct. 407 (1971) (per curiam)). I understand that we leave open the possibility that a state prisoner is likewise free to skip a procedure even when a state court has occasionally employed it to provide relief, so long as the State has identified the procedure as outside the standard review process and has plainly said that it need not be sought for the purpose of exhaustion. It is not obvious that either comity or precedent requires otherwise.

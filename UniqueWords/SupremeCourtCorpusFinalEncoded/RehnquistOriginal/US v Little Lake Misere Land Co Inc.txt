@@ -1,0 +1,24 @@
+﻿
+
+
+93 S.Ct. 2389
+Supreme Court of the United States
+UNITED STATES, Petitioner,
+v.
+LITTLE LAKE MISERE LAND COMPANY, INC., et al.
+No. 71—1459.
+|
+Argued Jan. 15 and 16, 1973.
+|
+Decided June 18, 1973.
+
+Mr. Justice REHNQUIST, concurring in the judgment.
+I agree with my Brother STEWART that the central question presented by this case is whether Louisiana has the constitutional power to make Act 315 applicable to this transaction, and not whether a judicially created rule of decision, labeled federal common law, should *607 displace state law. The Migratory Bird Conservation Act does not establish a federal rule controlling the rights of the United States under the reservation. Whether Congress could enact such a provision is a question not now before us. In Clearfield Trust Co. v. United States, 318 U.S. 363, 366, 63 S.Ct. 573, 574, 87 L.Ed. 838 (1943), this Court held that federal common law governed the rights and duties of the United States ‘on commercial paper which it issues . . ..’ The interest in having those rights governed by a rule which is uniform across the Nation was the basis of that decision. But the interest of the Federal Government in having real property acquisitions that it makes in the States pursuant to a particular federal program governed by a similarly uniform rule is too tenuous to invoke the Clearfield principle, especially in light of the consistent statements by this Court that state law governs real property transactions.
+What for my Brother STEWART, however, is a ‘textbook example’ of a violation of the Obligation of Contracts Clause, is for me something more difficult. The scope of this clause has been restricted by past decisions of the Court such as Home Building & Loan Assn. v. Blaisdell, 290 U.S. 398, 54 S.Ct. 231, 78 L.Ed. 413 (1934), in which a Minnesota statute extending the period of time in which the mortgagor might redeem his equity following foreclosure was upheld in the face of vigorous arguments that **2405 the statute impaired a valid contract. Were there no simpler ground for disposing of the case, it would be necessary to resolve this very debatable question.
+I believe that such another ground is present here, in view of the fact that Act 315 enacted by Louisiana by its terms applies only to transactions in which ‘the United States of America, or any of its subdivisions or agencies’ is a party. While it is argued that Louisiana by other legislation made the same principle applicable *608 to the state government, this proposition is, as the Court’s opinion points out, by no means demonstrated. And in any event the change in the period of prescriptibility was not made applicable to nongovernmental grantees.
+Implicit in the holdings of a number of our cases dealing with state taxation and regulatory measures applied to the Federal Government is that such measures must be nondiscriminatory. See, e.g., James v. Dravo Contracting Co., 302 U.S. 134, 58 S.Ct. 208, 82 L.Ed. 155 (1937); New York v. United States, 326 U.S. 572, 66 S.Ct. 310, 90 L.Ed. 326 (1946); RFC v. Beaver County, 328 U.S. 204, 210, 66 S.Ct. 992, 995, 90 L.Ed. 1172 (1946).
+The doctrine of intergovernmental immunity enunicated in McCulloch v. Maryland, 4 Wheat. 316, 4 L.Ed. 579 (1819), however it may have evolved since that decision, requires at least that the United States be immune from discriminatory treatment by a State which in some manner interferes with the execution of federal laws. If the State of Pennsylvania could not impose a nondiscriminatory property tax on property owned by the United States, United States v. Allegheny County, 322 U.S. 174, 64 S.Ct. 908, 88 L.Ed. 1209 (1944), a fortiori, the State of Louisiana may not enforce Act 315 against the property of the United States involved in this case. I therefore concur in the judgment of the Court.
+
+
+
+

@@ -1,0 +1,25 @@
+﻿
+
+
+128 S.Ct. 2198
+Supreme Court of the United States
+Richard IRIZARRY, Petitioner,
+v.
+UNITED STATES.
+No. 06–7517.
+|
+Argued April 15, 2008.
+|
+Decided June 12, 2008.
+
+*717 Justice THOMAS, concurring.
+
+Earlier this Term, I explained that because “there is no principled way to apply the Booker remedy,” it is “best to apply the statute as written, including 18 U.S.C. § 3553(b), which makes the [Federal Sentencing] Guidelines mandatory.” Kimbrough v. United States, 552 U.S. 85, 116, 128 S.Ct. 558, 578, 169 L.Ed.2d 481 (2007) (dissenting opinion) (referencing United States v. Booker, 543 U.S. 220, 258–265, 125 S.Ct. 738, 160 L.Ed.2d 621 (2005)); see also Gall v. United States, 552 U.S. 38, 61, 128 S.Ct. 586, 603 (2007) (THOMAS, J., dissenting) (applying the Guidelines as mandatory). Consistent with that view, I would hold that the District Court committed statutory error when it imposed a sentence at “variance” with the Guidelines in a manner not authorized by the text of the Guidelines, which permit sentences outside the Guidelines, or “departures,” only when certain aggravating or mitigating circumstances are present. See United States Sentencing Commission, Guidelines Manual § 1B1.1 (Nov.2007). But the issue whether such post-Booker “variances” are permissible is not currently before us.
+ 
+Rather, we are presented with the narrow question whether Federal Rule of Criminal Procedure 32(h) requires a judge to give notice before he imposes a sentence outside the Guidelines on a ground not identified in the presentence report or in a prehearing submission by the Government. I agree with the Court that neither Rule 32(h) nor Burns v. United States, 501 U.S. 129, 111 S.Ct. 2182, 115 L.Ed.2d 123 (1991), compels a judge to provide notice before imposing a sentence at “variance” with the post-Booker advisory Guidelines, ante, at 2203. Each addresses only “departures” under the mandatory Guidelines and does not contemplate the drastic changes to federal sentencing wrought by the Booker remedy. For this reason, I join the Court’s opinion.
+ 
+
+
+
+
+

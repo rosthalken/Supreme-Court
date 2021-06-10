@@ -1,0 +1,81 @@
+﻿
+The Supreme Court of Arizona unanimously and unequivocally    concluded that the police intended to interrogate respondent. 1Link to the text of the note This Court reverses, finding that no interrogation     occurred because Mauro "was not subjected to compelling influences, psychological ploys, or direct questioning." Ante, at 529. The record indicates, however, that the police employed a powerful psychological ploy; they failed to give respondent any advance warning that Mrs. Mauro was coming to talk to him, that a police officer would accompany her, or that their conversation would be recorded. 2Link to the text of the note As the transcript of the conversation reveals, respondent would not have freely chosen to speak with her. See ante, at 522-523, n. 1. These facts compel the conclusion that the police took advantage of Mrs. Mauro's request to visit her husband, setting     up a confrontation between them at a time when he manifestly desired to remain silent. Because they allowed respondent's conversation with his wife to commence at a time when they knew it was reasonably likely to produce an incriminating statement, the police interrogated him. The Court's opposite conclusion removes an important brick from the wall of     protection against police        overreaching that surrounds the Fifth Amendment rights of suspects in custody.
+
+    I
+
+At the time of the meeting in question between William Mauro and his wife, he was in police custody and had requested an attorney. It is therefore undisputed that he could not be subjected to interrogation until he either received the assistance of counsel or initiated a conversation with the police. See ante, at 525-526; Edwards v. Arizona, 451 U.S. 477, 484-485 (1981). Since neither event occurred, the tape-recorded evidence must be excluded if it was the product of "interrogation" within the meaning of Rhode Island v. Innis, 446 U.S. 291 (1980).
+
+Police conduct may constitute "interrogation" even if the officers do not pose direct questions to the suspect. The Court explained the term in Rhode Island v. Innis:
+
+"The term 'interrogation' under Miranda refers not only to express questioning, but also to any words or actions on the part of the police (other than those normally attendant to arrest and custody) that the police should know are reasonably likely to elicit an incriminating response from the suspect. . . . A practice that the police should know is reasonably likely to evoke an incriminating response from    a suspect thus amounts to interrogation." Id., at 301 (footnotes omitted).
+
+In a footnote, the Court added:
+
+"By 'incriminating response' we refer to any response -- whether inculpatory or exculpatory -- that the prosecution may seek to introduce at trial." Id., at 301, n. 5 (emphasis in original).
+
+The Arizona Supreme Court correctly applied the Innis standard when it held that "the admission of a tape-recorded conversation between [Mauro] and his wife violated his state and federal rights not to incriminate himself. U.S. Const. amend. V, XIV; Ariz. Const. art. 2, § 10." 149 Ariz. 24, 29, 716 P. 2d 393, 398     (1986). 3Link to the text of the note    After distinguishing the cases on which the Attorney General of Arizona relied, 4Link to the text of the note the State Supreme Court explained:
+
+"    Unlike the Narten cases and Summerlin, this is not a case where an officer accidentally overhears a conversation. Rather, here we have illicit custodial interrogation. At the time of the tape recording at issue, appellant was under arrest and being detained at a police station. There is no doubt that this constituted     a custodial setting. However,     besides being in a custodial setting, the conversation must constitute 'interrogation.'
+
+"Interrogation includes a 'practice that the police should know is reasonably likely to evoke an incriminating response from a suspect.' Rhode Island v. Innis, 446 U.S. 291, 301 . . . (1980). 'The focus in ascertaining whether particular police conduct amounts to interrogation, then, is not on the form of the words used, but the intent of the police officers and the perceptions of the     suspect.' State v. Finehout, 136 Ariz. at 230, 665 P. 2d at 574. An incriminating response is any response -- whether inculpatory or exculpatory -- that the prosecution may seek to introduce at trial. Rhode Island v. Innis, 446 U.S., at 301 n. 5 . . . .
+
+"The intent of the detectives is clear from their own testimony. They both knew that if the conversation took place, incriminating statements were likely to be made. With that in mind, they decided to take in a tape recorder, sit near appellant and his wife and allow the conversation to commence.
+
+"Since the intent of the detectives is so clear, we need not address appellant's perceptions.     Whether the police knew that appellant was unusually disoriented or upset might have been an important factor in this case had the State's intent not been so unambiguous. See id., 446 U.S. at 302-03 . . . (suspect's peculiar susceptibility to the police appeal and whether the police knew that appellant was unusually disoriented or upset are factors to be examined in determining the perceptions of a suspect). We find, therefore, that in allowing the conversation to commence, the police did indirectly what they could not do directly -- interrogate appellant." Id., at 31-32, 716 P. 2d, at 400-401.
+
+II
+
+The Court's proffered reasons for disturbing these cogent findings are unpersuasive. In Rhode Island v. Innis, the Court emphasized that the police "cannot be held accountable for the unforeseeable results of their words or actions." 446 U.S., at 301-302. But there is a grand canyon between innocent unforeseeability and the mere lack of explicit police subterfuge that the Court now finds adequate to preclude a finding that an interrogation has taken place. It is, of course, true that the trial court found that the spousal conversation, which Detective Manson witnessed and recorded,     "was not a ruse, nor a subterfuge by the police. . . . They did not create this situation as an indirect means of avoiding the dictates of Miranda." App. 218. But this observation, as the Arizona Supreme Court    correctly recognized, is not sufficient to satisfy the concerns of the Fifth Amendment.
+
+    It is undisputed that a police decision to place two suspects in the same room and then to listen to or record their conversation may constitute a form of interrogation even if no questions are asked by any police officers. That is exactly what happened here. 5Link to the text of the note The police placed respondent and his wife, who was also in police custody, in the same small area. Mr. and Mrs. Mauro were both suspects in the murder of their son. Each of them had been interrogated separately before the officers decided to allow them to converse, an act that surely did not require a tape recorder or the presence of a police officer within hearing range. Under the circumstances, the police knew or should have known that Mrs. Mauro's encounter with respondent was reasonably likely to produce an incriminating response. Indeed, Officer Allen's     supervisor testified that the police had a reasonable expectation that the spousal conversation would provide information on the murder investigation. When asked, "what was the purpose in having Detective Manson present during any interview or confrontation    . . . between the defendant, Mr. Mauro, and his wife . . . ?" Captain Latham replied:
+
+"Well, one of the reasons would be to, for her protection, in case he attacked her or there was any violence that occurred. . . . The other reason would be to see what the conversation was about. She and he both were under investigation at that time, and any statements that she made or he made could shed light on our case." App. 101 (emphasis added).
+
+    In my opinion, it was not only likely, but highly probable, that one of the suspects would make a statement that the prosecutor might seek to introduce at trial. It follows that the police conduct in this case was the "functional equivalent" of deliberate, direct interrogation.
+
+The State should not be permitted    to set aside this conclusion with testimony that merely indicates that the evidence-gathering purpose of the police was mixed with other motives. For example, it is irrelevant to the inquiry whether the police had legitimate security reasons for having an officer present that were "not related to securing incriminating statements." Ante, at 528. Nor does it matter that the officers lacked a precise expectation of how the statements Mauro would make might be incriminating; much interrogation is exploratory rather than directed at the admission of a fact whose incriminatory import is already known to the officers.
+
+The Court's final proffered reason for disregarding the findings of the Supreme Court of Arizona is that the suspect may not have felt coerced to incriminate himself. The police did not compel or even encourage Mauro to speak with his wife. When they brought her into the room without warning Mauro in advance, however, they expected that the resulting conversation "could shed light on our case." App. 101. Under the circumstances, the mere fact that respondent's wife     made the initial request leading to the conversation does not alter the correctness of    the Supreme Court of Arizona's analysis. The officers exercised exclusive control over whether and when the suspects spoke with each other; the police knew that whatever Mauro might wish to convey to his wife at that moment, he would have to say under the conditions unilaterally imposed by the officers. In brief, the police exploited the custodial situation and the understandable desire of Mrs. Mauro to speak with respondent to conduct an interrogation.
+
+I respectfully dissent.
+
+
+Thus, the Arizona Supreme Court credited part, but not all, of the following testimony by Detective Manson:
+
+"Q. I'd like to ask you some questions concerning police interrogation techniques, if I might.
+
+"Do you have any experience in police interrogation techniques?
+
+"A. Yes, sir.
+
+. . . .
+
+"Q. Another technique, Byron, would be to, for example, if you are investigating a juvenile matter, to have the parents come down and speak to the juvenile in your presence?
+
+"A. That's correct.
+
+"Q. Along those same lines, it's not uncommon to ask a family member to come in and speak to someone in your presence?
+
+"A. That's correct.
+
+"Q. And, in fact, that technique was utilized in this case, isn't it true?
+
+"A. I don't believe so, no, sir. That was not our purpose. That was not an interrogation method." App. 79, 81.
+
+2Link to the location of the note in the document
+The trial court found that the police "told both Mr. and Mrs. Mauro that they could speak together only if an officer were present in the room to observe what was going on." App. 218. This advice was not given to Mr. Mauro until Mrs. Mauro entered the room in which he was being held. The trial court did not dispute the testimony of Officer Manson, which establishes that up to the moment when Mrs. Mauro and Officer Manson entered the room with the tape recorder running, every effort was made to keep respondent from knowing that Mrs. Mauro was in the police station:
+
+"Q. When did Mrs. Mauro become aware that her husband was in custody at the Police Station?
+
+"A. I'm not sure. It was probably during our initial interview. I know that we had closed the door to the captain's office and that we entered through the back door. We didn't want them to see each other." Id., at 111-112.
+
+There is nothing in the trial court's opinion or elsewhere in the record to support the Court's apparent assumption, see ante, at 527-528, n. 5, that Officer Manson separately advised respondent beforehand that his wife would be brought in to see him and that a police officer would monitor the conversation.
+
+3Link to the location of the note in the document
+The Arizona Supreme Court, after studying the trial record in light of our precedents, concluded that respondent's Fifth Amendment rights had been violated. Its decision rests on a careful evaluation of the behavior of the local police. Justices of that court regularly review cases in which Arizona police officers have testified. The Arizona Supreme Court's assessment of the actual intent of the Arizona police officers who testified in this case is therefore a good deal more reliable than this Court's. Indeed, whenever this Court reviews a state appellate court's examination of a trial record there is a special risk of error resulting from lack of familiarity with local conditions and from the limited time the Members of this Court can devote to study of the trial record. In some instances, this risk of error is outweighed by the necessity of granting review to decide an "issue of general or recurring significance" or to resolve a split of authority. Connecticut v. Barrett, 479 U.S. 523, 536 (1987) (STEVENS, J., dissenting). In my opinion, however, no trace of such necessity is present in this case. The vote of four Members of this Court to grant certiorari in this case was surely an exercise of indiscretion.
+
+4Link to the location of the note in the document
+State v. Narten, 99 Ariz. 116, 407 P. 2d 81 (1965), cert. denied, 384 U.S. 1008 (1966); Narten v. Eyman, 460 F.2d 184 (CA9 1969); State v. Summerlin, 138 Ariz. 426, 675 P. 2d 686 (1984).
+
+5Link to the location of the note in the document
+The regrettable irony in this case is that respondent endured the functional equivalent of interrogation while in the very process of advising his wife to exercise her own Fifth Amendment right to remain silent. See ante, at 522-523, n. 1.

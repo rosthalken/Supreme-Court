@@ -1,0 +1,26 @@
+﻿
+        
+        Icicle Seafoods, Inc. v. Worthington, 475 U.S. 709, 106 S. Ct. 1527 (1986)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+The Court chastises the Court of Appeals for supplying a gap in the District Court's factual findings with uncontested facts rather than "[remanding] to the District Court to make those findings." Ante, at 714. The criticism is unwarranted.
+
+The issue in this case is whether respondents, who are maintenance employees on a nonself-propelled seafood processing barge, qualify as seamen under the Fair Labor Standards Act and are therefore not entitled to overtime benefits under that Act. See 29 U. S. C. § 207(a)(1). The only dispute below was [****12]  with regard to the proper definition of "seaman" -- an issue on which certiorari was denied and one on which the Court ventures no opinion. The District Court "found that the [respondents] performed work of a maritime character on navigable waters" and "concluded that the [respondents] were 'seamen' and exempt from the overtime provision of the FLSA under 29 U. S. C. § 213(b)(6)." 774 F.2d 349, 351 (CA9 1985). The Court of Appeals reversed because "[one] does not become a 'seaman' under the FLSA merely by performing services aboard a vessel on navigable waters." Id., at 353. Under a proper understanding of the statute, it held that respondents were not seamen:
+
+"These facts are undisputed. . . .
+
+. . . .
+
+"The record indicates, and Icicle's counsel conceded at oral argument, that the [processing barge] remained anchored  [**1531]  most of the time. During these periods, the [respondents] primarily monitored, maintained and repaired the processing machinery and electric power generators. Although some of their work may have been of a maritime character, the dominant employment was  [*716]  industrial maintenance. The maritime work was incidental [****13]  and occasional, taking but a small portion of the work time.
+
+"We conclude that these employees, while working on a barge anchored in navigable waters, are principally employed not as exempt  [***746]  seamen but as industrial maintenance employees." Id., at 352-353.
+
+The Court's only quarrel with the Court of Appeals is that it "made factual findings on its own" on the issue whether "the 'maritime work' was 'incidental and occasional, taking but a small portion of the work time.'" Ante, at 714. Apparently, the Court would have preferred to see the case "remanded to the District Court," ibid., for the purely ministerial act of entry of formal findings on "these . . . undisputed" facts. The "rationale for deference to the original finder of fact," Anderson v. Bessemer City, 470 U.S. 564, 574 (1985), embodied in Rule 52(a) does not compel the entirely unrelated proposition that only district courts may make such findings. Appellate courts in general and this Court in particular have, after correcting an erroneous interpretation of law, applied the proper legal standard to undisputed facts of record -- whether or not such facts have [****14]  been memorialized in formal findings by "the original finder of fact." This practice not only promotes "the just, speedy, and inexpensive determination" of civil actions which Rule 52(a) is intended to secure, Fed. Rule Civ. Proc. 1, but it also allows appellate courts to give guidance to trial courts by illustrating the proper application of a new legal standard in a particular case.
+
+I would affirm the judgment of the Court of Appeals.
+

@@ -1,0 +1,24 @@
+﻿
+
+
+121 S.Ct. 1433
+Supreme Court of the United States
+UNITED STATES, Petitioner,
+v.
+CLEVELAND INDIANS BASEBALL COMPANY.
+No. 00–203.
+|
+Argued Feb. 27, 2001.
+|
+Decided April 17, 2001.
+
+Justice SCALIA, concurring in the judgment.
+
+If I believed that the text of the tax statutes addressed the issue before us, I might well find for the respondent, giving that text the same meaning the Court found it to have in the benefits provisions of the Social Security Act. See Social Security Bd. v. Nierotko, 327 U.S. 358, 370, and n. 25, 66 S.Ct. 637, 90 L.Ed. 718 (1946). The Court’s principal reason for assigning the identical language a different meaning in the present case— leaving *221 aside statements in testimony and Committee Reports that I have no reason to believe Congress was aware of—is that tax assessments do not present the equitable considerations implicated by the potential arbitrary decrease of benefits in Nierotko. See ante, at 1440–1441. But the Court acknowledges that departing from Nierotko will produce arbitrary variations in tax liability. See ante, at 1443–1444. As between an immediate arbitrary increase in tax liability and a deferred arbitrary decrease in benefits, I cannot say the latter is the greater inequity. The difference is at least not so stark as to cause me to regard the two regulatory schemes as different in kind, which I would insist upon before giving different meanings to identical statutory texts.
+ 
+In fact, however, I do not think that the text of the FICA and FUTA provisions, 26 U.S.C. §§ 3111(a), 3111(b), 3301, addresses the issue we face today. Those provisions, which direct that taxes shall be assessed against “wages paid” during the calendar year, would be controlling if the income we had before us were “wages” within the normal meaning of that term; but it is not. The question we face is whether damages awards compensating an employee for lost wages should be regarded for tax purposes as wages paid when the award is received, or rather as wages paid when they would have been paid but for the employer’s unlawful actions. (The parties have stipulated that the damages awards should be regarded as taxable “wages paid” of some sort, see also Social Security Bd. v. Nierotko, supra, at 364–370, 66 S.Ct. 637.) The proper treatment of such damages awards is an issue the statute does not address, and hence it is an issue left to the reasonable resolution of the administering agency, here the Internal Revenue Service. In Nierotko, which we decided at a time when it was common for courts to fill statutory gaps that would now be left to the agency, we provided one rule for purposes of the benefits provisions. The Internal Revenue Service has since provided another rule *222 for purposes of the tax provisions. Both rules are reasonable; neither is compelled; and neither involves a direct application of the statutory term “wages paid” which would require (or at least strongly suggest) **1446 a uniform result. I therefore concur in the Court’s judgment deferring to the Government’s regulations.
+ 
+
+
+
+

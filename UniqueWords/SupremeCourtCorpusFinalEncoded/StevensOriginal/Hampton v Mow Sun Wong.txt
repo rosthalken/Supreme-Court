@@ -1,0 +1,352 @@
+﻿Hampton v. Mow Sun Wong, 426 U.S. 88, 96 S. Ct. 1895 (1976)
+
+
+ [*90]  [***501]  [**1899]  MR. JUSTICE STEVENS delivered the opinion of the Court.
+
+Five aliens, lawfully and permanently residing in the United States, brought this litigation to challenge the validity of a policy, adopted and enforced by the Civil Service Commission and certain other federal agencies, which excludes all persons except American citizens and natives of American Samoa from employment in most positions subject to their respective jurisdictions. 1Link to the text of the note Because the policy, the law, and the identity of the parties have changed somewhat since the litigation commenced,  [*91]  we state the facts in detail before addressing the important question which we granted certiorari to resolve. 417 U.S. 944.
+
+ [****6]  I
+
+ [***502]  Each of the five plaintiffs was denied federal employment solely because of his or her alienage. They were all Chinese residents of San Francisco and each was qualified for an available job.
+
+After performing satisfactory work for the Post Office Department for 10 days, respondent Kae Cheong Lui was terminated because his personnel record disclosed that he was not a citizen. 2Link to the text of the note Respondents Mow Sun Wong and Siu Hung Mok also demonstrated their ability to perform on the job; they both participated in the California Supplemental Training and Education Program (STEP) and were assigned to federal agencies until the STEP program ended.  [**1900]  As a noncitizen, Mow Sun Wong, who had been an electrical engineer in China, was ineligible for employment as a janitor for the General Services Administration. Siu Hung Mok, who had 18 years' experience as a businessman in China, could not retain his job as a file clerk with the Federal Records Center of GSA.
+
+ [****7]  Respondent Francene Lum was not permitted to take an examination for a position as evaluator of educational programs in the Department of Health, Education, and Welfare. Her background included 15 years of teaching experience, a master's degree in education, and periods of graduate study at four universities. Anna Yu, the fifth plaintiff, who is not a respondent because she did not join in the appeal from the adverse decision of the District  [*92]  Court, sought a position as a clerk-typist, but could not take the typing test because she was not a citizen.
+
+Two of the plaintiffs, Mow Sun Wong and Siu Hung Mok, had filed declarations of intent to become citizens; the other three had not. They were all lawfully admitted, Francene Lum in 1946, Anna Yu in 1965, Siu Hung Mok and Kae Cheong Lui in 1968, and Mow Sun Wong in 1969.
+
+On December 22, 1970, they commenced this class action in the Northern District of California. As defendants they named the Chairman and the Commissioners of the Civil Service Commission and the heads of the three agencies which had denied them employment. 3Link to the text of the note [****9] 
+
+The complaint alleged that there are about four million aliens living in the United States;  [****8]  they face special problems in seeking employment because our culture, language, and system of government are foreign to them; about 300,000 federal jobs become available each year, but noncitizens are not permitted to  [***503]  compete for those jobs except in rare situations when citizens are not available or when a few positions exempted from the competitive civil service are being filled. Plaintiffs further alleged that the advantage given to citizens seeking federal civil service positions is arbitrary and violates the  [*93]  Due Process Clause of the Fifth Amendment to the United States Constitution 4Link to the text of the note and Executive Order No. 11,478, 3 CFR 803 (1966-1970 Comp.), which forbids discrimination in federal employment on the basis of "national origin." The complaint sought declaratory and injunctive relief.
+
+Defendants moved to dismiss the complaint and plaintiffs filed motions for summary judgment supported by affidavits setting forth the facts stated above. The District Court rejected a challenge to its jurisdiction, 5Link to the text of the note but ruled in favor of defendants on the merits. 333 F. Supp. 527. The District Court held that the reference to "national origin" in the Executive Order prohibited discrimination among citizens rather than discrimination between citizens and noncitizens. The court also rejected an argument that the Civil Service Commission regulation was inconsistent  [**1901]  with § 502 of the Public Works for Water, Pollution Control, and Power Development and Atomic Energy Commission Appropriation Act, 1970, which permitted payment to classes of persons who are made ineligible by the Civil Service regulation. 6Link to the text of the note On [****10]  that point the court said: S
+
+"The Commission has acted permissibly in relation  [*94]  to the Appropriations Act in not opening up the civil service to all those whom Congress has indicated it would be willing to pay for their work." 333 F. Supp., at 531.I
+
+ [****11]  Finally, the District Court held that the Commission's discrimination against aliens was constitutional. The court noted that the federal power over aliens is "quite broad, almost plenary," and therefore the classification needed only a rational basis. Ibid. It identified two grounds upon which the President 7Link to the text of the note  [***504]  could properly rely: First, that the formation of policy and its execution, at whatever level, should only be entrusted to United States citizens, or, alternatively, that "the Executive may intend that the economic security of its citizens be served by the reservation of competitive civil service positions to them, rather than to aliens." Id., at 532.
+
+ [****12]  Four of the plaintiffs appealed. During the period of  [*95]  over two years that the appeal was pending in the Ninth Circuit, we decided two cases that recognize the importance of protecting the employment opportunities of aliens. 8Link to the text of the note In Sugarman v. Dougall, 413 U.S. 634, we held that a section of the New York Civil Service Law which provided that only United States citizens could hold permanent positions in the competitive class of the State's civil service violated the Equal Protection Clause of the Fourteenth Amendment; that Clause also provided the basis for our holding in In re Griffiths, 413 U.S. 717, decided on the same day, that Connecticut's exclusion of aliens from the practice of law was unconstitutional.
+
+ [****13]  In this case, the Court of Appeals recognized that neither Sugarman nor Griffiths was controlling because the Fourteenth Amendment's restrictions on state power are not directly applicable to the Federal Government 9Link to the text of the note and because Congress and the President have broad power over immigration and naturalization which the States do not possess. 10Link to the text of the note Nevertheless, those decisions  [**1902]  provided the Court of Appeals with persuasive reasons for rejecting the bases asserted by the defendants in the District Court as justifications for the Civil Service Commission's policy of discriminating against noncitizens. For we specifically held that the State's legitimate interest  [*96]  in the undivided loyalty of the civil servant who participates directly in the formulation and execution of government policy, was inadequate to support a state restriction indiscriminately disqualifying the "sanitation man, class B," the typist, and the office worker, 413 U.S., at 641-643; moreover, we expressly considered, and rejected, New York's contention that its special interest in the advancement and profit of its own citizens could justify confinement of the State's civil [****14]  service to citizens of the United States, id., at 643-645.
+
+The Court of Appeals reversed; it agreed with the District Court's analysis of the nonconstitutional issues, but held the regulation violative of the Due Process Clause of the Fifth Amendment. Although refusing to accept respondents' contention that the protection against federal  [***505]  discrimination provided by the Fifth Amendment is coextensive [****15]  with that applicable to the States under the Equal Protection Clause of the Fourteenth Amendment, the court concluded that the Commission regulation which "sweeps indiscriminately excluding all aliens from all positions requiring the competitive Civil Service examination" could not be supported by justifications which related to only a small fraction of the positions covered by the rule. 500 F. 2d 1031, 1037. Thus, the court accepted the argument that citizenship might properly be required in positions involving policymaking decisions, or in positions involving national security interests, but the court was unwilling to support an extraordinarily broad exclusion on such narrow shoulders. 
+
+LEdHN[1] [1]Only the Chairman and the Commissioners of the Civil Service Commission petitioned for certiorari. Several of the nonpetitioning defendants have no responsibility for the establishment of standards which applicants for federal employment must meet; accordingly, their participation is not necessary. The former Postmaster  [*97]  General is not now a necessary party for a different reason.
+
+ [****16]  In 1971, after the litigation was commenced, Congress established a new Postal Service and removed its officers and employees from the jurisdiction of the Civil Service Commission. 11Link to the text of the note [****17]  For the first three years of its existence the new Postal Service retained substantially the same citizenship requirement for employees as did the Civil Service Commission. 12Link to the text of the note However, in 1974, without any additional statutory authority or direction, the Postal Service amended its regulation to make all noncitizens who have been accorded permanent resident alien status in the United States eligible for all positions except those at a high executive level or those expressly designated  [**1903]  as  [*98]  "sensitive." 13Link to the text of the note [****18]  Thus, although the  [***506]  case is not technically moot as regards the Postal Service, 14Link to the text of the note that Service does not now have any interest in defending the challenged Civil Service regulation.
+
+LEdHN[2A] [2A]We granted certiorari to decide the following question presented by the petition: S
+
+"Whether a regulation of the United States Civil  [*99]  Service Commission that bars resident aliens from employment in the federal competitive civil service is constitutional."I
+
+We now address that question.
+
+II
+
+Petitioners have chosen to argue on the merits a somewhat different question. In their brief, the petitioners rephrased the question presented as "[w]hether the Civil Service Commission's regulation… is within the constitutional powers of Congress and the President and hence not a constitutionally forbidden discrimination against aliens." 15Link to the text of the note
+
+ [****19]  This phrasing of the question assumes that the Commission regulation is one that was mandated by the Congress, the President, or both. On this assumption, the petitioners advance alternative arguments to justify the discrimination as an exercise of the plenary federal power over immigration and naturalization. First, the petitioners argue that the equal protection aspect of the Due Process Clause of the Fifth Amendment is wholly inapplicable to the exercise of federal power over aliens, and therefore no justification for the rule is necessary. 16Link to the text of the note Alternatively, the petitioners argue that the Fifth Amendment imposes only a slight burden of justification on the Federal Government, and that such a burden is easily met by several factors not considered by the District Court or the Court of Appeals. Before addressing these arguments, we first discuss certain limitations  [*100]  which the Due Process Clause places on the power of the Federal Government to classify persons subject to its jurisdiction.
+
+
+
+ [****20]  LEdHN[3] [3]LEdHN[4A] [4A]The federal sovereign, like the States, must govern impartially. The concept of equal justice under law is served by the Fifth Amendment's guarantee of due process, as  [***507]  well as by the Equal Protection  [**1904]  Clause of the Fourteenth Amendment. Although both Amendments require the same type of analysis, see Buckley v. Valeo, 424 U.S. 1, 93, the Court of Appeals correctly stated that the two protections are not always coextensive. Not only does the language of the two Amendments differ, 17Link to the text of the note but more importantly, there may be overriding national interests which justify selective federal legislation that would be unacceptable for an individual State. On the other hand, when a federal rule is applicable to only a limited territory, such as the District of Columbia, or an insular possession, and when there is no special national interest involved, the Due Process Clause has been construed as having the same significance as the Equal Protection Clause. 18Link to the text of the note 
+
+LEdHN[4B] [4B] [****21] 
+
+
+
+LEdHN[5] [5]In this case we deal with a federal rule having nationwide impact. The petitioners correctly point out that the paramount federal power over immigration and naturalization forecloses a simple extension of the holding in Sugarman as decisive of this case. 19Link to the text of the note [****23]  We agree  [*101]  with the petitioners' position that HN6 overriding national interests may provide a justification for a citizenship requirement in the federal service even though an identical [****22]  requirement may not be enforced by a State. 20Link to the text of the note
+
+LEdHN[6] [6] LEdHN[7A] [7A]We do not agree, however, with the petitioners' primary submission that the federal power over aliens is so plenary that any agent of the National Government may arbitrarily subject all resident aliens to different substantive rules from those applied to citizens. We recognize  [***508]  that the petitioners' argument draws support from both the federal and the [****24]  political character of the power over immigration and naturalization. 21Link to the text of the note  [*102]  Nevertheless, countervailing considerations  [**1905]  require rejection of the extreme position advanced by the petitioners.
+
+LEdHN[7B] [7B]
+
+
+
+ [****25]  LEdHN[8] [8]LEdHN[9] [9]The rule enforced by the Commission has its impact on an identifiable class of persons who, entirely apart from the rule itself, are already subject to disadvantages not shared by the remainder of the community. 22Link to the text of the note [****26]  Aliens are not entitled to vote and, as alleged in the complaint, are often handicapped by a lack of familiarity with our language and customs. The added disadvantage resulting from the enforcement of the rule - ineligibility for employment in a major sector of the economy - is of sufficient significance to be characterized as a deprivation of an interest in liberty. 23Link to the text of the note Indeed, we deal with a  [*103]  rule which deprives a discrete class of persons of an interest in liberty on a wholesale basis. By reason of the Fifth Amendment, such a deprivation must be accompanied by due process. It follows that some judicial scrutiny of the deprivation is mandated by the Constitution.
+
+LEdHN[10] [10]Respondents argue that this scrutiny requires invalidation of the Commission rule under traditional equal protection analysis. It is true that our cases establish that the Due Process Clause of the Fifth Amendment authorizes that type of analysis of federal rules and therefore that the Clause has a substantive [****27]  as well as a procedural aspect. However, it is not necessary to resolve respondents' substantive claim, if a narrower inquiry discloses that essential procedures have not been followed.
+
+LEdHN[11] [11]When the Federal Government asserts an overriding national  [***509]  interest as justification for a discriminatory rule which would violate the Equal Protection Clause if adopted by a State, due process requires that there be a legitimate basis for presuming that the rule was actually intended to serve that interest. If the agency which promulgates the rule has direct responsibility for fostering or protecting that interest, it may reasonably be presumed that the asserted interest was the actual predicate for the rule. That presumption would, of course, be fortified by an appropriate statement of reasons identifying the relevant interest. Alternatively, if the rule were expressly mandated by the Congress or the President, we might presume that any interest which might rationally be served by the rule did in fact give [****28]  rise to its adoption.
+
+LEdHN[12] [12]In this case the petitioners have identified several  [*104]  interests which the Congress or the President might deem sufficient to justify the exclusion of noncitizens from the federal service. They argue, for example, that the broad exclusion may facilitate the President's negotiation of treaties with foreign powers by enabling him to offer employment opportunities to citizens of a given foreign country in exchange for reciprocal concessions - an offer he could not make if those aliens were already eligible for federal jobs. Alternatively, the petitioners argue that reserving the federal service for citizens provides an appropriate incentive to aliens to qualify for naturalization  [**1906]  and thereby to participate more effectively in our society. They also point out that the citizenship requirement has been imposed in the United States with substantial consistency for over 100 years and accords with international law and the practice of most foreign countries. Finally, they correctly state that the need for undivided loyalty in certain sensitive positions clearly [****29]  justifies a citizenship requirement in at least some parts of the federal service, and that the broad exclusion serves the valid administrative purpose of avoiding the trouble and expense of classifying those positions which properly belong in executive or sensitive categories. 24Link to the text of the note
+
+LEdHN[2B] [2B]The difficulty with all of these arguments except the last is that they do not identify any interest which can reasonably be assumed to have influenced the Civil [****30]  Service Commission, the Postal Service, the General Services Administration, or the Department of Health,  [*105]  Education, and Welfare in the administration of their respective responsibilities or, specifically, in the decision to deny employment to the respondents in this litigation. We may assume with the petitioners that if the Congress or the President had expressly imposed the citizenship requirement, it would be justified by the national interest in providing an incentive for aliens to become naturalized, or possibly even as providing the President with an expendable token for treaty negotiating purposes; but we are not willing to presume that the Chairman of the Civil Service Commission,  [***510]  or any of the other original defendants, was deliberately fostering an interest so far removed from his normal responsibilities. Consequently, before evaluating the sufficiency of the asserted justification for the rule, it is important to know whether we are reviewing a policy decision made by Congress and the President or a question of personnel administration determined by the Civil Service Commission.
+
+III
+
+It is perfectly clear that neither the Congress nor the President [****31]  has ever required the Civil Service Commission to adopt the citizenship requirement as a condition of eligibility for employment in the federal civil service. On the other hand, in view of the fact that the policy has been in effect since the Commission was created in 1883, it is fair to infer that both the Legislature and the Executive have been aware of the policy and have acquiesced in it. In order to decide whether such acquiescence should give the Commission rule the same support as an express statutory or Presidential command, it is appropriate to review the extent to which the policy has been given consideration by Congress or the President, and the nature of the authority specifically delegated to the Commission.
+
+ [*106]  The Commission was originally established pursuant to the Pendleton Civil Service Act of 1883. 25Link to the text of the note That Act was a major piece of reform legislation designed to eliminate the abuses associated with the patronage system from much of the federal service. 26Link to the text of the note Before that legislation was passed, the Senate considered and rejected a bill that would have expressly limited civil service appointment to citizens. 27Link to the text of the note It is fair to  [**1907]  summarize [****32]  the relevant references to the citizenship requirement, however, as indicating that several Senators assumed that such a requirement would be imposed by the Commission, 28Link to the text of the note [****33]  and that the matter was in an area better handled by regulation than by statute. 29Link to the text of the note
+
+ [*107]  In its historical context, the assumption that only citizens would be employed in the federal service is  [***511]  easily understood. The new system of merit appointment, based on competitive examination, was replacing a patronage system in which appointment had often been treated as a method of rewarding support at the polls; since such rewards were presumably reserved for voters (or members of their families) who would necessarily be citizens, citizenship must have characterized most, if not all, federal employees at that time. The assumption that such a requirement would survive the enactment of the new statute is by no means equivalent to a considered judgment that it should [****34]  do so.
+
+Moreover, it must be acknowledged that in 1883 there was no doubt a greater inclination than we can now accept to regard "foreigners" as a somewhat less desirable class of persons than American citizens. A provincial attitude toward aliens may partially explain the assumption that they would not be employed in the federal service by the new Civil Service Commission. But since that attitude has been implicitly repudiated by our cases requiring that aliens be treated with the dignity and respect accorded to other persons, 30Link to the text of the note and since that attitude did not affect the form of the legislation itself, we disregard it in our evaluation of Congress' participation in the decision to impose the citizenship requirement.
+
+ [****35]  When the Commission was created, it immediately  [*108]  adopted the citizenship requirement, and that fact was duly reported to Congress. 31Link to the text of the note Congress has not thereafter repudiated, or even considered the desirability of repudiating, the Commission's policy. It has, however, in a number of its Appropriation Acts imposed various limitations on the classes of employees who may receive compensation from the Federal Government. These limitations give rise to conflicting inferences which may be illustrated by reference to five such Acts.
+
+In 1938 Congressman Starnes offered an amendment to the pending appropriation bill 32Link to the text of the note [****37]  to provide that none of the authorized  [**1908]  funds could be used to pay the compensation of any federal employee not a citizen of the United States. 33Link to the text of the note The stated purpose of the amendment was to give [****36]  preference to American citizens during a period of widespread unemployment. The amendment was accepted by the House without opposition. In the Senate, however, the restriction was modified to allow employment of any person owing allegiance to the United States, or who was then employed in the service of the United States, or who was needed because citizens with requisite experience and qualifications  [***512]  were not available. 34Link to the text of the note In 1939 a similar provision was broadened further to allow compensation for aliens eligible for citizenship who had filed a declaration of intention to become citizens and also for certain Coast Guard veterans who were ineligible for United States citizenship. 35Link to the text of the note In 1942 aliens who were  [*109]  citizens of the Commonwealth of the Philippines were exempted from the prohibition, 36Link to the text of the note in 1943 the exemption was extended to "nationals of those countries allied with the United States in the prosecution of the war," 37Link to the text of the note and then in 1953 the exemption was also made applicable to permanently admitted aliens from the Baltic countries. 38Link to the text of the note
+
+In the District Court respondents argued that the exemptions from the limitations included in the Appropriations Acts had become so broad by 1969 as to constitute a congressional determination of policy repudiating the narrow citizenship requirement in the Commission rule. Though not controlling, there is force to this argument. On the other hand, the fact that Congress repeatedly identified citizenship as one appropriate classification of persons eligible for compensation for federal service implies a continuing interest in giving preference, for reasons unrelated to the efficiency of the federal service, to citizens over aliens. In our judgment, however, that fact is less significant than the fact that Congress has consistently [****38]  authorized payment to a much broader class of potential employees than the narrow category of citizens and natives of American Samoa eligible under the Commission rule. Congress has regularly provided for compensation of any federal employee owing allegiance to the United States.Since it is settled that aliens may take an appropriate oath of allegiance, 39Link to the text of the note the statutory category, though not precisely defined, is plainly more flexible and expansive than the Commission rule. Nevertheless, for present purposes we need merely conclude  [*110]  that the Appropriations Acts cannot fairly be construed to evidence either congressional approval or disapproval of the specific Commission rule challenged in this case.
+
+Our review of the relevant Executive Orders leads us to a similar conclusion with respect to the President's responsibility for the rule. The first Civil Service rules promulgated by President Arthur required every applicant for an examination [****39]  to disclose his citizenship, as well as other information such as his name and address. 40Link to the text of the note These rules did not expressly prescribe United States citizenship as a condition for eligibility. It may well be true, however, that the President, like the members of the Senate referred to above, assumed that the Commission would impose such a requirement. Moreover, we must assume that he also became aware of the requirement after the Commission adopted it.  [***513]  Nevertheless, there  [**1909]  is a marked difference between acceptance by the President of a Commission rule to which no objection has been made and a decision made by the President himself.
+
+LEdHN[13A] [13A]Over the years the Commission revised its rules a number of times. Although it was Commission practice to require citizenship between 1883 and 1895,  [****40]  apparently the first time the requirement was expressly stated in a rule was in 1896. 41Link to the text of the note In 1903 President Theodore Roosevelt amended the rule to permit persons who "owe allegiance to the United States" to qualify. 42Link to the text of the note The amendment did not define that class of persons. The Commission  [*111]  has explained that it was intended to apply to persons in Puerto Rico and the Philippines who then had the status of noncitizen nationals. The language of the amendment, however, would seem broad enough to cover any person willing to take an appropriate oath of allegiance. 43Link to the text of the note 
+
+LEdHN[13B] [13B]
+
+ [****41]  In 1906 President Roosevelt again amended the rule by adding an authorization to the Commission, in its discretion, to permit noncitizens to take examinations when "there is a lack of eligibles who are American citizens." 44Link to the text of the note The amendment, however, provided that noncitizens should not be certified if eligible citizens were available. Although this amendment had the effect of increasing the employment opportunities of aliens, it unquestionably indicates that President Roosevelt then approved of a policy of giving preference to citizens.
+
+The Executive Order which authorized the promulgation of the specific rule involved in this case was issued by President Eisenhower in 1954. In relevant part it provides: S
+
+"The [Civil Service] Commission is authorized to establish [****42]  standards with respect to citizenship, age, education, training and experience, suitability, and physical and mental fitness, and for residence or other requirements which applicants must meet to be admitted to or rated in examinations." Exec. Order No. 10,577, § 2.1 (a), 3 CFR 218, 219 (1954-1958 Comp.).I
+
+ [*112]  This direction "to establish standards with respect to citizenship" is not necessarily a command to require citizenship as a general condition of eligibility for federal employment. Rather it is equally, if not more reasonably, susceptible of interpretation as a command to classify positions for which citizenship should be required. Even though such an interpretation might permit the Commission to decide that citizenship should be required for all federal positions, it would remain true that the decision to impose the requirement was made by the Commission  [***514]  rather than the President. That this is in fact the case is demonstrated by the elimination of the citizenship requirement for employment in the Postal Service which took place after this litigation commenced. Pursuant to a broad grant of authority comparable, in its generality and in its absence [****43]  of any reference to a citizenship requirement, to that applicable to the Civil Service Commission, 45Link to the text of the note the Postal  [**1910]  Service originally  [*113]  imposed such a requirement and then withdrew it. Neither the establishment nor the withdrawal of the requirement was either mandated or questioned by Congress or the President.
+
+ [****44]  We have no doubt that the statutory directive which merely requires such regulations "as will best promote the efficiency of [the] Service," 5 U.S.C. § 3301 (1), as well as the pertinent Executive Order, gives the Civil Service Commission the same discretion that the Postal Service has actually exercised; the Commission may either retain or modify the citizenship requirement without further authorization from Congress or the President. 46Link to the text of the note We are therefore persuaded that our inquiry is whether the national interests which the Government identifies as justifications for the Commission rule are  [*114]  interests on which that agency may properly rely in making a decision implicating the constitutional and social values at stake in this litigation.
+
+ [****45]  LEdHN[2C] [2C]We think the petitioners accurately stated the question presented in their certiorari petition. The question is whether the regulation of the United States Civil Service Commission  [***515]  is valid. We proceed to a consideration of that question, assuming, without deciding, that the Congress and the President have the constitutional power to impose the requirement that the Commission has adopted.
+
+IV
+
+LEdHN[14] [14]It is the business of the Civil Service Commission to adopt and enforce regulations which will best promote the efficiency of the federal civil service. That agency has no responsibility for foreign affairs, for treaty negotiations, for establishing immigration quotas or conditions of entry, or for naturalization policies. Indeed, it is not even within the responsibility of the Commission to be concerned with the economic consequences of permitting or prohibiting the participation by aliens in employment opportunities in different parts of the national market. On the contrary, the Commission performs a limited [****46]  and specific function.
+
+The only concern of the Civil Service Commission is the promotion of an efficient federal service. 47Link to the text of the note In general  [*115]  it is fair to  [**1911]  assume that its goal would be best served by removing unnecessary restrictions on the eligibility of qualified applicants for employment. With only one exception, the interests which the petitioners have put forth as supporting the Commission regulation at issue in this case are not matters which are properly the business of the Commission. That one exception is the administrative desirability of having one simple rule excluding all noncitizens when it is manifest that citizenship is an appropriate and legitimate requirement for some important and sensitive positions. Arguably, therefore, administrative convenience may provide a rational basis for the general rule.
+
+ [****47]  LEdHN[2D] [2D] LEdHN[15] [15] LEdHN[16A] [16A]For several reasons that justification is unacceptable in this case. The Civil Service Commission, like other administrative agencies, has an obligation to perform its responsibilities with some degree of expertise, and to make known the reasons for its important decisions. There is nothing in the record before us, or in matter of which we may properly take judicial notice, to indicate that the Commission actually made any considered evaluation of the relative desirability of a simple exclusionary rule on the one hand, or the value to the service of enlarging the pool of eligible employees on the other. Nor can we reasonably infer that the administrative burden of establishing the job classifications for which citizenship is an appropriate requirement would be a particularly onerous task for an expert in personnel matters; indeed, the Postal Service apparently encountered no particular difficulty in making  [***516]  such a classification. [****48]  Of greater significance, however, is the quality of the interest at stake. Any fair balancing of the public interest in avoiding the wholesale deprivation of employment opportunities caused by the Commission's indiscriminate  [*116]  policy, as opposed to what may be nothing more than a hypothetical justification, requires rejection of the argument of administrative convenience in this case. 48Link to the text of the note
+
+LEdHN[16B] [16B]
+
+ [****49]  LEdHN[17] [17]In sum, assuming without deciding that the national interests identified by the petitioners would adequately support an explicit determination by Congress or the President to exclude all noncitizens from the federal service, we conclude that those interests cannot provide an acceptable rationalization for such a determination by the Civil Service Commission. The impact of the rule on the millions of lawfully admitted resident aliens is precisely the same as the aggregate impact of comparable state rules which were invalidated by our decision in Sugarman. By broadly denying this class substantial opportunities for employment, the Civil Service Commission rule deprives its members of an aspect of liberty. Since these residents were admitted as a result of decisions made by the Congress and the President, implemented by the Immigration and Naturalization Service acting under the Attorney General of the United States, 49Link to the text of the note due process requires that the decision to impose that deprivation of an important liberty be made either at a comparable level of government or, if it is to be permitted to be made [****50]  by the Civil Service Commission, that it be justified by reasons which are properly the concern of that agency. We hold that § 338.101(a) of the  [**1912]  Civil Service Commission Regulations has deprived these respondents  [*117]  of liberty without due process of law and is therefore invalid.
+
+The judgment of the Court of Appeals is
+
+Affirmed.
+
+The Civil Service Commission's regulations, 5 CFR § 338.101 (1976), provide in pertinent part:
+
+HN1 "(a) A person may be admitted to competitive examination only if he is a citizen of or owes permanent allegiance to the United States.
+
+"(b) A person may be given appointment only if he is a citizen of or owes permanent allegiance to the United States. However, a noncitizen may be given (1) a limited executive assignment under section 305.509 of this chapter in the absence of qualified citizens or (2) an appointment in rare cases under section 316.601 of this chapter, unless the appointment is prohibited by statute."
+
+Apparently HN2 the only persons other than citizens who owe permanent allegiance to the United States are noncitizen "nationals." See 8 U.S.C. §§ 1101 (a)(21), (22), 1408. The Solicitor General has advised us that the Commission construes the phrase as covering only natives of American Samoa. Brief for Petitioners 81 n. 67.
+
+2Link to the location of the note in the document
+The termination letter, dated October 19, 1970, read:
+
+"Your personnel records indicate that you are not a citizen of the United States. Therefore, it is necessary to terminate your services effective close of business October 20/1970 in accordance with the Postal Manual Regulations 711.531."
+
+3Link to the location of the note in the document
+The defendants named in the original complaint were Robert E. Hampton, Chairman, James E. Johnson, and L. J. Andolsek, Commissioners, Nicholas J. Oganovic, Executive Director, and Asa T. Briley, Regional Director, of the United States Civil Service Commission; Robert L. Kunzing, then Administrator, and Thomas Hannon, Regional Administrator, of the General Services Administration; Elliot Richardson, then Secretary, and Robert Coop, Regional Director, of the Department of Health, Education, and Welfare; and Winton Blount, then Postmaster General of the United States; Lim Poon Lee, Postmaster of the city and county of San Francisco; and Russel E. James, Regional Director of the United States Post Office Department.
+
+4Link to the location of the note in the document
+The Fifth Amendment to the Constitution of the United States provides:
+
+HN3 "No person shall be… deprived of life, liberty, or property, without due process of law…."
+
+5Link to the location of the note in the document
+Judge Peckham held that jurisdiction was conferred by 28 U.S.C.§ 1331. He found no merit in the argument that there had been no waiver of sovereign immunity; he was also satisfied that the action is one which "arises under" the Constitution and laws of the United States and that each plaintiff's claim satisfied the jurisdictional amount.
+
+6Link to the location of the note in the document
+Section 502 of the Act provides in pertinent part as follows:
+
+"[N]o part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in continental United States unless such person (1) is a citizen of the United States, (2) is a person in the service of the United States on the date of enactment of this Act, who, being eligible for citizenship, had filed a declaration of intention to become a citizen of the United States prior to such date, (3) is a person who owes allegiance to the United States…." 83 Stat. 336.
+
+7Link to the location of the note in the document
+In using the term "Executive," it is clear that Judge Peckham intended to identify the President, rather than any of the defendant agency heads:
+
+"It is quite rational and reasonable for the Executive, via a grant of power from the Legislature, to determine that the formation of policy and its execution, at whatever level, should be entrusted only to United States citizens. Moreover, as an alternative rational basis for the regulation herein, the Executive may intend that the economic security of its citizens be served by the reservation of competitive civil service positions to them, rather than to aliens." 333 F. Supp. at 532.
+
+8Link to the location of the note in the document
+Sugarman v. Dougall, 413 U.S. 634, and d">In re Griffiths, 413 U.S. 717, were both decided on June 25, 1973. Graham v. Richardson, 403 U.S. 365, was decided on June 14, 1971, only a few weeks before the District Court decision.
+
+9Link to the location of the note in the document
+The Fourteenth Amendment § 1, provides:
+
+HN4 "[N]or shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+10Link to the location of the note in the document
+Article I, § 8, cl. 4, of the Constitution of the United States provides:
+
+HN5 "The Congress shall have Power… [t]o establish an uniform Rule of Naturalization…."
+
+11Link to the location of the note in the document
+Pub. L. 91-375, 84 Stat. 719. The technical amendment to Title 5 removed the officers and employees of the Postal Service and Postal Rate Commission from the definitions of officers and employees who are subject to civil service.
+
+12Link to the location of the note in the document
+During this period the Postal Service Personnel Handbook provided:
+
+"317.3 Citizenship Requirements
+
+".31 Applicability
+
+".311 Except as provided in 317.312 below, only persons who are citizens of, or owe allegiance to the United States shall be given appointments in the Postal Service. Natives of American Samoa are the only noncitizens who, as a group, owe permanent allegiance to the United States.
+
+".312 Regional Postmasters General may approve individual appointments of noncitizen nationals under unusual circumstances such as when qualified citizens are not available. These appointments will be subject to the individual prior approval of the Regional Postmaster General.
+
+".32 Responsibility for Determining Citizenship
+
+"The appointing officer is responsible for determining that all persons selected for appointment meet the citizenship requirement." Transmittal Letter 2, 8-18-72.
+
+13Link to the location of the note in the document
+The Postal Bulletin issued on May 2, 1974 substituted the following "citizenship requirements" for those quoted in n. 12, supra: "317.3 Citizenship Requirements
+
+".31 Noncitizens of the United States who have been accorded permanent resident alien status in the United States are eligible for appointment to all Postal Service positions other than positions in levels PES-20 and above, and positions designated by the Postal Service as sensitive. Natives of American Samoa are eligible for appointment to all Postal Service positions. Appointments of noncitizens to positions in levels PES-20 and above or to positions designated as sensitive can only be made with the prior approval of the appropriate Regional Postmaster General or an Assistant Postmaster General, in headquarters.
+
+".32 The appointing officer may make his determination as to whether the appointee is a citizen of the United States on the basis of the eligible's sworn or affirmed statement, on Form 61, Appointment Affidavit, at the time of appointment. A noncitizen's permanent resident alien status shall be determined by reference to the appointee's Alien Registration Receipt Card (Form I-151), which the permanent resident alien is furnished by the Immigration and Naturalization Service.
+
+".33 The appointing officer is responsible for determining that all persons selected for appointment meet the requirements of sections 317.31 and 317.32.
+
+"Regional and local postal officials should take appropriate measures to insure that announcements and forms conform to the new policy, and that prospective applicants for postal employment are given correct information concerning the policy."
+
+14Link to the location of the note in the document
+Cf. United States v. W. T. Grant Co., 345 U.S. 629. The Postal Service, in modifying its citizenship regulations (n. 13, supra), specifically indicated that it was doing so "[a]s a result of recent Federal litigation." Postal Bull., May 2, 1974, p. 2.
+
+15Link to the location of the note in the document
+Brief for Petitioners 2.
+
+16Link to the location of the note in the document
+The petitioners state:
+
+"Our primary submission is that the decision to limit employment of noncitizens in the federal competitive civil service is likewise a matter beyond the reach of the equal protection principle." Id., at 24-25.
+
+17Link to the location of the note in the document
+Since the Due Process Clause appears in both the Fifth and Fourteenth Amendments, whereas the Equal Protection Clause does not, it is quite clear that the primary office of the latter differs from, and is additive to, the protection guaranteed by the former.
+
+18Link to the location of the note in the document
+Bolling v. Sharpe, 347 U.S. 497; Yu Cong Eng v. Trinidad, 271 U.S. 500.
+
+19Link to the location of the note in the document
+In that case we did not reach the question whether New York's citizenship restriction was in conflict with Congress' comprehensive regulation of immigration and naturalization, see 413 U.S., at 646, where we cited Graham v. Richardson, 403 U.S., at 376-380, and we were careful to avoid intimating any view on the question raised in the case now before us. We stated:
+
+"We are aware that citizenship requirements are imposed in certain aspects of the federal service. See 5 U.S.C. § 3301; Exec. Order No. 10577, 19 Fed. Reg. 7521, § 2.1 (1954); 5 CFR §§ 338.101, 302.203 (g) (1973); and, for example, Treasury, Postal Service, and General Government Appropriation Act, 1972, § 602, Pub. L. 92-49, 85 Stat. 122, and Public Works Appropriations Act, 1971, § 502, Pub. L. 91-439, 84 Stat. 902. In deciding the present case, we intimate no view as to whether these federal citizenship requirements are or are not susceptible of constitutional challenge. See Jalil v. Hampton, 148 U.S. App. D.C. 415, 460 F. 2d 923, cert. denied, 409 U.S. 887 (1972); Comment, Aliens and the Civil Service: A Closed Door?, 61 Geo. L.J. 207 (1972)." 413 U.S., at 646 n. 12.
+
+20Link to the location of the note in the document
+It should, of course, be noted that in Sugarman we merely held that the flat ban on the employment of aliens in positions that had little if any relation to a State's legitimate interests could not withstand scrutiny under the Equal Protection Clause, and we were careful to point out that the holding did not preclude individualized determinations that particular persons could be refused employment on the basis of noncitizenship, or that citizenship could be required as a qualification for appropriately defined classes of positions. See id., at 646-647.
+
+21Link to the location of the note in the document
+It is important to note that HN7 the authority to control immigration is not only vested solely in the Federal Government, rather than the States, see Truax v. Raich, 239 U.S. 33, 42, but also that the power over aliens is of a political character and therefore subject only to narrow judicial review. See Fong Yue Ting v. United States, 149 U.S. 698, 713, where Mr. Justice Gray, writing for the Court, stated:
+
+"The power to exclude or to expel aliens, being a power affecting international relations, is vested in the political departments of the government, and is to be regulated by treaty or by act of Congress, and to be executed by the executive authority according to the regulations so established, except so far as the judicial department has been authorized by treaty or by statute, or is required by the paramount law of the Constitution, to intervene."
+
+22Link to the location of the note in the document
+Some of these disadvantages stem directly from the Constitution itself, see Sugarman v. Dougall, 413 U.S., at 651-653 (REHNQUIST, J., dissenting). The legitimacy of the delineation of the affected class buttresses the conclusion that it is "a 'discrete and insular' minority," see In re Griffiths, 413 U.S., at 721 and, of course, is consistent with the premise that the class is one whose members suffer special disabilities.
+
+23Link to the location of the note in the document
+See Board of Regents v. Roth, 408 U.S. 564, 573-574, and cases cited. See also the statement for the Court by Mr. Justice Hughes in Truax v. Raich, supra, a case dealing with the employment opportunities of aliens:
+
+"It requires no argument to show that the right to work for a living in the common occupations of the community is of the very essence of the personal freedom and opportunity that it was the purpose of the Amendment to secure…. If this could be refused solely upon the ground of race or nationality, the prohibition of the denial to any person of the equal protection of the laws would be a barren form of words." 239 U.S., at 41.
+
+24Link to the location of the note in the document
+We note, however, that the petitioners do not rely on the District Court's reasoning that the regulation might be justified as serving the economic security of United States citizens. Our discussion of the "special public interest" doctrine in Sugarman v. Dougall, supra., at 643-645, no doubt explains the petitioners' failure to press this argument in this case. We have no occasion, therefore, to decide when, if ever, that doctrine might justify federal legislation.
+
+25Link to the location of the note in the document
+22 Stat. 403.
+
+26Link to the location of the note in the document
+See Arnett v. Kennedy, 416 U.S. 134, 149; H. Kaplan, The Law of Civil Service 1-11 (1958).
+
+27Link to the location of the note in the document
+A companion bill introduced by Senator Dawes (S. 939) would have expressly provided that "appointments are open to competition to any citizen of the United States, male or female…. [V]acancies shall be filled by competitive examination open to all citizens, in conformity with the provisions of this act…." Appendix to S. Rep. No. 576, 47th Cong., 1st Sess., 4 (1882). The Senate Committee also eliminated, apparently as unnecessary, a preamble that referred to the desirability of allowing "so far as practicable all citizens" equal employment opportunities. See S. Rep. No. 576, supra, at XII; see also 14 Cong. Rec. 661 (1882).
+
+28Link to the location of the note in the document
+See, e.g., the remarks of Senator Hawley:
+
+"Of course it will not do to admit to examination everybody that applies for it. There will be requirements - anybody can think of a few in a moment - the applicant must be a citizen of the United States, he must be in fair physical health, he must be within reasonable limits as to age, he certainly must be able to read and write." Id., at 243.
+
+29Link to the location of the note in the document
+It is noteworthy, however, that other grounds for exclusion from the federal service that would normally be governed by regulation were expressly identified in the statute itself. See § 8 prohibiting the employment of persons habitually using intoxicating beverages to excess, and § 9 prohibiting the employment of members of a family already adequately represented in public service. 22 Stat. 406.
+
+30Link to the location of the note in the document
+Our recent opinion in In re Griffiths noted that from "its inception, our Nation welcomed and drew strength from the immigration of aliens." 413 U.S., at 719. After referring to their self-evident contributions to the social and economic life of the country, and after reviewing the objectionable character of any classification based on alienage, we stated: HN8 "Resident aliens, like citizens, pay taxes, support the economy, serve in the Armed Forces, and contribute in myriad other ways to our society. It is appropriate that a State bear a heavy burden when it deprives them of employment opportunities." Id., at 722.
+
+31Link to the location of the note in the document
+See the Instructions to Applicants Who Wish to Enter the United States Civil Service as reprinted on p. 83 of the Second Report of the U.S. Civil Service Commission (1885).
+
+32Link to the location of the note in the document
+Independent Offices Appropriation Bill (H.R. 8837, 75th Cong., 3d Sess.).
+
+33Link to the location of the note in the document
+83 Cong. Rec. 357.
+
+34Link to the location of the note in the document
+Id., at 2424.
+
+35Link to the location of the note in the document
+See House Manager's Report on the Conference on Amendment of the Senate to H.R. 8947, H.R. Conf. Rep. No. 1981, 75th Cong., 3d Sess. (1938). The provision appeared in several Appropriations Acts. See 52 Stat. 148, 289, 435, 1162.
+
+36Link to the location of the note in the document
+56 Stat. 422.
+
+37Link to the location of the note in the document
+57 Stat. 196.
+
+38Link to the location of the note in the document
+67 Stat. 435.
+
+39Link to the location of the note in the document
+See In re Griffiths, 413 U.S., at 726 n. 18.
+
+40Link to the location of the note in the document
+Rule XI, Civil Service Rules, promulgated Nov. 7, 1883. First Report of the U.S. Civil Service Commission 47 (1884).
+
+41Link to the location of the note in the document
+Rule V of the Civil Service Rules of May 6, 1896, expressly provided: "Every applicant for examination must be a citizen of the United States…." See Thirteenth Report of the U.S. Civil Service Commission 57 (1897).
+
+42Link to the location of the note in the document
+See Twentieth Report of the U.S. Civil Service Commission 48 (1904).
+
+43Link to the location of the note in the document
+It is, of course, clear that one need not be a citizen in order to take in good conscience an oath to support the Constitution. See In re Griffiths, supra., at 726 n. 18.
+
+44Link to the location of the note in the document
+Exec. Order No. 458 (June 13, 1906). Prior to that amendment, Executive Orders had been issued waiving the citizenship requirement in specific cases because of a lack of qualified citizens. See, e.g., Exec. Order No. 434 (Mar. 28, 1906).
+
+45Link to the location of the note in the document
+The relevant portions of 39 U.S.C. § 1001 read as follows:
+
+" § 1001. Appointment and status.
+
+"(a) Except as otherwise provided in this title, the Postal Service shall appoint all officers and employees of the Postal Service.
+
+"(b) Officers and employees of the Postal Service (other than those individuals appointed under sections 202, 204, and 1001 (c) of this title) shall be in the postal career service, which shall be a part of the civil service. Such appointments and promotions shall be in accordance with the procedures established by the Postal Service. The Postal Service shall establish procedures, in accordance with this title, to assure its officers and employees meaningful opportunities for promotion and career development and to assure its officers and employees full protection of their employment rights by guaranteeing them an opportunity for a fair hearing on adverse actions, with representatives of their own choosing.
+
+. . . . .
+
+"(e) The Postal Service shall have the right, consistent with section 1003 and chapter 12 of this title and applicable laws, regulations, and collective-bargaining agreements -
+
+"(1) to direct officers and employees of the Postal Service in the performance of official duties;
+
+"(2) to hire, promote, transfer, assign, and retain officers and employees in positions within the Postal Service, and to suspend, demote, discharge, or take other disciplinary action against such officers and employees;
+
+"(3) to relieve officers and employees from duties because of lack of work or for other legitimate reasons;
+
+"(4) to maintain the efficiency of the operations entrusted to it;
+
+"(5) to determine the methods, means, and personnel by which such operations are to be conducted;
+
+"(6) to prescribe a uniform dress to be worn by letter carriers and other designated employees; and
+
+"(7) to take whatever actions may be necessary to carry out its mission in emergency situations."
+
+46Link to the location of the note in the document
+Even if this conclusion were doubtful, in view of the consequences of the rule it would be appropriate to require a much more explicit directive from either Congress or the President before accepting the conclusion that the political branches of Government would consciously adopt a policy raising the constitutional questions presented by this rule. Cf. Peters v. Hobby, 349 U.S. 331, 345; Ex parte Endo, 323 U.S. 283, 299-300.
+
+47Link to the location of the note in the document
+The Commission, of course, acts under the direction of the President.
+
+Title 5 U.S.C. § 3301(1) provides:
+
+HN9 "The President may -
+
+"(1) prescribe such regulations for the admission of individuals into the civil service in the executive branch as will best promote the efficiency of that service;
+
+Title 5 U.S.C. § 1302(a) provides:
+
+HN10 "(a) The Civil Service Commission, subject to the rules prescribed by the President under this title for the administration of the competitive service, shall prescribe regulations for, control, supervise, and preserve the records of, examinations for the competitive service."
+
+48Link to the location of the note in the document
+We find no merit in the petitioners' argument that a more discriminating rule would inevitably breed litigation which in turn would enhance the administrative burden. For even though the argument of administrative convenience may not support a total exclusion, it would adequately support a rather broad classification of positions reflecting the considered judgment of an agency expert in personnel matters. For the classification itself would demonstrate that the Commission had at least considered the extent to which the imposition of the rule is consistent with its assigned mission.
+
+49Link to the location of the note in the document
+See 8 U.S.C. § 1103.

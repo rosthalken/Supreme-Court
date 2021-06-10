@@ -1,0 +1,29 @@
+﻿
+
+
+113 S.Ct. 838
+Supreme Court of the United States
+A.L. LOCKHART, Director, Arkansas Department of Correction, Petitioner
+v.
+Bobby Ray FRETWELL.
+No. 91–1393.
+|
+Argued Nov. 3, 1992.
+|
+Decided Jan. 25, 1993.
+ 
+Justice THOMAS, concurring.
+
+I join the Court’s opinion in its entirety. I write separately to call attention to what can only be described as a fundamental misunderstanding of the Supremacy Clause on the part of the Court of Appeals.
+ 
+In concluding that respondent had been prejudiced by his attorney’s failure to make an objection based upon Collins v. Lockhart, 754 F.2d 258 (CA8), cert. denied, 474 U.S. 1013, 106 S.Ct. 546, 88 L.Ed.2d 475 (1985), the Court of Appeals said the following: “[S]ince state courts are bound by the Supremacy Clause to obey federal constitutional law, we conclude that a reasonable state trial court would have sustained an objection based on Collins had Fretwell’s attorney made one.” 946 F.2d 571, 577 (CA8 1991). I do not understand this statement to mean that there is a reasonable probability that the Arkansas trial court would have found Collins persuasive, and therefore would have chosen to follow it. Instead, the Court of Appeals appears to have been under the impression that the Arkansas trial court would have been compelled to follow Collins by the Supremacy Clause.
+ 
+*376 It was mistaken. The Supremacy Clause demands that state law yield to federal law, but neither federal supremacy nor any other principle of federal law requires that a state court’s interpretation of federal law give way to a (lower) federal court’s interpretation. In our federal system, a state trial court’s interpretation of federal law is no less authoritative than that of the federal court of appeals in whose circuit the trial court is located. See Steffel v. Thompson, 415 U.S. 452, 482, n. 3, 94 S.Ct. 1209, 1214, n. 3, 39 L.Ed.2d 505 (1974) (REHNQUIST, J., concurring); United States ex rel. Lawrence v. Woods, 432 F.2d 1072, 1075–1076 (CA7 1970), cert. denied, 402 U.S. 983, 91 S.Ct. 1658, 29 L.Ed.2d 148 (1971); Shapiro, State Courts and Federal Declaratory Judgments, 74 Nw.U.L.Rev. 759, 771, 774 (1979). An Arkansas trial court is bound by this Court’s (and by the Arkansas Supreme Court’s and Arkansas Court of Appeals’) interpretation of federal law, but if it follows the Eighth Circuit’s interpretation of federal law, it does so only because it chooses to and not because it must.
+ 
+I agree with the Court’s holding that the Court of Appeals misinterpreted the Sixth Amendment. I wish to make it clear that it misinterpreted the Supremacy Clause as well.
+ 
+
+
+
+
+

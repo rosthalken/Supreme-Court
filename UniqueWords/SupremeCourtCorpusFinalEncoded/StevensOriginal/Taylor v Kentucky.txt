@@ -1,0 +1,39 @@
+﻿
+        
+        Taylor v. Kentucky, 436 U.S. 478, 98 S. Ct. 1930 (1978)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE REHNQUIST joins, dissenting.
+
+In a federal court it is reversible error to refuse a request for a proper instruction [****24]  on the presumption of innocence. Coffin v. United States, 156 U.S. 432, 460-461. 1Link to the text of the note That is not, however, a  [***479]  sufficient reason for holding  [**1938]  that such an instruction is constitutionally required in every criminal trial. 2Link to the text of the note
+
+The function of the instruction is to make it clear that the burden of  [****25]  persuasion rests entirely on the prosecutor. The same function is performed by the instruction requiring proof beyond a reasonable doubt. 3Link to the text of the note One standard instruction adds emphasis to the other. Neither should be omitted, but an "omission, or an incomplete instruction, is less likely to be prejudical than a misstatement of the law." Henderson v. Kibbe, 431 U.S. 145, 155. In some cases the omission may be fatal, but the Court wisely avoids a holding that this is always so.
+
+ [*492]  In this case the omission did not violate a specific constitutional guarantee, such as the privilege against compulsory self-incrimination.  [****26]  4Link to the text of the note Nor did it deny the defendant his fundamental right to a fair trial. An instruction on reasonable doubt, admittedly brief, was given. The voir dire had made clear to each juror the defendant's right to be presumed innocent despite his indictment. 5Link to the text of the note The prosecutor's closing argument did not precipitate any objection from defense counsel who listened to it; it may not, therefore, provide the basis for a reversal. Cf. Estelle v. Williams, 425 U.S. 501, 506-513. Although the Court's appraisal is not unreasonable, for this was by no means a perfect trial, I do not believe that constitutional error was committed. Accordingly, I respectfully dissent.
+
+Although that decision rested on the erroneous notion that "the presumption of innocence is evidence in favor of the accused," 156 U.S., at 460; cf. J. Thayer, A Preliminary Treatise on Evidence 566-575 (1898), the rule in Coffin is surely sound.
+
+2Link to the location of the note in the document
+"Before a federal court may overturn a conviction resulting from a state trial [on the basis of an error in the instructions to the jury], it must be established not merely that the instruction is undesirable, erroneous, or even 'universally condemned', but that it violated some right which was guaranteed to the defendant by the Fourteenth Amendment." Cupp v. Naughten, 414 U.S. 141, 146.
+
+3Link to the location of the note in the document
+The instruction may also give the jury a "hint," 9 J. Wigmore, Evidence § 2511 (3d ed. 1940), that arrest, indictment, and arraignment should not count against the accused. But when an instruction on this point is necessary, it should be explicit. An instruction on the presumption of innocence is not an adequate substitute for stating expressly that the indictment is not evidence.
+
+4Link to the location of the note in the document
+Cf. Lakeside v. Oregon, 435 U.S. 333, 342 (STEVENS, J., dissenting).
+
+5Link to the location of the note in the document
+Petitioner's lawyer asked the jurors the following questions:
+
+"You all understand an indictment is only a charge, the initiating paper which brings us here today, and that in and of itself the indictment is no evidence, no way. It's merely a document that gets us here to this stage in the proceedings. Do you understand that's not to be considered as evidence?
+
+. . . .
+
+"I'm sure you all will agree to this final question as regards the principle of innocence or reasonable doubt. Do each of you all agree and understand that Mike Taylor as he sits there today is a young man who is presumed to be innocent of the charge of second degree robbery, that this innocence has to be overcome by the Commonwealth to meet a standard of what we call beyond a reasonable doubt and that in the event that at the conclusion of the evidence, you have a reasonable doubt then it is your duty to return a verdict of not guilty. Do each of you understand the principle of innocence, the requirement of reasonable doubt? That reasonable doubt must be removed in order to find a verdict of guilty?
+
+"Do each of you understand that principle and I try to make it as elementary as I can. Lawyers sometimes have a tendency to make things complicated but I hope I made it sufficiently clear.
+
+"I take it by your silence that each of you does understand."

@@ -1,0 +1,323 @@
+﻿
+        
+        Engle v. Isaac, 456 U.S. 107, 102 S. Ct. 1558 (1982)
+        
+
+
+      
+
+JUSTICE O'CONNOR delivered the opinion of the Court. 
+
+LEdHN[1A] [1A]In Wainwright v. Sykes, 433 U.S. 72 (1977), we held that HN1 a state prisoner, barred by procedural default from raising a constitutional claim on direct appeal, could not litigate that claim in a § 2254 habeas corpus 1Link to the text of the note proceeding  [**1563]  without showing cause for an actual prejudice from the default. Applying the principle of Sykes to these cases, we conclude that respondents, who failed to comply with an Ohio rule mandating contemporaneous  [***790]  objections to jury instructions, may not challenge the constitutionality of those instructions in a federal habeas proceeding.
+
+ [****9]  I
+
+Respondents' claims rest in part on recent changes in Ohio criminal law. For over a century, the Ohio courts required criminal defendants to carry the burden of proving self-defense by a preponderance of the evidence. See State v. Seliskar, 35 Ohio St. 2d 95, 298 N. E. 2d 582 (1973); Szalkai v. State, 96 Ohio St. 36, 117 N. E. 12 (1917); Silvus v. State, 22 Ohio St. 90 (1872). A new criminal code, effective January  [*111]  1, 1974, subjected all affirmative defenses to the following rule:
+
+HN3 "Every person accused of an offense is presumed innocent until proven guilty beyond a reasonable doubt, and the burden of proof is upon the prosecution. The burden of going forward with the evidence of an affirmative defense is upon the accused." Ohio Rev. Code Ann. § 2901.05(A) (1975).
+
+For more than two years after its enactment, most Ohio courts assumed that this section worked no change in Ohio's traditional burden-of-proof rules. 2Link to the text of the note [****11]  In 1976, however, HN4 the Ohio Supreme Court construed the statute to place only the burden of production, not the burden of persuasion, on the defendant. Once [****10]  the defendant produces some evidence of self-defense, the state court ruled, the prosecutor must disprove self-defense beyond a reasonable doubt. State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (syllabus by the court). 3Link to the text of the note The present actions arose because Ohio tried and convicted respondents after the effective date of  [*112]  § 2901.05(A), but before the Ohio Supreme Court's interpretation of that statute in Robinson. 4Link to the text of the note
+
+On December 16, 1974, an Ohio grand jury indicted respondent Hughes for aggravated murder. 5Link to the text of the note At  [***791]  trial the State showed  [**1564]  that,  [****12]  in the presence of seven witnesses, Hughes shot and killed a man who was keeping company with his former girlfriend. Prosecution witnesses testified that the victim was unarmed and had just attempted to shake hands with Hughes. Hughes, however, claimed that he acted in self-defense. His testimony suggested that he feared the victim, a larger man, because he had touched his pocket while approaching Hughes. The trial court instructed the jury that Hughes bore the burden of proving this defense by a preponderance of the evidence. Counsel for Hughes did not specifically object to this instruction. 6Link to the text of the note
+
+ [****13] 
+
+ [*113]  On January 24, 1975, the jury convicted Hughes of voluntary manslaughter, a lesser included offense of aggravated murder. 7Link to the text of the note [****14]  On September 24, 1975, the Summit County Court of Appeals affirmed the conviction, and on March 19, 1976, the Supreme Court of Ohio dismissed Hughes' appeal, finding no substantial constitutional question. 8Link to the text of the note Neither of these appeals challenged the jury instruction on self-defense.
+
+Ohio tried respondent Bell for aggravated murder in April 1975. Evidence at trial showed that Bell was one of a group of bartenders who had agreed to help one another if trouble developed at any of their bars. On the evening of the murder, one of the bartenders called Bell and told him that he feared trouble from five men who had entered his bar. When Bell arrived at the bar, the bartender informed him that the men had left. Bell pursued them and gunned one of the men down in the street.
+
+Bell defended on the ground that he had acted in self-defense. He testified that as he approached two of the men, the bartender shouted: "He's got a gun" or "Watch out, he's got a gun." At this warning, Bell started shooting. As in Hughes' case, the trial court instructed the jury that Bell had the burden of proving self-defense by a preponderance of the evidence. Bell did not object to this instruction and the jury  [*114]  convicted  [***792]  him of [****15]  murder, a lesser included offense of the charged crime. 9Link to the text of the note
+
+Bell appealed to the Cuyahoga County Court of Appeals, but failed to challenge the instruction assigning him the burden of proving self-defense. The Court of Appeals affirmed Bell's conviction on April 8, 1976. 10Link to the text of the note [****16]  Bell appealed further to the Ohio Supreme Court, again neglecting to challenge the self-defense instruction. That court overruled his motion for leave to appeal on September 17, 1976, 11Link to the text of the note two months after it construed § 2901.05(A) to place the burden of proving absence of self-defense on the prosecution. See State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 88.
+
+ [**1565]  Respondent Isaac was tried in September 1975 for felonious assault. 12Link to the text of the note The State showed that Isaac had severely beaten his former wife's boyfriend. Isaac claimed that the boyfriend punched him first and that he acted solely in self-defense. Without objection from Isaac, the court instructed the jury that Isaac carried the burden of proving this defense by a preponderance of the evidence. The jury acquitted Isaac of felonious assault, but convicted him of the lesser included offense of aggravated assault. 13Link to the text of the note
+
+ [****17]  [*115]  Ten months after Isaac's trial, the Ohio Supreme Court decided State v. Robinson, supra. In his appeal to the Pickaway County Court of Appeals, 14Link to the text of the note Isaac relied upon Robinson to challenge the burden-of-proof instructions given at his trial. The court rejected this challenge because Isaac had failed to object to the jury instructions during trial, as required by Ohio Rule of Criminal Procedure 30. 15Link to the text of the note  [***793]  This default waived Isaac's claim. State v. Glaros, 170 Ohio St. 471, 166 N. E. 2d 379 (1960); State v. Slone, 45 Ohio App. 2d 24, 340 N. E. 2d 413 (1975).
+
+ [****18]   [*116]  The Supreme Court of Ohio dismissed Isaac's appeal for lack of a substantial constitutional question. 16Link to the text of the note On the same day, that court decided State v. Humphries, 51 Ohio St. 2d 95, 364 N. E. 2d 1354 (1977), and State v. Williams, 51 Ohio St. 2d 112, 364 N. E. 2d 1364 (1977), vacated in part and remanded, 438 U.S. 911 (1978). In Humphries the court ruled that every criminal trial held on or after January 1, 1974, "is required to be conducted in accordance with the provisions of [Ohio Rev. Code Ann. § 2901.05]." 51 Ohio St. 2d, at 95, 364 N. E. 2d, at 1355 (syllabus by the court). The court, however, refused to extend this ruling to a defendant who failed to comply with Ohio Rule of Criminal Procedure 30. Id., at 102-103, 364 N. E. 2d, at 1359. In Williams, the court declined to consider a constitutional challenge to Ohio's traditional self-defense instruction, again because the defendant had not properly objected to the instruction at trial.
+
+ [****19]  All three respondents unsuccessfully sought writs of habeas corpus from Federal  [**1566]  District Courts. Hughes' petition alleged that the State had violated the Fifth and Fourteenth Amendments by failing to prove guilt "as to each and every essential element of the offense charged" and by failing to "so instruct" the jury. The District Judge rejected this claim, finding that Ohio law does not consider absence of self-defense an element of aggravated murder or voluntary manslaughter. Although the self-defense instructions at Hughes' trial might have violated § 2901.05(A), they did not violate the Federal Constitution. Alternatively, the District Judge held that Hughes had waived his constitutional claim by failing to comply with Ohio's contemporaneous objection rule. Since Hughes offered no explanation for his failure to object, and showed no actual prejudice, Wainwright v. Sykes, 433 U.S. 72 (1977), barred him from asserting the claim. Hughes v. Engle, Civ. Action No. C 77-156A (ND Ohio, June 26, 1979).
+
+ [*117]  Bell's petition for habeas relief similarly alleged that the trial judge had violated due process by instructing "the jury that [****20]  the accused must prove an affirmative defense by a preponderance of the evidence." The District Court acknowledged that Bell had never raised this claim in the state courts. Observing, however, that the State addressed Bell's argument on the merits, the District Court ruled that Bell's default was not a "deliberate bypass." See Fay v. Noia, 372 U.S. 391 (1963). Although the court cited our opinion in Wainwright v. Sykes, supra, it did not inquire whether Bell had shown cause for or prejudice from his procedural waiver. The court then ruled that Ohio could constitutionally burden Bell with proving self-defense since it had not defined absence of self-defense as an element of murder.  [***794]  Bell v. Perini, No. C 78-343 (ND Ohio, Dec. 26, 1978).
+
+Bell moved for reconsideration, urging that § 2901.05(A) had in fact defined absence of self-defense as an element of murder. The District Court rejected this argument and then declared that the "real issue" was whether Bell was entitled to retroactive application of State v. Robinson. Bell failed on this claim as well since Ohio's decision to limit retroactive application [****21]  of Robinson "substantially [furthered] the State's legitimate interest in the finality of its decisions." App. to Pet. for Cert. A59. Indeed, the District Court noted that this Court had sanctioned just this sort of limit on retroactivity. See Hankerson v. North Carolina, 432 U.S. 233, 244, n. 8 (1977). Bell v. Perini, No. C 78-343 (ND Ohio, Jan. 23, 1979).
+
+Isaac's habeas petition was more complex than those submitted by Hughes and Bell. He urged that the Ohio Supreme Court had "[refused] to give relief [to him], despite its own pronouncement" that State v. Robinson would apply retroactively. In addition, he declared broadly that the Ohio court's ruling was "contrary to the Supreme Court of the United States in regard to proving self-defense." The District Court determined that Isaac had waived any constitutional  [*118]  claims by failing to present them to the Ohio trial court. Since he further failed to show either cause for or actual prejudice from the waiver, see Wainwright v. Sykes, supra, he could not present his claim in a federal habeas proceeding. Isaac v. Engle, Civ. Action No. C-2-78-278 [****22]  (SD Ohio, June 26, 1978).
+
+The Court of Appeals for the Sixth Circuit reversed all three District Court orders. In Isaac v. Engle, 646 F.2d 1129 (1980), a majority of the en banc court ruled that Wainwright v. Sykes did not preclude consideration of Isaac's constitutional claims. At the time of Isaac's trial, the court noted, Ohio had consistently required defendants to prove affirmative defenses by a preponderance of the evidence. The futility of objecting to this established practice supplied adequate cause for Isaac's waiver. Prejudice, the second prerequisite for excusing a procedural default, was "clear" since the burden of proof is a critical element of factfinding, and since  [**1567]  Isaac had made a substantial issue of self-defense. 646 F.2d, at 1134.
+
+A majority of the court also believed that the instructions given at Isaac's trial violated due process. Four judges thought that § 2901.05(A) defined the absence of self-defense as an element of felonious and aggravated assault. While the State did not have to define its crimes in this manner, "due process [required] it to meet the burden that [****23]  it chose to assume." 646 F.2d, at 1135. A fifth judge believed that, even absent § 2901.05(A), the Due Process Clause would compel the prosecution to prove absence of self-defense because that defense negates criminal intent, an essential element of aggravated and felonious assault. A sixth judge agreed that Ohio had violated Isaac's due process rights, but would have concentrated on the State's arbitrary refusal to extend  [***795]  the retroactive benefits of State v. Robinson, to Isaac. 17Link to the text of the note
+
+ [*119]  Relying on the en banc decision in Isaac, two Sixth Circuit panels ordered [****24]  the District Court to release Bell and Hughes unless the State chose to retry them within a reasonable time. Bell v. Perini, 635 F.2d 575 (1980); 18Link to the text of the note Hughes v. Engle, judgt. order reported at 642 F.2d 451 (1980). We granted certiorari to review all three Sixth Circuit judgments. 451 U.S. 906 (1981).
+
+II
+
+LEdHN[2] [2]HN11 A state prisoner is entitled to relief under 28 U. S. C. § 2254 only if he is held "in custody in violation of the Constitution or laws or treaties of the United States." Insofar as respondents simply challenge the correctness of the self-defense instructions under Ohio law, they allege no deprivation of federal rights and may not obtain habeas relief. The lower courts, however, read respondents' habeas petitions to state at least two constitutional claims. Respondents repeat both of those claims here.
+
+A
+
+ [****25]  First, respondents argue that § 2901.05, which governs the burden of proof in all criminal trials, implicitly designated absence of self-defense an element of the crimes charged against them. Since Ohio defined its crimes in this manner, respondents contend, our opinions in In re Winship, 397 U.S. 358 (1970); Mullaney v. Wilbur, 421 U.S. 684 (1975); and Patterson v. New York, 432 U.S. 197 (1977), required the prosecution to prove absence of self-defense beyond a reasonable doubt. A plurality of the en banc Sixth Circuit seemed to accept this argument in Isaac's appeal, finding that due process required the State "to meet the burden that it chose to assume." 646 F.2d, at 1135.
+
+
+
+ [*120]  LEdHN[3] [3]LEdHN[4A] [4A]LEdHN[5A] [5A]A careful review of our prior decisions reveals that this claim is without merit. 19Link to the text of the note [****27]  Our opinions suggest that the prosecution's constitutional duty to negate affirmative defenses may depend, at least in part, on the manner in which the State defines the charged crime. Compare Mullaney v. Wilbur, supra, with Patterson v. New York, supra. These decisions,  [****26]  however, do not suggest that whenever a State  [**1568]  requires the prosecution to prove a particular circumstance beyond a reasonable doubt, it has invariably defined that circumstance as an element of the crime. A State may  [***796]  want to assume the burden of disproving an affirmative defense without also designating absence of the defense an element of the crime. 20Link to the text of the note HN12 The Due Process Clause does not mandate that when a State treats absence of an affirmative defense as an "element" of the crime for one purpose, it must do so for all purposes. The structure of Ohio's Code suggests simply that the State decided to assist defendants by requiring the prosecution to disprove certain affirmative defenses. Absent concrete evidence that the Ohio Legislature or courts understood § 2901.05(A) to go further than this, we decline to accept respondents' construction of state law. While they  [*121]  attempt to cast their first claim in constitutional terms, we believe that this claim does no more than suggest that the instructions at respondents' trials may have violated state law. 21Link to the text of the note 
+
+LEdHN[4B] [4B]
+
+ [****28]  LEdHN[5B] [5B]
+
+B
+
+LEdHN[6] [6]Respondents also allege that, even without considering § 2901.05, Ohio could not constitutionally shift the burden of proving self-defense to them. All of the crimes charged against them require a showing of purposeful or knowing behavior. These terms, according to respondents, imply a degree of culpability that is absent when a person acts in self-defense. See Committee Comment to Ohio Rev. Code Ann. § 2901.21 (1975) ("generally, an offense is not committed unless a person . . . has a certain guilty state of mind [****29]  at the time of his act or failure [to act]"); State v. Clifton, 32 Ohio App. 2d 284, 286-287, 290 N. E. 2d 921, 923 (1972) ("one who kills in self-defense does so without the mens rea that otherwise would render him culpable of the homicide"). In addition, Ohio punishes only actions that are voluntary, Ohio Rev. Code Ann. § 2901.21(A)(1) (1975), and unlawful, State v. Simon, No. 6262, p. 13 (Ct. App. Montgomery County, Ohio, Jan. 16, 1980), modified on reconsideration (Jan. 22, 1980). Self-defense, respondents urge, negates these elements of criminal behavior. Therefore, once the defendant raises the possibility of self-defense, respondents contend that the  [*122]  State must disprove that defense as part of its task of establishing guilty mens rea, voluntariness, and unlawfulness. The Due Process Clause, according  [***797]  to respondents' interpretation of Winship, Mullaney, and Patterson, forbids the States to disavow any portion of this burden. 22Link to the text of the note
+
+ [****30]  [**1569]  This argument states a colorable constitutional claim. Several courts have applied our Mullaney and Patterson opinions to charge the prosecution with the constitutional duty of proving absence of self-defense. 23Link to the text of the note [****31]  Most of these decisions adopt respondents' reasoning that due process commands the prosecution to prove absence of self-defense if that defense negates an element, such as purposeful conduct, of the charged crime. While other courts have rejected this type of claim, 24Link to the text of the note the controversy suggests that respondents' second argument states at least a plausible constitutional claim. We proceed, therefore, to determine whether respondents  [*123]  preserved this claim before the state courts and, if not, to inquire whether the principles articulated in Wainwright v. Sykes, 433 U.S. 72 (1977), bar consideration of the claim in a federal habeas proceeding. 25Link to the text of the note
+
+ [****32]  [*124]  [***798]  [**1570]  III
+
+LEdHN[7A] [7A]LEdHN[8A] [8A]LEdHN[9A] [9A]None of the respondents challenged the constitutionality of the self-defense instruction at trial. 26Link to the text of the note [****33]  They thus violated Ohio Rule of Criminal Procedure 30, which requires contemporaneous  [*125]  objections to jury instructions. HN16 Failure to comply with Rule 30 is adequate, under Ohio law, to bar appellate consideration of an objection. See, e. g., State v. Humphries, 51 Ohio St. 2d 95, 364 N. E. 2d 1354 (1977); State v. Gordon, 28 Ohio St. 2d 45, 276 N. E. 2d 243 (1971). The Ohio Supreme Court has enforced  [***799]  this bar against the very due process argument raised here. State v. Williams, 51 Ohio St. 2d 112, 364 N. E. 2d 1364 (1977), vacated in part and remanded, 438 U.S. 911 (1978). 27Link to the text of the note We must determine, therefore, whether respondents may litigate, in a federal habeas proceeding, a constitutional claim that they forfeited before the state courts. 28Link to the text of the note
+
+LEdHN[7B] [7B]
+
+ [****34]  LEdHN[8B] [8B] LEdHN[9B] [9B]
+
+ [****35]  [*126]  [**1571]  A
+
+The writ of habeas corpus indisputably holds an honored position in our jurisprudence. Tracing its roots deep into English common law, 29Link to the text of the note it claims a place in Art. I of our Constitution. 30Link to the text of the note Today, as in prior centuries, the writ is a bulwark against convictions that violate "fundamental fairness." Wainwright v. Sykes, 433 U.S., at 97 (STEVENS, J., concurring).
+
+We have always recognized, however, that the Great Writ entails significant costs. 31Link to the text of the note [****37]  Collateral review  [***800]  of a conviction  [*127]  extends the ordeal of trial for both society and the accused. As Justice Harlan once observed, HN21 "[both] the individual criminal defendant and society have an interest in insuring that there will at some point be the certainty that comes with an end to litigation, and that attention will ultimately be focused not on whether [****36]  a conviction was free from error but rather on whether the prisoner can be restored to a useful place in the community." Sanders v. United States, 373 U.S. 1, 24-25 (1963) (dissenting opinion). See also Hankerson v. North Carolina, 432 U.S., at 247 (POWELL, J., concurring in judgment). By frustrating these interests, the writ undermines the usual principles of finality of litigation. 32Link to the text of the note
+
+HN22 Liberal allowance of the writ, moreover, degrades the prominence of the trial itself. A criminal trial concentrates society's resources at one "time and place in order to decide, within the limits of human fallibility, the question of guilt or innocence." Wainwright v. Sykes, supra, at 90. Our Constitution and laws surround the trial with a multitude of protections for the accused. Rather than enhancing these safeguards, ready availability of habeas corpus may diminish their sanctity by suggesting to the [****38]  trial participants that there may be no need to adhere to those safeguards during the trial itself.
+
+ [**1572]  We must also acknowledge that writs of habeas corpus frequently cost society the right to punish admitted offenders. Passage of time, erosion of memory, and dispersion of witnesses  [*128]  may render retrial difficult, even impossible. While a habeas writ may, in theory, entitle the defendant only to retrial, in practice it may reward the accused with complete freedom from prosecution.
+
+Finally, HN23 the Great Writ imposes special costs on our federal system. The States possess primary authority for defining and enforcing the criminal law. In criminal trials they also hold the initial responsibility for vindicating constitutional rights. Federal intrusions into state criminal trials frustrate both the States' sovereign power to punish offenders and their good-faith attempts to honor constitutional rights. See Schneckloth v. Bustamonte, 412 U.S. 218, 263-265 (1973) (POWELL, J., concurring). 33Link to the text of the note
+
+ [****39]  In  [***801]  Wainwright v. Sykes, we recognized that these costs are particularly high when a trial default has barred a prisoner from obtaining adjudication of his constitutional claim in the state courts. In that situation, the trial court has had no opportunity to correct the defect and avoid problematic retrials. The defendant's counsel, for whatever reasons, has detracted from the trial's significance by neglecting to raise a  [*129]  claim in that forum. 34Link to the text of the note The state appellate courts have not had a chance to mend their own fences and avoid federal intrusion. Issuance of a habeas writ, finally, exacts an extra charge by undercutting the State's ability to enforce its procedural rules. These considerations supported our Sykes ruling that, HN24 when a procedural default bars state litigation of a constitutional claim, a state prisoner may not obtain federal habeas relief absent a showing of cause and actual prejudice.
+
+
+
+ [****40]  LEdHN[10] [10]Respondents urge that we should limit Sykes to cases in which the constitutional error did not affect the truthfinding function of the trial. In Sykes itself, for example, the prisoner alleged that the State had violated the rights guaranteed by Miranda v. Arizona, 384 U.S. 436 (1966). While this defect was serious, it did not affect the determination of guilt at trial.
+
+We do not believe, however, that the principles of Sykes lend themselves to this limitation. The costs outlined above do not depend upon the type of claim raised by the prisoner. HN25 While the nature of a constitutional claim may affect the calculation of cause and actual prejudice, it does not alter the need to make that threshold showing. We reaffirm, therefore, that any prisoner bringing a constitutional claim to the federal courthouse after a state procedural default  [**1573]  must demonstrate cause and actual prejudice before obtaining relief.
+
+ [*130]  B
+
+LEdHN[1B] [1B]Respondents seek cause for their defaults in two circumstances. First, they urge that they could not have known at the time of their trials that the Due Process Clause  [***802]  addresses the burden of proving affirmative [****41]  defenses. Second, they contend that any objection to Ohio's self-defense instruction would have been futile since Ohio had long required criminal defendants to bear the burden of proving this affirmative defense.
+
+We note at the outset that HN26 the futility of presenting an objection to the state courts cannot alone constitute cause for a failure to object at trial. If a defendant perceives a constitutional claim and believes it may find favor in the federal courts, he may not bypass the state courts simply because he thinks they will be unsympathetic to the claim. 35Link to the text of the note [****42]  Even a state court that has previously rejected a constitutional argument may decide, upon reflection, that the contention is valid. Allowing criminal defendants to deprive the state courts of this opportunity would contradict the principles supporting Sykes. 36Link to the text of the note
+
+Respondents' claim, however, is not simply one of futility. They further allege that, at the time they were tried, they could not know that Ohio's self-defense instructions raised  [*131]  constitutional questions. A criminal defendant, they urge, may not waive constitutional objections unknown at the time of trial.
+
+LEdHN[11] [11]We need not decide whether the novelty of a constitutional claim ever establishes cause for a failure to object. 37Link to the text of the note We might hesitate to adopt a rule that would require trial counsel either to exercise extraordinary vision or to object to every aspect of the proceedings in the hope that some aspect might mask a latent constitutional claim. On the other hand, HN28 later discovery of a constitutional [****43]  defect unknown at the time of trial does not invariably render the original trial fundamentally unfair. 38Link to the text of the note These concerns, however, need not detain us here since respondents' claims were far from unknown at the time of their trials.
+
+In re Winship, 397 U.S. 358 (1970), decided four and  [***803]  one-half years before the first of respondents' trials,  [****44]  laid the basis for their constitutional claim. In Winship we held that HN29 "the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged." Id., at 364. During the five years following  [**1574]  this decision, 39Link to the text of the note [****45]  dozens of defendants relied upon this language to challenge  [*132]  the constitutionality of rules requiring them to bear a burden of proof. 40Link to the text of the note [****46]  In most of these cases, the defendants' claims countered well-established principles of law.  [***804]  Nevertheless,  [*133]  numerous courts agreed that the Due Process Clause requires the prosecution to bear the burden of disproving certain affirmative defenses. 41Link to the text of the note In light of this activity, we cannot say that respondents lacked the tools to construct their constitutional claim. 42Link to the text of the note
+
+ [****47] 
+
+ [**1575]  LEdHN[12] [12]We do not suggest that every astute counsel would have relied upon Winship to assert the unconstitutionality of a rule saddling criminal defendants with the burden of proving an affirmative defense. Every trial presents a myriad of possible claims. Counsel might have overlooked or chosen to  [*134]  omit respondents' due process argument while pursuing other avenues of defense. We have long recognized, however, that HN31 the Constitution guarantees criminal defendants only a fair trial and a competent attorney. It does not insure that defense counsel will recognize and raise every conceivable constitutional claim. Where the basis of a constitutional claim is available, and other defense counsel have perceived and litigated that claim, the demands of comity and finality counsel against labeling alleged unawareness of the objection as cause for a procedural default. 43Link to the text of the note
+
+ [****48]  C
+
+LEdHN[13] [13] LEdHN[14] [14]Respondents, finally, urge that we should replace or supplement the cause-and-prejudice standard with a plain-error inquiry. We rejected this argument when pressed by a federal prisoner, see United States v. Frady, post, p. 152, and find it no more compelling here. HN32 The federal courts apply a plain-error rule for  [***805]  direct review of federal convictions. Fed. Rule Crim. Proc. 52(b). Federal habeas challenges to state convictions, however, entail greater finality problems and special comity concerns. We remain convinced that the burden of justifying federal habeas relief for state prisoners  [*135]  is "greater than the showing required to establish plain error on direct appeal." Henderson v. Kibbe, 431 U.S. 145, 154 (1977); United States v. Frady, post, at 166. 44Link to the text of the note
+
+ [****49]  Contrary to respondents' assertion, moreover, a plain-error standard is unnecessary to correct miscarriages of justice. HN34 The terms "cause" and "actual prejudice" are not rigid concepts; they take their meaning  [**1576]  from the principles of comity and finality discussed above. In appropriate cases those principles must yield to the imperative of correcting a fundamentally unjust incarceration. Since we are confident that victims of a fundamental miscarriage of justice will meet the cause-and-prejudice standard, see Wainwright v. Sykes, 433 U.S., at 91; id., at 94-97 (STEVENS, J., concurring), we decline to adopt the more vague inquiry suggested by the words "plain error."
+
+IV
+
+LEdHN[1C] [1C]Close analysis of respondents' habeas petitions reveals only one colorable constitutional claim. Because respondents failed to comply with Ohio's procedures for raising that contention, and because they have not demonstrated cause for the default, they are barred from asserting that claim under 28 U. S. C. § 2254. The judgments of the Court of Appeals are reversed, and these cases are remanded for proceedings consistent with this opinion.
+
+So ordered.
+
+1Link to the location of the note in the document
+HN2 Title 28 U. S. C. § 2254(a) empowers "[the] Supreme Court, a Justice thereof, a circuit judge, or a district court" to "entertain an application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court only on the ground that he is in custody in violation of the Constitution or laws or treaties of the United States." This statutory remedy may not be identical in all respects to the common-law writ of habeas corpus. See Wainwright v. Sykes, 433 U.S., at 78.
+
+2Link to the location of the note in the document
+See, e. g., State v. Rogers, 43 Ohio St. 2d 28, 30, 330 N. E. 2d 674, 676 (1975) (noting that "self-defense is an affirmative defense, which must be established by a preponderance of the evidence"), cert. denied, 423 U.S. 1061 (1976). But see State v. Matthews, No. 74AP-428, p. 9 (Ct. App. Franklin County, Ohio, Dec. 24, 1974) (§ 2901.05(A) "evinces a legislative intent to change the burden of the defendant with respect to affirmative defenses"); 1 O. Schroeder & L. Katz, Ohio Criminal Law and Practice § 2901.05, p. 14 (1974) ("The provisions of 2901.05(A) follow the modern statutory trend in this area, requiring the accused to raise the affirmative defense, but leaving the burden of persuasion upon the prosecution"); Student Symposium: The Proposed Ohio Criminal Code -- Reform and Regression, 33 Ohio St. L. J. 351, 420 (1972) (suggesting that legislators intended to change traditional rule).
+
+3Link to the location of the note in the document
+In Ohio, the court's syllabus contains the controlling law. See Haas v. State, 103 Ohio St. 1, 7-8, 132 N. E. 158, 159-160 (1921).
+
+4Link to the location of the note in the document
+Two years after Robinson, the Ohio Legislature once again amended Ohio's burden-of-proof law. The new § 2901.05(A), effective November 1, 1978, provides:
+
+"Every person accused of an offense is presumed innocent until proven guilty beyond a reasonable doubt, and the burden of proof for all elements of the offense is upon the prosecution. The burden of going forward with the evidence of an affirmative defense, and the burden of proof, by a preponderance of the evidence, for an affirmative defense, is upon the accused." Ohio Rev. Code Ann. § 2901.05(A) (Supp. 1980) (emphasis added).
+
+This amendment has no effect on the litigation before us. Throughout this opinion, citations to § 2901.05(A) refer to the statute in effect between January 1, 1974, and October 31, 1978.
+
+5Link to the location of the note in the document
+See HN5 Ohio Rev. Code Ann. § 2903.01 (1975):
+
+"(A) No person shall purposely, and with prior calculation and design, cause the death of another.
+
+"(B) No person shall purposely cause the death of another while committing or attempting to commit, or while fleeing immediately after committing or attempting to commit kidnapping, rape, aggravated arson or arson, aggravated robbery or robbery, aggravated burglary or burglary, or escape.
+
+"(C) Whoever violates this section is guilty of aggravated murder, and shall be punished as provided in section 2929.02 of the Revised Code."
+
+6Link to the location of the note in the document
+Hughes' counsel did register a general objection "to the entire Charge in its entirety" because "[we] are operating now under a new code in which many things are uncertain." App. 48. Counsel's subsequent remarks, however, demonstrated that his objection concerned only the proposed definitions of "Aggravated Murder, Murder and Voluntary Manslaughter." Id., at 48, 50.
+
+7Link to the location of the note in the document
+HN6 Voluntary manslaughter is "knowingly ]causing] the death of another" while under "extreme emotional stress brought on by serious provocation reasonably sufficient to incite [the defendant] into using deadly force." Ohio Rev. Code Ann. § 2903.03 (A) (1975).
+
+Hughes was sentenced to 6-25 years in prison. The State's petition for certiorari indicated that Hughes has been "granted final [release] as a matter of parole." Pet. for Cert. 6. This release does not moot the controversy between Hughes and the State. See Humphrey v. Cady, 405 U.S. 504, 506-507, n. 2 (1972); Carafas v. LaVallee, 391 U.S. 234, 237-240 (1968).
+
+8Link to the location of the note in the document
+See State v. Hughes, C. A. No. 7717 (Ct. App. Summit County, Ohio, Sept. 24, 1975); State v. Hughes, No. 75-1026 (Ohio, Mar. 19, 1976).
+
+9Link to the location of the note in the document
+HN7 Ohio defines murder as "purposely [causing] the death of another." Ohio Rev. Code Ann. § 2903.02(A) (1975). Bell received a sentence of 15 years to life imprisonment.
+
+10Link to the location of the note in the document
+State v. Bell, No. 34727 (Ct. App. Cuyahoga County, Ohio, Apr. 8, 1976).
+
+11Link to the location of the note in the document
+State v. Bell, No. 76-573 (Ohio, Sept. 17, 1976).
+
+12Link to the location of the note in the document
+See HN8 Ohio Rev. Code Ann. § 2903.11 (1975):
+
+"(A) No person shall knowingly:
+
+"(1) Cause serious physical harm to another;
+
+"(2) Cause or attempt to cause physical harm to another by means of a deadly weapon or dangerous ordinance as defined in section 2923.11 of the Revised Code.
+
+"(B) Whoever violates this section is guilty of felonious assault, a felony of the second degree."
+
+13Link to the location of the note in the document
+HN9 Ohio Rev. Code Ann. § 2903.12 (1975) describes aggravated assault:
+
+"(A) No person, while under extreme emotional stress brought on by serious provocation reasonably sufficient to incite him into using deadly force shall knowingly:
+
+"(1) Cause serious physical harm to another;
+
+"(2) Cause or attempt to cause physical harm to another by means of a deadly weapon or dangerous ordnance as defined in section 2923.11 of the Revised Code.
+
+"(B) Whoever violates this section is guilty of aggravated assault, a felony of the fourth degree."
+
+The judge sentenced Isaac to a term of six months' to five years' imprisonment. According to the State's petition for certiorari, Isaac has been released from jail. This controversy is not moot, however. See n. 7, supra.
+
+14Link to the location of the note in the document
+State v. Isaac, No. 346 (Ct. App. Pickaway County, Ohio, Feb. 11, 1977).
+
+15Link to the location of the note in the document
+At the time Hughes and Bell were tried, this HN10 Rule stated in relevant part:
+
+"No party may assign as error any portion of the charge or omission therefrom unless he objects thereto before the jury retires to consider its verdict, stating specifically the matter to which he objects and the grounds of his objection. Opportunity shall be given to make the objection out of the hearing of the jury."
+
+Shortly before Isaac's trial, Ohio amended the language of the Rule in minor respects:
+
+"A party may not assign as error the giving or the failure to give any instructions unless he objects thereto before the jury retires to consider its verdict, stating specifically the matter to which he objects and the grounds of his objection. Opportunity shall be given to make the objection out of the hearing of the jury."
+
+Both versions of the Ohio Rule closely parallel Rule 30 of the Federal Rules of Criminal Procedure.
+
+16Link to the location of the note in the document
+State v. Isaac, No. 77-412 (Ohio, July 20, 1977).
+
+17Link to the location of the note in the document
+The latter analysis paralleled the reasoning of the panel that originally decided the case. See Isaac v. Engle, 646 F.2d 1122 (1980).
+
+Four members of the court dissented from the en banc opinion. Two judges would have found no constitutional violation and two would have barred consideration of Isaac's claims under Wainwright v. Sykes, 433 U.S. 72 (1977).
+
+18Link to the location of the note in the document
+One judge dissented from this decision, indicating that Wainwright v. Sykes, supra, barred Bell's claims.
+
+19Link to the location of the note in the document
+The State suggests that the ineffectiveness of this claim demonstrates that respondents suffered no actual prejudice from their procedural default. We agree that the claim is insufficient to support habeas relief, but do not categorize this insufficiency as a lack of prejudice. HN13 If a state prisoner alleges no deprivation of a federal right, § 2254 is simply inapplicable. It is unnecessary in such a situation to inquire whether the prisoner preserved his claim before the state courts.
+
+20Link to the location of the note in the document
+Definition of a crime's elements may have consequences under state law other than allocation of the burden of persuasion. For example, HN14 the Ohio Supreme Court interpreted § 2901.05(A) to require defendants to come forward with some evidence of affirmative defenses. State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (1976). Defendants do not bear the same burden with respect to the elements of a crime; the State must prove those elements beyond a reasonable doubt even when the defendant introduces no evidence. See, e. g., State v. Isaac, 44 Ohio Misc. 87, 337 N. E. 2d 818 (Munic. Ct. 1975). Moreover, while Ohio requires the trial court to charge the jury on all elements of a crime, e. g., State v. Bridgeman, 51 Ohio App. 2d 105, 366 N. E. 2d 1378 (1977), vacated in part, 55 Ohio St. 2d 261, 381 N. E. 2d 184 (1978), it does not require explicit instructions on the prosecution's duty to negate self-defense beyond a reasonable doubt. State v. Abner, 55 Ohio St. 2d 251, 379 N. E. 2d 228 (1978).
+
+21Link to the location of the note in the document
+HN15 We have long recognized that a "mere error of state law" is not a denial of due process. Gryger v. Burke, 334 U.S. 728, 731 (1948). If the contrary were true, then "every erroneous decision by a state court on state law would come [to this Court] as a federal constitutional question." Ibid. See also Beck v. Washington, 369 U.S. 541, 554-555 (1962); Bishop v. Mazurkiewicz, 634 F.2d 724, 726 (CA3 1980); United States ex rel. Burnett v. Illinois, 619 F.2d 668, 670-671 (CA7 1980).
+
+22Link to the location of the note in the document
+In further support of the claim that, § 2901.05 aside, due process requires the prosecution to prove absence of self-defense, respondent Bell maintains that the States may never constitutionally punish actions taken in self-defense. If fundamental notions of due process prohibit criminalization of actions taken in self-defense, Bell suggests, then absence of self-defense is a vital element of every crime. See Jeffries & Stephan, Defenses, Presumptions, and Burden of Proof in the Criminal Law, 88 Yale L. J. 1325, 1366-1379 (1979); Comment, Shifting the Burden of Proving Self-Defense -- With Analysis of Related Ohio Law, 11 Akron L. Rev. 717, 758-759 (1978); Note, The Constitutionality of Affirmative Defenses After Patterson v. New York, 78 Colum. L. Rev. 655, 672-673 (1978); Note, Burdens of Persuasion in Criminal Proceedings: The Reasonable Doubt Standard After Patterson v. New York, 31 U. Fla. L. Rev. 385, 415-416 (1979).
+
+23Link to the location of the note in the document
+E. g., Tennon v. Ricketts, 642 F.2d 161 (CA5 1981); Holloway v. McElroy, 632 F.2d 605 (CA5 1980), cert. denied, 451 U.S. 1028 (1981); Wynn v. Mahoney, 600 F.2d 448 (CA4), cert. denied, 444 U.S. 950 (1979); Commonwealth v. Hilbert, 476 Pa. 288, 382 A. 2d 724 (1978). See also Comment, 11 Akron L. Rev., supra n. 22; Note, 78 Colum. L. Rev., supra n. 22.
+
+24Link to the location of the note in the document
+E. g., Carter v. Jago, 637 F.2d 449 (CA6 1980); Baker v. Muncy, 619 F.2d 327 (CA4 1980). See also Leland v. Oregon, 343 U.S. 790 (1952) (rule requiring accused to prove insanity beyond a reasonable doubt does not violate due process).
+
+25Link to the location of the note in the document
+JUSTICE BRENNAN accuses the Court of misreading Isaac's habeas petition in order to create a procedural default and "expatiate upon" the principles of Sykes. Post, at 137-138, 142-144. It is immediately apparent that these charges of "judicial activism" and "revisionism" carry more rhetorical force than substance. Our decision addresses the claims of three respondents, and JUSTICE BRENNAN does not dispute our characterization of the petitions filed by respondents Bell and Hughes. If the Court were motivated by a desire to expound the law, rather than to adjudicate the individual claims before it, the cases of Bell and Hughes would provide ample opportunity for that task. Instead, we have attempted to decide each of the controversies presented to us.
+
+JUSTICE BRENNAN, moreover, clearly errs when he suggests that Isaac's habeas petition "presented exactly one claim," that the "selective retroactive application of the Robinson rule denied him due process of law." Post, at 137, 139. Isaac's memorandum in support of his habeas petition did not adopt such a miserly view. Instead, Isaac relied heavily upon Mullaney v. Wilbur, 421 U.S. 684 (1975); Patterson v. New York, 432 U.S. 197 (1977); and Hankerson v. North Carolina, 432 U.S. 233 (1977), cases explaining that, at least in certain circumstances, the Due Process Clause requires the prosecution to disprove affirmative defenses. See App. to Brief in No. 78-3488 (CA6), pp. 26, 28-31. Nor did the District Judge construe Isaac's petition in the manner suggested by JUSTICE BRENNAN. Rather, he believed that Isaac raised "the federal constitutional question of whether, under Ohio law, placing the burden of proving the affirmative defense of self-defense upon the defendant violates the defendant's due process right to have the State prove each essential element of the crime beyond a reasonable doubt." App. to Pet. for Cert. A41. Similarly, all but one of the Sixth Circuit Judges who considered Isaac's case en banc thought that Isaac raised more claims than the one isolated by JUSTICE BRENNAN. Even the panel opinion invoked by JUSTICE BRENNAN, post, at 142, n. 10, rejected the notion that Isaac presented only one claim. 646 F.2d, at 1127. Isaac's own brief to this Court, finally, recites a long list of claims. Although he alludes to the argument featured by JUSTICE BRENNAN, he also maintains that his jury was misinstructed "[as] a matter of federal constitutional law," Brief for Respondent Isaac 15, and that Mullaney v. Wilbur and Hankerson v. North Carolina control his claims. Brief for Respondent Isaac 2, 3, 13-15. Under these circumstances, it is incomprehensible that JUSTICE BRENNAN construes Isaac's habeas petition to raise but a single claim.
+
+It appears to us, moreover, that the claim touted by JUSTICE BRENNAN formed no part of Isaac's original habeas petition. While Isaac's petition and supporting memorandum referred to the Ohio Supreme Court's decision in State v. Humphries, 51 Ohio St. 2d 95, 364 N. E. 2d 1354 (1977), Isaac did not discuss that decision's distinction between bench and jury trials, the distinction that JUSTICE BRENNAN finds so interesting. Post, at 138-139. Instead, the focus of his argument was that "[if] a state declares disproving an affirmative defense (once raised) is an element of the state's case, then to require a defendant to prove that affirmative defense violates due process and full retroactive effect must be accorded to defendants tried under the erroneous former law." App. to Brief in No. 78-3488 (CA6), p. 30. Thus, Isaac reasoned that once Robinson interpreted absence of self-defense as an "element of the state's case," Mullaney imposed a constitutional obligation upon the State to carry that burden. If Ohio did not apply Robinson retroactively to all defendants "tried under the erroneous former law," Isaac concluded, it would violate Mullaney. Ohio's failure to apply Robinson retroactively to him violated due process, not because Ohio had applied that decision retroactively to other defendants, but because "[the] instruction at his trial denied him due process under Mullaney." App. to Brief in No. 78-3488 (CA6), pp. 26-27. This argument parallels the ones we discuss in text.
+
+It is, of course, possible to construe Isaac's confused petition and supporting memorandum to raise the claim described by JUSTICE BRENNAN. Many prisoners allege general deprivations of their constitutional rights and raise vague objections to various state rulings. A creative appellate judge could almost always distill from these allegations an unexhausted due process claim. If such a claim were present, Rose v. Lundy, 455 U.S. 509 (1982), would mandate dismissal of the entire petition. In this case, however, the District Judge did not identify the claim that JUSTICE BRENNAN proffers. Under these circumstances, we are reluctant to interpolate an unexhausted claim not directly presented by the petition. Rose v. Lundy does not compel such harsh treatment of habeas petitions.
+
+26Link to the location of the note in the document
+While respondent Bell does not deny his procedural default, he argues that we should overlook it because the State did not raise the issue in its filings with the District Court. HN17 In some cases a State's plea of default may come too late to bar consideration of the prisoner's constitutional claim. E. g., Estelle v. Smith, 451 U.S. 454, 468, n. 12 (1981); Jenkins v. Anderson, 447 U.S. 231, 234, n. 1 (1980). In this case, however, both the District Court and Court of Appeals evaluated Bell's default. Bell, moreover, did not make his "waiver of waiver" claim until he submitted his brief on the merits to this Court. Accordingly, we decline to consider his argument.
+
+27Link to the location of the note in the document
+In Isaac's own case, the Ohio Court of Appeals refused to entertain his challenge to the self-defense instruction because of his failure to comply with Rule 30. The Ohio Supreme Court subsequently dismissed Isaac's appeal for lack of a substantial constitutional question. It is unclear whether these appeals raised a constitutional, or merely statutory, attack on the self-defense instruction used at Isaac's trial. If Isaac presented his constitutional argument to the state courts, then they determined, on the very facts before us, that the claim was waived.
+
+Relying upon State v. Long, 53 Ohio St. 2d 91, 372 N. E. 2d 804 (1978), respondents argue that the Ohio Supreme Court has recognized its power, under Ohio's plain-error rule, to excuse Rule 30 defaults. Long, however, does not persuade us that the Ohio courts would have excused respondents' defaults. First, the Long court stressed that HN18 the plain-error rule applies only in "exceptional circumstances," such as where, "but for the error, the outcome of the trial clearly would have been otherwise." Id., at 96, 97, 372 N. E. 2d, at 807, 808. Second, the Long decision itself refused to invoke the plain-error rule for a defendant who presented a constitutional claim identical to the one pressed by respondents.
+
+28Link to the location of the note in the document
+As we recognized in Sykes, 433 U.S., at 78-79, HN19 the problem of waiver is separate from the question whether a state prisoner has exhausted state remedies. Section 2254(b) requires habeas applicants to exhaust those remedies "available in the courts of the State." This requirement, however, refers only to remedies still available at the time of the federal petition. See Humphrey v. Cady, 405 U.S., at 516; Fay v. Noia, 372 U.S. 391, 435 (1963). Respondents, of course, long ago completed their direct appeals. HN20 Ohio, moreover, provides only limited collateral review of convictions; prisoners may not raise claims that could have been litigated before judgment or on direct appeal. See Ohio Rev. Code Ann. § 2953.21(A) (1975); Collins v. Perini, 594 F.2d 592 (CA6 1979); Keener v. Ridenour, 594 F.2d 581 (CA6 1979). Since respondents could have challenged the constitutionality of Ohio's traditional self-defense instruction at trial or on direct appeal, we agree with the lower courts that state collateral relief is unavailable to respondents and, therefore, that they have exhausted their state remedies with respect to this claim.
+
+29Link to the location of the note in the document
+See 3 W. Blackstone, Commentaries *129-*138; Secretary of State for Home Affairs v. O'Brien, [1923] A. C. 603.
+
+30Link to the location of the note in the document
+Art. I, § 9, cl. 2.
+
+31Link to the location of the note in the document
+Judge Henry J. Friendly put the matter well when he wrote that "[the] proverbial man from Mars would surely think we must consider our system of criminal justice terribly bad if we are willing to tolerate such efforts at undoing judgments of conviction." Friendly, Is Innocence Irrelevant? Collateral Attack on Criminal Judgments, 38 U. Chi. L. Rev. 142, 145 (1970).
+
+JUSTICE POWELL, elucidating a position that ultimately commanded a majority of the Court, similarly suggested:
+
+"No effective judicial system can afford to concede the continuing theoretical possibility that there is error in every trial and that every incarceration is unfounded. At some point the law must convey to those in custody that a wrong has been committed, that consequent punishment has been imposed, that one should no longer look back with the view to resurrecting every imaginable basis for further litigation but rather should look forward to rehabilitation and to becoming a constructive citizen." Schneckloth v. Bustamonte, 412 U.S. 218, 262 (1973) (concurring opinion) (footnote omitted).
+
+See also Stone v. Powell, 428 U.S. 465 (1976).
+
+32Link to the location of the note in the document
+Judge Friendly and Professor Bator suggest that this absence of finality also frustrates deterrence and rehabilitation. Deterrence depends upon the expectation that "one violating the law will swiftly and certainly become subject to punishment, just punishment." Rehabilitation demands that the convicted defendant realize that "he is justly subject to sanction, that he stands in need of rehabilitation." Bator, Finality in Criminal Law and Federal Habeas Corpus for State Prisoners, 76 Harv. L. Rev. 441, 452 (1963); Friendly, supra n. 31, at 146.
+
+33Link to the location of the note in the document
+During the last two decades, our constitutional jurisprudence has recognized numerous new rights for criminal defendants. Although some habeas writs correct violations of long-established constitutional rights, others vindicate more novel claims. State courts are understandably frustrated when they faithfully apply existing constitutional law only to have a federal court discover, during a § 2254 proceeding, new constitutional commands.
+
+In an individual case, the significance of this frustration may pale beside the need to remedy a constitutional violation. Over the long term, however, federal intrusions may seriously undermine the morale of our state judges. As one scholar has observed, there is "nothing more subversive of a judge's sense of responsibility, of the inner subjective conscientiousness which is so essential a part of the difficult and subtle art of judging well, than an indiscriminate acceptance of the notion that all the shots will always be called by someone else." Bator, supra n. 32, at 451. Indiscriminate federal intrusions may simply diminish the fervor of state judges to root out constitutional errors on their own. While this concern cannot detract from a federal court's duty to correct a "miscarriage of justice," Sykes, 433 U.S., at 91, it counsels some care in administering § 2254.
+
+34Link to the location of the note in the document
+Counsel's default may stem from simple ignorance or the pressures of trial. We noted in Sykes, however, that a defendant's counsel may deliberately choose to withhold a claim in order to "sandbag" -- to gamble on acquittal while saving a dispositive claim in case the gamble does not pay off. See 433 U.S., at 89-90.
+
+35Link to the location of the note in the document
+See Estelle v. Williams, 425 U.S. 501, 515 (1976) (POWELL, J., concurring) (footnote omitted) (HN27 the policy disfavoring inferred waivers of constitutional rights "need not be carried to the length of allowing counsel for a defendant deliberately to forgo objection to a curable trial defect, even though he is aware of the factual and legal basis for an objection, simply because he thought objection would be futile"); Myers v. Washington, 646 F.2d 355, 364 (CA9 1981) (Poole, J., dissenting) (futility cannot constitute cause if it means simply that a claim was "unacceptable to that particular court at that particular time"), cert. pending, No. 81-1056.
+
+36Link to the location of the note in the document
+In fact, the decision to withhold a known constitutional claim resembles the type of deliberate bypass condemned in Fay v. Noia, 372 U.S. 391 (1963). Since the cause-and-prejudice standard is more demanding than Fay's deliberate bypass requirement, see Sykes, supra, at 87, we are confident that perceived futility alone cannot constitute cause.
+
+37Link to the location of the note in the document
+The State stressed at oral argument before this Court that it does not seek such a ruling. Instead, Ohio urges merely that "when the tools are available to construct the argument, . . . you can charge counsel with the obligation of raising that argument." Tr. of Oral Arg. 8-9.
+
+38Link to the location of the note in the document
+See Mackey v. United States, 401 U.S. 667, 675-702 (1971) (separate opinion of Harlan, J.); Williams v. United States, 401 U.S. 646, 665-666 (1971) (MARSHALL, J., concurring in part and dissenting in part); Hankerson v. North Carolina, 432 U.S., at 246-248 (POWELL, J., concurring in judgment).
+
+39Link to the location of the note in the document
+Even before Winship, HN30 criminal defendants and courts perceived that placing a burden of proof on the defendant may violate due process. For example, in Stump v. Bennett, 398 F.2d 111, cert. denied, 393 U.S. 1001 (1968), the Eighth Circuit ruled en banc that an Iowa rule requiring defendants to prove alibis by a preponderance of the evidence violated due process. The court, moreover, observed: "That an oppressive shifting of the burden of proof to a criminal defendant violates due process is not a new doctrine within constitutional law." 398 F.2d, at 122. See also Johnson v. Bennett, 393 U.S. 253 (1968) (vacating and remanding lower court decision for reconsideration in light of Stump); State v. Nales, 28 Conn. Supp. 28, 248 A. 2d 242 (1968) (holding that due process forbids requiring defendant to prove "lawful excuse" for possession of housebreaking tools).
+
+40Link to the location of the note in the document
+See, e. g., State v. Commenos, 461 S. W. 2d 9 (Mo. 1970) (en banc) (intent to return allegedly stolen item); Phillips v. State, 86 Nev. 720, 475 P. 2d 671 (1970) (insanity), cert. denied, 403 U.S. 940 (1971); Commonwealth v. O'Neal, 441 Pa. 17, 271 A. 2d 497 (1970) (absence of malice); Commonwealth v. Vogel, 440 Pa. 1, 268 A. 2d 89 (1970) (insanity), overruled, Commonwealth v. Rose, 457 Pa. 380, 321 A. 2d 880 (1974); Smith v. Smith, 454 F.2d 572 (CA5 1971) (alibi), cert. denied, 409 U.S. 885 (1972); United States v. Braver, 450 F.2d 799 (CA2 1971) (inducement), cert. denied, 405 U.S. 1064 (1972); Wilbur v. Robbins, 349 F.Supp. 149 (Me. 1972) (heat of passion), aff'd sub nom. Wilbur v. Mullaney, 473 F.2d 943 (CA1 1973), vacated, 414 U.S. 1139 (1974), on remand, 496 F.2d 1303 (CA1 1974), aff'd, 421 U.S. 684 (1975); State v. Cuevas, 53 Haw. 110, 488 P. 2d 322 (1971) (lack of malice aforethought or presence of legal justification); State v. Brown, 163 Conn. 52, 301 A. 2d 547 (1972) (possession of license to deal in drugs), overruled on other grounds, State v. Whistnant, 179 Conn. 576, 427 A. 2d 414 (1980); In re Foss, 10 Cal. 3d 910, 519 P. 2d 1073 (1974) (en banc) (entrapment); Woods v. State, 233 Ga. 347, 211 S. E. 2d 300 (1974) (authority to sell narcotic drugs), appeal dism'd, 422 U.S. 1002 (1975); State v. Buzynski, 330 A. 2d 422 (Me. 1974) (mental disease); People v. Jordan, 51 Mich. App. 710, 216 N. W. 2d 71 (1974) (absence of intent), disapproved on other grounds, People v. Johnson, 407 Mich. 196, 284 N. W. 2d 718 (1979); Commonwealth v. Rose, 457 Pa. 380, 321 A. 2d 880 (1974) (intoxication); Retail Credit Co. v. Dade County, 393 F.Supp. 577 (SD Fla. 1975) (maintenance of reasonable procedures); Fuentes v. State, 349 A. 2d 1 (Del. 1975) (extreme emotional distress), overruled, State v. Moyer, 387 A. 2d 194 (Del. 1978); Henderson v. State, 234 Ga. 827, 218 S. E. 2d 612 (1975) (self-defense); State v. Grady, 276 Md. 178, 345 A. 2d 436 (1975) (alibi); Evans v. State, 28 Md. App. 640, 349 A. 2d 300 (1975) (absence of malice; further describing in detail that due process requires prosecution to negate most affirmative defenses, including self-defense), aff'd, 278 Md. 197, 362 A. 2d 629 (1976); State v. Robinson, 48 Ohio App. 2d 197, 356 N. E. 2d 725 (1975) (self-defense), aff'd, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (1976). See also Trimble v. State, 229 Ga. 399, 401-402, 191 S. E. 2d 857, 858-859 (1972) (dissenting opinion) (alibi), overruled, Patterson v. State, 233 Ga. 724, 213 S. E. 2d 612 (1975); Grace v. State, 231 Ga. 113, 118, 125-128, 200 S. E. 2d 248, 252, 256-258 (1973) (dissenting opinions) (insanity).
+
+Several commentators also perceived that Winship might alter traditional burdens of proof for affirmative defenses. E. g., W. LaFave & A. Scott, Handbook on Criminal Law § 8, pp. 46-51 (1972); The Supreme Court, 1969 Term, 84 Harv. L. Rev. 1, 159 (1970); Student Symposium, 33 Ohio St. L. J., supra n. 2, at 421; Comment, Due Process and Supremacy as Foundations for the Adequacy Rule: The Remains of Federalism After Wilbur v. Mullaney, 26 U. Maine L. Rev. 37 (1974).
+
+41Link to the location of the note in the document
+Even those decisions rejecting the defendant's claim, of course, show that the issue had been perceived by other defendants and that it was a live one in the courts at the time.
+
+42Link to the location of the note in the document
+Respondent Isaac even had the benefit of our opinion in Mullaney v. Wilbur, 421 U.S. 684 (1975), decided three months before his trial. In Mullaney we invalidated a Maine practice requiring criminal defendants to negate malice by proving that they acted in the heat of passion. We thus explicitly acknowledged the link between Winship and constitutional limits on assignment of the burden of proof. Cf. Lee v. Missouri, 439 U.S. 461, 462 (1979) (per curiam) (suggesting that defendants who failed, after Taylor v. Louisiana, 419 U.S. 522 (1975), to object to the exclusion of women from juries must show cause for the failure).
+
+Respondents argue at length that, before the Ohio Supreme Court's decision in State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (1976), they did not know that Ohio Rev. Code Ann. § 2901.05(A) changed the traditional burden of proof. Ohio's interpretation of § 2901.05(A), however, is relevant only to claims that we reject independently of respondents' procedural default. See supra, at 119-121; n. 25, supra.
+
+43Link to the location of the note in the document
+Respondents resist this conclusion by noting that Hankerson v. North Carolina, 432 U.S., at 243, gave Mullaney v. Wilbur, the opinion explicitly recognizing Winship's effect on affirmative defenses, "complete retroactive effect." Hankerson itself, however, acknowledged the distinction between the retroactive availability of a constitutional decision and the right to claim that availability after a procedural default. JUSTICE WHITE's majority opinion forthrightly suggested that the States "may be able to insulate past convictions [from the effect of Mullaney] by enforcing the normal and valid rule that failure to object to a jury instruction is a waiver of any claim of error." 432 U.S., at 244, n. 8. In these cases we accept the force of that language as applied to defendants tried after Winship.
+
+Since we conclude that these respondents lacked cause for their default, we do not consider whether they also suffered actual prejudice. Respondents urge that their prejudice was so great that it should permit relief even in the absence of cause. Sykes, however, stated these criteria in the conjunctive and the facts of these cases do not persuade us to depart from that approach.
+
+44Link to the location of the note in the document
+Respondents bolster their plain-error contention by observing that Ohio will overlook a procedural default if the trial defect constituted plain error. Ohio, however, has declined to exercise this discretion to review the type of claim pressed here. See n. 27, supra. If Ohio had exercised its discretion to consider respondents' claim, then their initial default would no longer block federal review. See Mullaney v. Wilbur, supra, at 688, n. 7; Ulster County Court v. Allen, 442 U.S. 140, 147-154 (1979). Our opinions, however, make clear that HN33 the States have the primary responsibility to interpret and apply their plain-error rules. Certainly we should not rely upon a state plain-error rule when the State has refused to apply that rule to the very sort of claim at issue.

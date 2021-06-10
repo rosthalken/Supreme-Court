@@ -1,0 +1,14 @@
+﻿ELIJAH MANUEL, Petitioner v. CITY OF JOLIET, ILLINOIS, et al.
+
+No. 14-9496.
+
+SUPREME COURT OF THE UNITED STATES
+
+137 S. Ct. 911
+
+October 5, 2016, Argued 
+March 21, 2017, Decided
+
+Justice Thomas, dissenting.
+I join Justice Alito’s opinion in full but write separately regarding the accrual date for a Fourth Amendment unreasonable-seizure claim. Justice Alito suggests that a claim for unreasonable seizure based on a warrantless arrest might not accrue until the “first appearance” under Illinois law (or the “initial appearance” under federal law)—which ordinarily represents the first judicial determination of probable cause for that kind of arrest—rather than at the time of the arrest. See post, at ___, ___, 197 L. Ed. 2d, at 326, 331 (dissenting opinion); see also Wallace v. Kato, 549 U. S. 384, 127 S. Ct. 1091, 166 L. Ed. 2d 973 (2007) (taking a similar approach). Which of those events is the correct one for purposes of accrual makes no difference in this case, because both the arrest and the first appearance occurred more than two years before petitioner filed suit. See ante, at ___, 197 L. Ed. 2d, at 319; see also    Wallace, supra, at 387, 27 S. Ct. 1091, 166 L. Ed. 2d 973 (petitioner’s claim was untimely regardless of whether it accrued on day of arrest or first appearance).
+I would leave for another case (one where the question is dispositive) whether  [*923]  an unreasonable-seizure claim would accrue on the date of the first appearance if that appearance occurred on some day after the arrest. I think the answer to that question might turn on the meaning of “seizure,” rather than on the presence or absence of any form of legal process. See post, at ___ - ___, 197 L. Ed. 2d, at 331 (describing the ordinary meaning of “seizure”).

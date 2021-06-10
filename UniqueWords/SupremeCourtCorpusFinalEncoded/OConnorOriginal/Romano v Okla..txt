@@ -1,0 +1,15 @@
+﻿
+        
+        Romano v. Oklahoma, 512 U.S. 1, 114 S. Ct. 2004 (1994)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+The Court today, relying in part on my opinion in Caldwell v. Mississippi, 472 [****25]  U.S. 320, 341, 86 L. Ed. 2d 231, 105 S. Ct. 2633 (1985), rejects petitioner's claim that the introduction of evidence of a prior death sentence impermissibly undermined the jury's sense of responsibility. I write separately to explain why in my view petitioner's Caldwell claim fails. The inaccuracy of the prosecutor's argument in Caldwell was essential to my conclusion that the argument was unconstitutional. See id., at 342 ("The prosecutor's remarks were impermissible because they were inaccurate and misleading in a manner that diminished the jury's sense of responsibility"). An accurate description of the jury's role -- even one that lessened the jury's sense of responsibility -- would have been constitutional. Ibid. ("[A] misleading picture of the jury's role is not sanctioned by [California v. Ramos, 463 U.S. 992, 77 L. Ed. 2d 1171, 103 S. Ct. 3446 (1983),] but neither does Ramos suggest that the Federal Constitution prohibits the giving of accurate instructions regarding postsentencing procedures").
+
+Accordingly, I believe that petitioner's Caldwell claim fails because the evidence here was accurate at the time it was  [*15]  admitted.  [****26]  Petitioner's sentencing jury was told that he had been sentenced to death -- and indeed he had been. Introducing that evidence is no different than providing the jury with an accurate description of a State's appellate review process.  [***15]  Both may (though we can never know for sure) lessen the jury's sense of responsibility, but neither is unconstitutional. Though evidence like that involved in this case can rise to the level of a Caldwell violation, to do so the evidence must be both inaccurate and tend to undermine the jury's sense of responsibility. Ibid.
+
+It may well have been better practice for the State to agree to accept petitioner's stipulation offer, or to excise the sentencing information before submitting the Judgment and Sentence form to the jury. But under our precedents, because this evidence was accurate, I do not believe its introduction violated the Constitution.

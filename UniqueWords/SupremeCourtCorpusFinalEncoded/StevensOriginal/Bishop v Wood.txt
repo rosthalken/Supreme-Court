@@ -1,0 +1,101 @@
+﻿
+        
+        Bishop v. Wood, 426 U.S. 341, 96 S. Ct. 2074 (1976)
+        
+
+
+      
+
+ [*342]   [***689]   [**2076]  MR. JUSTICE STEVENS delivered the opinion of the Court.
+
+LEdHN[1A] [1A]Acting on the recommendation of the Chief of Police, the City Manager of Marion, N.C., terminated petitioner's employment as a policeman without affording him a hearing to determine the sufficiency of the cause for his discharge. Petitioner brought suit contending that  [*343]  since a city ordinance classified him as a "permanent employee," he had a constitutional right to a pretermination hearing. 1Link to the text of the note During pretrial  [**2077]  discovery petitioner was advised that his dismissal was based on a failure to follow certain orders, poor attendance at police training classes, causing low morale, and conduct unsuited to an [****5]  officer. Petitioner and several other police officers filed affidavits essentially denying the truth of these charges. The District Court granted defendants' motion for summary judgment. 2Link to the text of the note The Court of Appeals affirmed, 3Link to the text of the note and we granted certiorari, 423 U.S. 890.
+
+LEdHN[1B] [1B]
+
+LEdHN[2A] [2A] LEdHN[3A] [3A]The questions for us to decide are (1) whether petitioner's employment status was a property interest protected by the Due Process Clause [****6]  of the Fourteenth Amendment, 4Link to the text of the note and (2) assuming that the explanation for his discharge was false, whether that false explanation deprived him of an interest in liberty protected by that Clause.
+
+I
+
+Petitioner was employed by the city of Marion as a probationary policeman on June 9, 1969. After six months he became a permanent employee. He was dismissed on March 31, 1972. He claims that he had either an express or an implied right to continued employment.
+
+A  [*344]  city ordinance provides that a permanent employee may be discharged if he fails to perform work up to the standard of his classification, or if he is negligent, inefficient, or unfit to perform his duties. 5Link to the text of the note Petitioner  [***690]  first contends that even though the ordinance does not expressly so provide, it should be read to prohibit discharge for any other reason, and therefore to confer tenure on all permanent employees.  [****7]  In addition, he contends that his period of service, together with his "permanent" classification, gave him a sufficient expectancy of continued employment to constitute a protected property interest.
+
+
+
+LEdHN[2B] [2B]LEdHN[4] [4]LEdHN[5A] [5A]HN3 A property interest in employment can, of course, be created by ordinance, or by an implied contract. 6Link to the text of the note In either case, however, the sufficiency of the [****8]  claim of entitlement must be decided by reference to state law. 7Link to the text of the note The  [*345]  North Carolina Supreme Court has held that an enforceable expectation of continued public employment in that State can exist only if the employer, by statute or contract, has actually granted some form of guarantee. Still v. Lance, 279 N.C. 254, 182 S.E. 2d 403 (1971).Whether such a guarantee has been given can be determined only by an examination of the particular statute or ordinance in question.
+
+LEdHN[5B] [5B]
+
+ [****9]   [**2078]  On its face the ordinance on which petitioner relies may fairly be read as conferring such a guarantee. However, such a reading is not the only possible interpretation; the ordinance may also be construed as granting no right to continued employment but merely conditioning an employee's removal on compliance with certain specified procedures. 8Link to the text of the note We do not have any authoritative interpretation of this ordinance by a North Carolina state court. We do, however, have the opinion of the United States District Judge who, of course, sits in North Carolina and practiced law there for many years. Based on his understanding of state law, he concluded that petitioner "held his position at the will and pleasure of the city." 9Link to the text of the note This construction of North Carolina  [*346]   [***691]  law was upheld by the Court of Appeals for the Fourth Circuit, albeit by an equally divided court. In comparable circumstances, HN6 this Court has accepted the interpretation of state law in which the District Court and the Court of Appeals have concurred even if an examination of the state-law issue without such guidance might have justified a different conclusion. 10Link to the text of the note
+
+ [****10]  In  [*347]  this case, as the District Court construed the ordinance, the City Manager's determination of the adequacy of the grounds for discharge is not subject to judicial  [**2079]  review; the employee is merely given certain procedural rights which the District Court found not to have been violated in this case. The District Court's reading of the ordinance is tenable; it derives some support from a decision of the North Carolina Supreme Court, Still v. Lance, supra; and it was accepted by the Court of Appeals for the Fourth Circuit. These reasons are sufficient to foreclose our independent examination of the state-law issue.
+
+Under that view of the law, petitioner's discharge did not deprive him of a property interest protected by the Fourteenth Amendment.
+
+II 
+
+LEdHN[3B] [3B]Petitioner's claim that he has been deprived of liberty has two components. He contends that the reasons given for his discharge are so serious as to constitute a stigma that may severely damage his reputation in the community; in addition, he claims that those reasons were false. 
+
+LEdHN[6A] [6A]In our appraisal of petitioner's claim we must accept his version of the facts since the District Court granted summary judgment  [***692]  against [****11]  him. 11Link to the text of the note His evidence established  [*348]  that he was a competent police officer; that he was respected by his peers; that he made more arrests than any other officer on the force; that although he had been criticized for engaging in high-speed pursuits, he had promptly heeded such criticism; and that he had a reasonable explanation for his imperfect attendance at police training sessions. We must therefore assume that his discharge was a mistake and based on incorrect information. 
+
+LEdHN[6B] [6B]
+
+In Board of Regents v. Roth, 408 U.S. 564, we recognized that the nonretention of an untenured college teacher might make him somewhat less attractive to other employers, but nevertheless concluded that it would stretch the concept too far "to suggest that a person is deprived of [****12]  'liberty' when he simply is not rehired in one job but remains as free as before to seek another." Id., at 575. This same conclusion applies to the discharge of a public employee whose position is terminable at the will of the employer when there is no public disclosure of the reasons for the discharge.
+
+In this case the asserted reasons for the City Manager's decision were communicated orally to the petitioner in private and also were stated in writing in answer to interrogatories after this litigation commenced. Since the former communication was not made public, it cannot properly form the basis for a claim that petitioner's interest in his "good name, reputation, honor, or integrity" 12Link to the text of the note was thereby impaired. And since the latter communication was made in the course of a judicial proceeding which did not commence until after petitioner had suffered the injury for which he seeks redress, it surely cannot provide retroactive support for his claim. A contrary  [*349]  evaluation of either explanation would penalize forthright and truthful communication between employer and employee in the former instance, and between litigants in the latter.
+
+ [****13]  Petitioner argues, however, that the reasons given for his discharge were false. Even so, the reasons stated to him in private had no different impact on his reputation than if they had been true. And the answers to his interrogatories, whether true or false, did not cause the discharge. The truth or falsity of the City Manager's statement determines whether or not his decision to discharge the petitioner was correct or prudent, but neither enhances nor diminishes  [**2080]  petitioner's claim that his constitutionally protected interest in liberty has been impaired. 13Link to the text of the note A contrary evaluation of his  [***693]  contention would enable every discharged employee to assert a constitutional claim merely by alleging that his former supervisor made a mistake.
+
+ [****14]  LEdHN[7] [7] LEdHN[8] [8]HN10 The federal court is not the appropriate forum in which to review the multitude of personnel decisions that are made daily by public agencies. 14Link to the text of the note We must accept the harsh  [*350]  fact that numerous individual mistakes are inevitable in the day-to-day administration of our affairs. The United States Constitution cannot feasibly be construed to require federal judicial review for every such error. HN11 In the absence of any claim that the public employer was motivated by a desire to curtail or to penalize the exercise of an employee's constitutionally protected rights, we must presume that official action was regular and, if erroneous, can best be corrected in other ways. The Due Process Clause of the Fourteenth Amendment is not a guarantee against incorrect or ill-advised personnel decisions.
+
+ [****15]  The judgment is affirmed.
+
+So ordered.
+
+
+He relied on 42 U.S.C. § 1983, invoking federal jurisdiction under 28 U.S.C. § 1343(3). He sought reinstatement and backpay. The defendants were the then City Manager, Chief of Police, and the city of Marion. Since the city is not a "person" within the meaning of the statute, it was not a proper defendant. Monroe v. Pape, 365 U.S. 167, 187-192.
+
+2Link to the location of the note in the document
+377 F. Supp. 501 (WDNC 1973).
+
+3Link to the location of the note in the document
+A three-judge panel of the Court of Appeals affirmed, with one judge dissenting, 498 F. 2d 1341 (CA4 1974); then, after granting a rehearing en banc, the court affirmed without opinion by an equally divided court.
+
+4Link to the location of the note in the document
+HN1 "[N] or shall any State deprive any person of life, liberty, or property, without due process of law…." U.S. Const., Amdt. 14.
+
+5Link to the location of the note in the document
+HN2 Article II, § 6, of the Personnel Ordinance of the city of Marion, reads as follows:
+
+"Dismissal. A permanent employee whose work is not satisfactory over a period of time shall be notified in what way his work is deficient and what he must do if his work is to be satisfactory. If a permanent employee fails to perform work up to the standard of the classification held, or continues to be negligent, inefficient, or unfit to perform his duties, he may be dismissed by the City Manager. Any discharged employee shall be given written notice of his discharge setting forth the effective date and reasons for his discharge if he shall request such a notice."
+
+6Link to the location of the note in the document
+In Perry v. Sindermann, 408 U.S. 593, 601, the Court said that HN4 a "person's interest in a benefit is a 'property' interest for due process purposes if there are… rules or mutually explicit understandings that support his claim of entitlement to the benefit and that he may invoke at a hearing."
+
+7Link to the location of the note in the document
+HN5 "Property interests, of course, are not created by the Constitution. Rather, they are created and their dimensions are defined by existing rules or understandings that stem from an independent source such as state law - rules or understandings that secure certain benefits and that support claims of entitlement to those benefits." Board of Regents v. Roth, 408 U.S. 564, 577.
+
+8Link to the location of the note in the document
+This is not the construction which six Members of this Court placed on the federal regulations involved in Arnett v. Kennedy, 416 U.S. 134. In that case the Court concluded that because the employee could only be discharged for cause, he had a property interest which was entitled to constitutional protection. In this case, a holding that as a matter of state law the employee "held his position at the will and pleasure of the city" necessarily establishes that he had no property interest. The Court's evaluation of the federal regulations involved in Arnett sheds no light on the problem presented by this case.
+
+9Link to the location of the note in the document
+HN7 "Under the law in North Carolina, nothing else appearing, a contract of employment which contains no provision for the duration or termination of employment is terminable at the will of either party irrespective of the quality of performance by the other party. By statute, G.S. § 115-142(b), a county board of education in North Carolina may terminate the employment of a teacher at the end of the school year without filing charges or giving its reasons for such termination, or granting the teacher an opportunity to be heard. Still v. Lance, 279 N.C. 254, 182 S.E. 2d 403 (1971).
+
+HN8 "It is clear from Article II, Section 6, of the City's Personnel Ordinance, that the dismissal of an employee does not require a notice or a hearing. Upon request of the discharged employee, he shall be given written notice of his discharge setting forth the effective date and the reasons for the discharge. It thus appears that both the city ordinance and the state law have been complied with.
+
+"It further appears that the plaintiff held his position at the will and pleasure of the city." 377 F. Supp., at 504.
+
+10Link to the location of the note in the document
+See United States v. Durham Lumber Co., 363 U.S. 522. In Propper v. Clark, 337 U.S. 472, 486-487, the Court stated: "The precise issue of state law involved, i.e., whether the temporary receiver under § 977-b of the New York Civil Practice Act is vested with title by virtue of his appointment, is one which has not been decided by the New York courts. Both the District Court and the Court of Appeals faced this question and answered it in the negative. HN9 In dealing with issues of state law that enter into judgments of federal courts, we are hesitant to overrule decisions by federal courts skilled in the law of particular states unless their conclusions are shown to be unreasonable." In Township of Hillsborough v. Cromwell, 326 U.S. 620, 629-630, the Court stated: "Petitioner makes an extended argument to the effect that Duke Power Co. [ v. State Board, 129 N.J.L. 449, 30 A. 2d 416, 131 N.J.L. 275, 36 A. 2d 201,] is not a controlling precedent on the local law question on which the decision below turned. On such questions we pay great deference to the views of the judges of those courts 'who are familiar with the intricacies and trends of local law and practice.' Huddleston v. Dwyer, 322 U.S. 232, 237. We are unable to say that the District Court and the Circuit Court of Appeals erred in applying to this case the rule of Duke Power Co. v. State Board, which involved closely analogous facts." And in MacGregor v. State Mut. Life Assur. Co., 315 U.S. 280, 281, the Court stated: "No decision of the Supreme Court of Michigan, or of any other court of that State, construing the relevant Michigan law has been brought to our attention. In the absence of such guidance, we shall leave undisturbed the interpretation placed upon purely local law by a Michigan federal judge of long experience and by three circuit judges whose circuit includes Michigan."
+
+11Link to the location of the note in the document
+In granting summary judgment for respondents, the District Court was required to resolve all genuine disputes as to material facts in favor of petitioner. Fed. Rule Civ. Proc. 56(c); Arnett v. Kennedy, supra, at 139-140.
+
+12Link to the location of the note in the document
+See Wisconsin v. Constantineau, 400 U.S. 433, 437, and the discussion of the interest in reputation allied to employment in Paul v. Davis, 424 U.S. 693.
+
+13Link to the location of the note in the document
+Indeed, the impact on petitioner's constitutionally protected interest in liberty is no greater even if we assume that the City Manager deliberately lied. Such fact might conceivably provide the basis for a state-law claim, the validity of which would be entirely unaffected by our analysis of the federal constitutional question.
+
+14Link to the location of the note in the document
+The cumulative impression created by the three dissenting opinions is that this holding represents a significant retreat from settled practice in the federal courts. The fact of the matter, however, is that the instances in which the federal judiciary has required a state agency to reinstate a discharged employee for failure to provide a pretermination hearing are extremely rare. The reason is clear. For unless we were to adopt MR. JUSTICE BRENNAN'S remarkably innovative suggestion that we develop a federal common law of property rights, or his equally far-reaching view that almost every discharge implicates a constitutionally protected liberty interest, the ultimate control of state personnel relationships is, and will remain, with the States; they may grant or withhold tenure at their unfettered discretion. In this case, whether we accept or reject the construction of the ordinance adopted by the two lower courts, the power to change or clarify that ordinance will remain in the hands of the City Council of the city of Marion.

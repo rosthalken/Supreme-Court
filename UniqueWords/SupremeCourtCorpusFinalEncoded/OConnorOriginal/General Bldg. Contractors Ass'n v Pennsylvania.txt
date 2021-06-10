@@ -1,0 +1,38 @@
+﻿
+        
+        Gen. Bldg. Contractors Ass'n v. Pennsylvania, 458 U.S. 375, 102 S. Ct. 3141 (1982)
+        
+
+
+      
+
+JUSTICE O'CONNOR, with whom JUSTICE BLACKMUN joins, concurring.
+
+I concur in the Court's opinion today holding that a cause of action based on 42 U. S. C. § 1981 requires proof of intent to discriminate, that the employers cannot be held vicariously liable for the discrimination practiced by Local 542, and that § 1981 does not impose a "nondelegable duty" on the employers to insure that there is no discrimination in the Union's selection  [***858]  of the work force. I write separately, however, in order to state expressly one of the options open to the District Court on remand, and to elaborate on the Court's comments regarding the scope of the federal courts' equitable power to afford full relief.
+
+I
+
+In determining that the petitioners cannot be held vicariously liable for the discriminatory  [**3157]  conduct of the JATC, the Court is careful to note that its holding is based on the failure of the trial court to make "findings regarding the relationship [****53]  between the JATC and petitioners . . . that might support application of respondeat superior." Ante, at 394. 1Link to the text of the note In particular, because the record contains no findings regarding  [*404]  whether the employers maintain some control over the activities of the JATC, either through the employer-appointed trustees or through other means, the doctrine of respondeat superior is simply inapplicable.
+
+I would briefly note the limits of the Court's holding. Once this case has been remanded to the District Court, nothing in the Court's opinion prevents the respondents from litigating the question of the employers' liability under § 1981 by attempting to prove the traditional elements of respondeat superior.
+
+II
+
+Regarding the scope of a federal [****54]  court's equitable powers to afford full relief, I agree with the Court's holding that "a party not subject to liability for violating the law [may not] be assessed a proportionate share of the costs of implementing a decree to assure nondiscriminatory practices on the part of another party which was properly enjoined." Ante, at 398. 2Link to the text of the note I also agree with the Court's ancillary holding that the District Court may not require quarterly reports from the employers detailing their compliance with the court's ill-founded injunction. Of course, since the employers are not liable for general injunctive relief, such reports are unnecessary.
+
+Under the appropriate circumstances, however, I believe other reports properly could be [****55]  required of the employers, for example, to aid the court by charting the changes resulting from the injunction imposed on the Union and the JATC. Quite recently, in Zipes v. Trans World Airlines, Inc., 455 U.S. 385 (1982), this Court held that § 706(g) of Title VII of the Civil Rights Act of 1964 authorizes a federal court to order retroactive seniority relief over the objections of  [*405]  a union that was not guilty of discrimination. The Court stated:
+
+
+
+" Teamsters v. United States, 431 U.S. 324 (1977), . . . makes it clear that once there has been a finding of discrimination by the employer,  [***859]  an award of retroactive seniority is appropriate even if there is no finding that the union has also illegally discriminated. In Teamsters, the parties agreed to a decree which provided that the District Court would decide 'whether any discriminatees should be awarded additional equitable relief such as retroactive seniority.' Id., at 331, n. 4. Although we held that the union had not violated Title VII by agreeing to and maintaining the seniority system, we nonetheless directed the union to remain in [****56]  the litigation as a defendant so that full relief could be awarded the victims of the employer's post-Act discrimination. Id., at 356, n. 43." Id., at 400. 3Link to the text of the note
+
+As the Court acknowledges today, it is entirely possible that full relief cannot be granted without subjecting the petitioners to some incidental or ancillary provisions of the court's injunctive order. It is thus conceivable, for example, that quarterly reports providing employment statistics necessary  [**3158]  for the court to ascertain whether its injunctive decree is being properly implemented could be ordered under the court's equitable powers to effectuate its decree.
+
+1Link to the location of the note in the document
+The only facts offered by the respondents supporting application of respondeat superior are that half of the trustees administering the JATC are appointed by the employer associations, and that the JATC is funded entirely by mandatory employer contributions.
+
+2Link to the location of the note in the document
+In the present cases, the District Court ordered the three employer associations to pay 10% of the costs of remedial relief, and the employer, Glasgow, to pay 5%. Because the cost of relief to date has been approximately $ 200,000, the petitioners' share of the cost has been $ 70,000.
+
+3Link to the location of the note in the document
+In support of this statement, the Court in Teamsters cited Rule 19(a)(1) of the Federal Rules of Civil Procedure, which requires a district court to join a person as a party if "in his absence complete relief cannot be accorded among those already parties."

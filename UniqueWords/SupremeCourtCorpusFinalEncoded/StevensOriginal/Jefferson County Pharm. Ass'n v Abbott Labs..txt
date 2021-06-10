@@ -1,0 +1,37 @@
+﻿
+        
+        Jefferson Cty. Pharm. Ass'n v. Abbott Labs., 460 U.S. 150, 103 S. Ct. 1011 (1983)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+While I join JUSTICE O'CONNOR's dissenting opinion, I believe an additional comment on the text of the Robinson-Patman Act may help to explain my vote. For purposes of interpreting that statute, I think that federal, state, and local agencies are "purchasers," but that such governmental agencies are not engaged in "competition" with private parties even when they resell purchased goods to consumers who might otherwise have patronized a private retailer. Both before and after the 1936 statute amended § 2 of the Clayton Act, the requirement of proving an adverse effect on "competition" played an important part in limiting the coverage of the statute.
+
+It is universally agreed that federal purchases are not covered by the Act. Even though it has always been obvious that primary line competition might be injured by discriminatory  [*172]  prices on sales to the Federal Government, and also that goods sold to military post exchanges would normally be resold at a substantial discount, no one in the 1936 legislative deliberations questioned the inapplicability of the Act to these sales.  [****41]  The explanation, in my opinion, does not rest on the sovereign status of the Federal Government, *Link to the text of the note but rather on  [**1025]  the assumption embodied  [***900]  in the Act that federal agencies do not compete with nongovernmental entities.
+
+ [****42]  Mr. Teegarden, the lobbyist, made this assumption clear in his statement at the 1935 House hearings, quoted in part by the opinion of the Court. Ante, at 160-161, n. 19:
+
+"Mr. LLOYD: Would this bill, in your judgment, prevent the granting of discounts to the United States Government?
+
+. . . .
+
+"For instance, the Government gets huge discounts. Take that electric fan, for instance. You go to the ordinary store and the list price is $ 35. The Procurement Division procures them delivered, one at a time, for $ 13.18. Now, would that discount be barred by this bill?
+
+"Mr. TEEGARDEN: I do not see why it should . . . .
+
+"Aside from that, my answer would be this: The Federal Government is not in competition with other buyers  [*173]  from these concerns. Therefore a discrimination -- it is so applied universally in interstate commerce law, in the railroad law -- to have a discrimination, there must be a relative position between the parties to the discrimination which constitutes an injury to one as against the other. I think the answer is to be found in that.
+
+"In other words, if seller A makes a price to a retailer in New York and a different price to a retailer in San Francisco,  [****43]  all other things aside, no case of discrimination could be predicated there, because the two are not in the same sphere at all.
+
+"The Federal Government is saved by the same distinction, not of location but of function. They are not in competition with any one else who would buy." Hearings on H. R. 8442 et al. before the House Committee on the Judiciary, 74th Cong., 1st Sess., 208-209 (1935).
+
+I would interpret the "distinction, not of location but of function" somewhat more broadly than does the majority. It is not merely a question of whether government agencies do or do not resell the goods they have purchased. Even when they resell items to the public, governmental entities do not engage in competition with private retailers in the same sense that chainstores compete with independent retailers. Most importantly, their activities are seldom affected by a profitmaking motivation; rather they are undertaken in connection with the provision of services to the public. Further, their merchandising and price-setting decisions take a different set of factors into account. As the Court notes, ante, at 158, n. 17, they need not include a profit component, their overhead may be subsidized,  [****44]  and they may be exempt from state or federal taxation. In short, governmental agencies are in an entirely different category of market participants.
+
+I am convinced that the same analysis applies to purchases and resales by state and local agencies. I do not believe that a municipal hospital that operates a pharmacy is any more engaged  [*174]  in competition with a retail druggist than a military post exchange is engaged in competition with a retail grocer or a retail clothing store. To be sure, this analysis is not entirely consistent  [***901]  with the conclusion implied by Mr. Teegarden's somewhat equivocal answer to Congressman Hancock. Although he did not say that purchases by a city hospital would be covered by the bill, he did state that, "[if] the two hospitals are in competition with each other," the fact that one was operated by the city would not save it from the bill. But he went on to stress: "If they are not in competition with each other, then they are in a different sphere." Hearings on H. R. 8442, supra, at  [**1026]  209 (emphasis added). In my view, if not in Mr. Teegarden's, the differences between a city hospital and a private hospital [****45]  justify the conclusion that, for purposes of construing this statute, they should not be considered in competition with each other.
+
+I therefore would hold as a matter of law that neither purchases nor sales by governmental agencies -- federal, state, or local -- constitute "competition" with private persons to which the statute has any application. The Act has no impact on any governmental agency's ability to provide hospital and related services to its constituents. For the reasons JUSTICE O'CONNOR has set forth in greater detail, I believe such a holding more accurately reflects the understanding of the Congress that enacted the statute and the lawyers and businessmen who have lived with the statute on a day-to-day basis for almost half a century.
+
+When Mr. Teegarden responded to specific written questions about the Act, he gave two reasons why the bill would not prevent competitive bidding on government purchases below trade price levels. First, he stated that a statute would not be construed to restrict the rights, prerogatives, or privileges of the sovereign unless it expressly so provided. This reason would apply only to the Federal Government, as the Court's opinion points out. Ante, at 159-161, nn. 18, 19. In addition, however, Mr. Teegarden gave a reason that applies to governmental entities at state and local levels as well. "The further insertion of the clause proposed under topic 4 below, requiring a showing of effect upon competition, will further preclude any possibility of the bill affecting the Government." Hearings on H. R. 8442 et al. before the House Committee on the Judiciary, 74th Cong., 1st Sess., 250 (1935).

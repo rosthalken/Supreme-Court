@@ -1,0 +1,17 @@
+﻿
+        
+        Quackenbush v. Allstate Ins. Co., 517 U.S. 706, 116 S. Ct. 1712 (1996)
+        
+
+
+      
+
+JUSTICE KENNEDY, concurring.
+
+When this suit first was filed, it raised an unsettled but since resolved question of California law concerning the ability of companies in Allstate's position to set off claims held against Mission. The principal reason for the District Court's decision to dismiss the case was the threat posed to the state proceedings by different state and federal rulings on the question. The court's concern was reasonable. States, as a matter of tradition and express federal consent, have an important interest in maintaining precise and detailed regulatory schemes for the insurance industry.  [***24]   [****55]  See, e. g., the McCarran-Ferguson Act, 59 Stat. 33, as amended, 15 U.S.C. §§ 1011 et seq. The fact that a state court rather than an agency was chosen to implement California's scheme provided more reason, not less, for the federal court to stay its hand.
+
+At the same time, however, we have not considered a case in which dismissal of a suit for damages by extension of the doctrine of Burford v. Sun Oil Co., 319 U.S. 315, 87 L. Ed. 1424, 63 S. Ct. 1098 (1943), was held to be authorized and necessary. As the Court explains, no doubt the preferred course in such circumstances is to resolve any serious potential for federal intrusion by staying the suit while retaining jurisdiction. We ought not rule out, though, the possibility that a federal court might dismiss a suit for damages in a case where a serious affront to the interests of federalism could be averted in no other way. We need not reach that question here.
+
+Abstention doctrines are a significant contribution to the theory of federalism and to the preservation of the federal system in practice. They allow federal courts to give appropriate and necessary recognition to the role [****56]  and authority of the States. The duty to take these considerations into account must inform the exercise of federal jurisdiction. Principles of equity thus are not the sole foundation for abstention rules; obligations of comity, and respect for the  [*734]  appropriate balance between state and federal interests, are an important part of the justification and authority for abstention as well. See, e. g., id., at 334 ("[A] sound respect for the independence of state action requires the federal equity court to stay its hand"); Younger v. Harris, 401 U.S. 37, 44, 27 L. Ed. 2d 669, 91 S. Ct. 746 (1971) (rooting abstention in "a proper respect for state functions" and "sensitivity to the legitimate interests of both State and National Governments"); Colorado River Water Conservation Dist. v. United States, 424 U.S. 800, 817, 47 L. Ed. 2d 483, 96 S. Ct. 1236 (1976) (abstention doctrines are based on "considerations of proper constitutional adjudication and regard for federal-state relations"). See also Shapiro, Jurisdiction and Discretion, 60 N. Y. U. L. Rev. 543, 551-552 (1985). The traditional role of discretion [****57]  in the exercise of equity jurisdiction makes abstention easiest to justify in cases where equitable relief is sought, but abstention, including dismissal, is a possibility that may yet be addressed in a suit for damages, if fundamental concerns of federalism require us to face the issue.
+
+With these observations, I join the opinion of the Court.

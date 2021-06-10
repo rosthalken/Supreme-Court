@@ -1,0 +1,12 @@
+﻿441 U.S. 141
+ARIZONA PUBLIC SERVICE CO. ET AL. v. SNEAD, DIRECTOR OF REVENUE DIVISION, TAXATION AND REVENUE DEPARTMENT OF NEW MEXICO, ET AL.
+Supreme Court of the United States
+February 26, 1979, Argued ; April 18, 1979, Decided
+No. 77-1810
+
+MR. JUSTICE REHNQUIST, with whom MR. JUSTICE WHITE joins, concurring in the judgment.
+I concur in the judgment of the Court because I agree that the tax imposed by  [**1635]  New Mexico's Electrical Energy Tax Act on the generation of electricity within its borders is forbidden by § 2121 (a) of the Tax Reform Act of 1976, codified at 15 U. S. C. § 391.
+I think that the statutory question is somewhat closer than the Court intimates, both as to the meaning of the actual language of § 391 and as to its legislative history. As the Court indicates and as appellees concede, the debate on the floor of the Senate makes it clear that the original version of § 391 was aimed at New Mexico's energy tax. See ante, at 147-148; Brief for Appellees 14. New Mexico argues here that the original provision was redrafted in conference in order to "save" somewhat similar tax statutes in other States and that, as redrafted, § 391 is "sterile" legislation: It accomplishes no more than the Commerce Clause of the Constitution would accomplish of its own force.  [****18]  See ante, at 149; Brief for Appellees 11, 16, 24. Congress is vested with the legislative power of the United States, and not the judicial power, and therefore it may be unrealistic to assume automatically that Congress never passes a "sterile" law, in the sense that the provision does no more than the Constitution would have done had Congress never enacted the law. But, in my view, the laws enacted by Congress certainly are entitled to a presumption  [*152]  to that effect. Since the effect of § 391 is not entirely clear from its language and legislative history, I would give some weight to that presumption in reaching the conclusion that § 391 extends beyond the requirements of the Commerce Clause and outlaws the New Mexico energy tax here at issue.
+
+1. There is no question in my mind that if § 391 were coextensive with the Commerce Clause, New Mexico's energy tax would be valid for substantially the same reasons advanced by appellees. Ante, at 149; see Halliburton Oil Well Cementing Co. v. Reily, 373 U.S. 64, 69-70 (1963); Gregg Dyeing Co. v. Query, 286 U.S. 472, 480 (1932); Public Utility Dist. No. 2 v. State, 82 Wash. 2d 232, 239-240, 510 P. 2d 206, 210-211, appeal dismissed for want of substantial federal question, 414 U.S. 1106 (1973).
+

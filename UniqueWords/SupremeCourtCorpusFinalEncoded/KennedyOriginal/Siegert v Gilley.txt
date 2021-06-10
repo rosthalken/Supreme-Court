@@ -1,0 +1,23 @@
+﻿
+        
+        Siegert v. Gilley, 500 U.S. 226, 111 S. Ct. 1789 (1991)
+        
+
+
+      
+
+ JUSTICE KENNEDY, concurring in the judgment.
+
+I agree with the Court that "[a] necessary concomitant to the determination of whether the constitutional right asserted by a plaintiff is 'clearly established' at the time the defendant acted is the determination of whether the plaintiff has asserted a violation of a constitutional right at all." Ante, at 232. I do not, however, agree that the Court of Appeals "should not have assumed, without deciding," this issue. Ibid. The Court of Appeals adopted the altogether normal procedure of deciding the case before it on the ground that appeared to offer the most direct and appropriate resolution, and one argued by the parties. If it is plain that a plaintiff's required malice allegations are insufficient but there is some doubt as to the constitutional right asserted, it seems to reverse the usual ordering of issues [****20]  to tell the trial and appellate courts that they should resolve the constitutional question first.
+
+As revealed by the differences in our majority and dissenting opinions, the question whether petitioner asserted the deprivation of a liberty interest protected by the Constitution, under the principles explained in Paul v. Davis, 424 U.S. 693, 47 L. Ed. 2d 405, 96 S. Ct. 1155 (1976), is itself one of some difficulty. In my view, it is unwise to resolve the point without the benefit of a decision by the Court of Appeals and full briefing and argument here.
+
+I would affirm for the reasons given by the Court of Appeals. Here malice is a requisite showing to avoid the bar of qualified immunity. The heightened pleading standard is a necessary and appropriate accommodation between the state of mind component of malice and the objective test that prevails in qualified immunity analysis as a general matter. See Harlow v. Fitzgerald, 
+
+LEdHN[1B] [1B]LEdHN[2B] [2B]457 U.S. 800, 73 L. Ed. 2d 396, 102 S. Ct. 2727 (1982). [****21] There is tension between the rationale of Harlow and the requirement  [*236]  of malice, and it seems to me that the heightened pleading requirement is the most workable means to resolve it. The heightened pleading standard is a departure from the usual pleading requirements of Federal Rules of Civil Procedure 8 and 9(b), and departs also from the normal standard for summary judgment under Rule 56. But avoidance of disruptive discovery is one of the very purposes for the official immunity doctrine, and it is no answer to say that the plaintiff has not yet had the opportunity to engage in discovery. The substantive defense of immunity controls.
+
+Upon the assertion of a qualified immunity defense the plaintiff must put forward specific, nonconclusory factual allegations which establish malice, or face dismissal. I would reject, however, the Court of Appeals' statement that a plaintiff must present direct, as opposed to circumstantial, evidence. 282 U.S. App. D.C. 392, 398-399, 895 F.2d 797, 803-804 (1990). Circumstantial evidence may be as probative as testimonial evidence. See Holland v. United States, 348 U.S. 121, 140, 99 L. Ed. 150, 75 S. Ct. 127 (1954). [****22] 
+
+In my view petitioner did not meet the burden of alleging facts from which malice could be inferred by other than the most conclusory allegations. The Court of Appeals sets  [***290]  forth a detailed analysis which is persuasive on this point.
+
+For these reasons, I concur in the judgment to affirm.

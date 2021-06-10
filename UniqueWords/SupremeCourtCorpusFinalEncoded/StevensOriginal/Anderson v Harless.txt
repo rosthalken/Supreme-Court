@@ -1,0 +1,60 @@
+﻿
+        
+        Anderson v. Harless, 459 U.S. 4, 103 S. Ct. 276 (1982)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom JUSTICE BRENNAN and JUSTICE MARSHALL join, dissenting.
+
+Few issues consume as much of the scarce time of federal judges as the question whether a state prisoner adequately exhausted his state remedies before filing a petition for a federal writ of habeas corpus. Distressingly, the Court seems oblivious of this fact and takes action in this case that can only exacerbate that problem.
+
+On the merits the question presented by this case is whether a somewhat garbled jury instruction contained [****10]  a mandatory presumption that required a finding of malice or merely a permissive inference that allowed the jury to make such a finding. 1Link to the text of the note The parties seem to agree that if the  [**279]  instruction  [*9]  is considered mandatory, the respondent's conviction must be set aside under principles that are well settled in Michigan 2Link to the text of the note and in the federal courts. 3Link to the text of the note
+
+ [****11]  The Michigan Court of Appeals rejected respondent's construction of  [***9]  the jury instruction and therefore affirmed his conviction. After the Supreme Court of Michigan denied leave to appeal and after the state trial court denied a subsequent motion for a new trial, respondent commenced this federal habeas corpus proceeding.
+
+The Federal District Court carefully analyzed the difference between a permissive inference and a mandatory presumption and concluded that the Michigan Court of Appeals' construction of the jury instruction was simply untenable. 504 F.Supp. 1135, 1138 (1981). It also considered and rejected the argument that the respondent had not exhausted his state remedies. Id., at 1139.
+
+On appeal, the Court of Appeals for the Sixth Circuit affirmed, 664 F.2d 610 (1982). That court first carefully considered the Warden's contention that respondent's state remedies had not been exhausted because his federal claim had not been fairly presented to the state courts. After explaining in some detail why the federal claim necessarily presented the very question that the state court had already resolved against the respondent,  [****12]  the Court of Appeals concluded "that the Michigan courts had a fair opportunity to consider the issue encompassed by Harless' habeas corpus petition." Id., at 612. Thereafter, the Court of Appeals reviewed and upheld the District Court's holding on the merits.
+
+I agree with the sensible approach to the exhaustion issue that was followed by the District Court and the Court of Appeals. 4Link to the text of the note [****14]   [*10]  I also believe that approach was entirely  [**280]  faithful  [***10]  to Picard v. Connor, 404 U.S. 270, which requires only that the "substance" of the federal claim (not the form) be "fairly  [*11]  presented" to the state courts. 5Link to the text of the note In this case the only arguable justification for dismissing the petition for failure to exhaust is a possibility that the state court might decide the  [*12]  instruction issue differently if phrased in terms of Sandstrom v. Montana, 442 U.S. 510, rather than in terms of People v. Martin, 392 Mich. 553, 221 N. W. 2d 336 (1974). See n. 4, supra. That possibility is virtually nonexistent. The Court apparently perceives this case as a simple application [****13]  of Picard; I think it can only be explained as an expansion of Picard. Such an expansion should be accompanied by a more careful analysis than the Court provides in this case, and it should not be undertaken without full briefing and argument.
+
+ [****15]  But even if I shared the Court's analysis of the exhaustion question in this particular case, I would nevertheless take issue with its decision to grant certiorari for the sole purpose of correcting what it considers to be a technical, procedural error. It is not appropriate for this Court to expend its scarce resources crafting  [***11]  opinions that correct technical errors in cases of only local importance where the correction in no way promotes the development of the law. 6Link to the text of the note
+
+ [****16]   [**281]  If the Court of Appeals was correct in its appraisal of the merits, the respondent should be given a prompt retrial. If that court was incorrect on the merits, nothing will be gained by requiring the respondent to present his claim to three  [*13]  more sets of Michigan judges and two more sets of federal judges before this Court decides whether the substantive error merits our review. Cf. Rose v. Lundy, 455 U.S. 509, 545 (STEVENS, J., dissenting).
+
+I respectfully dissent.
+
+The instruction stated:
+
+"Members of the jury, the term malice is a technical term which has to do with the doing of a cruel act against another human being without excuse or justification. The doing of a cruel act against another human being without excuse or justification. Malice is implied from the nature of the act which caused the death. Malice can be implied from using the weapon on another person. You are not obligated to reach the conclusion, but you must imply malice if you find death was implied by the use of a gun against another." App. to Pet. for Cert. 59a.
+
+2Link to the location of the note in the document
+See People v. Martin, 392 Mich. 553, 221 N. W. 2d 336 (1974).
+
+3Link to the location of the note in the document
+Compare Ulster County Court v. Allen, 442 U.S. 140, with Sandstrom v. Montana, 442 U.S. 510.
+
+4Link to the location of the note in the document
+Because this Court's description of the Court of Appeals' treatment of the exhaustion issue is so abbreviated it seems appropriate to quote in full the relevant portion of that opinion:
+
+"In our view, Harless adequately exhausted available state remedies for purposes of 28 U. S. C. §§ 2254(b) and (c). The respondent concedes that Harless presented to the state appellate courts all the facts on which he based his federal constitutional claim. Respondent contends, however, that the state courts had no opportunity to correct the constitutional error, because Harless did not explicitly complain to the state courts that the malice instruction denied him due process.
+
+"Although we do not have before us Harless' state appellate papers, we learn from the Michigan Court of Appeals opinion the substance of Harless' contention before that court: 'The trial court committed reversible error by instructing the jury incorrectly on the implication [sic] of malice that might be drawn from defendant's use of a deadly weapon, the effect of which was to remove the possible finding of manslaughter.' People v. Harless, 261 N. W. 2d 41, 43 (1977) (emphasis added). At Harless' trial the court gave the following definition of malice to the jury:
+
+"'Malice is implied from the nature of the act which caused the death. Malice can be implied from using the weapon on another person. You are not obligated to reach the conclusion, but you must imply malice if you find death was implied [sic] by the use of a gun against another' (emphasis added).
+
+"Harless claimed on appeal that this instruction was reversible error under People v. Martin, 392 Mich. 553, 221 N. W. 2d 336 (1974), a case holding that the law does not imply malice from the use of a deadly weapon. In Martin, appellant challenged his murder conviction on numerous state and constitutional grounds. The gist of Martin's appeal was that he was denied a fair trial because certain instructions failed to provide the jury with sufficient understanding of the elements of the crimes charged, to enable them to perceive the crucial distinctions between first and second degree murder, and manslaughter. In particular, Martin challenged a malice instruction in which the jury was informed that the law implies malice from the use of a deadly weapon. The Court of Appeals ultimately decided as a matter of state law that the malice instruction 'erroneously categorized [the issue of malice] as a presumption of law rather than a permissible inference.' 221 N. W. 2d, at 341. However, Martin's constitutional argument was broadly phrased: failure to explain the law properly to a jury through adequate instructions abridges the due process right to a fair trial. The Court of Appeals neither rejected nor refined this constitutional argument. Rather, it seems to have accepted it tacitly, for in response to defendant's argument that his Sixth and Fourteenth Amendment rights to a fair trial had been abridged by an inadequate manslaughter instruction, the court stated that 'an erroneous or misleading charge denies the defendant the right to have a properly instructed jury pass upon the evidence.' Id., at 341. Although it did not specifically label this a federal right, the court clearly felt that a properly instructed jury is a prerequisite to a fair trial.
+
+"In our view, Harless' reliance on Martin was sufficient to present the state courts with the substance of his due process challenge to the malice instruction for habeas exhaustion purposes. The substance of Harless' state appeal, although unartfully phrased, sufficiently asked the state court to consider that the incorrect malice instruction denied Harless a fair jury trial by effectively eliminating the possibility of a manslaughter verdict from the jury's consideration. In our view, the due process ramifications were self-evident. Under Picard v. Connor, 404 U.S. 270 . . . (1971), a habeas petitioner need not label his state claim as federal or constitutional. Given the elasticity of the due process concept, we are convinced that the Michigan courts had a fair opportunity to consider the issue encompassed by Harless' habeas corpus petition." 664 F.2d, at 611-612.
+
+5Link to the location of the note in the document
+In Picard, the habeas petitioner had argued in the Massachusetts courts that his indictment had been contrary to Massachusetts law and that, if the procedures used in his case had been in accord with Massachusetts law, then those procedures could not be approved without reference to whether the Fifth Amendment's requirement of a grand jury indictment applied to the States through incorporation in the Fourteenth Amendment. 404 U.S., at 277. This Court held that such an argument did not give the State a fair opportunity to consider the proposition that its treatment of the petitioner denied him equal protection, in view of the Commonwealth's otherwise universal commitment to grand jury indictments in felony cases.
+
+In this case, the federal courts ordered habeas relief on the theory that the "operative effect" of the instruction quoted above was to cause the jury to use an unconstitutional mandatory presumption of malice. It held that the instruction was therefore inconsistent with Sandstrom, supra. 664 F.2d, at 612. Accord, ante, at 7. In state court, the defendant had argued that the instruction was inconsistent with People v. Martin, supra, because Martin had struck down an instruction that caused the jury to use a mandatory presumption of malice. See People v. Harless, 78 Mich. App. 745, 749, 261 N. W. 2d 41, 43 (1977). The substance of the argument -- that the instruction deprived him of fair jury consideration because it created a mandatory presumption of malice -- is the same.
+
+6Link to the location of the note in the document
+In many respects this case is merely a sequel to Board of Education of Rogers, Ark. v. McCluskey, 458 U.S. 966. In my dissent in that case, I observed:
+
+"As JUSTICE REHNQUIST has reminded us, in 'our zeal to provide "equal justice under law," we must never forget that this Court is not a forum for the correction of errors.' Boag v. MacDougall, 454 U.S. 364, 367-368 (1982) (dissenting opinion). 'To remain effective, the Supreme Court must continue to decide only those cases which present questions whose resolution will have immediate importance far beyond the particular facts and parties involved.' This case illustrates how ineffectively the Court is supervising its discretionary docket." Id., at 971 (footnote omitted).

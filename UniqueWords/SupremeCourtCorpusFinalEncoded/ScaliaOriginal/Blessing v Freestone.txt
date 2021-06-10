@@ -1,0 +1,27 @@
+﻿
+
+
+117 S.Ct. 1353
+Supreme Court of the United States
+Linda J. BLESSING, Director, Arizona Department of Economic Security, Petitioner
+v.
+Cathy FREESTONE, etc., et al.
+No. 95–1441.
+|
+Argued Jan. 6, 1997.
+|
+Decided April 21, 1997.
+ 
+
+Justice SCALIA, with whom Justice KENNEDY joins, concurring.
+
+I agree with the Court that under the test set forth in Wright v. Roanoke Redevelopment and Housing Authority, 479 U.S. 418, 423, 107 S.Ct. 766, 770, 93 L.Ed.2d 781 (1987), and Wilder v. Virginia Hospital Assn., 496 U.S. 498, 509, 110 S.Ct. 2510, 2517, 110 L.Ed.2d 455 (1990), 42 U.S.C. § 1983 does not permit individual beneficiaries of Title IV–D of the Social Security Act, as added, 88 Stat. 2351, and as amended, 42 U.S.C. §§ 651–669b (1994 ed., Supp. II), to bring suit challenging a State’s failure to achieve “substantial compliance” with the requirements **1364 of Title IV–D. That conclusion makes it unnecessary to reach the question whether § 1983 ever authorizes the beneficiaries of a federal-state funding and spending agreement—such as Title IV–D—to bring suit.
+ 
+As we explained in Pennhurst State School and Hospital v. Halderman, 451 U.S. 1, 101 S.Ct. 1531, 67 L.Ed.2d 694 (1981), such an agreement is “in the nature of a contract,” id., at 17, 101 S.Ct., at 1540: The State promises to provide certain services to private individuals, in exchange for which the Federal Government promises to give the State funds. In contract law, when such an arrangement is made (A promises to pay B money, in exchange for which B promises to provide services to C), the person who receives the benefit of the exchange of promises between the two others (C) is called a third-party beneficiary. Until relatively recent times, the third-party beneficiary was generally regarded as a stranger to the contract, and could not sue upon it; that is to say, if, in the example given above, B broke his promise and did not provide services to C, the only person who could enforce the promise in court was the other party *350 to the contract, A. See 1 W. Story, A Treatise on the Law of Contracts 549–550 (4th ed. 1856). This appears to have been the law at the time § 1983 was enacted. See Brief for Council of State Governments et al. as Amici Curiae 10–11, and n. 6 (citing sources). If so, the ability of persons in respondents’ situation to compel a State to make good on its promise to the Federal Government was not a “righ[t] ... secured by the ... laws” under § 1983. While it is of course true that newly enacted laws are automatically embraced within § 1983, it does not follow that the question of what rights those new laws (or, for that matter, old laws) secure is to be determined according to modern notions rather than according to the understanding of § 1983 when it was enacted. Allowing third-party beneficiaries of commitments to the Federal Government to sue is certainly a vast expansion.
+ 
+It must be acknowledged that Wright and Wilder permitted beneficiaries of federal-state contracts to sue under § 1983, but the argument set forth above was not raised. I am not prepared without further consideration to reject the possibility that third-party-beneficiary suits simply do not lie. I join the Court’s opinion because, in ruling against respondents under the Wright/Wilder test, it leaves that possibility open.
+ 
+
+
+
+

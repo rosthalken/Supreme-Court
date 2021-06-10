@@ -1,0 +1,30 @@
+﻿
+12Link to the location of the note in the document
+In Eibel Process Co. the Court upheld a patent on an improvement on a papermaking machine that made use of the law of gravity to enhance the flow of the product. The patentee, of course, did not claim to have discovered the force of gravity, but that force was an element in his novel conception.
+
+Tilghman v. Proctor involved a process claim for "'the manufacturing of fat acids and glycerine from fatty bodies.'" The Court distinguished the process from the principle involved as follows:
+
+"[The] claim of the patent is not for a mere principle. The chemical principle or scientific fact upon which it is founded is, that the elements of neutral fat require to be severally united with an atomic equivalent of water in order to separate from each other and become free. This chemical fact was not discovered by Tilghman. He only claims to have invented a particular mode of bringing about the desired chemical union between the fatty elements and water." 102 U.S., at 729.
+
+13Link to the location of the note in the document
+See also Risdon Locomotive Works v. Medart, 158 U.S. 68; Tilghman v. Proctor, supra.
+
+14Link to the location of the note in the document
+Sections 102 and 103 establish certain conditions, such as novelty and nonobviousness, to patentability.
+
+15Link to the location of the note in the document
+The underlying notion is that a scientific principle, such as that expressed in respondent's algorithm, reveals a relationship that has always existed.
+
+"An example of such a discovery [of a scientific principle] was Newton's formulation of the law of universal gravitation, relating the force of attraction between two bodies, F, to their masses, m and m', and the square of the distance, d, between their centers, according to the equation F=mm'/d<2>. But this relationship always existed -- even before Newton announced his celebrated law. Such 'mere' recognition of a theretofore existing phenomenon or relationship carries with it no rights to exclude others from its enjoyment. . . . Patentable subject matter must be new (novel); not merely heretofore unknown. There is a very compelling reason for this rule. The reason is founded upon the proposition that in granting patent rights, the public must not be deprived of any rights that it theretofore freely enjoyed." P. Rosenberg, Patent Law Fundamentals, § 4, p. 13 (1975).
+
+16Link to the location of the note in the document
+LEdHN   Section 103, HN12 by its own terms, requires that a determination of obviousness be made by considering "the subject matter as a whole." 35 U. S. C. § 103. Although this does not necessarily require that analysis of what is patentable subject matter under § 101 proceed on the same basis, we agree that it should.
+
+17Link to the location of the note in the document
+App. 22.
+
+18Link to the location of the note in the document
+LEdHN   Respondent argues that the inventiveness of his process must be determined as of "the time the invention is made" under § 103, and that, therefore, it is improper to judge the obviousness of his process by assessing the application of the formula as though the formula were part of the prior art. This argument confuses the issue of patentable subject matter under § 101 with that of obviousness under § 103. Whether or not respondent's formula can be characterized as "obvious," his process patent rests solely on the claim that his mathematical algorithm, when related to a computer program, will improve the existing process for updating alarm units. Very simply, our holding today is that a claim for an improved method of calculation, even when tied to a specific end use, is unpatentable subject matter under § 101.
+
+19Link to the location of the note in the document
+Articles assessing the merits and demerits of patent protection for computer programming are numerous. See, e. g., Davis, Computer Programs and Subject Matter Patentability, 6 Rutgers J. of Computers and Law 1 (1977), and articles cited therein, at 2 n. 5. Even among those who favor patentability of computer programs, there is questioning of whether the 17-year protection afforded by the current Patent Act is either needed or appropriate. See id., at 20 n. 133.

@@ -1,0 +1,28 @@
+﻿
+As I read 18 U. S. C. § 5003 (a), quoted ante, at 475, n. 1, it authorizes the Federal Government to take custody of state prisoners only "under certain conditions in a limited category of cases." 1Link to the text of the note The history of the legislation indicates that it was intended to authorize the use of federal "treatment facilities," that would not otherwise be available to the States, for the custody and treatment of "those convicted State offenders     who are in need of treatment." 2Link to the text of the note The language of the statute is consistent with this     purpose. The     requirement of a federal certification "that proper and adequate treatment facilities and personnel are available" surely is inconsistent with the view that nothing more than adequate    prison accommodations are necessary to justify the transfer of a state prisoner to the federal system.
+
+    In this case, however, petitioner presented the State of Vermont with the kind of problem that the federal statute was intended to solve. Petitioner's classification as an especially     dangerous offender, together with the closing of Vermont's only maximum-security facility, created a sufficiently unusual situation to cause his transfer to the federal system to fall within the limited category that the statute covers. 3Link to the text of the note I therefore concur in the Court's judgment, but I do not share its opinion that Congress intended to give the Federal Bureau of Prisons carte blanche to rent out to the States any federal prison accommodations that may be available from time to time. 4Link to the text of the note
+
+
+Those were the words used by the Chairman of the Senate Judiciary Committee in explaining the purpose of the bill that became § 5003. See 97 Cong. Rec. 13543 (1951).
+
+2Link to the location of the note in the document
+That is the language in the Report of the House Judiciary Committee. H. R. Rep. No. 1663, 82d Cong., 2d Sess., 2 (1952) (House Report). That Report made it clear that the word "treatment" had been purposefully selected as a limitation upon the authority of the Bureau of Prisons to accept state prisoners into federal custody:
+
+"Frequently, State officials request the Bureau of Prisons to undertake the custody, treatment, and training of State prisoners where specialized types of institutions and training programs are indicated but are not available in the States. These requests usually relate to juveniles and drug addicts, concerning whom many of the States are without satisfactory institutions and training programs. The Bureau of Prisons points out that it now has Federal facilities available, including medical and administrative personnel, to accommodate those State offenders that are in need of the various types of treatment that Federal institutions are providing.
+
+. . . .
+
+"The proposed legislation restricts or limits the use of Federal prison facilities to those convicted State offenders who are in need of treatment. The term 'treatment' as used in this bill, in addition to its ordinary meaning of providing medical care, is also meant to include corrective and preventive guidance and training as defined in the Youth Corrections Act (sec. 5006g, title 18, U. S. C.)." Id., at 1, 2.
+
+Attached to the House Report was a letter from the Deputy Attorney General supporting the proposed legislation. The Deputy Attorney General's understanding of the purpose of § 5003 was the same as that of the House Judiciary Committee. See House Report, at 3. The same letter was attached to and quoted in the Senate Report accompanying the bill that became § 5003. See S. Rep. No. 978, 82d Cong., 1st Sess., 1-2 (1951).
+
+3Link to the location of the note in the document
+Cf. Anthony v. Wilkinson, 637 F.2d 1130, 1140 (CA7 1980) ("[Even] something so far removed from traditional notions of 'treatment' as high security incarceration, with the opportunity to participate in attendant religious, educational, recreational and other programs, in particular cases may satisfy § 5003"), cert. pending, No. 80-1315.
+
+4Link to the location of the note in the document
+I essentially agree with the Seventh Circuit's interpretation of the statute:
+
+"It was not intended by Section 5003 to put the federal government in the rent-a-prison business unless there was some special treatment need with which the state required assistance. Absent that special need the states were left to care for their own." Lono v. Fenton, 581 F.2d 645, 648 (1978) (en banc).
+
+In itself this case is not terribly important, but it is another example of the easy way in which the Executive Branch and this Court cooperate in the continuing transfer of governmental responsibilities from the States to the federal sovereign.

@@ -1,0 +1,25 @@
+﻿
+        
+        Montana v. Jackson, 460 U.S. 1030, 103 S. Ct. 1418 (1983)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+In its opinion explaining its holding that the defendant's refusal to submit to a sobriety test is inadmissible, the majority of the Supreme Court of Montana stated, in part:
+
+
+
+"We hold that such refusal is testimonial in nature and that to admit evidence of the fact of refusal would violate the defendant's Fifth Amendment privilege as guaranteed by the United States Constitution, and would further violate defendant's privilege as guaranteed by Art. II, § 25 of the Montana Constitution." 195 Mont. 185, 185-186, 637 P. 2d 1.
+
+After analyzing the federal constitutional question in the light  [****2]  of this Court's opinion in Schmerber v. California, 384 U.S. 757 (1966), the court continued:
+
+"The issue is also controlled by Art. II, § 25 of our own constitution, which provides that 'No person shall be compelled to testify against himself in a criminal proceeding.' The issue involves a communication that is testimonial in nature, and we must resolve the issue by applying Art. II, § 25. Clearly, to permit evidence of defendant's refusal to take the breathalyzer test would  [*1031]  violate not only the United States Constitution, but also our own constitution.
+
+"In State v. Finley (1977), 173 Mont. 162, 566 P. 2d 1119, we held that a defendant's privilege against self-incrimination was not violated by admitting into evidence a videotape recording of his post-arrest words and actions. We decided that the tape had not been introduced for the incriminating content of the words uttered by the defendant, but rather for the purpose of aiding the jury in understanding the testimony of the witnesses who had observed the defendant's unsteady walk and his slurred speech after his arrest. We specifically noted that the videotape  [****3]  did not contain incriminating responses to interrogation by the police. But the same situation does not exist here. It is obvious that defendant's refusal is inherently self-incriminating  [**1419]  because it carries a strong inference of guilt -- the prosecutor would surely argue that defendant's refusal to take the test was prompted only by his knowledge that the test results would reveal his intoxication, and therefore incriminate him.
+
+"We hold under our own constitution, that if a communication of refusal, whether written, verbal, or otherwise, involves the defendant's consciousness of the facts and the operation of his mind in expressing it, the communication is testimonial in nature.  [***783]  A defendant's silence or negative reply to an officer's request which calls for an immediate reply is clearly an overt communication of the defendant's thoughts in response to the request. Doyle v. Ohio (1976), 426 U.S. 610 . . . . It is the act of refusal that is pertinent and suggestive of guilt, rather than the way in which it is communicated. Under our constitution, the privilege against self-incrimination forbids any compulsory communication of an accused person's  [****4]  thoughts, whether by acts or words spoken, and the fact that it does not extend its protection to forbid  [*1032]  the compulsory exhibition of physical characteristics does not nullify the protection it does provide." 195 Mont., at 191-192, 637 P. 2d, at 4-5.
+
+Consistent with the views I expressed in dissent in South Dakota v. Neville, 459 U.S. 553, 566 (1983), I believe the statements I have quoted are sufficient to demonstrate that the judgment of the Montana Supreme Court rests on an adequate and independent state ground and that this Court is therefore without jurisdiction to vacate its judgment. I therefore respectfully dissent.

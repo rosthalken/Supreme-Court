@@ -1,0 +1,41 @@
+﻿
+If a bankruptcy judge, with the consent of all parties to a proceeding commenced prior to October 1, 1979, correctly concluded that the best interest of the estate and all its creditors and the judiciary would be served by permitting the voluntary dismissal of that proceeding and the immediate commencement of a new proceeding under the New Code, would that action be prohibited by § 403(a) of the Bankruptcy Reform Act of 1978, Pub. L. 95-598, 92 Stat. 2683, note preceding 11 U. S. C. § 101 (1976 ed., Supp. IV)? I think not. Although two creditors objected to the dismissal in this case, the Court today leaves no doubt about its answer to this question. Despite its recognition that "the Court of Appeals may have reached a practical result," ante, this page, and that "consolidation of Geiger's petition with those of its subsidiaries and affiliates would serve the best interests of the estate [and] would conserve judicial resources," ante, at 359, the Court holds that Congress expressly forbade such a result when it enacted § 403(a).
+
+It seems most unlikely that    Congress would have commanded the result the Court reaches today if it had contemplated the set of facts confronting the Bankruptcy Court in this case. The purpose of the New Code was to modernize the bankruptcy laws and to make the system more workable and efficient. H. R. Rep. No. 95-595, pp. 3, 52 (1977). Permitting     Geiger to dismiss its petition under the Bankruptcy Act and to file a petition under the New Code, thereby facilitating consolidation of its petition with the petitions of its numerous affiliates and subsidiaries, is perfectly consistent with the spirit of both bankruptcy statutes.
+
+Moreover, I believe that the Court of Appeals' holding is faithful to the language of § 403(a). That provision contains two commands relating to proceedings commenced prior to the effective date of the New Code; one command is procedural and the other is substantive. The procedural command requires that proceedings commenced prior to October 1, 1979, be conducted under the Bankruptcy     Act. 1Link to the text of the note    The substantive command requires that the     rights of the parties in such proceedings continue to be governed by that statute. 2Link to the text of the note
+
+The procedural command was followed in this case. The original petition was filed on August 15, 1979, and was dismissed pursuant to Rule 11-42(a) of the Rules applicable to cases commenced under the Bankruptcy Act. That Rule expressly authorizes a voluntary dismissal based upon a finding that such action is "in the best interest of the estate." 3Link to the text of the note    As     the Court of Appeals noted, "the best interests of the estate must be interpreted to mean those of the creditors as well as the debtor," 4Link to the text of the note and whether dismissal of the original petition and refiling under the New Code is in the best interest of the creditors in this case is not clear from the record. The Court of Appeals instructed the Bankruptcy Court to consider on remand whether a refiling under the New Code and consolidation of the bankruptcy petitions of Geiger    and its affiliates and subsidiaries would affect the creditors' substantive rights. If substantive rights of the creditors "are in fact materially prejudiced," In re Geiger Enterprises, Inc., 635 F.2d 106, 109 (CA2 1980), then dismissal of the original petition will not be permitted. If dismissal is determined to be in the best interest of all parties, then such action is permitted by Rule 11-42(a); the procedural command of § 403(a), therefore, will have been satisfied.
+
+Likewise, the Court of Appeals' disposition assures that the substantive command of § 403(a) will be followed. If dismissal is in the best interest of the estate, meaning in this case that the creditors' substantive rights are not materially prejudiced, then dismissal of the original petition is authorized by the Bankruptcy Act. In such a case, the creditors'     substantive rights would have been governed by the Bankruptcy Act, not by the New Code. This satisfies     the substantive command of § 403(a).
+
+Even if I were persuaded that Congress intended to enact the inflexible rule the Court enforces today, I still would not decide that issue in this case. It is probable that the question raised by the certiorari petition would become moot if the Court were to follow its normal practice of declining to review interlocutory orders. 5Link to the text of the note The United States, which has a $ 2,075,674.64    tax claim at stake, while agreeing with this Court's reading of § 403(a), recognizes that the question is of "limited administrative importance" and does not merit     review by this Court. 6Link to the text of the note The only practical consequence of the Court's holding is to impose unnecessary work on busy federal judges. The Bankruptcy Court and three Circuit Judges recognized that it would be more efficient to conduct a single consolidated proceeding rather than separate proceedings for a group of affiliated bankruptcy petitioners. Meanwhile, this Court expends its scarce time and energy in a case that at best involves an error that is harmless to the parties and the law.
+
+    I respectfully dissent.
+
+"A case commenced under the Bankruptcy Act, and all matters and proceedings in or relating to any such case, shall be conducted and determined under such Act as if [the New Code] had not been enacted. . . ." 92 Stat. 2683, note preceding 11 U. S. C. § 101 (1976 ed., Supp. IV).
+
+2Link to the location of the note in the document
+Section 403(a) continues: "[And] the substantive rights of parties in connection with any such bankruptcy case, matter, or proceeding shall continue to be governed by the law applicable to such case, matter, or proceeding as if the [New Code] had not been enacted."
+
+3Link to the location of the note in the document
+Rule 11-42(a) relating to voluntary dismissals provides in pertinent part:
+
+"On the filing of such application or motion, the court shall . . . enter an order, after hearing on notice dismissing the case or adjudicating him a bankrupt whichever may be in the best interest of the estate."
+
+In this case the Bankruptcy Judge, after a full hearing, made these findings:
+
+"The motion is governed by the provisions of 11-42 of the Rules of Bankruptcy Procedure. It is unique in that the purpose of dismissal is to permit refiling under compatible substantive law provisions and distribution rules and, thus, permit substantive consolidation. In opposing the motion, the parties have argued that Congress did not intend to permit this result. To the contrary, there is no reason to believe that the Congress even envisioned a problem such as that at hand.
+
+"Practical, economical and expeditious administration and the avoidance of unnecessary and costly litigation by the alternative approach suggested by the Government [piercing the corporate veil of the affiliate and subsidiary corporations and bringing them under the Bankruptcy Act] render dismissal to permit refiling to be in the best interest of this estate." App. to Pet. for Cert. A-11.
+
+4Link to the location of the note in the document
+In re Geiger Enterprises, Inc., 635 F.2d 106, 109 (CA2 1980) (citing Banque de Financement v. First National Bank of Boston, 568 F.2d 911, 921-922 (CA2 1977)).
+
+5Link to the location of the note in the document
+Considering only one creditor, the United States, given the differences in treatment accorded tax claims under the two statutes, see 635 F.2d, at 109, it is unlikely that the Bankruptcy Court would find that it is in the best interest of the Government to proceed under the New Code.
+
+6Link to the location of the note in the document
+In explaining why there is no need for this Court to grant certiorari, the Solicitor General stated:
+
+"Despite the error of the decision below, we did not seek certiorari because of the absence of a conflict among the courts of appeals, the possibility that the government may prevail in the proceedings on remand, and the limited administrative importance of the question presented dealing with the transitional rules governing the enactment of the new Bankruptcy Code." Memorandum for United States 5.

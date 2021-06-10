@@ -1,0 +1,8 @@
+﻿
+In Custis v. United States, ante, p. 485, the Court held that, with    the sole exception of convictions obtained in violation of the right to counsel, a     defendant in a federal sentencing proceeding has no right to attack collaterally a prior state conviction used to enhance his sentence under the Armed Career Criminal Act of 1984. This case is dispositively different.
+
+Custis presented a forum question. The issue was where, not whether, the defendant could attack a prior conviction for constitutional infirmity. See ante, at 497 (Custis "may attack his state sentence in Maryland or through federal habeas review").
+
+Here, we face an uncounseled prior conviction tolerable under the Sixth Amendment "assistance of counsel" guarantee only because it did not expose defendant Nichols to the prospect of incarceration. See Scott v. Illinois, 440 U.S. 367, 59 L. Ed. 2d 383, 99 S. Ct. 1158 (1979). Today's decision enlarges the impact of that uncounseled conviction. It turns what was a disposition allowing     no jail time -- a disposition made for one day and case alone -- into a judgment of far heavier weight. Nichols does not attack his prior uncounseled conviction for what it was. He is seeking only to confine that    conviction to the term (no incarceration) that rendered it constitutional.
+
+Recognizing that the issue in this case is not like the one presented in Custis, I join JUSTICE BLACKMUN's dissenting opinion.

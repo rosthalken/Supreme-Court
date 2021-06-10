@@ -1,0 +1,44 @@
+﻿
+
+
+135 S.Ct. 547
+Supreme Court of the United States
+DART CHEROKEE BASIN OPERATING COMPANY, LLC, et al., Petitioners
+v.
+Brandon W. OWENS.
+No. 13–719.
+|
+Argued Oct. 7, 2014.
+|
+Decided Dec. 15, 2014.
+Justice THOMAS, dissenting.
+
+I agree with Justice SCALIA that the merits of the District Court’s decision are not properly before the Court. I write only to point out another, more fundamental, defect in the Court’s disposition: We lack jurisdiction to review even the Court of Appeals’ denial of permission to appeal.
+ 
+Congress has granted this Court jurisdiction to review “[c]ases in the courts of appeals” by writ of certiorari. 28 U.S.C. § 1254. Purporting to act pursuant to this grant of jurisdiction, the majority today reviews the decision of the Court of Appeals to deny an application for permission to appeal a remand order. But such an application is not a case: It “ ‘does not assert a grievance against anyone, does not seek remedy or redress for any legal injury, and does not even require a “party” on the other side.’ ” Miller–El v. Cockrell, 537 U.S. 322, 355, 123 S.Ct. 1029, 154 L.Ed.2d 931 (2003) (THOMAS, J., dissenting) (quoting Hohn v. United States, 524 U.S. 236, 256, 118 S.Ct. 1969, 141 L.Ed.2d 242 (1998) (SCALIA, J., dissenting)).
+ 
+To justify its action here, the majority quietly extends an opinion of this Court holding that applications for certificates of appealability (COAs) in the federal habeas context are “cases.” Hohn, supra. Hohn was wrongly decided, and the majority’s uncritical extension of its holding only compounds the error. Hohn rests tenuously on the conclusion that the determination that must be made on an application for a COA is more like a threshold determination than a separate judicial proceeding. See id., at 246–248, 118 S.Ct. 1969. The basis for that conclusion, if any exists, must rest on features unique to the COA: “The COA determination ... requires an overview of the claims in the habeas petition and a general assessment of their merits.” Miller–El, supra, at 336, 123 S.Ct. 1029 (emphasis added). The best argument one could make in favor of Hohn is that, because a court’s decision on an application for a COA turns on the strength of the applicant’s grievance and his entitlement to relief, the application absorbs the case-like qualities of the underlying merits case. See Hohn, supra, at 248, 118 S.Ct. 1969.
+ 
+No such osmosis could transform an application for permission to appeal a remand order into a “case.” As Justice SCALIA explains, the decision whether to permit such an appeal requires no assessment of the merits of a remand order. See ante, at 558 – 559 (dissenting opinion). The application here is nothing more than a request for discretionary permission to seek review. See Miller–El, supra, at 355, 123 S.Ct. 1029 (THOMAS, J., dissenting). The Tenth Circuit having denied that permission, no “case” ever arrived “in the court of appeals.” I would dismiss for lack of jurisdiction.
+ 
+
+
+
+
+
+1
+Section 1446(c)(2) applies to removals “sought on the basis of the jurisdiction conferred by section 1332(a),” and § 1446(c)(2)(B) provides that “removal of the action is proper ... [if] the amount in controversy exceeds the [in excess of $75,000] amount specified in section 1332(a) ” (emphasis added). We assume, without deciding, a point the parties do not dispute: Sections 1446(c)(2) and 1446(c)(2)(B) apply to cases removed under § 1332(d)(2), and removal is proper if the amount in controversy exceeds $5 million, the amount specified in § 1332(d)(2). See Frederick v. Hartford Underwriters Ins. Co., 683 F.3d 1242, 1247 (C.A.10 2012) (“[T]here is no logical reason why we should demand more from a CAFA defendant than other parties invoking federal jurisdiction.” (internal quotation marks omitted)).
+2
+Today's dissenters joined the opinion in Standard Fire Ins. Co. v. Knowles, 568 U.S. ––––, 133 S.Ct. 1345, 185 L.Ed.2d 439 (2013), without suggesting any lack of jurisdiction to reach the merits.
+3
+Justice SCALIA's dissent (hereafter dissent) faults Dart for asserting, late in the day, that the Tenth Circuit abused its discretion, observing that Dart did so only in its reply brief. Post, at 561. But Public Citizen teed up that issue after the parties filed their merits briefs. In view of this Court's decision in Standard Fire Ins. Co., 568 U.S. ––––, 133 S.Ct. 1345, see supra, at 554 – 555, the parties had no cause to address the matter earlier.
+4
+Neither court stated the listed considerations as an inflexible test. We have no occasion in this case to review each of the factors identified by the First and Tenth Circuits.
+5
+The dissent suggests that the Tenth Circuit may have another opportunity to set Circuit precedent straight: A lawyer may be irresponsible or fail to learn from Dart's experience; or perhaps a lawyer will put in evidence the district court deems insufficient, and then have a go at arguing that the evidence was sufficient and, in any event, “no evidence is required at all.” Post, at 561. That such a case will occur, and that the Tenth Circuit would then seize the very opportunity it passed up in Dart's case, is hardly probable.
+6
+The dissent posits that “the applicable law” might have been something other than the law governing the parties' submissions. Post, at 559, 559 – 560. That is a strained reading of the Tenth Circuit's expression. Perhaps the Tenth Circuit found this case a “poor vehicle,” the dissent suggests, post, at 559, but no potential vehicle concerns were urged by Owens, and the dissent identifies none. Or the Tenth Circuit might have doubted its “ability to quickly resolve the issue” within the 60–day time limit provided in § 1453(c)(2)–(3). Ibid.; see also post, at 559 – 560. Section 1453(c)'s timing provision, however, was designed to promote expedition, not to discourage Courts of Appeals from acting on petitions for appeal. As a third “maybe,” the dissent observes that proof of the amount in controversy in removal notices is not “a question unique to [CAFA].” Post, at 559. True, the Tenth Circuit demands such proof in ordinary diversity cases. See Laughlin v. Kmart Corp., 50 F.3d 871, 873 (1995). But that does not make the imposition one whit less in CAFA cases.
+7
+Caution is in order when attributing a basis to an unreasoned decision. But we have not insisted upon absolute certainty when that basis is fairly inferred from the record. See Taylor v. McKeithen, 407 U.S. 191, 193, n. 2, 92 S.Ct. 1980, 32 L.Ed.2d 648 (1972) (per curiam ) (rejecting “possible, but unlikely” basis for unreasoned decision); Nixon v. Fitzgerald, 457 U.S. 731, 742–743, 102 S.Ct. 2690, 73 L.Ed.2d 349 (1982) (facing an unreasoned Court of Appeals decision, we projected what the Court of Appeals “appears to have” reasoned); Tr. of Oral Arg. 18–19 (observing that an appellate court often assumes that a first instance court based its unexplained discretionary decision on the ground the prevailing party presented).
+8
+Our disposition does not preclude the Tenth Circuit from asserting and explaining on remand that a permissible ground underlies its decision to decline Dart's appeal.

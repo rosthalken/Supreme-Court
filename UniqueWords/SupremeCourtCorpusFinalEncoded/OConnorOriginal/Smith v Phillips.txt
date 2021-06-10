@@ -1,0 +1,46 @@
+﻿
+        
+        Smith v. Phillips, 455 U.S. 209, 102 S. Ct. 940 (1982)
+        
+
+
+      
+
+JUSTICE O'CONNOR, concurring.
+
+I concur in the Court's opinion, but write separately to express my view that the [****26]  opinion does not foreclose the use of "implied bias" in appropriate circumstances.
+
+I
+
+Determining whether a juror is biased or has prejudged a case is difficult, partly because the juror may have an interest  [*222]  in concealing his own bias and partly because the juror may be unaware of it. The problem may be compounded when a charge of bias arises from juror misconduct, and not simply from attempts of third parties to influence a juror.
+
+Nevertheless, I believe that in most instances a postconviction hearing will be adequate to determine whether a juror is biased. A hearing permits counsel to probe the juror's memory, his reasons for acting as he did, and his understanding of the consequences of his actions. A hearing also permits the trial judge to observe the juror's demeanor under cross-examination and to evaluate his answers in light of the particular circumstances of the case.
+
+I am concerned, however, that in certain instances a hearing may be inadequate for uncovering a juror's biases, leaving serious question whether the trial court had subjected the defendant to manifestly unjust procedures resulting in a miscarriage of justice. While each case must turn on its [****27]  own facts, there are some extreme situations that would justify a finding of implied bias. Some examples might include a revelation that the juror is an actual employee of the prosecuting agency, that the juror is a close relative of one of the participants in the trial or the criminal transaction, or that the juror was a witness or somehow involved in the criminal transaction. Whether or not the state proceedings result in a finding of "no bias," the Sixth Amendment right to an impartial jury should not allow a  [***90]  verdict to stand under such circumstances. *Link to the text of the note
+
+ [****28]  [*223]  [**949]  II
+
+None of our previous cases preclude the use of the conclusive presumption of implied bias in appropriate circumstances. Remmer v. United States, 347 U.S. 227 (1954), on which the Court heavily relies, involved not juror misconduct, but the misconduct of a third party who attempted to bribe a juror. Under those circumstances, where the juror has not been accused of misconduct or has no actual stake in the outcome of the trial, and thus has no significant incentive to shield his biases, a postconviction hearing could adequately determine whether or not the juror was biased. In Dennis v. United States, 339 U.S. 162 (1950), the Court rejected a claim that a juror's employment with the Federal Government was a ground to find implied bias, but did not foreclose a finding of implied bias in more serious situations. Justice Reed, who concurred in the Court's opinion, wrote that he read "the Court's decision to mean that Government employees may be barred for implied bias when circumstances are properly brought to the court's attention which convince the court that Government employees would not be suitable jurors in [****29]  a particular case." Id., at 172-173.
+
+Moreover, this Court has used implied bias to reverse a conviction. In Leonard v. United States, 378 U.S. 544 (1964) (per curiam), the Court held that prospective jurors who had heard the trial court announce the defendant's guilty  [*224]  verdict in the first trial should be automatically disqualified from sitting on a second trial on similar charges.
+
+III
+
+Because there may be circumstances in which a postconviction hearing will not be adequate to remedy a charge of juror bias, it is important for the Court to retain the doctrine of implied bias to preserve Sixth Amendment rights. I read the Court's opinion as not foreclosing the use of implied bias in appropriate situations, and, therefore, I concur.
+
+*Link to the location of the note in the document
+In the exceptional situations that may require application of an "implied bias" doctrine, the lower federal courts need not be deterred by 28 U. S. C. § 2254(d), which provides that in a federal habeas proceeding
+
+"a determination after a hearing on the merits of a factual issue, made by a State court of competent jurisdiction . . . , evidenced by a written finding, written opinion, or other reliable and adequate written indicia, shall be presumed to be correct, unless the applicant shall establish or it shall otherwise appear . . .
+
+. . . .
+
+"(2) that the factfinding procedure employed by the State court was not adequate to afford a full and fair hearing;
+
+. . . .
+
+"(6) that the applicant did not receive a full, fair, and adequate hearing in the State court proceeding; or
+
+"(7) that the applicant was otherwise denied due process of law in the State court proceeding. . . ."
+
+In those extraordinary situations involving implied bias, state-court proceedings resulting in a finding of "no bias" are by definition inadequate to uncover the bias that the law conclusively presumes.

@@ -1,0 +1,49 @@
+﻿
+        
+        Ftc v. Standard Oil Co., 449 U.S. 232, 101 S. Ct. 488 (1980)
+        
+
+
+      
+
+JUSTICE STEVENS, concurring in the judgment.
+
+"Agency action" is a statutory term that identifies the conduct of executive and administrative agencies that Congress intended to be reviewable in federal court. 1Link to the text of the note [****29]  In general, the term encompasses formal orders, rules, and interpretive decisions that crystallize or modify private legal rights. 2Link to the text of the note Agency action that is merely "preliminary, procedural, or intermediate" is subject to judicial review at the termination of the proceeding in which the interlocutory ruling is made. 3Link to the text of the note Today  [*248]  the Court holds that an agency decision to initiate administrative proceedings is in the interlocutory category. In a footnote, ante, at 238-239, n. 7, the Court determines whether the decision is ever reviewable and in the body of the opinion the Court determines when it is reviewable.
+
+In my opinion, Congress did not intend to authorize any judicial review of decisions to initiate administrative proceedings. The definition of "agency action" found in 5 U. S. C. § 551 (13) plainly contemplates action that affects legal rights in some way. As the Court points out, ante, at 242, the mere issuance of a complaint has no legal effect on the respondent's rights. Although an agency's decision to file a complaint may have a serious impact on private [****30]  parties who must respond to such complaints, that impact is comparable to that caused by a private litigant's decision to file a lawsuit or a prosecutor's decision to present evidence to a grand jury. A decision to initiate proceedings does not have the same kind of effect on legal rights as "an agency rule, order, license [or other sanction]." 4Link to the text of the note I am aware of nothing in the Administrative Procedure Act, or its history, that indicates that Congress intended  [***430]  to authorize judicial review of this type of decision.
+
+ [****31]   [*249]  The practical consequences of the Court's contrary holding -- that the Commission's prelitigation decision, although not reviewable now, will be reviewable later 5Link to the text of the note -- confirms  [**498]  my opinion that the Court's decision does not reflect the intent of Congress. If the Commission ultimately prevails on the merits of its complaint, Socal surely will not be granted immunity because the Commission did not uncover the evidence of illegality until after the complaint was filed. On the other hand, if Socal prevails, there will be no occasion to review the contention that it now advances, because the only relief it seeks is a dismissal of the Commission's complaint. Socal is surely correct when it argues that unless review is available now, meaningful review can never be had.
+
+ [****32]  The Court's casual reading of the Administrative Procedure Act is unfortunate for another reason. The disposition of a novel and important question of federal jurisdiction in a footnote will lend support to the notion that federal courts have a "carte blanche" authorizing judicial supervision of almost everything that the Executive Branch of Government may do. Because that notion has an inevitable impact on the quantity and quality of judicial service, federal judges should be especially careful to construe their own authority strictly. I therefore respectfully disagree with the Court's perfunctory analysis of the "agency action" issue. I do, however, concur in its judgment because I am persuaded that the Commission's decision to initiate a complaint is not "agency action" within the meaning of § 10 (b) of the Administrative Procedure Act, 5 U. S. C. § 702.
+
+
+
+Title 5 U. S. C. § 702 provides in part:
+
+"A person suffering legal wrong because of agency action, or adversely affected or aggrieved by agency action within the meaning of a relevant statute, is entitled to judicial review thereof."
+
+2Link to the location of the note in the document
+Section 701 (b)(2) provides:
+
+"For the purposes of this chapter --
+
+. . . .
+
+"(2) 'person', 'rule', 'order', 'license', 'sanction', 'relief', and 'agency action' have the meanings given them by section 551 of this title."
+
+Section 551 (13) provides:
+
+"'agency action' includes the whole or a part of an agency rule, order, license, sanction, relief, or the equivalent or denial thereof, or failure to act."
+
+3Link to the location of the note in the document
+Section 704 provides in part:
+
+"A preliminary, procedural, or intermediate agency action or ruling not directly reviewable is subject to review on the review of the final agency action."
+
+4Link to the location of the note in the document
+See n. 2, supra. The Court's partial quotation of the definition of the term "order" in 5 U. S. C. § 551 (6), see ante, at 239, n. 7, implies that the Court regards the initial step in a proceeding as a "part" of the final order terminating the proceeding. In my opinion that is a rather plain misreading of the definition. An ordinary reader would interpret "part" of an order to refer to one of several paragraphs or sections in that document, not to actions that preceded the entry of the order. Under a contrary reading, presumably the Commission's action in filing a brief directed to some preliminary issue in the proceeding would be considered "part" of the agency action terminating the proceedings and therefore subject to judicial review. Section 551 (6) reads, in full, as follows:
+
+"'order' means the whole or a part of a final disposition, whether affirmative, negative, injunctive, or declaratory in form, of an agency in a matter other than rule making but including licensing."
+
+5Link to the location of the note in the document
+Because judicial review of the Commission's decision is not specifically proscribed by statute, the decision to file a complaint will be reviewable later unless the Commission, by a showing of "clear and convincing" evidence, can overcome the strong presumption against a determination that its action was "committed to agency discretion" under 5 U. S. C. § 701 (a)(2). See Dunlop v. Bachowski, 421 U.S. 560, 567 (1975).

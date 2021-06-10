@@ -1,0 +1,33 @@
+﻿The distinction between the religious and the secular is a fundamental one. To quote from Clarence Darrow's argument in the Scopes case: S
+
+"The realm of religion… is where knowledge leaves off, and where faith begins, and it never has needed the arm of the State for support, and wherever it has received it, it has harmed both the public and the religion that it would pretend to serve."I 1Link to the text of the note
+
+        The line drawn by the Establishment Clause of the First Amendment must also have a fundamental character. It should not differentiate between direct and indirect subsidies, or between instructional materials like globes and maps on the one hand and instructional materials like textbooks on the other. For that reason, rather than the three-part test described in Part II of the plurality's opinion, I would adhere to the test enunciated for the Court by Mr. Justice Black: S
+
+"No tax in any amount, large or small, can be levied to support any religious activities or institutions, whatever they may be called, or whatever form they may adopt to teach or practice religion." Everson v. Board of Education, 330 U.S. 1, 16.I
+
+Under that test, a state subsidy of sectarian schools is invalid regardless of the form     it takes. The financing of buildings, field trips, instructional materials, educational tests, and schoolbooks are all equally invalid. 2Link to the text of the note For all give aid to the school's educational mission, which at heart is religious. 3Link to the text of the note On the other hand, I am not prepared to exclude the possibility     that some parts of the statute before us may be administered in     a constitutional manner. The State can plainly provide public health services to children attending nonpublic schools. The diagnostic and therapeutic services described in Parts V and VI of the Court's opinion     may fall into this category. 4Link to the text of the note Although I have some misgivings on this point, I am not prepared to hold this part of the statute invalid on its face.
+
+    This Court's efforts to improve on the Everson test have not proved successful. "Corrosive precedents" 5Link to the text of the note have left us without firm principles on which to decide these cases. As this case demonstrates, the States have been encouraged to search for new ways of achieving forbidden ends. See Committee for Public Education v. Nyquist, 413 U.S. 756, 785, 797. What should be a "high and impregnable" wall between church and state, 6Link to the text of the note has been reduced to a "'blurred, indistinct, and variable barrier,'" ante, at 236. The result has been, as Clarence Darrow predicted, harm to "both the public and the religion that [this aid] would pretend to serve." 7Link to the text of the note
+
+    Accordingly, I dissent from Parts II, III, and IV of the plurality's opinion.
+
+
+Tr. of Oral Arg. 7, Scopes v. State, 154 Tenn. 105, 289 S.W. 363 (1927) (on file with Clarence Darrow Papers, Library of Congress) (punctuation corrected).
+
+2Link to the location of the note in the document
+In view of the acknowledged tension, ante, at 251-252, n. 18, between Board of Education v. Allen, 392 U.S. 236, and Meek v. Pittenger, 421 U.S. 349, the doctrine of stare decisis cannot foreclose an eventual choice between two inconsistent precedents.
+
+3Link to the location of the note in the document
+It is the sectarian school itself, not the legislation, that is "entangled" with religion:
+
+"The very purpose of many of those schools is to provide an integrated secular and relgious education; the teaching process is, to a large extent, devoted to the inculcation of religious values and belief. See Lemon v. Kurtzman, 403 U.S., at 616-617. Substantial aid to the educational function of such schools, accordingly, necessarily results in aid to the sectarian school enterprise as a whole.'[T]he secular education those schools provide goes hand in hand with the religious mission that is the only reason for the schools' existence. Within the institution, the two are inextricably intertwined.' Id., at 657 (opinion of BRENNAN, J.). See generally Freund, Public Aid to Parochial Schools, 82 Harv. L. Rev. 1680, 1688-1689." Meek v. Pittenger, supra, at 366.
+
+4Link to the location of the note in the document
+Like my Brother BRENNAN, ante, at 256, I am concerned by the amount of money appropriated under this statute. But since the Court has invalidated so much of the program, only a much smaller amount may still be involved.
+
+6Link to the location of the note in the document
+Id., at 18.
+
+7Link to the location of the note in the document
+In Roemer v. Maryland Public Works Bd., 426 U.S. 736, 775, I spoke of "the pernicious tendency of a state subsidy to tempt religious schools to compromise their religious mission without wholly abandoning it." This case presents an apt illustration. To qualify for aid, sectarian schools must relinquish their religious exclusivity. As the District Court noted, the statute provides aid "to pupils attending only those nonpublic schools whose admission policies make no distinction as to… creed… of either its pupils or of its teachers." Wolman v. Essex, 417 F.Supp. 1113, 1116. Similarly, sectarian schools will be under pressure to avoid textbooks which present a religious perspective on secular subjects, so as to obtain the free textbooks provided by the State.

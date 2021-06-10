@@ -1,0 +1,27 @@
+﻿
+
+
+113 S.Ct. 528
+Supreme Court of the United States
+Willie Lee RICHMOND, Petitioner,
+v.
+Samuel A. LEWIS, Director, Arizona Department of Corrections, et al.
+No. 91-7094.
+|
+Argued Oct. 13, 1992.
+|
+Decided Dec. 1, 1992.
+ 
+
+Justice THOMAS, concurring.
+
+The Court holds that the concurring Arizona Supreme Court justices violated the rule of Clemons v. Mississippi, 494 U.S. 738, 110 S.Ct. 1441, 108 L.Ed.2d 725 (1990), by failing to reweigh aggravating and mitigating circumstances after concluding that only two of the three aggravating circumstances found by the trial court were present in this case. Respondents do not claim that this rule is a new one for purposes of Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989), and that it is consequently unavailable to a habeas petitioner. The reason, presumably, is that a Teague defense is foreclosed by Stringer v. Black, 503 U.S. 222, 112 S.Ct. 1130, 117 L.Ed.2d 367 (1992), which held that “there was no arguable basis” in February *53 1985 to support the view that an appellate court in a weighing State “was permitted to apply a rule of automatic affirmance to any death sentence supported by multiple aggravating factors, when one is invalid.” Id., at 231, 112 S.Ct., at 1137. Under Stringer, the concurring Arizona Supreme Court justices cannot be excused for their failure to reweigh; any reasonable jurist should have known that “automatic affirmance” in a weighing State violates the Eighth Amendment.*
+ 
+I joined the dissent in Stringer, and I continue to think that case was wrongly decided. In particular, I remain convinced that **538 Stringer transformed Teague ‘s retroactivity principle from a rule that validates “reasonableness” into a rule that mandates “prescience.” 503 U.S., at 244, 112 S.Ct., at 1144 (SOUTER, J., dissenting). Had Stringer been decided differently, petitioner could not now complain that two Arizona Supreme Court justices violated the Constitution in 1983 by neglecting to reweigh. Nevertheless, because Stringer is good law, and because I agree that the concurring justices in this case did not reweigh, I join the Court’s opinion.
+ 
+
+
+
+
+*
+Richmond's conviction became final on November 14, 1983-15 months before Stringer's conviction became final. I cannot imagine, however, that this distinction renders Stringer inapplicable to this case. The decision in Stringer rested on the premise that the rule against automatic affirmance “emerges not from any single case,” but from a “long line of authority,” Stringer v. Black, 503 U.S., at 232, 112 S.Ct., at 1137, and that “line of authority” consists entirely of cases decided before Richmond's conviction became final, see id., at 227-232, 112 S.Ct. at 1135-1137.

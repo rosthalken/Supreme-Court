@@ -1,0 +1,29 @@
+﻿
+        
+        Padilla v. Hanft, 547 U.S. 1062, 126 S. Ct. 1649 (2006)
+        
+
+
+      
+
+JUSTICE KENNEDY, with whom THE CHIEF JUSTICE and JUSTICE STEVENS join, concurring.
+
+The Court's decision to deny the petition for writ of certiorari is, in my view, a proper exercise of its discretion in light of the circumstances of the case. The history of petitioner Jose Padilla's detention, however, does require this brief explanatory [****2]  statement.
+
+Padilla is a United States citizen. Acting pursuant to a material witness warrant issued by the United States District Court for the Southern District of New York, federal agents apprehended Padilla at Chicago's O'Hare International Airport on May 8, 2002. He was transported to New York, and on May 22 he moved to vacate the warrant. On June 9, while that motion was pending, the President issued an order to the Secretary of Defense designating Padilla an enemy combatant and ordering his military detention. The District Court, notified of this action by the Government's ex parte motion, vacated the material witness warrant.
+
+Padilla was taken to the Consolidated Naval Brig in Charleston, South Carolina. On June 11, Padilla's counsel filed a habeas corpus petition in the Southern District of New York challenging the military detention. The District Court denied the petition, but the Court of Appeals for the Second Circuit reversed and  [***410]  ordered the issuance of a writ directing Padilla's release. This Court granted certiorari and ordered dismissal of the habeas corpus petition without prejudice, holding that the District Court for the Southern District of New York was not [****3]  the appropriate court to consider it. See Rumsfeld v. Padilla, 542 U.S. 426, 124 S. Ct. 2711, 159 L. Ed. 2d 513 (2004).
+
+ [*1063]  The present case arises from Padilla's subsequent habeas corpus petition, filed in the United States District Court for the District of South Carolina on July 2, 2004. Padilla requested that he be released immediately or else charged with a crime. The District Court granted the petition on  [**1650]  February 28, 2005, but the Court of Appeals for the Fourth Circuit reversed that judgment on September 9, 2005. Padilla then filed the instant petition for writ of certiorari.
+
+After Padilla sought certiorari in this Court, the Government obtained an indictment charging him with various federal crimes. The President ordered that Padilla be released from military custody and transferred to the control of the Attorney General to face criminal charges. The Government filed a motion for approval of Padilla's transfer in the Court of Appeals for the Fourth Circuit. The Court of Appeals denied the motion, but this Court granted the Government's subsequent application respecting the transfer. Hanft v. Padilla, 546 U.S. 1084, 126 S. Ct. 978, 163 L. Ed. 2d 721 (2006). The Government also filed a brief in opposition to certiorari,  [****4]  arguing, among other things, that Padilla's petition should be denied as moot.
+
+The Government's mootness argument is based on the premise that Padilla, now having been charged with crimes and released from military custody, has received the principal relief he sought. Padilla responds that his case was not mooted by the Government's voluntary actions because there remains a possibility that he will be redesignated and redetained as an enemy combatant.
+
+Whatever the ultimate merits of the parties' mootness arguments, there are strong prudential considerations disfavoring the exercise of the Court's certiorari power. Even if the Court were to rule in Padilla's favor, his present custody status would be unaffected. Padilla is scheduled to be tried on criminal charges. Any consideration of what rights he might be able to assert if he were returned to military custody would be hypothetical, and to no effect, at this stage of the proceedings.
+
+In light of the previous changes in his custody status and the fact that nearly four years have passed since he first was detained, Padilla, it must be acknowledged, has a continuing concern that his status might be altered again. That concern, however,  [****5]  can be addressed if the necessity arises. Padilla is now being held pursuant to the control and supervision of the United States District Court for the Southern District of Florida, pending trial of the criminal case. In the course of its supervision  [*1064]  over Padilla's custody and trial the District Court will be obliged to afford him the protection, including the right to a speedy trial, guaranteed to all federal criminal defendants. See, e.g., U.S. Const., Amdt. 6; 18 U.S.C. § 3161. Were the Government to seek to change the status or conditions of Padilla's custody, that court would be in a position to rule quickly on any responsive filings submitted by Padilla. In such an event, the District Court, as well as other courts of competent jurisdiction, should act promptly to ensure that the office and purposes of the writ of habeas corpus are not compromised. Padilla, moreover, retains the option of seeking a writ of habeas corpus in this Court. See this Court's Rule 20; 28 U.S.C. §§ 1651(a), 2241.
+
+That Padilla's claims raise fundamental issues respecting the separation of powers, including consideration of the role and function of the [****6]  courts, also counsels against addressing those claims when the course of legal proceedings has made them, at least for now, hypothetical.  [***411]  This is especially true given that Padilla's current custody is part of the relief he sought, and that its lawfulness is uncontested.
+
+These are the reasons for my vote to deny certiorari.

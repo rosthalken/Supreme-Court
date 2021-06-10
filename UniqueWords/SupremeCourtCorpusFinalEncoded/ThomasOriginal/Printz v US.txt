@@ -1,0 +1,33 @@
+﻿
+
+
+117 S.Ct. 2365
+Supreme Court of the United States
+898Jay PRINTZ, Sheriff/Coroner, Ravalli County, Montana, Petitioner,
+v.
+UNITED STATES.
+Richard MACK, Petitioner,
+v.
+UNITED STATES.
+Nos. 95–1478, 95–1503.
+|
+Argued Dec. 3, 1996.
+|
+Decided June 27, 1997.
+ 
+Justice THOMAS, concurring.
+
+The Court today properly holds that the Brady Act violates the Tenth Amendment in that it compels state law enforcement officers to “administer or enforce a federal regulatory program.” See ante, at 2384. Although I join the Court’s opinion in full, I write separately to emphasize that the Tenth Amendment affirms the undeniable notion that under our Constitution, the Federal Government is one of enumerated, hence limited, powers. See, e.g., McCulloch v. 937 *937 Maryland, 4 Wheat. 316, 405, 4 L.Ed. 579 (1819) (“This government is acknowledged by all to be one of enumerated powers”). “[T]hat those limits may not be mistaken, or forgotten, the constitution is written.” Marbury v. Madison, 1 Cranch 137, 176, 2 L.Ed. 60 (1803). Accordingly, the Federal Government may act only where the Constitution authorizes it to do so. Cf. New York v. United States, 505 U.S. 144, 112 S.Ct. 2408, 120 L.Ed.2d 120 (1992).
+ 
+In my “revisionist” view, see post, at 2387, (STEVENS, J., dissenting), the Federal Government’s authority under the Commerce Clause, which merely allocates to Congress the power “to regulate Commerce ... among the several States,” does not extend to the regulation of wholly intra state, point-of-sale transactions. See United States v. Lopez, 514 U.S. 549, 584, 115 S.Ct. 1624, 1642, 131 L.Ed.2d 626 (1995) (concurring opinion). Absent the underlying authority to regulate the intrastate transfer of firearms, Congress surely lacks the corollary power to impress state law enforcement officers into administering and enforcing such regulations. Although this Court has long interpreted the Constitution as ceding Congress extensive authority to regulate commerce (interstate or otherwise), I continue to believe that we must “temper our Commerce Clause jurisprudence” and return to an interpretation better rooted in the Clause’s original understanding. Id., at 601, 115 S.Ct., at 1650 (concurring opinion); see also Camps Newfound/Owatonna, Inc. v. Town of Harrison, 520 U.S. 564, 620, 117 S.Ct. 1590, 1620, 137 L.Ed.2d 852 (1997) (THOMAS, J., dissenting).
+ 
+Even if we construe Congress’ authority to regulate interstate commerce to encompass those intrastate transactions that “substantially affect” interstate commerce, I question whether Congress can regulate the particular transactions at issue here. The Constitution, in addition to delegating certain enumerated powers to Congress, places whole areas outside the reach of Congress’ regulatory authority. The First Amendment, for example, is fittingly celebrated for preventing Congress from “prohibiting the free exercise” of religion or “abridging the freedom of speech.” The Second 938 *938 Amendment similarly appears to contain an express limitation on **2386 the Government’s authority. That Amendment provides: “A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear arms, shall not be infringed.” This Court has not had recent occasion to consider the nature of the substantive right safeguarded by the Second Amendment.1 If, however, the Second Amendment is read to confer a personal right to “keep and bear arms,” a colorable argument exists that the Federal Government’s regulatory scheme, at least as it pertains to the purely intrastate sale or possession of firearms, runs afoul of that Amendment’s protections.2 As the parties did 939 *939 not raise this argument, however, we need not consider it here. Perhaps, at some future date, this Court will have the opportunity to determine whether Justice Story was correct when he wrote that the right to bear arms “has justly been considered, as the palladium of the liberties of a republic.” 3 J. Story, Commentaries § 1890, p. 746 (1833). In the meantime, I join the Court’s opinion striking down the challenged provisions of the Brady Act as inconsistent with the Tenth Amendment.
+ 
+
+
+
+1
+Our most recent treatment of the Second Amendment occurred in United States v. Miller, 307 U.S. 174, 59 S.Ct. 816, 83 L.Ed. 1206 (1939), in which we reversed the District Court's invalidation of the National Firearms Act, enacted in 1934. In Miller, we determined that the Second Amendment did not guarantee a citizen's right to possess a sawed-off shotgun because that weapon had not been shown to be “ordinary military equipment” that could “contribute to the common defense.” Id., at 178, 59 S.Ct., at 818. The Court did not, however, attempt to define, or otherwise construe, the substantive right protected by the Second Amendment.
+2
+Marshaling an impressive array of historical evidence, a growing body of scholarly commentary indicates that the “right to keep and bear arms” is, as the Amendment's text suggests, a personal right. See, e.g., J. Malcolm, To Keep and Bear Arms: The Origins of an Anglo–American Right 162 (1994); S. Halbrook, That Every Man Be Armed, The Evolution of a Constitutional Right (1984); Van Alstyne, The Second Amendment and the Personal Right to Arms, 43 Duke L.J. 1236 (1994); Amar, The Bill of Rights and the Fourteenth Amendment, 101 Yale L.J. 1193 (1992); Cottrol & Diamond, The Second Amendment: Toward an Afro–Americanist Reconsideration, 80 Geo. L.J. 309 (1991); Levinson, The Embarrassing Second Amendment, 99 Yale L.J. 637 (1989); Kates, Handgun Prohibition and the Original Meaning of the Second Amendment, 82 Mich. L.Rev. 204 (1983). Other scholars, however, argue that the Second Amendment does not secure a personal right to keep or to bear arms. See, e.g., Bogus, Race, Riots, and Guns, 66 S. Cal. L.Rev. 1365 (1993); Williams, Civic Republicanism and the Citizen Militia: The Terrifying Second Amendment, 101 Yale L.J. 551 (1991); Brown, Guns, Cowboys, Philadelphia Mayors, and Civic Republicanism: On Sanford Levinson's The Embarrassing Second Amendment, 99 Yale L.J. 661 (1989); Cress, An Armed Community: The Origins and Meaning of the Right to Bear Arms, 71 J. Am. Hist. 22 (1984). Although somewhat overlooked in our jurisprudence, the Amendment has certainly engendered considerable academic, as well as public, debate.
+

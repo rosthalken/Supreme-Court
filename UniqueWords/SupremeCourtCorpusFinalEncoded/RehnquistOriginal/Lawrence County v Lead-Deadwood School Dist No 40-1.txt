@@ -1,0 +1,35 @@
+﻿
+
+
+105 S.Ct. 695
+Supreme Court of the United States
+LAWRENCE COUNTY et al.
+v.
+LEAD–DEADWOOD SCHOOL DISTRICT NO. 40–1.
+No. 83–240.
+|
+Argued Oct. 30, 1984.
+|
+Decided Jan. 9, 1985.
+Justice REHNQUIST, with whom Justice STEVENS joins, dissenting.
+
+In Hunter v. Pittsburgh, 207 U.S. 161, 28 S.Ct. 40, 52 L.Ed. 151 (1907), this Court unanimously described the “settled doctrines of this Court” with respect to States, on the one hand, and counties and other municipal corporations within them, on the other:
+“Municipal corporations are political subdivisions of the State, created as convenient agencies for exercising such of the governmental powers of the State as may be entrusted to them. For the purpose of executing these *271 powers properly and efficiently they usually are given the power to acquire, hold, and manage personal and real property. The number, nature and duration of the powers conferred upon these corporations and the territory over which they shall be exercised rests in the absolute discretion of the State.” Id., at 178, 28 S.Ct., at 46.
+ 
+Flying in the face of this settled doctrine, the Court today holds that Congress, by providing for payments of federal funds in lieu of taxes to counties in South Dakota, implicitly prohibited the State of South Dakota from regulating in any way the manner in which its counties might spend those funds. Recognizing that the statutory language does not support such a result, the Court seeks to glean from bits and pieces of the testimony of witnesses before congressional Committees, and from selected statements in Committee Reports which do not address the question here at issue, ammunition for the result it reaches. I do not think the Court’s opinion succeeds in this rather formidable task.
+ 
+The statute in question, 31 U.S.C. § 6902(a), provides:
+“The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located. A unit may use the payment for any governmental purpose.”
+ 
+Surely the normal reading of this language would be that appellant Lawrence County is entitled to receive a payment each year from the Secretary of the Interior, and that it may use this payment for any purpose lawful under the system of laws that regulates its activities. The statutes of South Dakota constitute the system of laws regulating Lawrence County. They require in this case that all “in-lieu payments” received by the county, whether from the State or the Federal Government, shall be distributed by the county “in the same manner as taxes are distributed.” S.D. Codified Laws § 5–11–6 (1980). In **704 Lawrence County this would mean that appellee Lead-Deadwood School District would *272 receive 60% of the payment. The Court’s opinion, however, says the State may not impose such a neutral requirement on the county’s disposition of the federal in-lieu payments. The opinion is necessarily premised on the assumption that the words “governmental purpose” in the federal statute somehow emancipate the county from the state regimen as to what is and is not a proper governmental purpose for a county. The Court apparently creates a new federal definition of “governmental purpose,” the confines of which are left wholly undeveloped.
+ 
+The Court relies upon the “administrative construction” of the Act as a primary reason for reaching the result that it does. But the vaunted “administrative construction” simply restates the statutory language in the form of a regulation, 43 CFR § 1881.2 (1983), without any explanatory language. The Court says that “[t]he department has consistently interpreted the statute as foreclosing limitations on the use of in-lieu funds” and cites to a reference in the brief of the United States in this case. Ante, at 699. But the part of the brief cited by the Court refers to a regulation prohibiting school districts from receiving funds directly, and to the above-quoted language simply repeating the words of the statute. Neither of the regulations relied upon supports the Court’s bland statement that administrative regulations have foreclosed limitations by the State on the counties’ use of in-lieu funds.
+ 
+Other legislative materials upon which the Court relies are similarly inapt or ambiguous. The conclusion of the House Committee, for example, H.R.Rep. No. 94–1106, p. 12 (1976), that “these new payments should [not] be restricted or earmarked for use for specific purposes” does not by its terms, or fairly interpreted, prohibit States from having any say in the way counties may spend federal in-lieu payments. This statement could just as fairly be interpreted as indicating an intention on the part of Congress not to restrict or earmark such in-lieu funds for a particular purpose.
+ 
+*273 This two-sentence statutory provision enacted by Congress certainly does not proclaim by its language any single meaning, but one would be hard pressed to derive a more tortured meaning from it than that chosen by the Court. It may be that Congress, by providing that payments be made directly to the counties rather than to the States, implied a desire to have the money spent in the counties. But nothing in the South Dakota statute requires any contrary result; all the South Dakota statute requires is that the counties allocate a part of the money to school districts within the county, just as general tax revenues and state in-lieu payments are allocated. The Court’s collection of reasons why Congress intended to prohibit this result is simply not convincing in the light of the long history of treatment of counties as being by law totally subordinate to the States which have created them. I would therefore affirm the judgment of the Supreme Court of South Dakota.
+ 
+
+
+
+

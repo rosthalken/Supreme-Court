@@ -1,0 +1,13 @@
+﻿
+        
+        Asahi Metal Indus. Co. v. Superior Court of Cal., 480 U.S. 102, 107 S. Ct. 1026 (1987)
+        
+
+
+      
+
+JUSTICE STEVENS, with whom JUSTICE WHITE and JUSTICE BLACKMUN join, concurring in part and concurring in the judgment.
+
+The judgment of the Supreme Court of California should be reversed for the reasons stated in Part II-B of the Court's opinion. While I join Parts I and II-B, I do not join Part II-A for two reasons. First, it is not necessary to the Court's decision. An examination of minimum contacts is not always necessary to determine whether a state court's assertion of personal jurisdiction is constitutional. See Burger King Corp. v. Rudzewicz, 471 U.S. 462, 476-478 (1985). Part II-B establishes, after considering the factors set forth in World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286, 292 (1980), that California's exercise of jurisdiction over Asahi in this case would be "unreasonable and unfair." Ante, at 116. This finding alone requires reversal; this case fits within the rule that "minimum requirements inherent in the concept of 'fair play and substantial justice' may defeat  [*122]  the reasonableness of jurisdiction even if the defendant has purposefully engaged in forum activities." Burger King, 471 U.S., at 477-478 [****38]  (quoting International Shoe Co. v. Washington, 326 U.S. 310, 320 (1945)). Accordingly, I see no reason in this case for the plurality to articulate "purposeful direction" or any other test as the nexus between an act of a defendant and the forum State that is necessary to establish minimum contacts.
+
+LEdHN[4C] [4C]Second, even assuming that the test ought to be formulated here,  [***111]  Part II-A misapplies it to the facts of this case. The plurality seems to assume that an unwavering line can be drawn between "mere awareness" that a component will find its way into the forum State and "purposeful availment" of the forum's market. Ante, at 112. Over the course of its dealings with Cheng Shin, Asahi has arguably engaged in a higher quantum of conduct than "[the] placement of a product into the stream of commerce, without more. . . ." Ibid. Whether or not this conduct rises to the level of purposeful availment requires a constitutional determination that is affected by the volume, the value, and the hazardous character of the components. In most circumstances I would be inclined [****39]  to conclude that a regular course of dealing that results in deliveries of over 100,000 units annually over a period of several years would constitute "purposeful availment" even though the item delivered to the forum State was a standard product marketed throughout the world.

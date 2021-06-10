@@ -1,0 +1,20 @@
+﻿
+        
+        Ashcroft v. ACLU, 535 U.S. 564, 122 S. Ct. 1700 (2002)
+        
+
+
+      
+
+JUSTICE BREYER, concurring in part and concurring [****48]  in the judgment.
+
+I write separately because I believe that Congress intended the statutory word "community" to refer to the Nation's adult community taken as a whole, not to geographically separate local areas. The statutory language does not explicitly describe the specific "community" to which it refers. It says only that the "average person, applying contemporary community standards" must find that the "material as a whole and with respect to minors, is designed to appeal to, or is designed to  [**1716]  pander to, the prurient interest . . . ." 47 U.S.C. § 231 (e)(6) (1994 ed., Supp V).
+
+ [*590]  In the statute's legislative history, however, Congress made clear that it did not intend this ambiguous statutory phrase to refer to separate standards that might differ significantly among different communities. The relevant House of Representatives Report says:
+
+"The Committee recognizes that the applicability of community standards in the context of the Web is controversial, but understands it as an 'adult' standard, rather than a 'geographic' standard, and one that is reasonably constant among adults in America with respect to what is suitable for minors." H. R. Rep. No.  [****49]  105-775, p. 28 (1998) (emphasis added).
+
+This statement, reflecting what apparently was a uniform view within Congress, makes clear that the standard, and the relevant community, is national and adult.
+At the same time, this view of the statute avoids the need to examine the serious First Amendment problem that would otherwise exist. See Almendarez-Torres v. United States, 523 U.S. 224, 237-238, 140 L. Ed. 2d 350, 118 S. Ct. 1219 (1998); Ashwander v. TVA, 297 U.S. 288, 348, 80 L. Ed. 688, 56 S. Ct. 466 (1936) ("'When the validity of an act of the Congress is drawn in question, and even if a serious doubt of constitutionality is raised, it is a cardinal principle that this Court will first ascertain whether a construction of the statute is fairly possible by which the question may be avoided'") (Brandeis, J., concurring). To read the statute as adopting the community standards of every locality in the United States would provide the most puritan of communities with a heckler's Internet veto affecting the rest of the Nation. The technical difficulties associated with efforts to confine Internet material to particular geographic areas [****50]  make the problem particularly serious. See American Civil Liberties Union v. Reno, 217 F.3d 162, 175-176 (CA3 2000). And these special difficulties also potentially weaken the authority of prior cases in which they were not present. Cf. Sable  [*591]  Communications of Cal., Inc. v. FCC, 492 U.S. 115, 106 L. Ed. 2d 93, 109 S. Ct. 2829 (1989); Hamling v. United States, 418 U.S. 87, 41 L. Ed. 2d 590, 94 S. Ct. 2887 (1974). A nationally uniform adult-based standard--which Congress, in its Committee Report, said that it intended--significantly alleviates any special need for First Amendment protection. Of course some regional variation may remain, but any such variations are inherent in a system that draws jurors from a local geographic area and they are not, from the perspective  [***792]  of the First Amendment, problematic. See id., at 105-106.
+
+For these reasons I do not join Part III of JUSTICE THOMAS' opinion, although I agree with much of the reasoning set forth in Parts III-B and III-D, insofar as it explains the conclusion to which I just referred, namely that variation reflecting application of the same national standard [****51]  by different local juries does not violate the First Amendment.

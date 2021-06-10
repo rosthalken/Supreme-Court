@@ -1,0 +1,51 @@
+﻿
+        
+        Am. Tobacco Co. v. Patterson, 456 U.S. 63, 102 S. Ct. 1534 (1982)
+        
+
+
+      
+
+JUSTICE STEVENS, dissenting.
+
+Section 703(h) provides an affirmative defense for an employer whose administration of a bona fide seniority or merit system has produced consequences that appear to discriminate  [*87]  against a member of a particular race, religion, or sex. 1Link to the text of the note Thus, for example, if an employee proves that he was denied a promotion to a particular job and that the job was filled by a member of another race or another sex, the employer may defend on the ground that he was implementing a bona fide seniority or merit system. This affirmative defense is available, however, only if the merit or seniority system is "bona fide," regardless of the date on which it was adopted.
+
+ [****46]  It is clear to me that a seniority system that is unlawful at the time it is adopted cannot be "bona fide" within the meaning of § 703(h). 2Link to the text of the note [****47]  Thus, a post-Act seniority system cannot be  [*88]  bona fide if it was adopted in violation of Title VII; such a system would not provide an employer with a defense under § 703(h). Section 703(h) itself does not address the question of how to determine whether the adoption of a post-Act merit or seniority system is unlawful. 3Link to the text of the note Since the adoption of a seniority system is in my opinion an employment practice subject to the requirements  [***768]  of Title VII, it is reasonable to infer that the same standard that applies to hiring, promotion, discharge, and compensation practices also applies to the adoption of a merit or seniority system. 4Link to the text of the note
+
+ [**1548]  This inference is confirmed by the fact that § 703(h) does not merely provide an affirmative defense for seniority systems; it also provides a similar defense for merit systems and professionally developed ability tests. Indeed, the basic standard of Title VII liability was enunciated in a case in which [****48]  § 703(h) provided a limited affirmative defense. In Griggs v. Duke Power Co., 401 U.S. 424, a case involving employer reliance on a "professionally developed ability test," the Court held:
+
+
+
+"The Act proscribes not only overt discrimination but also practices that are fair in form, but discriminatory in operation. The touchstone is business necessity. If an employment practice which operates to exclude Negroes cannot be shown to be related to job performance, the practice is prohibited." Id., at 431.
+
+ [*89]  The Court in Griggs did not suggest that this standard derived from the scope of the affirmative defense afforded to ability tests by § 703(h); rather, the Court concluded that the standard reflected the central "objective of Congress . . . to achieve equality of employment opportunities and remove barriers that have operated in the past to favor an identifiable group of white employees over other employees." Id., at 429-430.
+
+The Court in this case, however, reads the "specific intent" proviso of § 703(h) as though it were intended to define the proper standard for measuring any challenge to a merit or [****49]  seniority system. 5Link to the text of the note This reading of the proviso is entirely unwarranted. The proviso is a limitation on the scope of the affirmative defense. It addresses the problem created by pre-Act seniority systems, which of course were "lawful" because adopted before the Act became effective and therefore presumptively "bona fide" within the meaning of § 703(h). As the legislative history makes clear, Congress sought to protect seniority rights that had accrued before the effective date of the Act, but it did not want to extend that protection to benefits under seniority systems that were the product of deliberate racial discrimination. The obvious purpose of the proviso was to place a limit on the protection given to pre-Act seniority systems. The Court's broad reading of the proviso ignores both its context in § 703(h) and the historical context in which it was enacted.
+
+ [****50]  The  [***769]  Court's strained reading of the statute may be based on an assumption that if the Griggs standard were applied to the adoption of a post-Act seniority system, most post-Act systems would be unlawful since it is virtually impossible to establish a seniority system whose classification of employees will not have a disparate impact on members of some race or sex. Under Griggs, however, illegality does not follow automatically  [*90]  from a disparate impact. If the initiation of a new seniority system -- or the modification of an existing system -- is substantially related to a valid business purpose, the system is lawful. "The touchstone is business necessity." Griggs, supra, at 431; cf. New York Transit Authority v. Beazer, 440 U.S. 568, 587. A reasoned application of Griggs would leave ample room for bona fide systems; the adoption of a seniority system often may be justified by the need to induce experienced employees to remain, to establish fair rules for advancement, or to reward continuous, effective service. I can find no provision of Title VII, however, that grants  [**1549]  a blanket exemption to [****51]  the initiation of every seniority system that has not been conceived with a deliberate purpose to discriminate because of race or sex.
+
+In this case, although I disagree with the reasoning of the Court of Appeals, I would affirm its judgment. That court has held that the six lines of progression at issue violated Title VII because they had a demonstrated disparate impact on protected employees that was not justified by any legitimate business purpose. 6Link to the text of the note Although I do not question the applicability of § 703(h) to bona fide post-Act seniority systems, that section is not available as a defense in this case because the lines of progression -- even if a seniority system -- were adopted in violation of Title VII and therefore are not "bona fide." 7Link to the text of the note
+
+ [****52]  Accordingly, I respectfully dissent.
+
+The full text of that section provides:
+
+"Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to apply different standards of compensation, or different terms, conditions, or privileges of employment pursuant to a bona fide seniority or merit system, or a system which measures earnings by quantity or quality of production or to employees who work in different locations, provided that such differences are not the result of an intention to discriminate because of race, color, religion, sex, or national origin, nor shall it be an unlawful employment practice for an employer to give and to act upon the results of any professionally developed ability test provided that such test, its administration or action upon the results is not designed, intended or used to discriminate because of race, color, religion, sex or national origin. It shall not be an unlawful employment practice under this subchapter for any employer to differentiate upon the basis of sex in determining the amount of the wages or compensation paid or to be paid to employees of such employer if such differentiation is authorized by the provisions of section 206(d) of title 29." 42 U. S. C. § 2000e-2(h).
+
+2Link to the location of the note in the document
+Of course, for a merit or seniority system to be "bona fide" it also must be an otherwise neutral, rational system. Teamsters v. United States, 431 U.S. 324, 353; see also id., at 355-356. In Teamsters, the Court held that "an otherwise neutral, legitimate seniority system does not become unlawful under Title VII simply because it may perpetuate pre-Act discrimination." Id., at 353-354 (emphasis added). If a seniority system is not "legitimate," it is not "bona fide" within the meaning of the Act.
+
+3Link to the location of the note in the document
+The section simply provides that "[notwithstanding] any other provision of this subchapter," certain employment practices shall not be unlawful. See n. 1, supra.
+
+4Link to the location of the note in the document
+Section 703(a)(2) of the Act provides that it shall be an unlawful employment practice for an employer "to limit, segregate, or classify his employees or applicants for employment in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's race, color, religion, sex, or national origin." 42 U. S. C. § 2000e-2(a)(2). The adoption of a seniority system establishes a set of rules that classifies employees in ways that could deprive or tend to deprive an individual of employment opportunities.
+
+5Link to the location of the note in the document
+"To be cognizable, a claim that a seniority system has a discriminatory impact must be accompanied by proof of a discriminatory purpose." Ante, at 69.
+
+6Link to the location of the note in the document
+See Patterson v. American Tobacco Co., 535 F.2d 257, 264-265 (CA4 1976), cert. denied, 429 U.S. 920.
+
+7Link to the location of the note in the document
+Unlike JUSTICE BRENNAN, I believe that it is unnecessary to remand this case for a determination of whether a challenge to the adoption of the lines of progression was filed timely. See ante, at 86 (BRENNAN, J., dissenting). Since in my opinion a seniority system that was adopted in violation of Title VII cannot be "bona fide," such a system is never entitled to the affirmative defense of § 703(h).

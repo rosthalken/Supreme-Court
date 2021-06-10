@@ -1,0 +1,25 @@
+﻿FLORIDA ET AL. v. LONG ET AL.
+
+No. 86-1685
+
+SUPREME COURT OF THE UNITED STATES
+
+487 U.S. 223
+
+February 22, 1988, Argued 
+June 22, 1988, Decided
+
+JUSTICE STEVENS, dissenting.
+All of us agree that discrimination in the collection of contributions from employees prior to our decision in Los Angeles Dept. of Water and Power v. Manhart, 435 U.S. 702 (1978), cannot be remedied retroactively. A somewhat different issue is presented, however, when there is discrimination in the payment of benefits to employees who retired before Manhart was decided. The District Court and the Court of Appeals in this case agreed that it would be inequitable to grant retroactive relief that would adjust the benefits paid to pre-Manhart retirees for the period of unlawful discrimination that occurred prior to the date the District Court entered its judgment. Both of those courts concluded, however, that it would be appropriate to grant prospective relief that would increase the benefits payable to male retirees in the future. I agree.
+It must be conceded that there is no recovery for any violation that occurred prior to our decision in Manhart. In the present case, however, I think it clear that each month's disparate retirement check constitutes a separate violation. Unlike Arizona Governing Committee for Tax Deferred Annuity and Deferred Compensation Plans v. Norris, 463 U.S. 1073, 1105, n. 10 (1983), the District Court's order in this case does not call upon the State "to fund retroactively the deficiency in past contributions made by its . . . retirees." (Powell, J., dissenting in part and concurring in part). Rather, even to the extent that the plan was in the past partially  [*248]  funded by contributions on behalf of individual employees, those contributions are not directly tied to the employees' benefit payments. 1 Benefits are instead  [***227]  calculated on the basis of a percentage of average annual compensation of the participating employee. App. to Pet. for Cert. A39. As the Court of Appeals correctly concluded, given the fact that the order of relief is accordingly prospective in nature, the defendants should not be permitted to "continue to discriminate" in violation of the statute. 805 F. 2d 1542, 1548 (CA11 1986). The failure to "top up" the pre-Manhart retirees' future benefit payments is akin to the perpetuation of past discrimination that we condemned in Bazemore v. Friday, 478 U.S. 385  [**2369]  (1986). 2 Moreover, as both the District  [*249]  Court and the Court of Appeals concluded, there are no special equities in this case militating against the award of this type of prospective relief.
+
+- - - - - - - - - - - - - - Footnotes - - - - - - - - - - - - - - -
+1 As the Court of Appeals explained:
+"[B]enefits in the [Florida Retirement System] are not based on individual contributions for individual employees. Instead the legislature sets a contribution rate for the employer based on the pension plan's financial needs. The Florida legislature has the power and responsibility to increase the contribution rates periodically to cover operating costs and the unfunded accrued actuarial liability." 805 F. 2d 1542, 1551 (CA11 1986).
+During the period from 1970 to 1975, the plan was funded by a combination of contributions from employees and employers, but since 1975 has been funded entirely with public funds. Id., at 1545-1546.
+2 In Bazemore, we held that a public employer has a duty to eradicate salary differentials created as a result of a pattern or practice of racial discrimination engaged in prior to the extension of Title VII to public employers, but perpetuated thereafter. We wrote:
+"The error of the Court of Appeals with respect to salary disparities created prior to 1972 and perpetuated thereafter is too obvious to warrant extended discussion: that the Extension Service discriminated with respect to salaries prior to the time it was covered by Title VII does not excuse perpetuating that discrimination after the Extension Service became covered by Title VII. . . . While recovery may not be permitted for pre-1972 acts of discrimination, to the extent that this discrimination was perpetuated after 1972, liability may be imposed.
+"Each week's paycheck that delivers less to a black than to a similarly situated white is a wrong actionable under Title VII, regardless of the fact that this pattern was begun prior to the effective date of Title VII." 478 U.S., at 395-396 (BRENNAN, J., for a unanimous Court, concurring in part).
+
+- - - - - - - - - - - - End Footnotes- - - - - - - - - - - - - -
+I am in complete accord with the result reached by the District Court and the Court of Appeals. Accordingly, while I also agree with JUSTICE BLACKMUN's exposition of the flaws in this Court's analysis, I would affirm the judgment of the Court of Appeals in its entirety.

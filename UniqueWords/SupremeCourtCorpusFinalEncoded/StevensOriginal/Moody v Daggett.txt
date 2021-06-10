@@ -1,0 +1,95 @@
+﻿
+        
+        Moody v. Daggett, 429 U.S. 78, 97 S. Ct. 274 (1976)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, with whom MR. JUSTICE BRENNAN joins, dissenting.
+
+The Court holds that the lodging of a detainer with an institution in which a parolee is confined does not have the kind of impact on his custodial status that requires a due process hearing. That holding does not answer the question which I regard as critical in this case. For it is clear that sooner or later a parole revocation hearing will be held; the  [*90]  question is whether the timing of that hearing is an element of the procedural fairness to which the parolee is constitutionally entitled. I am persuaded that it is.
+
+I start from the premise that parole revocation is a deprivation of liberty within the meaning of the Fifth and Fourteenth Amendments and therefore must be preceded by due process. The Court so held in Morrissey v. Brewer, 408 U.S. 471, 481-483. In that case the revocation resulted in the return  [***246]  of the parolee to prison whereas in [****21]  this case the parolee is already incarcerated for a separate offense. But in both situations the revocation affects the length of his confinement and therefore may result in a "grievous loss" of liberty. 1Link to the text of the note Accordingly, it is clear - and I do not understand the Court to disagree, see ante, at 85-86, 89 - that the parolee's constitutional right to have the revocation hearing conducted fairly is not affected by his custodial status. 2Link to the text of the note Moreover, since the  [*91]  parole revocation process begins when the Parole Commission issues the revocation warrant, 3Link to the text of the note it plainly follows that the constitutional protections afforded the parolee attach at that time. The question, then, is whether the parolee's right to a fair hearing includes any right to have the hearing conducted with reasonable dispatch.
+
+ [****22]  It  [**281]  is apparently the position of the Parole Commission that it has no obligation to go forward with the revocation hearing until after the parolee has completed the service of his sentence for the second offense. 4Link to the text of the note It may therefore wait as long as 10 or 20 years after commencing the revocation process by issuing a warrant. This position, I submit, can be tenable only if one assumes that the constitutional right to a fair hearing includes no right whatsoever to a  [***247]  prompt hearing. Precedent, tradition, and reason require rejection of that assumption.
+
+ [****23]  In Klopfer v. North Carolina, 386 U.S. 213, 226, the Court  [*92]  held that the States were required by the Due Process Clause of the Fourteenth Amendment to provide a defendant with a prompt hearing because the right to a speedy trial "is one of the most basic rights preserved by our Constitution." That holding rested in part on common-law tradition of such a fundamental nature as to be reflected in the Magna Carta itself. 5Link to the text of the note In that case, Mr. Justice Harlan, though disagreeing with the view that the "speedy trial" provision of the Sixth Amendment was directly applicable to the States, concurred with the conclusion that a state procedure "which in effect allows state prosecuting officials to put a person under the cloud of an unliquidated criminal charge for an indeterminate period, violates the requirement of fundamental fairness assured by the Due Process Clause of the Fourteenth Amendment." Id., at 227.
+
+ [****24]  The common-law tradition that supports both the Court's holding and Mr. Justice Harlan's separate concurrence in  [*93]  Klopfer, 6Link to the text of the note also requires respect for a parolee's interest in the reasonably prompt disposition of charges pending against him, regardless of whether or not he is incarcerated.
+
+This Court has already held that present incarceration for one offense does not deprive an inmate of his right to a prompt trial on a second charge. Smith v. Hooey, 393 U.S. 374; Strunk v. United States, 412 U.S. 434. Moreover, the Court has made it clear that the constitutional protection applies not only to the determination of guilt but also to the discretionary  [**282]  decision on what disposition should be made of the defendant. This point was squarely decided with respect to parole [****25]  revocation in Morrissey v. [***248]  Brewer. 7Link to the text of the note And in Pollard v. United States, 352 U.S. 354, the Court, though rejecting the particular claim, recognized that a defendant's right to a speedy trial included a right to a prompt sentencing determination. The entire Court subscribed to the view that delay in regard to disposition "must not be purposeful or oppressive." Id., at 361. That view contrasts sharply with the Parole Commission's conscious policy of delaying parole revocation decisions under these circumstances.
+
+Those holdings recognize the defendant's legitimate interest in changing the uncertainty associated [****26]  with a pending charge into the greater certainty associated with its disposition. 8Link to the text of the note In the words of a former director of the Federal  [*94]  Bureau of Prisons that were quoted by the Court in Smith, supra, at 379, the "'anxiety and concern'" which accompany unresolved charges have as great an impact on the incarcerated as on those at large.9Link to the text of the note S
+
+"[I]t is in their effect upon the prisoner and our attempts  [*95]  to rehabilitate  [***249]  him that detainers are most corrosive. The strain of having to serve a sentence with the uncertain prospect of being taken into… custody… at the conclusion interferes with the prisoner's ability to take maximum advantage of his institutional opportunities. His anxiety and depression may leave him with little inclination toward self-improvement." n10IAlthough  [**283]  those comments were directed at the prisoner's right to a prompt trial on a second criminal charge, they are also applicable to the incarcerated parolee's interest in a reasonably prompt revocation hearing.
+
+ [****27]  Under the respondent's position, the petitioner's hearing may come as much as 10 years after his intervening conviction. Itis unlikely that such a delayed hearing would focus on the question whether facts in mitigation existed at the time of commission of the intervening offense; rather, the primary inquiry would no doubt be directed at the question whether petitioner made satisfactory institutional progress in the service of his intervening sentence to justify his return to society. That is the sort of inquiry that would in any event be appropriate in a parole release hearing. In short, a prolonged delay will inevitably change the character of the revocation hearing. If unlimited delay is permitted, the procedural safeguards which were fashioned in Morrissey to assure the parolee a fair opportunity to present facts in mitigation and to challenge the government's assertions will have become meaningless. Delay will therefore violate the "fundamental requirement of due process" - "the opportunity to be heard 'at a meaningful time and in a meaningful manner.'" Mathews v. Eldridge, 424 U.S. 319, 333, quoting Armstrong v. Manzo, 380 U.S. 545, 552. [****28] 
+
+Petitioner argues that the detainer itself is the source of  [*96]  his grievous loss which mandates a hearing. That is not my view. In my judgment the detainer is comparable to an arrest or an indictment which identifies a time when it is clear that the government has a basis for going forward with appropriate proceedings and from which the right to a speedy determination accrues. 11Link to the text of the note Since I believe the right to orderly procedure leading to a reasonably prompt decision is a fundamental attribute of due process, I cannot accept the conclusion that the right is vindicated by simply lodging a  [***250]  detainer and letting it remain outstanding for year after year while the prisoner's interest in knowing where he stands may be entirely ignored. 12Link to the text of the note
+
+ [****29]  I therefore respectfully dissent.
+
+In Wolf v. McDonnell, 418 U.S. 539, 558, the Court held that loss of "good-time credits" was a deprivation of liberty which required due process protections because the loss of credits could lengthen confinement.
+
+"We think a person's liberty is equally protected, even when the liberty itself is a statutory creation of the State. The touchstone of due process is protection of the individual against arbitrary action of government, Dent v. West Virginia, 129 U.S. 114, 123 (1889). Since prisoners in Nebraska can only lose good-time credits if they are guilty of serious misconduct, the determination of whether such behavior has occurred becomes critical, and the minimum requirements of procedural due process appropriate for the circumstances must be observed." Ibid.
+
+Similarly, as the Seventh Circuit held in United States ex rel. Miller v. Twomey, 479 F. 2d 701, 715 (1973): "The time when an inmate may enjoy liberty is directly affected by the disallowance of statutory good time…. The cancellation of such credits thus inflicts the same kind of 'grievous loss' on the prisoner as does the revocation of parole [citing Morrissey]."
+
+2Link to the location of the note in the document
+The status of the incarcerated parolee is comparable to that of a defendant on trial for one offense who is already imprisoned for another. Cf. Smith v. Hooey, 393 U.S. 374; Strunk v. United States, 412 U.S. 434, 439.
+
+3Link to the location of the note in the document
+The issuance of a parole revocation warrant suspends the running of a convict 's sentence and parole until final disposition of the parole violation charges may be made by the Commission. 28 CFR § 2.44(d) (1976). The issuance of the warrant must be considered the commencement of the parole revocation process, since suspension of the running of a parolee's sentence could not otherwise be justified. Thus, the due process protections, which the Court has held apply to the parole revocation process, Morrissey, attach at that time.
+
+4Link to the location of the note in the document
+The majority suggests that under the prior law, which has governed this case since its filing, the Parole Board if it revoked parole as to a parolee while he was incarcerated on an intervening sentence, would be required to make the service of both sentences concurrent. See ante, at 83-84, citing 18 U.S.C. § 4205. I do not read § 4205 as placing such a restriction on the Board's discretion, but even if it did, such a statutory provision does not affect the constitutional question. Moreover, whatever the effect of § 4205, this statute has been overridden by the Parole Commission and Reorganization Act, Pub. L. 94-233, 90 Stat. 219. Thus, 18 U.S.C. § 4210(b)(2) (1976ED.) now expressly allows the Commission to determine whether the two sentences will be served "concurrently or consecutively."
+
+5Link to the location of the note in the document
+As the Court noted, 386 U.S., at 224, the Magna Carta as interpreted by Sir Edward Coke guaranteed to all speedy justice.
+
+"In [Coke's] explication of Chapter 29 of the Magna Carta, he wrote that the words 'We will sell to no man, we will not deny or defer to any man either justice or right' had the following effect:
+
+"'And therefore, every subject of this realme, for injury done to him in bonis, terris, vel persona, by any other subject, be he ecclesiastical, or temporal, free, or bond, man, or woman, old, or young, or be he outlawed, excommunicated, or any other without exception, may take his remedy by the course of the law, and have justice, and right for the injury done to him, freely without sale, fully without any denial, and speedily without delay.'" Quoting E. Coke, 2 Institutes 55 (Brooke, 5th ed., 1797).
+
+The opinion in Klopfer, 386 U.S., at 225-226, n. 21, also notes that the Massachusetts Constitution of 1780, Part I, Art. XI, provided:
+
+"Every subject of the commonwealth ought to find a certain remedy, by having recourse to the laws, for all injuries or wrongs which he may receive in his person, property, or character. He ought to obtain right and justice freely, and without being obliged to purchase it; completely, and without any denial; promptly, and without delay; conformably to the laws."
+
+6Link to the location of the note in the document
+"To support that conclusion I need only refer to the traditional concepts of due process set forth in the opinion of THE CHIEF JUSTICE." 386 U.S., at 227.
+
+7Link to the location of the note in the document
+"There must also be an opportunity for a hearing, if it is desired by the parolee, prior to the final decision on revocation by the parole authority. This hearing… must lead to a final evaluation of any contested relevant facts and consideration of whether the facts as determined warrant revocation." 408 U.S., at 487-488.
+
+8Link to the location of the note in the document
+The prisoner also has an interest in disposing of detainers because they may affect the conditions and extent of his custody. "[U]nder procedures now widely practiced, the duration of [a prisoner's] present imprisonment may be increased, and the conditions under which he must serve his sentence greatly worsened, by the pendency of another criminal charge outstanding against him." Smith v. Hooey, 393 U.S., at 378.
+
+Moreover, the Court in Smith quoted a former director of the Federal Bureau of Prisons as writing:
+
+"'Today the prisoners with detainers are evaluated individually but there remains a tendency to consider them escape risks and to assign them accordingly. In many instances this evaluation and decision may be correct, for the detainer can aggravate the escape potentiality of a prisoner.' Bennett, 'The Last Full Ounce,' 23 Fed. Prob. No. 2, p. 20, at 21 (1959)." Id., at 379 n. 8.
+
+Under present Bureau of Prisons' policy, a detainer will not preclude a more lenient classification of a prisoner, but "the seriousness of a detainer must be considered when custody reductions are considered." Bureau of Prisons, Policy Statement 7300.112 [*] 4 (Apr. 8, 1976). See also Bureau of Prisons, Policy Statement 7500.72 [*] 4 (May 8, 1972).
+
+It should be noted that if a prisoner would rather face the uncertainty and restrictions which might occur because of an outstanding detainer in hopes that the Commission would prove more lenient at a later revocation hearing, he could certainly waive his right to a prompt hearing.
+
+9Link to the location of the note in the document
+The Bureau of Prisons recognizes the detriments created by allowing detainers to remain unexecuted.
+
+"Because uncertainty as to status can have an adverse effect on our efforts to provide offenders with correctional services, we should encourage detaining authorities to dispose of pending untried charges against offenders in federal custody.
+
+"The casework staff at all institutions may cooperate with and give assistance to offenders in their efforts to have detainers against them disposed of, either by having the charges dropped, by restoration to probation, or parole status or by arrangement for concurrent service of the state sentence.
+
+. . . . .
+
+"The presence of a detainer oftentimes has a restricting effect on efforts to involve the offender in correctional programs. For this reason, caseworkers at federal institutions are expected to assist offenders in their efforts to have detainers disposed of." Bureau of Prisons, Policy Statement 7500.14A (Jan. 7, 1970).
+
+n10 Bennett, The Last Full Ounce, 23 Fed. Prob. No. 2, pp. 20, 21 (1959).
+
+11Link to the location of the note in the document
+By emphasizing the fact that the filing of a warrant starts the parole revocation process, I do not mean to imply that the parolee's right to a prompt revocation hearing should depend upon the filing of a warrant. If the Commission has full notice of a parolee's intervening conviction, it should not be permitted to wait until the termination of the intervening sentence to act. Compare United States v. Marion, 404 U.S. 307 (holding that due process places some restraints on government delay in bringing an indictment) with Barker v. Wingo, 407 U.S. 514 (a speedy trial case).
+
+12Link to the location of the note in the document
+I do not imply that the parole authorities actually discharge their responsibilities in such a heartless manner. But I cannot accept a constitutional holding that would permit them to do so.
+
+I should also make clear that I would not prescribe any inflexible rule that the hearing must always take place within a fixed period. Nor would I require that the prisoner's interest in a reasonably prompt determination of his status always mandate a personal appearance either at the place of his incarceration or at the place where the parole board normally sits. If justification for the revocation is established by a new conviction, there would seldom be need for a hearing on the discretionary aspects of revocation - certainly not unless strong mitigating circumstances were identified. But the fact that the prisoner has only a slight chance of prevailing on the merits does not justify a total rejection of his interest in a prompt disposition. Moreover, if, as respondent contends, delay will sometimes be in the parolee's best interest, the parolee could always waive his right to a prompt hearing.

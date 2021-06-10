@@ -1,0 +1,23 @@
+﻿
+
+
+116 S.Ct. 2106
+Supreme Court of the United States
+UNITED STATES, Petitioner,
+v.
+REORGANIZED CF & I FABRICATORS OF UTAH, INC., et al.
+No. 95-325.
+|
+Argued March 25, 1996.
+|
+Decided June 20, 1996.
+Justice THOMAS, concurring in part and dissenting in part.
+
+I agree with the majority that the Bankruptcy Court improperly relied on 11 U.S.C. § 510(c) to subordinate the United States’ claims, and I join Part III of the Court’s opinion. I cannot agree, however, with the **2116 majority’s determination *230 that assessments under 26 U.S.C. § 4971(a) are not “excise taxes” within the meaning of 11 U.S.C. § 507(a)(7)(E) (1988 ed.). I would hold that every congressionally enacted tax that is generally considered an excise tax is entitled to bankruptcy priority under § 507(a)(7)(E).
+ 
+Section 507(a)(7)(E) creates a bankruptcy priority for excise taxes. Congress, in enacting § 4971, purported to enact a tax, see 26 U.S.C. § 4971(a) (“[T]here is hereby imposed a tax ...”), and the tax it enacted is properly considered an excise tax. See Commissioner v. Keystone Consol. Industries, Inc., 508 U.S. 152, 161, 113 S.Ct. 2006, 2012-2013, 124 L.Ed.2d 71 (1993) (stating, in dicta, that § 4971 imposes an excise tax). It is true that New Jersey v. Anderson, 203 U.S. 483, 27 S.Ct. 137, 51 L.Ed. 284 (1906), and its progeny held that whether a state assessment is entitled to bankruptcy priority as a tax is a federal question. See id., at 492, 27 S.Ct., at 140; City of New York v. Feiring, 313 U.S. 283, 285, 61 S.Ct. 1028, 1029, 85 L.Ed. 1333 (1941). It is not appropriate, however, for federal courts to perform a similar inquiry into valid taxes passed by Congress, and the majority cites no case in which this Court has denied bankruptcy priority to a congressionally enacted tax. I respectfully dissent.
+ 
+
+
+
+

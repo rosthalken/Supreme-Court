@@ -1,0 +1,228 @@
+﻿
+LEdHN   The question in this Title VII case is whether Congress intended the word "filed" to have the same meaning in subsections (c) 1Link to the text of the note    and (e) 2Link to the text of the note of § 706 of the Civil Rights     Act of 1964,     78 Stat. 260, as amended in 1972, 86 Stat. 104-105, 42 U. S. C. §§ 2000e-5 (c) and (e). HN1 The former subsection prohibits the filing    of an unfair employment practice charge with the federal Equal Employment Opportunity Commission (EEOC) until after a state fair employment practices agency has had an opportunity to consider it. The latter subsection requires that in all events the charge must be filed with the EEOC within 300 days of the occurrence. We hold that a literal reading of the two subsections gives full effect to the several policies reflected in the statute.
+
+On August 29, 1975, Mohasco Corp. discharged    the respondent from his position as senior marketing economist. 3Link to the text of the note On June 15, 1976 -- 291 days later -- the EEOC received a letter from respondent asserting that Mohasco had discriminated against him because of his religion. The letter was promptly referred to the New York State Division of Human Rights. That state agency reviewed the matter 4Link to the text of the note and, in due course, determined that there was no merit in the charge. 5Link to the text of the note
+
+    Meanwhile,     on August 20, 1976 -- a date more than 60 days after respondent's letter had been submitted to the EEOC and     357 days after respondent's discharge -- the EEOC notified Mohasco that respondent had filed a charge of employment discrimination. 6Link to the text of the note
+
+    About a year later, on August 24, 1977, the EEOC issued its determination that "there is not reasonable cause to believe the charge is true," 7Link to the text of the note and formally notified respondent that if he wished to pursue the matter further, he had a statutory right to file a private action in a federal district court within 90 days. 8Link to the text of the note Respondent commenced     this litigation 91 days later 9Link to the text of the note in the United States District Court for the Northern District of New York. 10Link to the text of the note
+
+    The District Court granted Mohasco's motion for summary judgment on the ground that respondent's failure to file a     timely charge with the EEOC deprived the court of subject-matter jurisdiction. The court concluded that June 15, 1976 (the 291st day), could not be treated as the date that respondent's charge was "filed" with the EEOC, because § 706 (c) provides that in States which have their own fair employment practice agencies -- and New York is such a State -- "no charge may be filed . . . by the person aggrieved before the expiration of sixty days after proceedings have been commenced under the State or local law, unless such proceedings have been earlier terminated. . . ." Since no proceedings had been commenced before the New York agency prior to June 15, 1976, and since the proceedings that were commenced at that time did not terminate within 60 days, the District Court read § 706 (c) as precluding any filing with the EEOC until 60 days after June 15, 1976. 11Link to the text of the note     Because that date was 51 days beyond § 706 (e)'s 300-day time limit for filing in so-called "deferral States," the charge was not timely filed.
+
+    The District Court refused to apply an EEOC regulation 12Link to the text of the note        that would have treated respondent's charge as timely because it was submitted to the EEOC within 300 days of the practice complained of and also within the applicable New York limitations period. 13Link to the text of the note The District Court held that the regulation was contrary to the plain language of the statute, and in any event, had not been followed by the EEOC itself in this case. 14Link to the text of the note
+
+Over the dissent of Judge Meskill, the Court of Appeals for the Second Circuit reversed. 602 F.2d 1083 (1979). It recognized that the District Court had read the statute literally, but concluded that a literal reading did not give sufficient weight to the overriding purpose of the Act. In the majority's view, in order to be faithful to "the strong federal policy in insuring that employment discrimination is redressed," id., at 1087, it was necessary "to conclude that a charge is 'filed' for purposes of § 706 (e) when received, and 'filed' as required     by § 706 (c) when the state deferral period ends." Ibid. By giving the word "filed" two different meanings, the court concluded that the letter received by the EEOC on June 15, 1976, had been filed within 300 days as required by § 706 (e), 15Link to the text of the note but had not been filed during the 60-day deferral period for purposes of § 706 (c).
+
+    Judge Meskill believed that a literal reading of the statute was not only consistent with its basic purpose, but was also warranted by the additional purpose of "[requiring] prompt action on the part of Title VII plaintiffs." 602 F.2d, at 1092. He noted that Congress had imposed a general requirement of filing within 180 days, and that the exceptional period of 300 days for deferral States was merely intended to give the charging party a fair opportunity to invoke his state remedy without     jeopardizing his federal rights; the exception was not intended to allow residents of deferral States to proceed with less diligence than was generally required.
+
+    LEdHN   Because there is a conflict among the Courts of Appeals on the proper interpretation of the word "filed" in this statute, 16Link to the text of the note        we granted certiorari. 444 U.S. 990. 17Link to the text of the note We now reverse.
+
+We first review the plain meaning of the relevant statutory language; we next examine the legislative history of the 1964 Act and the 1972 amendments for evidence that Congress intended the statute to have a different meaning; and finally we consider the policy arguments in favor of a less literal reading of the Act.
+
+    I
+
+Section 706 (e) begins with the general rule that a "charge under this section shall be filed within one hundred and eighty    days after the alleged unlawful employment practice occurred. . . ." 18Link to the text of the note Since respondent's letter was submitted to the EEOC 291 days after the occurrence, he plainly did not exercise the diligence required by that general rule. Nor, as we shall explain, did he have to; but it should be pointed out that had     he sent his charge to either the state agency or the EEOC within 180 days, he would have had no difficulty in complying with the terms of the exception to that general rule allowing a later filing with the EEOC in deferral States.
+
+LEdHN    LEdHN    LEdHN[5] [5]HN6 That exception allows a filing with the EEOC after 180 days if "the person aggrieved has initially instituted proceedings with a State or local agency with authority to grant     or seek relief from such practice . . . ." 19Link to the text of the note When respondent submitted his letter to the EEOC, he had not yet instituted any state proceedings. Under the literal terms of the statute, it could therefore be argued that he did not bring    himself within the exception to the general 180-day requirement. But in Love v. Pullman Co., 404 U.S. 522, 525, we held that "[nothing] in the Act suggests that the state proceedings may not be initiated by the EEOC acting on behalf of the complainant rather than by the complainant himself . . . ." Here, state proceedings were instituted by the EEOC when it immediately forwarded his letter to the state agency on June 15, 1976. Accordingly, we treat the state proceedings as having been instituted on that date. Since the EEOC could not proceed until either state proceedings had ended or 60 days had passed, the proceedings were "initially instituted with a State . . . agency" prior to their official institution with the     EEOC. Therefore, respondent came within § 706 (e)'s exception allowing a federal filing more than 180 days after the occurrence.
+
+LEdHN    LEdHN   
+
+    LEdHN   That exception states that "such charge shall be filed by or on behalf of the person aggrieved within three hundred days after the alleged unlawful employment practice occurred, or within thirty days after receiving notice that the State or local agency has terminated the proceedings under the State or local law, whichever is earlier. . . ." Since the state proceedings did not terminate until well after the expiration of the 300-day period, see n. 5, supra, the 300-day limitations period is the one applicable to respondent's charge. The question, then, is whether the June 15, 1976, letter was "filed" when received by the EEOC within the meaning of subsection (e) of § 706.
+
+    LEdHN[6] [6]The answer is supplied by subsection (c), which imposes a special requirement for cases arising in deferral States: "no charge may be filed under subsection [(b)] by the     person aggrieved before the expiration of sixty days after proceedings have been commenced under the State or local law, unless such proceedings have been earlier terminated. . . ." Thus, in terms, the statute prohibited the EEOC from allowing the charge to be filed on the date the letter was received. Although, as the    Court held in Love v. Pullman Co., supra, it was proper for the EEOC to hold respondent's "complaint in 'suspended animation,' automatically filing it upon termination of the State proceedings," 20Link to the text of the note 404 U.S., at 526 (emphasis added), that means that the charge was filed on the 351st day, not the 291st. By that time, however, the 300-day period had run and the filing was therefore untimely.
+
+    II
+
+In contrast to this rather straightforward reading of the statute, respondent urges us to give the word "filed" two different meanings within the same statutory section in order better to effectuate Congress' purpose underlying Title VII. Essentially, his argument is that a rule permitting filings for up to 300 days after the discriminatory    occurrence -- regardless of the rule against filing during the deferral period -- would help further the cause of eliminating discriminatory employment practices. We therefore turn to the legislative history, but in doing so we emphasize that the words of the statute are not ambiguous. Nor does a literal reading of them lead to "absurd or futile results," United States v. American Trucking Assns., 310 U.S. 534, 543. For time limitations are inevitably arbitrary to some extent; and the limitations at issue here are not so short 21Link to the text of the note that a plaintiff's remedy is effectively denied for all practical purposes without an opportunity for a hearing. 22Link to the text of the note
+
+    A
+
+LEdHN[7] [7]It is unquestionably true that the 1964 statute was enacted to implement the congressional policy against discriminatory employment practices, 23Link to the text of the note and that that basic policy must inform construction of this remedial legislation. It must also be recognized, however, in light of the tempestuous legislative proceedings that produced the Act, that the ultimate product reflects other, perhaps countervailing, purposes that some Members of Congress sought to achieve. The present language     was clearly the result of a compromise. It     is our task to give effect to the statute as enacted. See Toussie v. United States, 397 U.S. 112, 123-124. 24Link to the text of the note
+
+The typical time limitations provision in the numerous proposed civil rights    bills required the filing of a charge with the new federal fair employment practices agency within six months of the discriminatory conduct. 25Link to the text of the note These initial proposals did not     provide for mandatory deferral by the federal agency during comparable state administrative proceedings, 26Link to the text of the note though some proposals would have authorized the federal agency to enter agreements of cooperation with state agencies, under which the federal agency would refrain from processing charges in specified cases. 27Link to the text of the note
+
+    On February 10, 1964, the House of Representatives passed H. R. 7152, its version of the comprehensive Civil Rights Act. Title VII of that bill contained a 6-month limitations provision for the filing of charges with the EEOC, and directed the EEOC to enter into agreements with state agencies providing for suspension of federal enforcement. 28Link to the text of the note    In the Senate, H. R. 7152 met with exceptionally strong opposition. The principal opposition focused not on the details of the bill, but on its fundamental purpose. During the course of one of the longest filibusters in the history of the Senate, the bipartisan leadership of the Senate carefully forged the compromise substitute     (Dirksen compromise) that was ultimately to become in substantial part the Civil Rights Act of 1964. The purpose of the compromise was to attract sufficient support to achieve the two-thirds vote necessary for cloture. 29Link to the text of the note This effort was successful. Fifteen days after the Dirksen compromise was offered as an amendment, a cloture motion carried the necessary votes. 30Link to the text of the note
+
+Section 706 (d) 31Link to the text of the note of the compromise provided for a 90-day limitations period for filing discrimination claims with the EEOC in nondeferral States, the period ultimately adopted in the 1964 version of the Act. It was the first time the 90-day figure appeared in any proposed bill, and its appearance was unaccompanied by any explanation. Section 706 (b) of the compromise introduced the mandatory deferral concept for the first time, providing that during a 60-day deferral period, "no charge may be filed" -- language that figures so     prominently in this case. In such deferral States, § 706 (d) extended the time for filing with the EEOC to 210 days.
+
+    Since the Senate did not explain why it adopted a time limitation of only half that adopted by the House, one can only speculate. But it seems clear that the 90-day provision to some must have represented a judgment that most genuine claims of discrimination would be promptly asserted and that the costs associated with processing and defending stale or dormant claims outweigh the federal interest in guaranteeing a remedy to every victim of discrimination. To others it must have represented a necessary sacrifice of the rights of some victims of discrimination in order that a civil rights bill could be enacted. Section 706 (b) was rather clearly intended to increase the role of States and localities in resolving charges     of employment discrimination. 32Link to the text of the note    And § 706 (d)'s longer time of 210 days for filing with the EEOC in deferral States was included to prevent forfeiture of a complainant's federal rights while participating in state proceedings. 33Link to the text of the note
+
+But neither this latter provision nor anything else in the legislative history contains any "suggestion that complainants in some States were to be allowed to proceed with less diligence than those in other states." Moore v. Sunbeam Corp., 459 F.2d 811, 825, n. 35     (CA7 1972). The history identifies only one reason for treating workers in deferral States differently from workers in other States: to give state agencies an opportunity to redress the evil at which the federal legislation was aimed, and to avoid federal intervention unless its need was demonstrated. 34Link to the text of the note The statutory plan was not designed to give the worker in a deferral State the option of choosing between his state remedy and his federal remedy, nor indeed simply to allow him additional time in which to obtain state relief. Had that been the plan, a simple statute prescribing a 90-day period in nondeferral States and a 210-day period in deferral States would have served the legislative purpose. Instead, Congress chose to prohibit the filing of any federal charge until    after state proceedings had been completed or until 60 days had passed, whichever came sooner.
+
+To be sure, in deferral States having fair employment practices agencies over one year old, Congress in effect gave complainants     an additional 60 days in which initially to file a charge and still ensure preservation of their federal rights. In other words, under the 1964 Act, a complainant in such a deferral State could have filed on the 150th day, and then filed with the EEOC on the 210th day at the end of the 60-day deferral period, while a complainant in a nondeferral State had to file on     the 90th day with the EEOC. But    there is no reason to believe that the 1964 Congress intended deferral state complainants to have the additional advantage of being able to ignore the 210-day limitations period when they failed to invoke their rights early enough to allow the 60-day deferral period to expire within the 210-day period.
+
+In sum, the legislative history of the 1964 statute is entirely consistent with the wording of the statute itself.
+
+B
+
+In 1972, Congress amended § 706 by changing the general limitations period from 90 days to 180 days and correspondingly extended the maximum period for deferral States from 210 days to 300 days. 35Link to the text of the note The amendment did not make any change in the procedural scheme, however, although such a change was proposed and rejected.
+
+As initially introduced in the House of Representatives, the proposed 1972 amendments to Title VII would have deleted § 706 (b)'s prohibition against the filing of a federal charge until 60 days after the institution of state proceedings, and would have substituted    language merely prohibiting the EEOC from taking any action on the charge until the prescribed period had elapsed. 36Link to the text of the note The House, however, concluded that no change in this aspect of the 1964 statute should be made, and deleted the amendment prior to passage. 37Link to the text of the note The Senate version of the amendments passed with     the provision merely prohibiting the EEOC from taking any action on a charge in the deferral period. 38Link to the text of the note But at conference, the position of the House prevailed on the understanding that the law as interpreted in Love v. Pullman Co., 404 U.S. 522, was controlling. 39Link to the text of the note        As already noted, our literal reading of the word "filed" in § 706 is fully supported by the Love opinion. 40Link to the text of the note
+
+It is true that a section-by-section analysis of the 1972 amendments filed by Senator Williams refers to the then recent decision of the Tenth Circuit in Vigil v. American Tel. & Tel. Co., 455 F.2d 1222 (1972), see n. 16, supra, with approval, and that that case supports respondent's reading of the Act. But we do not find that isolated reference -- which was first inserted into the legislative history after the completion of the work of both the Senate Committee and House Committee, as well as after the Report of     the joint conference just referred to 41Link to the text of the note -- to represent either a sound interpretation of the 1964 enactment 42Link to the text of the note    or a conscious intention of Congress to     change existing law. The point at which it appears in the legislative history simply refutes any notion that Congress focused on the precise issue, much less adopted the approach of the Vigil case. 43Link to the text of the note To the extent that Congress focused on the issue at all in 1972, it expressly rejected the language that would have mandated the exact result that respondent    urges.
+
+III
+
+Finally we consider the additional points advanced in support of respondent's position: (1) that it is unfair to victims of discrimination who often proceed without the assistance of counsel; (2) that it is contrary to the interpretation of the Act by the agency charged with responsibility for its enforcement;     and (3) that a less literal reading of the Act would adequately effectuate the policy of deferring to state agencies.
+
+The unfairness argument is based on the assumption that a lay person reading the statute would assume that he had 300 days in which to file his first complaint with either a state or federal agency. We find no merit in this argument. We believe that a lay person would be more apt to regard the general obligation of filing within 180 days as the standard of diligence he must     satisfy, and that one who carefully read the entire section would    understand it to mean exactly what it says.
+
+LEdHN[8] [8]We must also reject any suggestion that the EEOC may adopt regulations that are inconsistent with the statutory mandate. As we have held on prior occasions, HN7 its "interpretation" of the statute cannot supersede the language chosen by Congress. 44Link to the text of the note
+
+Finally, we reject the argument     that the timeliness requirements would be adequately served by allowing the EEOC to treat a letter received on the 291st day as "filed" and interpreting the § 706 (c) prohibition as merely requiring it to postpone any action on the charge for at least 60 days. There are two reasons why this interpretation is unacceptable.
+
+LEdHN[9] [9]By choosing what are obviously quite short deadlines, Congress clearly intended to encourage the prompt processing of all charges of employment discrimination. 45Link to the text of the note Under a literal reading of the Act, the EEOC has a duty to commence its investigation no later than 300 days after the    alleged occurrence; under respondent's "interpretation" of § 706 (c), that duty might not arise for 360 days. Perhaps the addition of another 60-day delay in the work of an already seriously overburdened agency is not a matter of critical importance. But in a statutory scheme in which Congress carefully prescribed a series of deadlines measured by numbers of days -- rather     than months or years -- we may not simply interject an additional 60-day period into the procedural scheme. We must respect the compromise embodied in the words chosen by Congress. It is not our place simply to alter the balance struck by Congress in procedural statutes by favoring one side or the other in matters of statutory construction.
+
+LEdHN   In the end, we cannot accept respondent's position without unreasonably giving the word "filed" two different meanings in the same section of the statute. Even if the interests of justice might be served in this particular case by a bifurcated    construction of that word, in the long run, HN8 experience teaches that strict adherence to the procedural requirements specified by the legislature is the best guarantee of evenhanded administration of the law.
+
+Accordingly, the judgment of the Court of Appeals is reversed.
+
+So ordered.
+
+In the case of an alleged unlawful employment practice occurring in a State, or political subdivision of a State, which has a State or local law prohibiting the unlawful employment practice alleged and establishing or authorizing a State or local authority to grant or seek relief from such practice or to institute criminal proceedings with respect thereto upon receiving notice thereof, no charge may be filed under subsection [(b)] by the person aggrieved before the expiration of sixty days after proceedings have been commenced under the State or local law, unless such proceedings have been earlier terminated, provided that such sixty-day period shall be extended to one hundred and twenty days during the first year after the effective date of such State or local law. If any requirement for the commencement of such proceedings is imposed by a State or local authority other than a requirement of the filing of a written and signed statement of the facts upon which the proceeding is based, the proceeding shall be deemed to have been commenced for the purposes of this subsection at the time such statement is sent by registered mail to the appropriate State or local authority." 86 Stat. 104.
+
+2Link to the location of the note in the document
+"HN3 A charge under this section shall be filed within one hundred and eighty days after the alleged unlawful employment practice occurred and notice of the charge (including the date, place and circumstances of the alleged unlawful employment practice) shall be served upon the person against whom such charge is made within ten days thereafter, except that in a case of an unlawful employment practice with respect to which the person aggrieved has initially instituted proceedings with a State or local agency with authority to grant or seek relief from such practice or to institute criminal proceedings with respect thereto upon receiving notice thereof, such charge shall be filed by or on behalf of the person aggrieved within three hundred days after the alleged unlawful employment practice occurred, or within thirty days after receiving notice that the State or local agency has terminated the proceedings under the State or local law, whichever is earlier, and a copy of such charge shall be filed by the Commission with the State or local agency." 86 Stat. 105.
+
+3Link to the location of the note in the document
+According to respondent's complaint, he holds a master's degree in economics from Columbia University. Record Item No. 1, p. 3.
+
+4Link to the location of the note in the document
+The District Court stated that "[the] period of limitation for filing a complaint with the New York State Division of Human Rights is one year. N. Y. Exec. Law § 297 (5) (McKinney Supp. 1977)." App. to Pet. for Cert. A14.
+
+5Link to the location of the note in the document
+The determination by the New York State Division of Human Rights that there was no probable cause to believe Mohasco had engaged in the discriminatory conduct described by respondent was issued on February 9, 1977. That determination was upheld by order of the New York State Human Rights Appeal Board on December 22, 1977.
+
+6Link to the location of the note in the document
+The notice was on a printed form which merely advised Mohasco of the name of the charging party, the date of the alleged violation, and that the nature of the charge was an alleged discharge on the basis of religion. The notice further advised Mohasco that "[because] of the Commission's volume of pending work, we are unable to tell you when we are able to schedule investigation of this charge . . . ." App. 18. One might therefore infer that as of 1976, the EEOC had not overcome its enormous backlog as documented in 1971. See H. R. Rep. No. 92-238, p. 64 (1971), Legislative History of Equal Employment Opportunity Act of 1972 (Committee Print compiled for the Senate Committee on Labor and Public Welfare by the Subcommittee on Labor), p. 124 (1972) (hereinafter 1972 Leg. Hist.); S. Rep. No. 92-415, p. 23, 1972 Leg. Hist. 432; Occidental Life Ins. Co. v. EEOC, 432 U.S. 355, 369, n. 24.
+
+7Link to the location of the note in the document
+App. to Pet. for Cert. A49.
+
+8Link to the location of the note in the document
+App. 19.
+
+9Link to the location of the note in the document
+Petitioner did not assert respondent's failure to file the action within 90 days as a defense.
+
+10Link to the location of the note in the document
+The pro se complaint prayed for an injunction against alleged continuing unlawful employment practices, compensatory damages against Mohasco and several of its executives jointly and severally in the sum of $ 100,000, and punitive damages against Mohasco in the sum of $ 1 million and against each individual defendant in the sum of $ 100,000. Record Item No. 1, p. 19. The District Court dismissed the complaint against the individual defendants on the ground that they had not been named in the original charge. The validity of that dismissal is not before us.
+
+11Link to the location of the note in the document
+The District Court noted that the EEOC's letter forwarding respondent's charge to the state agency had stated that the EEOC would automatically file the charge "at the expiration date of the deferral period, unless the EEOC was notified of an earlier termination of proceedings by the Division of Human Rights." App. to Pet. for Cert. A15 (emphasis in original). Thus, the Court concluded that the EEOC itself did not deem the charge filed until 60 days after June 15, 1976. Ibid.
+
+12Link to the location of the note in the document
+Title 29 CFR § 1601.12 (b)(1)(v)(A) (1977) states:
+
+HN4 "In cases where the document is submitted to the Commission more than 180 days from the date of the alleged violation but within the period of limitation of the particular 706 Agency, the case shall be deferred pursuant to the procedures set forth above: Provided, however, That unless the Commission is earlier notified of the termination of the State or local proceedings, the Commission will consider the charge to be filed with the Commission on the 300th day following the alleged discrimination and will commence processing the case. Where the State or local agency terminates its proceedings prior to the 300th day following the alleged act of discrimination, without notification to the Commission of such termination, the Commission will consider the charge to be filed with the Commission on the date the person making the charge is notified of the termination."
+
+A current regulation to substantially the same effect is found at 29 CFR §§ 1601.13 (a), (c), (d)(2)(iii) (1979).
+
+13Link to the location of the note in the document
+See n. 4, supra.
+
+14Link to the location of the note in the document
+App. to Pet. for Cert. A15. See n. 11, supra.
+
+15Link to the location of the note in the document
+The 300-day period expired on June 24, 1976.
+
+16Link to the location of the note in the document
+The decision of the Court of Appeals in this case is consistent with the decision of the Tenth Circuit in Vigil v. American Tel. & Tel. Co., 455 F.2d 1222 (1972), but is in conflict with the decision of the Seventh Circuit in Moore v. Sunbeam Corp., 459 F.2d 811 (1972). Anderson v. Methodist Evangelical Hospital, Inc., 464 F.2d 723 (CA6 1972), cited Vigil with approval, though the court's conclusion that the plaintiff's filing in that case was timely would have been the same under the construction of § 706 adopted in the Moore case.
+
+The approach of the Eighth Circuit, see Olson v. Rembrandt Printing Co., 511 F.2d 1228 (1975), also conflicts with the decision of the Second Circuit in this case, but in a way that substantially differs from that of the Seventh Circuit decision in Moore. Olson held that in order to preserve his rights under Title VII, a complainant must under all circumstances initially file his charge with either a state fair employment practices agency or the EEOC within 180 days of the discriminatory occurrence. See also Geromette v. General Motors Corp., 609 F.2d 1200 (CA6 1979) (citing Olson with approval, thus perhaps signalling a retreat from Anderson's endorsement of Vigil); Rodriguez v. Southern Pacific Transp. Co., 587 F.2d 980 (CA9 1978). Cf. Ciccone v. Textron Inc., 616 F.2d 1216 (CA1 1980) (substantially same approach under similar provisions in the Age Discrimination in Employment Act, 29 U. S. C. §§ 621-634).
+
+LEdHN   As indicated in n. 19, infra, we believe that the restrictive approach exemplified by Olson, is not supported by the statute. Under the Moore decision, which we adopt today, HN5 a complainant in a deferral State having a fair employment practices agency over one year old need only file his charge within 240 days of the alleged discriminatory employment practice in order to insure that his federal rights will be preserved. If a complainant files later than that (but not more than 300 days after the practice complained of), his right to seek relief under Title VII will nonetheless be preserved if the State happens to complete its consideration of the charge prior to the end of the 300-day period. In a State with a fair employment practices agency less than one year old, however, a complainant must file within 180 days in order to be sure that his federal rights will be preserved, since the EEOC must defer consideration during proceedings before such a new agency for up to 120 days. See 42 U. S. C. § 2000e-5 (c), n. 1, supra.
+
+17Link to the location of the note in the document
+The District Court refused to consider respondent's allegations that discrimination in the form of blacklisting had continued beyond the date of his discharge, since in its view that allegation was not fairly comprised by respondent's June 15, 1976, letter to the EEOC. The Court of Appeals unanimously reversed on that point, and remanded the case to the District Court. Petitioner sought review of that ruling in this Court, but we limited our grant of certiorari to the timeliness question discussed in today's opinion. For purposes of decision, we assume that the discrimination complained of ended with respondent's discharge on August 29, 1975.
+
+18Link to the location of the note in the document
+Section 706 (e) is quoted in full in n. 2, supra.
+
+19Link to the location of the note in the document
+This language has been construed to require that the filing with the state agency be made within 180 days. Olson v. Rembrandt Printing Co., see n. 16, supra. Although that construction is consistent with the general rule announced at the beginning of § 706 (e), and is supported by one Congressman's understanding of the procedures at the time of the 1972 amendment to that section, see 1972 Leg. Hist. 1863 (remarks of Rep. Dent), Congress included no express requirement that state proceedings be initiated by any specific date in the portion of the subsection that relates to time limitations in deferral States. Further, there are contemporaneous indications in the legislative history, which, while not authoritative, contradict Representative Dent's views. See nn. 41-43, infra. See also Doski v. M. Goldseker Co., 539 F.2d 1326, 1330-1332 (CA4 1976) (rejecting both Olson and its reliance on the analysis of Rep. Dent). In any event, we do not believe that a court should read in a time limitation provision that Congress has not seen fit to include, see Occidental Life Ins. Co. v. EEOC, 432 U.S. 355, at least when dealing with "a statutory scheme in which laymen, unassisted by trained lawyers initiate the process." Love v. Pullman Co., 404 U.S. 522, 527. In contrast to the construction of the statute we adopt today, the Olson approach, urged upon us by petitioner and amici, is not compelled by the plain meaning of the statutory language.
+
+20Link to the location of the note in the document
+The Court further noted that "[it] is clear that Congress found nothing wrong, in this circumstance, with EEOC's holding the charge in abeyance until a state agency is given a chance to act." 404 U.S., at 526, n. 6.
+
+21Link to the location of the note in the document
+Compare the 6-month limitations provision for filing complaints with the National Labor Relations Board under the Labor Management Relations Act, 29 U. S. C. § 160 (b).
+
+22Link to the location of the note in the document
+We are not confronted with a case in which it is claimed that the plaintiff was reasonably unaware of the existence of his cause of action until after the expiration of the limitations period. Cf. United States v. Kubrick, 444 U.S. 111 (medical malpractice action).
+
+23Link to the location of the note in the document
+See, e. g., S. Rep. No. 867, 88th Cong., 2d Sess., 1 (1964) (hereinafter 1964 Senate Report).
+
+24Link to the location of the note in the document
+See also Hodgson v. Lodge 851, Int'l Assn. of Machinists & Aerospace Workers, 454 F.2d 545, 562 (CA7 1971) (Stevens, J., dissenting).
+
+25Link to the location of the note in the document
+See, e. g., Hearings on Miscellaneous Proposals Regarding the Civil Rights of Persons within the Jurisdiction of the United States before Subcommittee No. 5 of the House Judiciary Committee, 88th Cong., 1st Sess., 97, 188, 899, 2294 (1963) (hereinafter 1963 House Judiciary Committee Hearings). Others contained 1-year provisions, see id., at 10, 50, and at one point the Senate Committee on Labor and Public Welfare Committee recommended a bill with a 2-year provision. See 1964 Senate Report, at 13.
+
+26Link to the location of the note in the document
+See, e. g., 1963 House Judiciary Committee Hearings, at 9-10, 50.
+
+27Link to the location of the note in the document
+Id., at 2296; 1964 Senate Report, at 16.
+
+28Link to the location of the note in the document
+See 110 Cong. Rec. 2511-2512, 12598 (1964).
+
+29Link to the location of the note in the document
+Id., at 12593-12594 (remarks of Sen. Clark).
+
+30Link to the location of the note in the document
+See id., at 11926, 13327.
+
+31Link to the location of the note in the document
+The 1972 amendment added a new subsection (a) to § 706. Subsections (b) and (d) in the 1964 version with certain changes thus became the current subsections (c) and (e) in the amended 1972 version.
+
+32Link to the location of the note in the document
+See 110 Cong. Rec. 11937 (1964) (remarks of Sen. Humphrey); id., at 8193, 13087 (remarks of Sen. Dirksen): "[With] respect to the enforcement of the title, we undertook to keep primary, exclusive jurisdiction in the hands of the State commissions for a sufficient period of time to let them work out their own problems at the local level."
+
+33Link to the location of the note in the document
+See id., at 12819.
+
+34Link to the location of the note in the document
+At the time, it was believed that 60 days was more than sufficient time for state administrative resolution of employment discrimination complaints. See id., at 13087 (remarks of Sen. Dirksen): "In the case of California, FEPC [Fair Employment Practice Commission] cases are disposed of in an average of about 5 days. In my own State [Illinois] it is approximately 14 days."
+
+35Link to the location of the note in the document
+86 Stat. 104-105.
+
+36Link to the location of the note in the document
+H. R. 1746, 92d Cong., 1st Sess. (Jan. 22, 1972), 1972 Leg. Hist. 4.
+
+37Link to the location of the note in the document
+H. R. 1746, supra, 1972 Leg. Hist. 326.
+
+38Link to the location of the note in the document
+S. 2515, 92d Cong., 2d Sess. (Feb. 21, 1971), 1972 Leg. Hist. 1781.
+
+39Link to the location of the note in the document
+S. Rep. No. 92-681, p. 17 (1972), 1972 Leg. Hist. 1815:
+
+"The Senate amendment contained two provisions allowing the Commission to defer to state and local equal employment opportunity agencies. It deleted the language of existing law providing that no charge may be filed during the 60-day period allowed for the deferral and substituted a provision prohibiting the Commission from acting on such a charge until the expiration of the 60-day period. The House bill made no change in existing law. The Senate receded with an amendment that would restate the existing law on the deferral of charges to state agencies. The conferees left existing law intact with the understanding that the decision in Love v. Pullman [Co., 404] U.S. [522 (1972)] interpreting the existing law to allow the Commission to receive a charge (but not act on it) during such deferral period is controlling." (Emphasis added.)
+
+40Link to the location of the note in the document
+See n. 20, supra.
+
+41Link to the location of the note in the document
+The section-by-section analysis is dated March 6, 1972. The Conference Report quoted in n. 39, supra, is dated March 2, 1972.
+
+42Link to the location of the note in the document
+In Oscar Mayer & Co. v. Evans, 441 U.S. 750, 758, we rejected a similar argument: "Respondent argues finally that a Committee Report that accompanied 1978 ADEA amendments[, which made no change in the language at issue in the case,] supports his construction of § 14 (b). This Committee Report suggested that resort to state remedies should be optional under § 14 (b). See S. Rep. No. 95-493, pp. 6-7 (1978), adopted in Joint Explanatory Statement of the Committee of Conference, H. R. Conf. Rep. No. 95-950, pp. 7, 12 (1978).
+
+
+
+See also Consumer Product Safety Comm'n v. GTE Sylvania, Inc., ante, at 116-120.
+
+43Link to the location of the note in the document
+Indeed as we pointed out in n. 19, supra, Congressman Dent had an entirely different understanding of the limitations period that Congress adopted. Representative Dent's remarks are dated March 8, 1972.
+
+44Link to the location of the note in the document
+See General Electric Co. v. Gilbert, 429 U.S. 125, 140-142.
+
+45Link to the location of the note in the document
+S. Rep. No. 92-415, p. 24 (1971), 1972 Leg. Hist. 433.

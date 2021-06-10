@@ -1,0 +1,10 @@
+﻿133 S.Ct. 2139
+UNITED STATES, Petitioner v. ANTHONY DAVILA
+Supreme Court of the United States
+April 15, 2013, Argued; June 13, 2013, Decided
+No. 12-167
+
+JUSTICE Scalia, With Whom Justice Thomas joins, concurring in part and concurring in the judgment.
+
+I agree with  [***29] the Court that a defendant must be prejudiced by a Rule 11(c)(1) error to obtain relief. That is because the text of Federal Rule of Criminal Procedure 11(h) says exactly that, in words whose meaning is crystal clear: “Harmless error. A variance from the requirements of this rule is harmless error if it does not affect substantial rights.” (Emphasis added.) As the Court recognizes, this rule “calls for across-the-board application of the harmless-error prescription (or, absent prompt objection, the plain-error rule).” Ante, at ___, 186 L. Ed. 2d, at 151. That is the beginning and the end of this case. We should not rely on the notes of the Advisory Committee to unearth Rule 11’s alleged design, for “[t]he Committee’s view is not authoritative” and the text of the Rule conclusively resolves the question before us. See Black v. United States, 561 U.S. ___, ___, 130 S. Ct. 2963, 177 L. Ed. 2d 695 (2010) (Scalia, J., concurring in part and concurring in judgment).
+

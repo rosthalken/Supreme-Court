@@ -1,0 +1,31 @@
+﻿
+        
+        Michigan v. Tyler, 436 U.S. 499, 98 S. Ct. 1942 (1978)
+        
+
+
+      
+
+MR. JUSTICE STEVENS, concurring in part and concurring in the judgment.
+
+Because Part II of the Court's opinion in this case, like the opinion in Camara v. Municipal Court, 387 U.S. 523, seems to  [*513]  assume that an official search must either be conducted pursuant to a warrant or not take place at all, I cannot join its reasoning.
+
+In particular, I cannot agree with the Court's suggestion that, if no showing of  [**1952]  probable cause could be made, "the warrant procedures governing administrative searches," ante, at 511, would have complied with the Fourth Amendment. In my opinion,  [***501]  an "administrative search warrant" does not satisfy the requirements of the Warrant Clause. 1Link to the text of the note See Marshall v. Barlow's, Inc., ante, p. 325 (STEVENS, J., dissenting). Nor does such a warrant make an otherwise unreasonable search reasonable.
+
+ [****28]  A warrant provides authority for an unannounced, immediate entry and search. No notice is given when an application for a warrant is made and no notice precedes its execution; when issued, it authorizes entry by force. 2Link to the text of the note In my view, when there is no probable cause to believe a crime has been committed and when there is no special enforcement need to justify an unannounced entry, 3Link to the text of the note [****29]  the Fourth Amendment neither requires nor sanctions an abrupt and peremptory confrontation  [*514]  between sovereign and citizen. 4Link to the text of the note In such a case, to comply with the constitutional requirement of reasonableness, I believe the sovereign must provide fair notice of an inspection. 5Link to the text of the note
+
+ [****30]  The Fourth Amendment interests involved in this case could have been protected in either of two ways -- by a warrant, if probable cause existed; or by fair notice, if neither probable cause nor a special law enforcement need existed. Since the entry on February 16 was not authorized by a warrant and not preceded by advance notice, I concur in the Court's judgment and in Parts I, III, and IV of its opinion.
+
+The Warrant Clause of the Fourth Amendment provides that "no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized."
+
+2Link to the location of the note in the document
+See Wyman v. James, 400 U.S. 309, 323-324. As the Court observed in Wyman, a warrant is not simply a device providing procedural protections for the citizen; it also grants the government increased authority to invade the citizen's privacy. See Miller v. United States, 357 U.S. 301, 307-308.
+
+3Link to the location of the note in the document
+In this case, there obviously was a special enforcement need justifying the initial entry to extinguish the fire, and I agree that the search on the morning after the fire was a continuation of that entirely legal entry. A special enforcement need can, of course, be established on more than a case-by-case basis, especially if there is a relevant legislative determination of need. See Marshall v. Barlow's, Inc., ante, p. 325 (STEVENS, J., dissenting).
+
+4Link to the location of the note in the document
+The Fourth Amendment ensures "[the] right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures." (Emphasis added.) Surely this broad protection encompasses the expectation that the government cannot demand immediate entry when it has neither probable cause to suspect illegality nor any other pressing enforcement concern. Yet under the rationale in Part II of the Court's opinion, the less reason an officer has to suspect illegality, the less justification he need give the magistrate in order to conduct an unannounced search. Under this rationale, the police will have no incentive -- indeed they have a disincentive -- to establish probable cause before obtaining authority to conduct an unannounced search.
+
+5Link to the location of the note in the document
+See LaFave, Administrative Searches and the Fourth Amendment: The Camara and See Cases, 1967 Sup. Ct. Rev. 1. The requirement of giving notice before conducting a routine administrative search is hardly unprecedented. It closely parallels existing procedures for administrative subpoenas, see, e. g., 15 U. S. C. § 1312 (1976 ed.), and is, as Professor LaFave points out, embodied in English law and practice. See LaFave, supra, at 31-32.

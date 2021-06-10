@@ -1,0 +1,29 @@
+﻿
+
+
+121 S.Ct. 1029
+Supreme Court of the United States
+Rebecca McDowell COOK, Petitioner,
+v.
+Donald J. GRALIKE and Mike Harman.
+No. 99–929.
+|
+Argued Nov. 6, 2000.
+|
+Decided Feb. 28, 2001.
+ 
+Chief Justice REHNQUIST, with whom Justice O’CONNOR joins, concurring in the judgment.
+
+I would affirm the judgment of the Court of Appeals, but on the ground that Missouri’s Article VIII violates the First Amendment to the United States Constitution. Specifically, I believe that Article VIII violates the First Amendment right of a political candidate, once lawfully on the ballot, to *531 have his name appear unaccompanied by pejorative language required by the State. Our ballot access cases based on First Amendment grounds have rarely distinguished between the rights of candidates and the rights of voters. In Bullock v. Carter, 405 U.S. 134, 143, 92 S.Ct. 849, 31 L.Ed.2d 92 (1972), we said: “[T]he rights of voters and the rights of candidates do not lend themselves to neat separation; laws that affect candidates always have at least some theoretical, correlative effect on voters.” And in Anderson v. Celebrezze, 460 U.S. 780, 787, 103 S.Ct. 1564, 75 L.Ed.2d 547 (1983), we said that “voters can assert their preferences only through candidates or parties or both.” Actions such as the present one challenging ballot provisions have in most instances been brought by the candidates themselves, and no one questions the standing of respondents Gralike and Harmon to raise a First Amendment challenge to such laws.*
+ 
+Article I, § 4, provides that “[t]he Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof ....” Missouri justifies Article VIII as a “time, place, and manner” regulation of election. Restrictions of this kind are valid “provided that they are justified without reference to the content of the regulated speech, that they are narrowly tailored to serve a significant governmental interest, and that they leave open ample alternative channels for communication of the information.” Clark v. Community for Creative Non–Violence, 468 U.S. 288, 293, 104 S.Ct. 3065, 82 L.Ed.2d 221 (1984). Missouri’s Article VIII flunks two of these three requirements. Article VIII is not only not content neutral, but it *532 actually discriminates on the basis of viewpoint because only those candidates who fail to conform to the State’s position receive derogatory labels. The result is that the State injects itself into the election process at an absolutely critical point—the composition of the ballot, which is the last thing the voter sees before he makes his choice—and does so in a way that is not neutral as to issues or candidates. The candidates who are thus singled out have no means of replying to their designation which would be equally effective with the voter.
+ 
+In Anderson v. Martin, 375 U.S. 399, 84 S.Ct. 454, 11 L.Ed.2d 430 (1964), we held **1043 that a Louisiana statute requiring the designation of a candidate’s race on the ballot violated the Equal Protection Clause. In describing the effect of such a designation, the Court said: “[B]y directing the citizen’s attention to the single consideration of race or color, the State indicates that a candidate’s race or color is an important—perhaps paramount—consideration in the citizen’s choice, which may decisively influence the citizen to cast his ballot along racial lines.” Id., at 402, 84 S.Ct. 454. So, too, here the State has chosen one and only one issue to comment on the position of the candidates. During the campaign, they may debate tax reform, Social Security, national security, and a host of other issues; but when it comes to the ballot on which one or the other of them is chosen, the State is saying that the issue of term limits is paramount. Although uttered in a different context, what we said in Police Dept. of Chicago v. Mosley, 408 U.S. 92, 96, 92 S.Ct. 2286, 33 L.Ed.2d 212 (1972), is equally applicable here: “[Government] may not select which issues are worth discussing or debating.”
+ 
+If other Missouri officials feel strongly about the need for term limits, they are free to urge rejection of candidates who do not share their view and refuse to “take the pledge.” Such candidates are able to respond to that sort of speech with speech of their own. But the State itself may not skew the ballot listings in this way without violating the First Amendment.
+ 
+
+
+*
+The Court of Appeals upheld their First Amendment claim, but based its reasoning on the view that the ballot statements were “compelled speech” by the candidate, and therefore ran afoul of cases such as Wooley v. Maynard, 430 U.S. 705, 97 S.Ct. 1428, 51 L.Ed.2d 752 (1977). I do not agree with the reasoning of the Court of Appeals. I do not believe a reasonable voter, viewing the ballot labeled as Article VIII requires, would think that the candidate in question chose to characterize himself as having “disregarded voters' instructions” or as “having declined to pledge” to support term limits.
+

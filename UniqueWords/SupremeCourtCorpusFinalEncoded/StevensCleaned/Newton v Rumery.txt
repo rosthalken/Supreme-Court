@@ -1,0 +1,217 @@
+﻿
+The question whether the release-dismissal     agreement signed by respondent is unenforceable is much more complex than the Court's opinion indicates. A complete analysis of the question presented by this case cannot end with the observation that respondent made a knowing and voluntary choice to sign a settlement agreement. Even an intelligent and informed, but completely innocent, person accused of crime should not be required to choose between a threatened indictment and trial, with their attendant publicity and the omnipresent possibility of wrongful conviction, and surrendering the right to a civil remedy against individuals who have violated his or her constitutional rights. Moreover, the prosecutor's representation of competing and possibly conflicting interests compounds the dangerous potential of release-dismissal     agreements. To explain my disagreement with the majority, I shall first discuss the dilemma confronted by respondent at the time his lawyer advised     him to sign the agreement, then comment on the three different interests the prosecutor represented, and finally discuss the plurality's evaluation of the relevant    public interests in this case.
+
+I
+
+Respondent is an innocent man. As a matter of law, he must be presumed to be innocent. As a matter of fact, the uncontradicted sworn testimony of respondent, 1Link to the text of the note    and his     lawyer, 2Link to the text of the note buttressed by the circumstantial     evidence, 3Link to the text of the note    overwhelmingly attest to his innocence. 4Link to the text of the note There was no written statement by the alleged victim, sworn or unsworn, implicating respondent in any criminal activity. The charge that respondent had threatened the victim was reported to the police by the victim's daughter, and the substance of the conversation as summarized in Chief Barrett's report was based in part on his conversation with the daughter, in part on conversations between another police officer and the victim, and in part on his own conversation with the victim when she was     in a state of extreme emotional distress. 5Link to the text of the note    Respondent was never indicted, and the warrant for his arrest was     issued on the basis of a sketchy statement by Chief Barrett. 6Link to the text of the note Even the assistant prosecutor who was in charge of the case was surprised to learn that Chief Barrett had arrested respondent on the basis of the information in the police report.     7Link to the text of the note     Thus, when the     Newton police officers arrested respondent in his home they had not even obtained a written statement from the complaining witness. Prior to the arrest, and prior to the police chief's press conference concerning it, respondent was a respected member of a small community who had never been arrested, even for a traffic offense.
+
+    A few days before respondent was scheduled for a probable-cause hearing on the charge of witness tampering, respondent's attorney advised him to sign a covenant not to sue the town of Newton, its police officers, or the witness Deary in exchange for dismissal of the charge against him. The advice was predicated on the lawyer's judgment that the value of a dismissal outweighed the harmful consequences of an almost certain indictment on a felony charge together with the risk of conviction in a case in which the outcome would depend on the jury's assessment of the relative credibility of respondent and his alleged victim. The lawyer correctly advised respondent that even if he was completely innocent, there could be no guarantee of acquittal. 8Link to the text of the note    He therefore     placed a higher     value on his client's interest in terminating the criminal proceeding promptly than on the uncertain benefits of pursuing a civil remedy against the town and its police department. 9Link to the text of the note After delaying a decision for three days, respondent reluctantly followed his lawyer's advice.
+
+From respondent's point of view, it is unquestionably true that the decision to sign the release-dismissal agreement was, as the Court emphasizes, "voluntary, deliberate, and informed." Ante, at 391. It reflected "a highly rational judgment that the certain benefits of escaping criminal prosecution exceed the speculative benefits of prevailing in a civil action." Ante, at 394. As the plurality iterates and reiterates, respondent made a "considered decision that he would benefit personally from the agreement." Ante, at 395. I submit, however, that the deliberate and rational character of respondent's decision is not a sufficient reason for concluding that the agreement is enforceable. Otherwise, a promise to pay a state trooper $ 20 for not issuing     a ticket for a traffic violation, or a promise to contribute to the police department's retirement fund in exchange for the dismissal of a felony charge, would be enforceable. Indeed, I would suppose that virtually    all contracts that courts refuse to enforce nevertheless reflect perfectly rational decisions by the parties who entered into them. There is nothing irrational about an agreement to bribe a police officer, to enter into a wagering arrangement, to pay usurious rates of interests, or to threaten to indict an innocent man in order to induce him to surrender something of value.
+
+    The "voluntary, deliberate, and informed" character of a defendant's decision generally provides an acceptable basis for upholding the validity of a plea bargain. But it is inappropriate to assume that the same standard determines the validity of a quite different agreement to forgo a civil remedy for the violation of the defendant's constitutional rights in exchange for complete abandonment of a criminal charge.
+
+The net result of every plea bargain is an admission of wrongdoing by the defendant and the imposition of a criminal sanction with its attendant stigma. Although there may be some cases in which an innocent person pleads guilty to a minor offense to avoid the risk of conviction on a more serious charge, it is reasonable to presume that such cases are rare and represent the exception rather    than the rule. See Fed. Rule Crim. Proc. 11(f) (court may not enter judgment on a guilty plea unless it is satisfied the plea has a factual basis). Like a plea bargain, an agreement by the suspect to drop § 1983 charges and to pay restitution to the victim in exchange for the prosecutor's termination of criminal proceedings involves an admission of wrongdoing by the defendant. 10Link to the text of the note The same cannot be said about an agreement that completely exonerates the defendant. Not only is such a person presumptively innocent as a matter of law; as a factual matter the prosecutor's interest in obtaining a covenant not to sue will be strongest in those cases in which he realizes that the defendant was innocent and was wrongfully accused. Moreover, the prosecutor will be most willing -- indeed, he is ethically obligated -- to drop charges when he believes that probable cause as established by the available, admissible evidence is lacking.
+
+    The plea bargain represents a practical compromise between the prosecutor and the defendant that takes into account     the burdens of litigation and its probable outcome, as well as society's interest in imposing appropriate punishment upon an admitted wrongdoer. The defendant admits wrongdoing for conduct upon which the     guilty plea is based and avoids further prosecution; the prosecutor need not go to trial; and an admitted wrongdoer is punished, all under close judicial supervision. See Fed. Rule Crim. Proc. 11(e). By simultaneously establishing and limiting the defendant's criminal liability, plea bargains delicately balance individual and social advantage. This mutuality of advantage does not exist in release-dismissal agreements. A defendant entering a release-dismissal agreement is forced     to waive claims based on official conduct under color of state law, in exchange merely for the assurance that the State will not prosecute him for conduct for which he has made no admission of wrongdoing. The State is spared the necessity of going to trial, but its willingness to drop the charge completely indicates that it might not have proceeded with the    prosecution in any event. 11Link to the text of the note No social interest in the punishment of wrongdoers is satisfied; the only interest vindicated is that of resolving once and for all the question of § 1983 liability.
+
+Achieving this result has no connection with the give-and-take over the defendant's wrongdoing that is the essence of the plea-bargaining process, and thus cannot be justified by reference to the principles of mutual advantage that support plea bargaining. Although the outcome of a criminal proceeding may affect the value of the civil claim, as a matter of law the claims are quite distinct. Even a guilty defendant may be entitled to receive damages for physical abuse, and conversely, the fact that a defendant is ultimately acquitted is entirely consistent with the possibility that the police    had     probable cause to arrest him and did not violate any of his constitutional rights. 12Link to the text of the note
+
+The plurality assumes that many § 1983 suits "are marginal and some are frivolous," ante, at 395. Whether that assumption is correct or incorrect, the validity of each ought to be tested by the adversary process. 13Link to the text of the note    Experience teaches us that some § 1983 suits in which release-dismissal agreements are sought are meritorious. 14Link to the text of the note Whatever the true value of a § 1983 claim may be, a defendant who is required to give up such a claim in exchange for a dismissal of a criminal charge is being forced to pay a price that is unrelated to his possible wrongdoing as reflected in that charge. Indeed, if the defendant is forced to abandon a claim that has a value of $ 1,000, the price that he pays is the functional equivalent of a $ 1,000 payment to a police department's retirement benefit fund.
+
+Thus, even though respondent's decision in this case was deliberate, informed, and voluntary, this observation does not address two distinct objections to enforcement of the release-dismissal agreement. The prosecutor's offer to drop charges if the defendant accedes to the agreement is inherently coercive; moreover, the     agreement exacts a price unrelated to the character of the defendant's own conduct.
+
+    II
+
+When the prosecutor    negotiated the agreement with respondent, he represented three potentially conflicting interests. His     primary duty, of course, was to represent the sovereign's interest in the evenhanded and effective enforcement of its criminal laws. See Berger v. United States, 295 U.S. 78, 88 (1935). In addition, as the covenant demonstrates, he sought to represent the interests of the town of Newton and its Police Department in connection with their possible civil liability to respondent. Finally, as the inclusion of Mary Deary as a covenantee indicates, the prosecutor also represented the interest of a potential witness who allegedly accused both respondent and a mutual friend of separate instances of wrongdoing.
+
+If we view the problem from the standpoint of the prosecutor's principal client, the State of New Hampshire, it is perfectly clear that the release-dismissal agreement was both unnecessary and unjustified. For both the prosecutor and the State of New Hampshire enjoy absolute immunity from common-law and § 1983 liability arising out of a prosecutor's decision to initiate criminal proceedings. See Imbler v. Pachtman, 424 U.S. 409, 427 (1976).     The agreement thus gave the State and the prosecutor no protection that the law did not already provide.
+
+The record in this case indicates that an important reason for obtaining the covenant was "[to] protect the police department." 15Link to the text of the note There is, however, an obvious potential conflict between the prosecutor's duty to enforce the law and his objective of protecting members of the Police Department who are accused of unlawful conduct. The public is entitled to have the prosecutor's decision to go forward with a criminal case, or to dismiss it, made independently of his concerns about the potential damages liability of the Police Department. It is equally clear that this separation of functions     cannot be achieved if the prosecutor may use the threat of criminal prosecution as a weapon to obtain a favorable termination of a civil claim against the police.
+
+In negotiating a release-dismissal agreement, the prosecutor inevitably represents both the public and the police. When release agreements    are enforceable, consideration of the police interest in avoiding damages liability severely hampers the prosecutor's ability to conform to the strictures of professional responsibility in deciding whether to prosecute. In particular, the possibility that the suspect will execute a covenant not to sue in exchange for a decision not to prosecute may well encourage a prosecutor to bring or to continue prosecutions in violation of his or her duty to "refrain from prosecuting a charge that the prosecutor knows is not supported by probable cause." ABA Model Rules of Professional Conduct, Rule 3.8(a) (1984). 16Link to the text of the note
+
+    This ethical obligation of every     prosecutor is consistent with the general and fundamental rule that "[a] lawyer should exercise independent professional judgment on behalf of a client." ABA Model Code of Professional Responsibility, Canon 5 (1980). Every attorney should avoid situations in which he is representing potentially conflicting interests. See id., at Ethical Consideration 5-2. As we noted in Imbler v. Pachtman, prosecutorial immunity from § 1983 lawsuits "does not leave the public powerless to deter misconduct or to punish that which occurs," in large part because     "a prosecutor stands perhaps unique, among officials whose acts could deprive persons of constitutional rights, in his amenability to professional discipline by an     association of his peers." 424 U.S., at 429 (footnote omitted). 17Link to the text of the note
+
+    The prosecutor's potential conflict of interest increases in magnitude in direct proportion to the seriousness of the charges of police wrongdoing. Yet a rule that determines the enforceability of a release-dismissal agreement by focusing entirely on the quality of the defendant's decision to sign the agreement cannot detect the seriousness of this conflict of interest because it cannot distinguish the meritorious § 1983 claims from the frivolous ones. On the other hand, if the merits of the claim must be evaluated in each case in order to decide whether the agreement should be enforced, the agreement would not serve the goal of saving the litigation costs associated with a trial of the claim itself. The efficiency argument on behalf of enforcing a release-dismissal agreement thus requires inattention to conflicts of interest in precisely those circumstances in which the agreement to be enforced is most likely to have been exacted by a prosecutor serving the interests of more than one constituency.
+
+At bottom, the Court's holding in this case seems to rest on concerns related to the potential witness, Mary Deary. 18Link to the text of the note As     is true with the prosecutor's concerns for police    liability,     there is a potential conflict between the public interest represented by the prosecutor and the private interests of a recalcitrant witness. As a general matter there is no reason to fashion a rule that either requires or permits a prosecutor always to defer to the interests of a witness. The prosecutor's law enforcement responsibilities will sometimes diverge from those interests; there will be cases in which the prosecutor has a plain duty to obtain critical testimony despite the desire of the witness to remain anonymous or to avoid a courtroom confrontation with an offender. There may be other cases in which a witness has given false or exaggerated testimony for malicious reasons. It would plainly be unwise for the Court to hold that a release-dismissal agreement is enforceable simply because it affords protection to a potential witness.
+
+    Arguably a special rule should be fashioned for witnesses who are victims of sexual assaults. The trauma associated with such an assault leaves scars that may make it especially difficult for a victim to press charges or to testify publicly about the event. It remains true, however, that uncorroborated, unsworn statements by persons who claim to have been victims of any crime, including such an assault, may be inaccurate, exaggerated, or incomplete -- and sometimes even malicious. It is even more clear that hearsay descriptions of statements by such persons may be unreliable. Rather than adopting a general rule that upholds a release-dismissal agreement whenever the criminal charge was based on a statement by the alleged victim of a sexual assault, I believe the Court should insist upon a "close examination" of the facts that purportedly justified the agreement.
+
+Thus, in this case JUSTICE O'CONNOR has suggested that three special facts support the conclusion that the prosecutor was legitimately interested in protecting the     witness Deary from "further injury": (1) her "emotional distress"; (2) her     unwillingness to testify against Rumery; and (3) the necessity    of her testimony in the pending sexual assault case against Champy. Ante, at 403. Each of these facts merits a brief comment.
+
+The only evidence of Deary's emotional distress in the record is found in Chief Barrett's report of his telephone conversation on the afternoon of May 11, 1983. While he was talking to Deary's daughter he "could hear an intense argument and sobbing in the background"; after he was finally able to talk to Deary herself, he characterized her conversation as "hysterical, [distraught], and terrified." See n. 5, supra. It is, of course, reasonable to assume that Deary's emotional distress may have affected her unwillingness to testify against either Champy or Rumery, and thereby influenced the prosecutor's decision to dismiss the witness tampering charge. But the testimony of the prosecutor, who appears only to have talked to her about the sexual assault charge, does not even mention the possibility that she might have to testify in any civil litigation. App. 48.
+
+Deary's unwillingness to testify against Rumery is perfectly obvious. 19Link to the text of the note That fact unquestionably supports     the prosecutor's decision to dismiss the charge against respondent, but    it is not a sufficient reason for exonerating police officers from the consequences of actions that they took when they must have known that Deary was unwilling to testify. For it was the precipitous character of the police decision to make an arrest without first obtaining a written statement from the witness and contrary to the expectations -- and presumably     the advice -- of the prosecutor that created the risk that the victim might have to testify in open court. 20Link to the text of the note
+
+    The need for Deary's testimony in the pending sexual assault case against Champy simply cannot justify denying this respondent a remedy for a violation of his Fourth Amendment rights. Presumably, if there had been an actual trial of the pending charge against Champy, 21Link to the text of the note that trial would have concluded long before Deary would have been required to testify in any § 1983 litigation.
+
+LEdHN[11B] [11B]It may well be true that a full development of all the relevant facts would provide a legitimate justification for enforcing the release-dismissal agreement. In my opinion, however, the burden of developing those facts rested on the defendants in the § 1983 litigation, and that burden has not been met by mere conjecture and speculation concerning the emotional distress of one reluctant witness.
+
+III
+
+LEdHN[11C] [11C]Because this is the first case of this kind that the Court has reviewed, I am hesitant to adopt an absolute rule invalidating    all such agreements. 22Link to the text of the note    I am, however, persuaded that the     federal policies reflected         in the enactment and enforcement of § 1983 mandate a strong presumption against the enforceability of such agreements and that the presumption is not overcome in this case by the facts or by any of the policy concerns discussed by the plurality. 23Link to the text of the note    The very existence of the statute identifies the important federal interests in providing a remedy for the violation of constitutional rights and in having     the merits of such claims resolved openly by an impartial adjudicator rather than sub silentio by a prosecutor whose primary objective in entering release-dismissal agreements is definitely not to ensure that all meritorious § 1983 claims prevail. The interest in vindication of constitutional violations unquestionably outweighs the interest in avoiding the expense and inconvenience of defending unmeritorious claims. Paradoxically, the plurality seems more sensitive to that burden than to the cost to the public and the individual of denying relief in meritorious cases. In short, the plurality's decision seems to rest on the unstated premise that § 1983    litigation imposes a net burden on society. If that were a correct assessment of the statute, it should be repealed. Unless that is done, however, we should respect the congressional decision to attach greater importance to the benefits associated with access to a federal remedy than to the burdens of defending these cases. 24Link to the text of the note
+
+    The     plurality also    suggests that these agreements must be enforced in order to give proper respect to the prosecutor's exercise of discretion. I must confess that I do not understand this suggestion. 25Link to the text of the note    The prosecutor is adequately protected     by the shield of absolute immunity. Moreover, in this case it is police misconduct -- not that of the prosecutor -- that is challenged in the § 1983 litigation. A holding that the agreement is unenforceable need not rest on an assumption that "prosecutors will seize the opportunity for wrongdoing." Ante, at 396. On the contrary, it would merely respect the wholly unrelated premise that undergirds § 1983 itself -- that law enforcement officers sometimes violate the constitutional rights of individual citizens. 26Link to the text of the note The public interest in identifying and redressing such violations is, in my judgment, paramount to the prosecutor's interest in using the threat of a felony indictment and trial as a means of avoiding an independent appraisal of the merits of a § 1983 claim.
+
+Accordingly, although I am not prepared to endorse all of the reasoning of the Court of Appeals, I would affirm its judgment.
+
+"Q. And she called you you say.
+
+"A. That's correct.
+
+"Q. At your office.
+
+"A. Right.
+
+. . . .
+
+"Q. After that conversation on that subject was any other subject brought up?
+
+"A. Yes. She asked me if I knew that Dave Champay's [Champy's] wife had left him and I says no, I didn't.
+
+"Q. What else did she say?
+
+"A. And she says, she said,
+
+"'Well, I didn't want' -- she says, 'David is a victim. I like David and he's the victim.'
+
+. . . .
+
+"A. And so she said she didn't know -- she says, 'I don't know what to do. I don't want to hurt him.' She says, 'I don't know what to do.'
+
+"So I said, 'Well, if you feel that way towards him,' I says, 'then you can -- it's possible to, to end this case.' I didn't say end the case. I says, 'It's possible to stop the case,' or whatever. And she says, 'Well, I was told I couldn't.'
+
+"And I says, 'Well, you can call the county attorney if you want and talk to them about it.'
+
+"But she kept saying she was -- she kept saying -- well, she says, 'I'm not a bad person. I'm not vindictive.'
+
+"And I says, 'Well, that's up to you.' I said, 'That's all I can say.'
+
+"And I says, -- she kept rambling on about different things and finally I says, 'Look, Mary, I have to leave. I have an appointment. If you want to call me I'll be in the office 11 o'clock tomorrow morning.'
+
+"And that's all there was to the telephone conversation." App. 26-27.
+
+2Link to the location of the note in the document
+"A. Mr. Rumery felt that he had been wronged by the criminal justice system and he wished redress from the criminal justice system. And he was reluctant to have criminal charges dropped in exchange for surrendering his possibility of redress from the system which he felt had wronged him." Id., at 13.
+
+"Q. Now, in your direct testimony you indicated that you thought that probable cause would have been found by the district court. Would you explain your answer?
+
+"A. I certainly don't want to cast any aspersions on the criminal justice system in the State of New Hampshire, but it has been my experience that the district court's really not designed for sophisticated fact-finding and that what amounts to probable cause is really possible cause in the district court.
+
+"If they find that there's a possibility that the named defendant committed an offense they will find probable cause . . . .
+
+"[The] tendency of the district court justices is to always find probable cause." Id., at 23.
+
+"Q. Mr. Woods, it was a concern of yours that innocent parties sometimes are convicted in the criminal justice system; wasn't it?
+
+"A. Yes." Tr. 65.
+
+3Link to the location of the note in the document
+It may well be true that respondent expressed the opinion to his alleged victim that it would be in her best interest not to press criminal charges against a mutual friend. It seems highly improbable, however, in a telephone conversation that she initiated after they had not communicated with one another for approximately two months, that he suddenly threatened her life and gave her an ultimatum that would expire at 11 o'clock the following morning.
+
+4Link to the location of the note in the document
+The District Court made no findings of fact on the question of respondent's innocence or credibility, or on the credibility of his lawyer, but their testimony was uncontradicted. App. to Pet. for Cert. B-1 to B-4.
+
+5Link to the location of the note in the document
+Chief Barrett's report reads, in part, as follows:
+
+"On May 11, 1983 at approximately 1600 hours I received a telephone call from victim Deary's daughter, Karen, and she was highly agitated. While we were talking I could hear an intense argument and sobbing in the background. I was finally able to talk with victim, Mary Deary, who was hysterical, distraight [sic] and terrified. She rambled and sobbed as she spoke with me.
+
+. . . .
+
+"The above information was acquired through several telephone calls and a subsequent personal visit by Officer K. Marino to victim Deary." App. to Brief for Appellant in No. 85-1508 (CA1), p. 178.
+
+In his report, Chief Barrett speculated that the reason for the victim's hysteria was her telephone conversation with respondent (which had occurred some five hours earlier); it is, of course, equally possible that the reason related to her recollection of the underlying assault and the fact that she was in the midst of a heated argument with her daughter at the time her daughter made the call.
+
+6Link to the location of the note in the document
+In a complaint dated May 12, 1983, Chief Barrett stated that Rumery tampered with witnesses and informants, in that he
+
+"[purposely,] while having a phone conversation with one Mary A. Deary of 64 Highland Street, Newton New Hampshire, who is a victim and a witness in a [sic] official proceeding, to wit Felonious Sexual Assault, attempt to induce by intimidation, coercion, and threat of violence [to] withhold testimony and information in said proceedings." Id., at 129.
+
+A warrant for his arrest was issued by a Justice of the Peace on the basis of this statement, and he was arrested, all on the same day. Id., at 130.
+
+7Link to the location of the note in the document
+"Q. Okay. Did Mr. Barrett call you and advise you that an arrest had been made and give you reasons why?
+
+"A. He advised me. Again I don't recall whether he called me or he came into the office, but he did advise me that he had arrested Mr. Rumery.
+
+"I was a little bit surprised because I had hoped that we would be able to put something into effect where we might be able to get some independent evidence of the alleged tampering with a witness, so that it would not be a situation where the State had to rely exclusively on Mary Deary, and I recall Chief Barrett telling me that he felt the situation had gotten out of control to such an extent that he didn't know whether or not Mary Deary would be able to testify with respect to the David Champy matter because she was so upset about what was going on, and he felt he had to act. So that's why the arrest was made." App. 50.
+
+"As I indicated, I was surprised at that point in time that he had been arrested. And then I believe the case was probably either scheduled or prepared to be scheduled for the grand jury." Id., at 51.
+
+Apparently the prosecutor never discussed the alleged witness-tampering episode with the witness Deary.
+
+8Link to the location of the note in the document
+The lawyer, who was a prosecutor when he testified in this case, explained:
+
+"[Someone] in criminal defense work begins to appreciate that very often the trial does not result in a verdict which corresponds to actual, the actual facts. Therefore, I suppose a criminal defense attorney begins to develop sort of a philosophy that a trial becomes a clash of wills between attorneys and there's always a risk and it's sort of a crap shoot and all of those things.
+
+"Now whereas Mr. Rumery had a great deal of confidence in the criminal justice system, I had less confidence, not so much in the criminal justice system but in the trial system; that I recognized that, you know, no lawyer is going to guarantee a result regardless of the guilt or innocence of their client.
+
+"And so I was less, perhaps personally less willing to subject, to want to subject Mr. Rumery to the full panoply of the trial aspects of the system than he was willing to subject himself." Tr. 56.
+
+9Link to the location of the note in the document
+Id., at 56-57. Although the witness Deary was a covenantee, she was not named as a defendant in the civil case.
+
+10Link to the location of the note in the document
+The enforceability of these kinds of agreements may well involve considerations different from the enforceability of agreements, such as the one at issue in this case, in which the defendant makes no admission of wrongdoing at all.
+
+11Link to the location of the note in the document
+In this case the prosecutor had been advised that the witness Deary was unwilling to testify against respondent. He may also have known that she would not testify against Champy, her alleged assailant, on the sexual assault charge.
+
+12Link to the location of the note in the document
+See, e. g., Palhava de Varella-Cid v. Boston Five Cents Savings Bank, 787 F.2d 676 (CA1 1986).
+
+13Link to the location of the note in the document
+The plurality seems to overlook the fact that respondent has not yet had an opportunity to present evidence in support of his underlying claim which, incidentally, alleged police misconduct rather than prosecutorial misconduct.
+
+14Link to the location of the note in the document
+See, e. g., Dixon v. District of Columbia, 129 U. S. App. D. C. 341, 394 F.2d 966 (1968) (prosecutor may not file charges when defendant reneged on agreement not to sue); MacDonald v. Musick, 425 F.2d 373 (CA9) (prosecutor may not condition dismissal of charges on defendant's admission of probable cause which would preclude enforcement of civil claim against arresting officers), cert. denied, 400 U.S. 852 (1970); Boyd v. Adams, 513 F.2d 83 (CA7 1975) (postarrest release of § 1983 claim, executed while on conditional bail, is void as against public policy).
+
+15Link to the location of the note in the document
+See Tr. 48.
+
+16Link to the location of the note in the document
+See also ABA Model Code of Professional Responsibility, Disciplinary Rule 7-103 (1980) ("A public prosecutor or other government lawyer shall not institute or cause to be instituted criminal charges when he knows or it is obvious that the charges are not supported by probable cause"), and Ethical Consideration 7-14 ("A government lawyer who has discretionary power relative to litigation should refrain from instituting or continuing litigation that is obviously unfair"); ABA Standards for Criminal Justice 3-3.9(a) (2d ed. 1980) ("It is unprofessional conduct for a prosecutor to institute, or cause to be instituted, or to permit the continued pendency of criminal charges when it is known that the charges are not supported by probable cause").
+
+17Link to the location of the note in the document
+As the Court of Appeals for the Ninth Circuit has observed:
+
+"It is no part of the proper duty of a prosecutor to use a criminal prosecution to forestall a civil proceeding by the defendant against policemen, even where the civil case arises from the events that are also the basis for the criminal charge. We do not mean that the prosecutor cannot present such a criminal charge. What he cannot do is condition a voluntary dismissal of a charge upon a stipulation by the defendant that is designed to forestall the latter's civil case." MacDonald v. Musick, 425 F.2d, at 375.
+
+18Link to the location of the note in the document
+Despite a good deal of unfortunate language in its opinion, in the final analysis the Court merely rejects a per se rule invalidating all release-dismissal agreements and holds that this particular agreement is enforceable. See ante, at 397; see also JUSTICE O'CONNOR's opinion, ante, at 399 (concurring in part and in judgment). If the interest in protecting the potential witness were not present, presumably the author of the Court's opinion would adhere to the views he expressed in Bordenkircher v. Hayes, 434 U.S. 357, 372-373 (1978) (POWELL, J., dissenting).
+
+19Link to the location of the note in the document
+Indeed, that fact must have been obvious to the police before they arrested respondent. For it was Deary's daughter, not Deary herself, who advised the police of Deary's call to respondent on May 11. Since the allegedly incriminating version of that call is based on two police officers' summary of what they had been told by Deary and her daughter -- rather than a coherent statement by Deary herself -- it is reasonable to assume that Deary was unwilling to provide the police with a statement of her recollection of exactly what was said in her conversation with respondent.
+
+20Link to the location of the note in the document
+Moreover, it is by no means apparent that testimony in a § 1983 action arising out of Rumery's telephone conversations with Deary would require any inquiry about the facts of the underlying assault or about the victim's relationship with Champy, the alleged assailant.
+
+21Link to the location of the note in the document
+Champy pleaded guilty to a lesser included offense and the felony charge against him was dismissed without a trial.
+
+22Link to the location of the note in the document
+It seems likely, however, that the costs of having courts determine the validity of release-dismissal agreements will outweigh the benefits that most agreements can be expected to provide. A court may enforce such an agreement only after a careful inquiry into the circumstances under which the plaintiff signed the agreement and into the legitimacy of the prosecutor's objective in entering into the agreement. See ante, at 397-398; ante, at 399, 401-402 (O'CONNOR, J., concurring in part and in judgment). This inquiry will occupy a significant amount of the court's and the parties' time, and will subject prosecutorial decisionmaking to judicial review. But the only benefit most of these agreements will provide is another line of defense for prosecutors and police in § 1983 actions. This extra protection is unnecessary because prosecutors already enjoy absolute immunity, see supra, at 412, and because police have been afforded qualified immunity, see Harlow v. Fitzgerald, 457 U.S. 800 (1982). Thus, the vast majority of "marginal or frivolous" § 1983 suits can be dismissed under existing standards with little more burden on the defendants than is entailed in defending a release-dismissal agreement. Moreover, there is an oddly suspect quality to this extra protection; the agreement is one that a public official signs, presumably in good faith, but that a court must conclude is invalid unless that official proves otherwise. Ante, at 399 (O'CONNOR, J., concurring in part and in judgment). In most cases, if social and judicial resources are to be expended at all, they would seem better spent on an evaluation of the merits of the § 1983 claim rather than on a detour into the enforceability of a release-dismissal agreement.
+
+23Link to the location of the note in the document
+The Courts of Appeals which have found agreements not to sue void as against public policy demonstrate, in my view, much more sensitivity to the possibility of prosecutorial abuse than does the Court's opinion today. As the Seventh Circuit has held:
+
+"[We] think that the release is void as against public policy. . . . As well stated in Dixon v. District of Columbia, 129 U. S. App. D. C. 341, 394 F.2d 966, 968-969 (1968), a case where the arrestee violated his 'tacit' agreement not to sue and the prosecutor retaliated by filing the traffic charges, which had been held in abeyance pursuant to the tacit agreement:
+
+"'The Government may not prosecute for the purpose of deterring people from exercising their right to protest official misconduct and petition for redress of grievances.
+
+. . . .
+
+"'The major evil of these agreements is not that charges are sometimes dropped against people who probably should be prosecuted. Much more important, these agreements suppress complaints against police misconduct which should be thoroughly aired in a free society. And they tempt the prosecutor to trump up charges for use in bargaining for suppression of the complaint. The danger of concocted charges is particularly great because complaints against the police usually arise in connection with arrests for extremely vague offenses such as disorderly conduct or resisting arrest.'" Boyd v. Adams, 513 F.2d, at 88-89.
+
+24Link to the location of the note in the document
+JUSTICE O'CONNOR suggests that these agreements might serve a legitimate purpose when the charges dismissed are misdemeanors rather than felonies. "Sparing the local community the expense of litigation associated with some minor crimes for which there is little or no public interest in prosecution may be a legitimate objective of a release-dismissal agreement." Ante, at 399-400 (concurring in part and in judgment). Implicit in this reasoning, I think, is the assumption that the court has independently determined that the arrest was proper. Otherwise, a valid § 1983 claim could be barred under this reasoning because of a factor wholly unrelated to the merits of the claim -- the public's lack of interest in prosecuting the misdemeanor charges that were dismissed. These agreements could then be routinely upheld in circumstances where they were improperly employed. For example, one would expect that an officer attempting to cover up an illegal arrest would find it easier to trump up misdemeanor charges (such as resisting arrest) than felony charges.
+
+25Link to the location of the note in the document
+Particularly, I do not understand the relevance of the statistics in footnote 6, ante, at 396, of the plurality's opinion. In support of the proposition that the criminal justice system lacks sufficient resources to litigate every serious criminal charge, the plurality refers to statistics which indicate that most serious criminal charges are not taken through a full criminal trial. The facts that most criminal cases are settled by a guilty plea and that only 12.8 percent go to trial tell us nothing about the number in which the prosecution is completely abandoned, either for no special consideration or in connection with the execution of a release-dismissal agreement. Moreover, the plurality's invocation of prosecutorial discretion not to prosecute reinforces my view that release-dismissal agreements are unnecessary. If the pressure of being unable to bring every serious criminal charge to trial is immense, it will encourage the prosecutor to drop charges in marginal cases.
+
+26Link to the location of the note in the document
+The purpose of § 1983 is to "give a remedy to parties deprived of constitutional rights, privileges and immunities by an official's abuse of his position." Monroe v. Pape, 365 U.S. 167, 172 (1961).

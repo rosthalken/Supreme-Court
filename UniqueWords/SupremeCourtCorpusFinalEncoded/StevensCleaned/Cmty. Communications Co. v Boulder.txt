@@ -1,0 +1,25 @@
+﻿
+The Court's opinion, which I have joined, explains why the city of Boulder is not entitled to an exemption from the antitrust laws. The dissenting opinion seems to assume that the Court's analysis of the exemption issue is tantamount to a holding that the antitrust laws have been violated. The assumption is not valid. The dissent's dire predictions about the consequences of the Court's holding should therefore be viewed with skepticism. 1Link to the text of the note
+
+    In City of Lafayette v. Louisiana Power & Light Co., 435 U.S. 389, we held that municipalities' activities as providers of services are not exempt from the Sherman Act. The reasons for denying an exemption to the city of Lafayette are equally applicable to the city of Boulder, even though Colorado is a home-rule State. We did not hold in City of Lafayette that the city had violated the antitrust laws. Moreover, that question is quite different from the question whether the city of Boulder violated the Sherman Act because the character of their respective activities differs. In both cases, the violation issue is separate and distinct from the exemption issue.
+
+A brief reference to our decision in Cantor v. Detroit Edison Co., 428 U.S. 579, will identify the invalidity of the dissent's assumption. In that case, the Michigan Public Utility Commission had approved a tariff that required the Detroit Edison Co. to provide its customers free light bulbs. The company contended that its light bulb distribution program was therefore exempt from the antitrust laws on the authority of Parker v. Brown, 317 U.S. 341. See    428 U.S., at     592. The Court rejected the company's interpretation of Parker and held that the plaintiff could proceed with his antitrust attack against the company's program. We surely did not suggest that the members of the Michigan Public Utility Commission who had authorized the program under attack had thereby become parties to     a violation of the Sherman Act. On the contrary, the     plurality opinion reviewed the Parker case in great detail to emphasize the obvious difference between a charge that public officials have violated the Sherman Act and a charge that private parties have done so. 2Link to the text of the note
+
+    It would be premature at this stage of the litigation to comment on the question whether petitioner will be able to establish that respondents have violated the antitrust laws. The     answer to that question may depend on factual and legal issues that must and should be resolved in the first instance by the District Court. In accordance with my belief that "the Court should adhere to its settled policy of giving concrete meaning to the general language of the Sherman Act by a process of case-by-case adjudication of specific controversies," 428 U.S., at 603 (opinion of STEVENS, J.), I offer no gratuitous advice about the questions I think might be relevant. My only observation is that the violation issue is not nearly as simple as the dissenting opinion implies.
+
+Cf. Cantor v. Detroit Edison Co., 428 U.S. 579, 615 (Stewart, J., dissenting) (the Court's holding "will surely result in disruption of the operation of every state-regulated public utility company in the Nation and in the creation of 'the prospect of massive treble damage liabilities'") (quoting Posner, The Proper Relationship Between State Regulation and the Federal Antitrust Laws, 49 N. Y. U. L. Rev. 693, 728 (1974)). See also United States Railroad Retirement Bd. v. Fritz, 449 U.S. 166, 176, n. 10.
+
+2Link to the location of the note in the document
+See 428 U.S., at 585-592 (opinion of STEVENS, J.). The point was made explicit in two passages of the plurality opinion. In a footnote, the plurality stated:
+
+"The cumulative effect of these carefully drafted references unequivocally differentiates between official action, on the one hand, and individual action (even when commanded by the State), on the other hand." Id., at 591, n. 24.
+
+The point was repeated in the text:
+
+"The federal statute proscribes the conduct of persons, not programs, and the narrow holding in Parker concerned only the legality of the conduct of the state officials charged by law with the responsibility for administering California's program. What sort of charge might have been made against the various private persons who engaged in a variety of different activities implementing that program is unknown and unknowable because no such charges were made." Id., at 601 (footnote omitted).
+
+The footnote omitted in the above quotation stated:
+
+"Indeed, it did not even occur to the plaintiff that the state officials might have violated the Sherman Act; that question was first raised by this Court." Id., at 601, n. 42.
+
+See Bates v. State Bar of Arizona, 433 U.S. 350, 361 ("[Obviously,] Cantor would have been an entirely different case if the claim had been directed against a public official or public agency, rather than against a private party").

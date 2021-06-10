@@ -1,0 +1,20 @@
+﻿
+        
+        GM Corp. v. Devex Corp., 461 U.S. 648, 103 S. Ct. 2058 (1983)
+        
+
+
+      
+
+JUSTICE STEVENS, concurring.
+
+The 1946 amendments to the patent laws replaced the Duplate standard with a presumption favoring the award of prejudgment interest in the ordinary case. As the Court correctly holds, however, § 284 does  [**2064]  not automatically require an "award of prejudgment interest whenever infringement is found." Ante, at 656. In exercising its discretion to deny such interest in appropriate cases, the trial court may properly take into account the nature of the patent and the strength of the defendant's challenge.
+
+In other contexts we have noted the public function served by patent litigation. In Lear, Inc. v. Adkins, 395 U.S. 653, 670 (1969), Justice Harlan, writing for the Court, explained:
+
+"A patent, in the last analysis, simply represents a legal conclusion reached by the Patent Office. Moreover, the legal conclusion is predicated on factors as to which reasonable men can differ widely. Yet the Patent Office is often obliged to reach its decision in an ex parte proceeding, without [****20]  the aid of the arguments which could be advanced by parties interested in proving patent invalidity."
+
+Hence, a patent challenge in the courts permits a more informed decision regarding the merits of a particular patent. And, as we have long recognized, "[it] is as important to the public that competition should not be repressed by worthless patents, as that the patentee of a really valuable invention should be protected in his monopoly . . . ." Pope Manufacturing Co. v. Gormully, 144 U.S. 224, 234 (1892).
+
+Of course, the general public interest in patent litigation does not justify denial of  [1190]  prejudgment interest in the typical  [*659]  case in which infringement is found. Wisely today the Court does not attempt to define precisely the category of cases in which an infringer, although ultimately unsuccessful in litigation, may have been sufficiently justified in its challenge to a particular patent  [***220]  to make it appropriate for the district court to exercise its discretion to deny prejudgment interest. But the existence of that category of cases should not be overlooked.
+
